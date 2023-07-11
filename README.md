@@ -6,7 +6,7 @@ This repository contains government resolutions issued by the Government of Maha
 ## Data Details
 
 ----------------------------------------------------------------------------------------------------
-Num|Department Name|Starting Data|Starting Order|Latest Date|Latest Order|Last Crawl Date|# Orders|# Translated Files
+Num|Department Name|Starting Data|Starting Order|Latest Date|Latest Order|Last Crawl Date|Num Orders|Num Translated Files
 ----------------------------------------------------------------------------------------------------
 |1|Agriculture, Dairy Development, Animal Husbandry and Fisheries Department|16 March 2018|[201803161624182101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/201803161624182101.pdf)|07 July 2023|07 July 2023|09-Jul-2023|3336|3277|
 |2|Co-operation, Textiles and Marketing Department|19 March 2018|[201803191257576702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/201803191257576702.pdf)|07 July 2023|07 July 2023|09-Jul-2023|2109|2073|
