@@ -1,0 +1,27 @@
+# Page 1
+Online verification of authenticity of Bank Guarantee through Contractor for Public Works Department works.
+Government of Maharashtra
+Department of Public Works
+Government Decision No. : COM-2020/Pro.No.14/Computer
+Mantralaya, Mumbai - 400 032.
+Date :14/01/2021
+Introduction: Applicants are charged through bank guarantee for various functions in the Department of Finance. As at the time of tender submission, the contractor pays additional performance security, amount through bank guarantee. Also, after tender approval, security deposit is also deposited through bank guarantee. The authenticity of the bank guarantee given by the contractor must be verified.
+At present, the verification of the authenticity of the bank guarantee is being done manually.
+The opinion flow about making the said process more transparent and easier as well as effective was being expressed for a long time. Accordingly, in order to avoid wastage of time in the prevailing system, the issue of developing web based online eBank Guarantee verification system in a paperless manner as well as to make the said process easy, reliable and fast was under the consideration of the government. The government is now taking the following decision in this regard.
+Government Decision: 1) An online BG verification system has been prepared by ICICI Bank for the Department of Public Works by linking it with the SFMS System available by RBI to control the authenticity, validity and duration etc. of bank guarantees deposited by contractors under government works.
+2) Through the said computer system, the authenticity and validity of the Bank Guarantee given by any and all banks can be verified immediately through SFMS/Online method.
+3) Sa. left Additional Performance Security, Security Amount, Road Crossing (Utility Services), Petrol Pump NOC etc. for various works in the Department. A fee is charged. The authenticity and validity of the bank guarantee to be deposited for any work can be verified immediately through the said computer system. Therefore, for all these matters, the bank guarantee verified by the said system should be accepted.
+4) Since it is possible to verify the authenticity of the Bank Guarantee under the tender, in the first stage, in the works where the tender has been approved but the contract has not been signed, the authenticity of the bank guarantee submitted by the contractors after the tender approval should be verified through the said system.
+5) The following clause should be included in the newly published tender.
+Payment of Security Deposit by Bank Guarantee and Online BG Verification: If the contractor wishes to deposit security deposit by Bank Guarantee after
+# Page 2
+Government Decision No: COM-2020/Pro.No.14/Computer
+tender approval then it is mandatory for contractor to verify the Bank Guarantee by paying verification fees of Rs 1000/- + GST through the link provided below https://onlinebg.emahapwd.com.
+6) While applying in online eBG Verification system for each Bank Guarantee the applicant has to pay Rs. 1000/- + GST Tax to be paid. The contractor can pay the above fees through Debit Card, Credit Card, Net Banking or RTGS.
+7) Complete relevant documents of KYC submitted along with online application received by ICICI Bank will be verified in online process through SFMS system. After that they will verify the authenticity and validity of the bank guarantee of the said proposal. After verifying the authenticity of the bank guarantee, the information about the approval or rejection of the application will be automatically communicated to the contractor on the e-mail ID provided by him and to the concerned departmental office in login and through e-mail.
+8) Deposited Bank Guarantee will be intimated to concerned Divisional Office and applicant through online e-mail before 3 months of expiry.
+Under the said system there will be various logins as follows.
+a) Contractors/ Trained Unemployed Engineers/ Other Applicants b) Divisional Office c) Competent Authority (Senior Office) Board Office (for control and monitoring) d) Administrative Rights Login ITCC Nagpur 10) List of bank guarantees deposited in all logins, its Currently, the list of expired bank guarantees will be available online.
+11) The said computer system is the Chief Engineer, S.B. It has been developed in the Information and Technology Coordinating Center (ITCC) at Nagpur under the auspices of Regional Division Nagpur. left Regional Division, Nagpur will be the Chief Coordinator and the Under Secretary (R.M.) will be the Co-Coordinators.
+12) Any dispute or controversy arising out of the said process shall be dealt with under the jurisdiction of the concerned District Sessions Court and Bombay High Court.
+# Page 3

@@ -1,0 +1,78 @@
+# Page 1
+202106151116148519
+GOVERNMENT OF MAHARASHTRA
+Department of Revenue and Forest, Disaster Management,
+Relief and Rehabilitation, Mantralaya, Mumbai- 400 032
+No: DMU/2020/CR. 92/Dis M-1, Dated: 10th June, 2021
+ORDER
+Reference:
+1. The Epidemic Diseases Act, 1897.
+2. The Disaster Management Act, 2005 3. Revenue and Forest, Disaster Management, Relief and Rehabilitation Department Order No. DMU-2020/C.R.92/DMU-I, dated 4th June, 2021.
+The State Government vide its Order dated 4th June, 2021 has notified levels of restrictions to be imposed in various administrative units in different districts of the State, as per the COVID 19 positivity rate and the Oxygen Beds Occupancy in these administrative units.
+Section IV of the said order defines the State Level Oxygen Trigger. As per the information received from the Public Health Department, the total number of oxygen beds occupied across the State is 20,697 with a declining trend, as on 10th June 2021. This number being less than 35000, State Level Oxygen Trigger does not get operated for the ensuing week.
+Oxygen Bed Occupancy and Positivity Rates as on Thursday 10th June, 2021 for various districts as informed by Public Health Department are attached herewith. Based on these figures, the DDMA may now decide which level of restrictions should be imposed in their respective administrative units as per the order dated 4th June, 2021. If a district has more than one administrative unit, then it should disaggregate and calculate these indicators for different administrative units and then decide.
+Section VI of the said order allows DDMA to modify restrictions relating to various activities mentioned therein, with the concurrence of the SDMA. If the basic level does not change and there is no change in modifications to restrictions as per current order in force, then there is no need to take revised permissions for these modifications. If there is any change in the level and modifications are proposed to restrictions as per new level or if level doesn't change but restrictions imposed are being modified, prior concurrence must be taken. Needless to say, if any level is being imposed without any modifications, no concurrence is required.
+The said orders may be issued by the respective Disaster Management Authorities at the earliest and the declared levels for each such unit to come into force from Monday, 14th June, 2021.
+~You
+(Aseem Gupta)
+Principal Secretary
+Disaster Management, Relief & Rehabilitation
+# Page 2
+District wise Weekly Posivity Rate for Maharashtra (4th June 2021 to 10th June 2021)
+Total
+Total Sample progressive
+Weekly Sr. No *District collection the last positive positivity week across last
+week
+1 Ahmednagar 120433 3162 2.63 2 Akola 16423 882 5.37 3 Amravati 39182 1708 4.36 4 Aurangabad 30406 1626 5.35 5 Beed 22145 1156 5.22 6 Bhandara 11224 137 1.22 7 Buldhana 22471 532 2.37 8 Chandrapur 22504 195 0.87 9 Dhule 18825 309 1.64
+10 Gadchiroli 7010 389 5.55
+11 Gondia 20757 173 0.83 12 Hingoli 7401 89 1.20 13 Jalgaon 45342 823 1.82 14 Jalna 36836 530 1.44
+15 Kolhapur 57198 9068 15.85 16 Latur 21561 523 2.43 17 Mumbai+ Mumbai Sub 269659 11878 4.40
+18 Nagpur 64089 2006 3.13
+19 Nanded 21609 257 1.19
+20 Nandurbar 4859 100 2.06
+21 Nashik 75370 5367 7.12
+22 Osmanabad 20169 1041 5.16
+23 Palghar 33810 1499 4.43
+24 Parbhani 15538 358 2.30
+25 Pune 129961 14434 11.11
+26 Raigad 21026 2802 13.33
+27 Ratnagiri 35797 5055 14.12
+28 Sangli 111979 7720 6.89
+29 Satara 71080 8032 11.30
+30 Sindhudurg 42363 5035 11.89
+31 Solapur 89058 3057 3.43
+32 Thane 211724 12529 5.92
+33 Wardha 15651 321 2.05
+34 Washim 20222 455 2.25
+35 Yavatmal 44238 1286 2.91
+Total 1797920 104534 5.81
+# Page 3
+02 Bed Occupancy Report Dt10th June 2021 Time 07:15 PM
+TYPES OF BEDS Total TotalTOTAL NO OF OXYGEN Oxygen Oxygen DISTRICT OXYGEN BEDS VENTI BEDS BEDS Beds Beds Occupied occupied
+SR.NO. OCCUPIED VACCANT OCCUPIED VACCANT OCCUPIED VACCANT AHMEDNAGAR 581 4455 130 401 711 4856 5567 12.77 AKOLA 171 793 48 139 219 932 1151 19.02 AMRAVATI 162 864 29 97 191 961 1152 16.57 AURANGABAD 259 3340 178 244 437 3584 4021 10.86 BEED 364 2568 335 372 2903 3275 11.35 BHANDARA 10 593 143 12 736 748 1.60 BULDHANA 104 1264 30 85 134 1349 1483 9.03 CHANDRAPUR 59 1309 14 91 73 1400 1473 4.95
+DHULE 29 1348 150 33 1498 1531 2.15
+GADCHIROLI 10 37 755 72 37 827 864 4.28
+GONDIA 11 10 885 108 19 993 1012 1.87
+HINGOLI 12 45 660 10 97 55 757 812 6.77
+JALGAON 398 2543 68 322 466 2865 3331 13.98
+JALNA 94 1812 18 191 112 2003 2115 5.29 13-141516KOLHAPUR 2386 1149 202 102 2588 1251 3839 67.41
+LATUR 165 2191 63 212 228 2403 2631 8.66 | MUMBAI17 SUBURBAN 2408 8705 1008 472 3416 9177 12593 27.12
+NAGPUR 18 189 6177 89 604 278 6781 7059 3.93
+NANDED 19 66 2305 246 66 2551 2617 2.5
+NANDURBAR 20 44 634 78 47 712 759 6.19 NASHIK 21 903 5285 156 853 1059 6138 7197 14.71
+# Page 4
+OSMANABAD 22 95 999 10 186 105 1185 1290 8.13
+PALGHAR 23 470 1159 26 138 496 1297 1793 27.66
+PARBHANI 24 71 529 16 80 87 609 696 12.5
+PUNE 25 1833 15358 644 1216 2477 16574 19051 13
+RAIGAD 26 772 2989 114 279 886 3268 4154 21.32
+RATNAGIRI 27 547 602 77 54 624 656 1280 48.75
+SANGLI 28 674 2068 228 65 902 2133 3035 29.71
+SATARA 29 1540 2446 202 54 1742 2500 4242 41.06
+SINDHUDURG 30 330 317 42 32 372 349 721 51.59
+SOLAPUR 31 398 2777 121 244 519 3021 3540 14.66
+THANE 32 1474 11396 314 806 1788 12202 13990 12.78
+WARDHA 33 16 1238 77 21 1315 1336 1.57
+WASHIM 34 59 670 13 57 72 727 799 9.01 YAVATMAL 35 37 837 16 113 53 950 1003 5.28
+Other State
+STATE TOTAL 16800 93020 3897 8443 20697 101463 122160 16.94

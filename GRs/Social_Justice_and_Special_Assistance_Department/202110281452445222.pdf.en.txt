@@ -1,0 +1,42 @@
+# Page 1
+To develop web and mobile applications for survey/ registration of sugarcane workers in the State.
+The Government of Maharashtra
+Department of Social Justice and Special Assistance
+Government Resolution No: Meeting-2021/ PR No.104/ Corporations
+Mahatma Rajguru Chowk, Madam Cama Marg,
+Mantralaya, Mumbai- 400 032
+Date: 28/10/2021
+(i) Department of Industries, Energy and Labour, Government Resolution No. 1120/ No. 20/ Work-7A, dated 24/2/2020 2) Department of Social Justice and Special Assistance, Government Resolution No. Meeting 2020/ S. No.94/ Corporations, Dy. 21/9/2021
+Introduction: Various welfare schemes need to be implemented for the overall development of sugarcane workers. Accordingly, the total number of sugarcane workers in Maharashtra and their primary data should be recorded. Accordingly, immediate survey/ registration of sugarcane workers is required. In order to ensure that the information is effective, accurate and up-to-date, a web and mobile application should be created to fill this information online, and since there is a short time left for the sugarcane workers to go for sugarcane harvesting, the government was considering to give the work of creating a web application to the Maharashtra Information and Technology Corporation (MahaIT) during this period.
+Decision: It has been decided to register all sugarcane workers in the state and give them identity cards to provide benefits of various schemes to sugarcane workers. The government has taken the decision. 21.09.2021. Accordingly, the work of registering sugarcane workers and giving them identity cards through offline mode has started. However, in order for this information to be effective, accurate and up-to-date, it is necessary to create a web and mobile application to fill this information online.
+The sugarcane workers usually start leaving from October 15 for harvesting.
+Since there is a short time left for the sugarcane workers to leave for sugarcane harvesting, the possibility of delay in the preparation of web and mobile application by implementing the tender process in this short time cannot be ruled out. Therefore, the work of creating web and mobile applications will be done by the Information and Technology Corporation (MahaIT) under the General Administration (Information and Technology) Department.
+A proposal in this regard has been sent to the Government. The proposal includes the following costs:
+------------------------------------------------------------------------------------------
+| Sr. No. | Particulars                               | Duration   | Total Cost (In Rs.) |
+| (A)     | Development                               |
+| 1       | Development of Web and Mobile Application | 1 months   | 10,52,174/          |
+| 2       | Operating and Maintenance Charges         | 12 months  | 9,11,392/           |
+| 3       | SMS Charges                               |            | 12,000/             |
+| Total   |                                           | 19,75,566/ |
+|         |
+------------------------------------------------------------------------------------------
+# Page 2
+Government Resolution No: Meeting-2021/ PR No.104/ Corporations
+-----------------------------------------------------------------------------------------------------------------------------
+| (B)                                                                                    | Cloud Hosting |
+| Hosting Charges to Host the Application including_10% Administrative Charges of MAHAIT | 8 months      | Approx 8,00,000/ |
+|                                                                                        |
+-----------------------------------------------------------------------------------------------------------------------------
+Terms and Conditions: (a) This web and mobile application will be developed as per the requirements of the Department.
+(b) The web and mobile application should be available in Marathi and English.
+(e) To develop this web and mobile application, all the rules (GIGW Compliance) etc. outlined by the Department of Information and Technology under the State and Central Governments must be strictly followed.
+(e) It will be mandatory to conduct a security audit of the system developed and submit the said audit report to the department.
+(e) Cloud hosting required for web and mobile applications should be made available by adopting the methodology laid down by MahaIT.
+(f) Intellectual Property Rights (IPR) will be of the Department for development of the said web and mobile application. However, the ownership of this will be with the department.
+(a) In future, if the Department decides to implement the said system through a third agency, it will be mandatory to provide appropriate assistance in connection with the transfer process through MahaIT.
+(i) MahaIT will provide necessary support for imparting training in this regard once the system becomes operational.
+(o) Utilization Certificate of the expenditure incurred by MahaIT, Mumbai should be submitted to the Government immediately.
+The cost of Demand No. N-2 Main Account Head 2251 00, Secretariat, (01) Department of Social Justice and Special Assistance, (01) Department of Social Justice and Special Assistance (Mandatory) (2251-0113), 13-Office expenditure will be met from this target from the budgetary provision for the financial year 2021-22.
+This Order is being issued in accordance with the approval given by the Finance Department vide its Informal Reference No. 933/2021/ Expenditure-14, dated 27/10/2021 and issued by the Government of Maharashtra.
+# Page 3

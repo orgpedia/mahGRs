@@ -1,0 +1,27 @@
+# Page 1
+RajAmrit Multistate Co-op under National Agriculture Development Scheme. Administrative approval for the project proposal for setting up a new 25,000 litres capacity milk processing plant at Phulambri, Aurangabad. ..
+The Government of Maharashtra
+Department of Agriculture, Animal Husbandry, Dairying Development and Fisheries
+Govt. Purse No.: RAKUVI 2018/ PR No.70/ PADUM-8
+Ministry- Extension, Mumbai 400 032
+Date: 15th of June 2020
+Reference: Government Resolution No. 11th June 2020.
+The table under the heading" Government Decisions" in the Government Referendum-Contextual Government Decisions is as follows:
+----------------------------------------------------------------------------------------------------------------------------------------
+| A. No. | Details                                  | Project Cost (Rs. in Lakhs) | share of the stock (50%) | Beneficiary share (50%) |
+| 1.     | 10 BMC (3X3000 litres and 7X2000 litres) | 129.00                      | 64.5                     | 64.5                    |
+| 2.     | Other immovable properties               | 27.00                       | 13.50                    | 13.50                   |
+| 3.     | The Milk Processing Center               | 235.05                      | 117.52                   | 117.52                  |
+| Total  | 391.05                                   | 195.525                     | 195.525                  |
+----------------------------------------------------------------------------------------------------------------------------------------
+Instead, the table should read as follows:
+-------------------------------------------------------------------------------------------------------------------------------
+| A. No. | Details                                  | Project Cost |  (Rs. in Lakhs) | share (50%). | Beneficiary share (50%) |
+| 1.     | 10 BMC (3X3000 litres and 7X2000 litres) | 129.00       | 64.5            | 64.5         |
+| 2.     | Other immovable properties               | 24.00        | 12.00           | 12.00        |
+| 3.     | Urban Construction                       | 100.00       | 50.00           | 50.00        |
+| 4.     | Milk processing plant and machinery      | 135.00       | 67.500          | 67.500       |
+| Total  | 388.00                                   | 194.00       | 194.00          |
+-------------------------------------------------------------------------------------------------------------------------------
+# Page 2
+Govt. Purse No.: RAKUVI 2018/ PR No.70/ PADUM-8

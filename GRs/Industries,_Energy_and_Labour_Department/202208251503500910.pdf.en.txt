@@ -1,0 +1,267 @@
+# Page 1
+" Revamped Distribution Sector Scheme Reforms-Based and Results-Linked (RDSS)" to be implemented through MSEDCL and BEST initiatives in the State.
+The Government of Maharashtra
+Department of Industry, Energy and Labour
+Government Resolution No: SANKIRN-2021/ PR No.215/ ENERGY-5
+Madame Cama Road, Hutatma Rajguru Chowk, Mantralaya, Mumbai- 400 032.
+Date: 25th of August 2022.
+Reference:- 1. Letter from Rural Electrification Corporation Limited No. REC/ RDSS/ 21-22/81, dated 18.11.2021 2. Letter from BEST undertaking No. DO/ GM/ CEM/ 34500/2020-21 14.12.2021 3. Letter from Rural Electrification Corporation Limited No. REC/ RDSS/ 21-22/ Nirank, Dy. 03.01.2022 4. Letter No. Director (Finance)/ Financial Services. / 2022-23/218, Dy. 19.05.2022 5. Letter from MSEDCL No. MSEDCL/ RDSS/ 15707, Dy. 13.06.2022
+In order to further strengthen the power distribution sector, the Central Government in 2014 launched the Deen Dayal Upadhyaya Gram Jyoti Yojana (DDUGJY) to empower the power infrastructure in rural areas of the State and the Integrated Power Development Scheme (IPDS) to empower the power infrastructure in urban areas. Through these two schemes, the distribution system of MSEDCL in the state was strengthened. Both of these projects are currently underway. Apart from this, un-electrified households have been electrified through the Centrally Sponsored Scheme of Saubhagya (Pradhan Mantri Sahaj Bijli Har Ghar Yojana). Since October 2017. During 31.03.2019, 15,17,922 households in the State have been provided electricity connections through grid connectivity and 30,538 households through solar energy.
+It has come to the notice of the Central Government that even after implementation of the above Centrally Sponsored Power Infrastructure Schemes, the gap between Aggregate Technical& Commercial (AT& C) losses and Average Cost of Supply minus Average Revenue Realized (ACS minus ARR) is high. For this, it has been pointed out that the distribution companies need to focus on improving their operational efficiency and financial sustainability. Customer service is as per customer standards. In order to achieve this, keeping in view the commitment to provide uninterrupted, quality, reliable and affordable power supply to the consumers, the Central Government has announced a time bound programme of" Revamped Distribution Sector Scheme Reforms Based and Results-Linked Scheme" (RDSS) with a view to substantially improve the existing distribution system and implement schemes which will reduce the distribution losses as well as make the distribution companies financially viable and improve the operational efficiency.
+Power Finance Corporation (PFC) has been appointed as the nodal agency for Maharashtra.
+# Page 2
+Government Resolution No: SANKIRN-2021/ PR No.215/ ENERGY-5
+The central government has approved this scheme. The same has been notified vide Office Memorandum dated 20.07.2021.
+After that. 18.11.2021 and dt. The revised guidelines have been issued vide letter dated 03.01.2022. In which the infrastructure works in disaster-prone areas were included in the DPR. Accordingly, the Company has paid Rs. 39,602 crore and Best Initiatives at Rs. The Detailed Project Report and Action Plan amounting to Rs. 3460.98 crore have been submitted to the Central Government for its approval.
+The salient features of the Revamped Distribution Sector Scheme Reforms-Based and Results-Linked (RDSS) Scheme are as follows:
+Objectives of the scheme: To improve the supply of electricity to consumers from a financially stable and efficient distribution system to ensure uninterrupted, quality, reliable and affordable power supply.
+Reduce Aggregate Technical and Commercial Loss (AT& C) to 12-15% by 2024-25.
+Average Cost of Supply minus Annual Revenue Realized (ACS) Gap to be brought down to zero by 2024-25.
+Components of the plan: Part (a):
+Component (1)- Metering: Installation of Prepaid/ Smart Meters for consumers (excluding Agri Pump consumers).
+Installation of Advanced Metering Infrastructure (AMI) compatible meters to feeders and distribution lines.
+Component (2):- Works related to distribution infrastructure:
+1) Works under the reduction of distribution losses:
+1. channel separation.
+2. Aerial Bunch Cable
+3.High pressure/ low pressure channel upgradation
+4. change of conductor.
+Multi-meter service box
+6. Division of high pressure channel
+7. HVDS Rohithra
+8. the box
+IT/ OT
+Page 2 of 10
+# Page 3
+Government Resolution No: SANKIRN-2021/ PR No.215/ ENERGY-5
+2) Strengthening of the distribution system:
+1. a new sub-station
+Additional Sub-Centre Rohithra
+3. Sub-Centre Rohit Capacity Building
+4. high pressure
+5. high-speed cable
+6. changing the equipment.
+7. new distribution.
+8.Distributing capacity.
+SCADA/ DMS
+(3) Project Management: The qualifying distribution company may appoint a Project Management Agency to carry out all the necessary works in respect of the said scheme.
+Part (b): Training, capacity building and other enabling and supporting functions. Training, Capacity Building and Other Enabling& Supporting Activities (3) Fund Management under RDSS Scheme: 60% of the cost of power infrastructure projects will be subsidized by the Central Government to the distribution companies. The distribution will be based on the supply of the specified quantity. The remaining amount will be provided by the distribution companies through loans.
+Further, Rs. The distribution companies will get a subsidy of Rs 900 from the central government. The remaining amount will be provided by the distribution companies through Totex mode.
+(iv) Sunset Date: The closing date of the scheme is 31.03.2026. After this date, the central government will not provide any subsidy for the work done.
+Works recommended by the State Government to the Central Government in the DPR submitted by the MSEDCL:
+(a) Metering Programme (through Totex Mode) 1) Prepaid/ Smart Meters to consumers under RDSS Scheme:
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| A.A.                                                | Details                                                                                        | number       |
+| 1                                                   | Total number of customers (excluding delivery franchise customers)                             | 2,81,34, 876 |
+| 2                                                   | Proposed Prepaid Meters (excluding Agri Pump customers and scattered customers in rural areas) | 1,66,18, 833 |
+| Expenditure under this component is Rs.10,051 crore |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Page 3 of 10
+# Page 4
+Government Resolution No: SANKIRN-2021/ PR No.215/ ENERGY-5
+2) Installation of Prepaid Meters:
+----------------------------------------------------
+| A.A. | Details | time limit          | number    |
+| 1    | Phase-1 | As of December 2023 | 94,19,302 |
+| 2    | Phase 2 | In the March 2025   | 71,99,531 |
+----------------------------------------------------
+3) Distribution Rohith and Feeder Smart Metering Programme:
+-----------------------------------------------------------------------------------------
+| A.A.                       | Distribution Rohith Smart Metering Programme | number    |
+| 1                          | Total Distribution Rohitra                   | 7,79,957  |
+| 2                          | Rohit Smart Metering                         | 4,07,507* |
+| 3                          | Distribution Channel Smart Metering          | 27,826    |
+| The cost of this component | Rs.1054 crore                                |
+-----------------------------------------------------------------------------------------
+* Smart meters will not be installed in agricultural pumps, HVDS and Rohiths of up to 25 KVA capacity. )
+4) Installation of Smart Meters to Distribution Rohitars and Feeders:
+-----------------------------------------------------------------
+| A.A.    | Details           | time limit          | number    |
+| 1       | Phase-1           | As of December 2023 | 2,58,015* |
+| Phase 2 | In the March 2025 | 1,77,318            |
+-----------------------------------------------------------------
+It has 27,826 feeder meters.
+(b) Distribution infrastructure works:
+(1) Works under the reduction of distribution losses:
+----------------------------------------------------------------------------------------------------------------------------------------------------
+| A.A.                       | Details of the work                                                       | proof    | quantity | Expenditure (Rs.) |
+| 1                          | Channel separation                                                        | 4712     | number   | 7113.91           |
+| 2                          | Aerial Bunch Cable                                                        | 30,332   | km       | 1820.15           |
+| 3                          | High Pressure/ Low Pressure Channel Upgradation                           | 19,884   | km       | 1296.70           |
+| 4                          | Multi-meter service box                                                   | 3,98,080 | number   | 638               |
+| 5                          | high-pressure separation                                                  | 9,997    | km       | 1180.11           |
+| 6                          | HVDS Rohithra                                                             | 5,170    | number   | 313.71            |
+| 7                          | the capacitor box                                                         | 2, 051   | number   | 188.70            |
+| IT/OT                      |                                                                           |          | 849      |
+| 9                          | Electric vehicle charging                                                 | 250      | number   | 174               |
+| 10                         | a covered conductor                                                       | 333      | km       | 61.20             |
+| 11                         | Low Pressure Overhead Conversion and High Pressure Underground Conversion |          | km       | 300.90            |
+| 12                         | Other works                                                               |          |          | 295               |
+| The cost of this component | 14,231                                                                    |
+----------------------------------------------------------------------------------------------------------------------------------------------------
+Page 4 of 10
+# Page 5
+Government Resolution No: SANKIRN-2021/ PR No.215/ ENERGY-5
+(2) Under the strengthening of the distribution system:
+--------------------------------------------------------------------------------------------------------------------
+| A.A.                       | Details of the work                         | proof  | quantity | Expenditure (Rs.) |
+| 1                          | The new sub-centre                          | 377    | number   | 998               |
+| 2                          | Additional Sub-Centre Rohithra              | 299    | number   | 341               |
+| 3                          | Sub-Centre Rohithra Capacity Building       | 292    | number   | 298               |
+| 4                          | high pressure channel                       | 21,691 | km       | 2204              |
+| 5                          | High pressure underground channel           | 4,171  | km       | 1377              |
+| 6                          | New short-pressure channel                  | 14,480 | number   | 883               |
+| New Distribution Rohithra  | 29,893                                      | number | 1264     |
+| 8                          | Distribution Capacity                       | 16,351 | number   | 843               |
+| 9                          | SCADA/DMS                                   | 21     | number   | 1302              |
+| 10                         | Fault Passage Indicators                    | 51,128 | number   | 222.4             |
+| 11                         | Infrastructure in disaster prone areas      |        |          | 2103              |
+| 12                         | The infrastructure of the industrial sector | 1      | 1        | 650               |
+| 13                         | Work in sensitive areas                     |        |          | 548               |
+| 14                         | feeder bay                                  | 1204   | number   | 178               |
+| 15                         | Switching centre                            | 22     | number   | 57.1              |
+| 16                         | Other works                                 |        |          | 996               |
+| The cost of this component | 14,266                                      |
+--------------------------------------------------------------------------------------------------------------------
+Project Cost (DPR): Rs. crore)
+------------------------------------------------------
+| A.A.  | works                             | cost   |
+| 1     | Smart Metering                    | 11,105 |
+| 2     | Reducing the distribution losses. | 14,231 |
+| 3     | The strengthening of the system   | 14,266 |
+| Total | 39,602                            |
+------------------------------------------------------
+(d) Action Plan decided by MSEDCL and approved by the State Government:- AT& C Loss
+Reduction & ACS- ARR Gap Reduction:
+--------------------------------------------------------------------------------
+| Base year FY 20-21         | Objectives |
+| FY 21-22                   | FY 22-23   | FY 23-24 | FY 24-25 |
+| AT& C Loss %               | 20.73      | 19.16    | 18.16    | 16.09 | 14.1 |
+| ACS- ARR Gap (Rs./per KWH) | 1.3        | 0.62     | 0.35     | 0.20  | 0.00 |
+--------------------------------------------------------------------------------
+Page 5 of 10
+# Page 6
+Government Resolution No: SANKIRN-2021/ PR No.215/ ENERGY-5
+(c) The objectives of the Plan of Action:
+Reducing the loss of distribution:
+------------------------------------------------------------------------------------------------------------------------------------
+| A.A.     | Details of the work                             | proof    | quantity | The physical objectives |
+| AD 22-23 | AD 23-24                                        | AD 24-25 |
+| 1        | Channel separation                              | 4,712    | number   | 471                     | 2,356    | 1,885    |
+| 2        | Aerial Bunch Cable                              | 30,332   | km       | 3,033                   | 15,166   | 12,133   |
+| 3        | High Pressure/ Low Pressure Channel Upgradation | 19,884   | km       | 1,988                   | 9,942    | 7,954    |
+| 4        | Multi-meter service box                         | 3,98,080 | number   | 39,808                  | 1,99,040 | 1,59,232 |
+| 5        | high-pressure distribution channel              | 9,997    | km       | 1,000                   | 4,999    | 3,998    |
+| 6        | HVDS Rohithra                                   | 5,170    | number   | 517                     | 2,585    | 2,068    |
+| 7        | the capacitor box                               | 2, 051   | number   | 205                     | 1,026    | 820      |
+| 8        | Electric vehicle charging                       | 250      | number   | 25                      | 125      | 100      |
+| 9        | Covered Conductor                               | 333      | km       | 33                      | 167      | 133      |
+------------------------------------------------------------------------------------------------------------------------------------
+Strengthening of the distribution system:
+---------------------------------------------------------------------------------------------------------------------------
+| A.A.    | Details of the work                   | proof   | quantity | The physical objectives |
+| 2022-23 | 2023-24                               | 2024-25 | 2025-26  |
+| 1       | The new sub-centre                    | 377     | number   |                         | 38   | 189     | 151   |
+| 2       | Additional Sub-Centre Rohithra        | 299     | number   |                         | 30   | 150     | 119   |
+| 3       | Sub-Centre Rohithra Capacity Building | 292     | number   |                         | 29   | 146     | 117   |
+| 4       | high pressure channel                 | 21,691  | km       |                         | 2169 | 10846   | 8676  |
+| 5       | high-pressure cable                   | 4,171   | km       |                         | 417  | 2085    | 1668  |
+| 6       | Replacement of the duct               | 14,480  | number   |                         | 1448 | 7240    | 5792  |
+| 7       | New Distribution Rohithra             | 29,893  | number   |                         | 2989 | 14947   | 11957 |
+| 8       | Distribution Capacity                 | 16,351  | number   |                         | 1635 | 8176    | 6540  |
+| 9       | SCADA/DMS                             | 21      | number   | O                       | 1    | 11      | 9     |
+| 10      | Fault Passage Indicators              | 51,128  | number   |                         | 5113 | _ 25564 | 20451 |
+| 11      | feeder bay                            | 1204    | number   |                         | 120  | 602     | 482   |
+| 12      | Switching centre                      | 22      | number   |                         | 2    | 11      | 9     |
+---------------------------------------------------------------------------------------------------------------------------
+4. Recommendation by the State Government to the Central Government in the DPR submitted by the BEST initiative
+The work done:
+(a) Metering program (through Totex mode)
+1) Prepaid/ Smart meters to customers under RDSS scheme:
+-----------------------------------------------------------------------------------
+| A.A.                       | Details          | time limit          | number    |
+| 1                          | Phase-1          | As of December 2023 | 10,62,592 |
+| 2                          | Phase 2          | In the March 2025   | 13,289    |
+| The cost of this component | Rs. 694.69 crore |
+-----------------------------------------------------------------------------------
+Page 6 of 10
+# Page 7
+Government Resolution No: SANKIRN-2021/ PR No.215/ ENERGY-5
+2) Distribution Rohith and Feeder Smart Metering Programme:
+-------------------------------------------------------------------------------
+| A.A.                       | Details         | time limit          | number |
+| 1                          | Phase-1         | As of December 2023 | 4726*  |
+| 2                          | Phase 2         | In the March 2025   | 60*.   |
+| The cost of this component | Rs. 13.85 crore |
+-------------------------------------------------------------------------------
+It includes 1388 feeder meters.
+Distribution Infrastructure works: (1) Works under Distribution Loss Reduction (Rs. crore)
+-----------------------------------------------------------------------------------------------------------------------------------------------
+| A.A.                       | Details of the work                                                        | proof | quantity         | cost   |
+| 1                          | Replacement of 11 KV switchgears with relays in storage substation.        | 32    | number           | 27.30  |
+| 2                          | Replacement of 11 KV OCB Switchgears in Distribution Sub-station. (DSS)    | 564   | number           | 110.83 |
+| 3                          | Replacement of 33 kV switchgears with relays in the collection substation. | 19    | number           | 4.01   |
+| 4                          | Replacing the old RMU in the distribution sub-station.                     | 118   | number           | 9.69   |
+| 5                          | Other (Relay, control panel, power pack, spare parts, etc.)                |       |                  | 55.76  |
+| The cost of this component |                                                                            | " A"  | Rs. 207.59 crore |
+-----------------------------------------------------------------------------------------------------------------------------------------------
+(2) Under the strengthening of the distribution system:
+(Rs. crore)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| A.A.                                        | Details of the work                                                                                                     | proof | quantity | cost   |
+| 1                                           | Renovation of the substation (replacement or replacement of the additional substation)                                  | 1021  | number   | 280.47 |
+| 2                                           | Establishing a new sub-station                                                                                          | 100   | number   | 134.90 |
+| 3                                           | 33 kV Cable Replacement                                                                                                 | 120   | km       | 192.00 |
+| 4                                           | Replacing high-pressure, low-pressure, or old cables                                                                    | 413   | km       | 206.50 |
+| 5                                           | Replacing a short, short or old cable                                                                                   | 400   | km       | 160.00 |
+| 6                                           | Storage Substation Upgradation (SCADA& DMS)                                                                             | 77    | number   | 223.20 |
+| 7                                           | Development of distribution sub-stations (SCADA& DMS)                                                                   | 1070  | number   |
+| 8                                           | Enterprise Resource Planning (ERP), Integration (Unified) Power Systems and Information Technology (IT/ OT) Empowerment |       |          | 714.26 |
+| 9                                           | Others (new storage units, earthing, battery charging, new R.M.Us, etc.)                                                |       |          | 202.08 |
+| Expenditure under this head:-" B"           | 2113.41                                                                                                                 |
+| Total Expenditure (A+ B)- Rs. 2321.00 crore |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Page 7 of 10
+# Page 8
+Government Resolution No: SANKIRN-2021/ PR No.215/ ENERGY-5
+The modernization of the system:
+(Rs. crore)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| A.A.                                               | Details of the work                                                                                                                                                                           | proof | quantity | cost   |
+| 1                                                  | Remodeling of Distribution Centre                                                                                                                                                             | 150   | number   | 122.22 |
+| 2                                                  | Setting up a distribution centre                                                                                                                                                              | 100   | number   | 127.72 |
+| 3                                                  | Additional 33 KV H.T. Line from Storage Centre                                                                                                                                                | 39    | km       | 18.3   |
+| 4                                                  | Nariman Point Storage Centre (110 KV) Replacement of Equipment, Fire Fighting System, New Storage Sub-station, Replacement of Storage Sub-station Equipment, Replacement of A.D.P. and others |       |          | 162.39 |
+| Expenditure under this component: Rs. 430.63 crore |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Capacity Building- Rs. 0.81 crore.
+Total Project Cost (DPR):
+(Rs. crore)
+-------------------------------------------------------------------
+| A.A.              | works                             | cost    |
+| 1                 | Smart Metering                    | 708.54  |
+| 2                 | Reducing the distribution losses. | 2321.00 |
+| 3                 | The modernization of the system   | 430.63  |
+| 4                 | Capacity Building                 | 0.81    |
+| Total expenditure | 3460.98                           |
+-------------------------------------------------------------------
+(d) Action Plan as decided by BEST and approved by the State Government:- AT& C Loss Reduction
+& ACS-ARR Gap Reduction :
+-------------------------------------------------------------------------------
+| AT & C Loss%          | Base year | Objectives |
+| FY 20-21              | FY 21-22  | FY 22-23   | FY 23-24 | FY 24-25 |
+| 6.64                  | 6.64      | 6.55       | 6.50     | 6.45     |
+| ACS-ARR Gap (Rs./KWH) | 1.11      | 0.15       | 0.14     | 0.09     | 0.00 |
+-------------------------------------------------------------------------------
+As per the guidelines of the Central Government, the Detailed Project Report (DPR) and Action Plan prepared by MSEDCL and BEST for implementing the RDSS scheme in their respective areas in the state were under consideration to be sent to the Central Government with the approval of the State Government. Accordingly, the government has taken the following steps:
+Page 8 of 10
+# Page 9
+Government Resolution No: SANKIRN-2021/ PR No.215/ ENERGY-5
+Government Decision: 1. Revamped Distribution Sector-Scheme-Reforms-Based and Results-Linked is being approved to be implemented in the State through MSEDCL and BEST initiative in their respective areas. It should be ensured that regional balance is maintained while carrying out metering and infrastructure works under the scheme.
+2) Under the" Revamped Distribution Sector Scheme- Reforms-based and Performance-based Scheme" (RDSS), MSEDCL's Rs. 39,602 crore and BEST Rs. The state government has approved the Detailed Project Report (DPR) of Rs 3,461 crore.
+3) Under the" Revised Distribution Sector Scheme Reform-Based and Performance-Based Scheme" (RDSS), the action plan of MSEDCL and BEST initiative is being approved by the State Government.
+4) The State Government is being approved to reimburse the entire amount of subsidy due to MSEDCL for the previous year as well as the advance subsidy for the current year.
+5) The concerned departments should take action for timely payment of electricity dues and ongoing electricity dues from all government departments/ attached offices/ urban and rural local bodies/ autonomous bodies/ boards/ corporations. The Department of Energy should follow up on this from time to time. It's been approved.
+It is being approved to enter into a tripartite agreement between the State Government, Distribution Company (MSEDCL and BEST undertakings) and the Central Government (or nodal agency on behalf of the Central Government) to accept and agree upon the roles and responsibilities as may be prescribed.
+It is being approved to authorize the Principal Secretary (Power) to incorporate and approve the amendments suggested by the Central Government's Controlling Committee in the Detailed Project Report (DPR) and Action Plan during the implementation of the scheme.
+# Page 10

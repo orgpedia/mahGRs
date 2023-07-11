@@ -1,0 +1,74 @@
+# Page 1
+Standard procedures for implementing e-Office.
+The Government of Maharashtra
+the Directorate of Information Technology
+Government Circular No: MATSAM 2022/ PR No.62/ SE- 1/39
+Ministry, Mumbai- 400 032.
+Date: 23.02.2023
+Reference: Government Circular No: 2023/ Q. No. 02/18 (Rs. W.K.) February 2, 2023.
+circular
+Preamble: As per the above circular, necessary instructions have been given to implement the system by making effective use of e-office system in government affairs in the state government by making the use of computer in government affairs, to make the government work faster, to make the work smooth, to get documents and information secure, quickly and quickly, and to facilitate the decision-making process.
+According to the circular, all administrative departments of the ministry and regional offices will function as usual. The use of e-office system is to be made effective from 01.04.2023 and as per the circular, the postal mail (e.g., postage stamps) sent through the administrative departments and field offices of the Ministry and the Regional Offices of the Ministry are to be sent through e-office. books, maps, and so on. It cannot be sent via e-mail. Only such mail should be sent by hand.
+In line with the above, the standard operating procedure for implementation of e-Office has been formulated as follows.
+e-Office standard operating procedure
+While implementing the e-office system, the work related to e-office must start from the post coming to the office. The mail coming to the office can come in two ways.
+1. Physical post to office 2. Electronic post to office
+Physical mail received at the office:
+The mail received in the office will be deposited in the Central Registration Unit (CRU) in the Central Registration Cell. The CRU control officer will register the cell to which the mail belongs by looking at the corresponding mail.
+# Page 2
+Government Circular No: MATSAM 2022/ PR No.62/ SE- 1/39
+Stamp pattern
+------------------------------------------------------------------------------------------------
+| Central Registration Unit (CRU) Computer Number |
+| the Registered Employee                         | Control Officer, Central Registration Cell |
+------------------------------------------------------------------------------------------------
+The post marked by the control officer will be taken for scanning in the e-office.
+Every post will be scanned and its metadata entry will be recorded in the computer.
+After registering in the computer, the computer number received by the person will be hand-delivered to the concerned post and the signature will be made under that number for registering in the e-office of the concerned post office. The registered post will be stamped so that it can be quickly seen that the post has been registered in the e-office. Also, the concerned employee will sign for the registration.
+The computerized mail will be kept in a cell-wise folder and such folders will be kept in the CRU. Since the file has to be submitted through the e-office and the mail has been scanned, it should not be sent to the post office.
+All mail received at the CRU should be preserved for one year. After one year, with the approval of the head of the department, appropriate action should be taken to destroy this post.
+5. All mail received must be scanned and recorded in the e-office system.
+6.Photos should not be made under any circumstances. In certain cases where physical nasties are required to be prepared, no physical nasties should be prepared without obtaining prior permission of the Head of the Department/ Secretary of the Department concerned before preparing the nasties.
+Posts with confidential records should be submitted to the concerned department head/ secretary. After such mail is opened by the Head of the Department/ Secretary concerned, such mail should be taken back to the CRU in the process of Diarisation as per the instructions given by him on the post. In case of the letter on which the head of the department/ secretary has suggested the submission of physical deposit, the physical deposit should be submitted. The rest of the post should be registered in the e-office system in the CRU.
+8.Shasan Circular D. As on February 2, 2023, the subordinate offices of the Department have been advised to no longer send correspondence through e-mail without physical intimation. or
+Page 2 of 5
+# Page 3
+Government Circular No: MATSAM 2022/ PR No.62/ SE- 1/39
+If the guardian is implemented by every department, the work of physical or postal scanning will be reduced.
+The electronic mail:
+A separate e-mail ID should be provided for each CRU of the department. All submissions must be made to this email address.
+The printout of the e-mail received in the CRU should not be removed under any circumstances.
+CRU mail and the received e-mail should be diarised and sent to the concerned cell.
+The list of the employees who are doing the diarisation of the department should be made available to the CRU about the manner in which the work has been allocated to each cell in the department so that they can easily determine which cell the mail/ e-mail received in the CRU belongs to.
+4. The staff/ officers in the CRU should check the attachment of the mail in which the correspondence has been attached by PDF, open/ open and see which cell the mail belongs to and then complete the process of diarisation.
+After diarising the email in each CRU, the diarised mail should be put in a separate folder. That folder should be named as Diarised Mail. After the mail is diarised, it will be immediately put in the Diarised e-mail folder so that the mail received in the CRU can review the remaining mail to be diarised.
+A register should be maintained to keep a weekly record of the mail and mail received in the CRU.
+A. The number of mails/ e-mails left for Diarise at the beginning of the week B. Number of emails received in a week
+C. Number of e-mails per week
+D. The number of e-mails
+The nodal officer should bring this issue to the notice of the concerned department head/ secretary every Monday after removing it every week.
+Responsibilities of the Nodal Officer
+The nodal officer will be responsible for implementing the e-office system in the department.
+2.Preparations regarding e-office, such as e-mail readiness of all employees in the department, digital signature, e-office account, training, etc. to ensure the completion of all employees.
+Page 3 of 5
+# Page 4
+Government Circular No: MATSAM 2022/ PR No.62/ SE- 1/39
+Preparation of scanner, computer, printer, internet connectivity, LAN connection and separate e-mail ID for CRU.
+4. Prepare the proper preparation for keeping the mail received in the CRU folder as well as all the mail deposited throughout the year.
+To provide adequate staff for timely scanning of mail coming to CRU, to prepare an updated special list of all the rooms in their training department and to inform all the employees of CRU.
+To take appropriate measures to control the scanning/ diarisation of mail/ e-mails coming into the CRU on a daily basis, to submit weekly reports to the Secretary, not to increase the pendency of the CRU.
+Control the number of physical waste generated in the department, control the number of physical waste generated from the classroom, bring the matter to the notice of the department head/ secretary if unnecessary physical waste is generated from the classroom.
+To make the e-office system successful, the work going on in every room must come fully on the e-office system. To this end, it is planned that each room will work on a 100% e-office system.
+Review how many rooms out of the total number of rooms in the department are working on 100% e-office system and give this information to the GAD as well as the Head of the Department/ Secretary.
+10.Updating the information of the transferred employees and the transferred employees in the e-office system.
+11.To ensure that the digital signature of the employees of the department is renewed in a timely manner. Training for new employees.
+12.To submit various reports of the e-Office system to the General Administration Department from time to time.
+Coordinate with the e-office cell/ help desk regarding the problems encountered in the system.
+Implementation of the e-office system
+The implementation of e-office system will be started in all the departments from March 1, 2023.
+After the implementation of the e-office system, physical work should not be started without the permission of the Secretary.
+3. To ensure that the proceedings on the existing physical losses are completed immediately, a period of 3 months is being given from 1st March, 2023 to complete the proceedings on the existing losses. During this period, the existing physical bars should be closed by completing the proceedings. If the process is not completed, scan this physical document on the e-office system.
+Page 4 of 4
+# Page 5
+Government Circular No: MATSAM 2022/ PR No.62/ SE- 1/39
+to be taken. The departments will be responsible for scanning the remaining waste and bringing it into the e-office system. Therefore, the ongoing physical work should be completed immediately. So that the department does not have to bear the burden of scanning.

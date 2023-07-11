@@ -1,0 +1,33 @@
+# Page 1
+Implementation of LRS (Liability Register System) system for disbursement of funds to Government/ Non-Government Industrial Training Institutes in the State.
+The Government of Maharashtra
+Department of Skill Development and Entrepreneurship
+Government Resolution No: ITI-2019/ PR No.159/ Person-3
+Madam Cama Marg, Hutatma Rajguru Chowk,
+Mantralaya, Mumbai 400 032
+Date: 12th of December 2019
+The Proposal:
+The State Government is providing funds to Industrial Training Institutes under various schemes.
+is being done. Various schemes are implemented as per the administrative approval given at the government level. The funds will be allocated accordingly. The payment is made by the Principal, Industrial Training Institute in a phased manner as per the progress of implementation of the schemes. After this, the payment is made by the Finance and Accounts Officer after checking the said payment. A lot of this process
+At times, the funds remain with the Industrial Training Institutes. Sometimes there is a delay in payment.
+Also, the delay in administrative approval of the schemes at various levels and other technicalities are leading to the delay in the completion of the work. Till then, the funds remain in the bank accounts of Industrial Training Institutes. As a result, the funds of the schemes transferred or given on agency basis from the Consolidated Fund of the State to the Industrial Training Institutes remain in the bank account. Sometimes, if the funds are not spent in two financial years, permission is sought to spend the unused funds in one financial year. In some Industrial Training Institutes, the money is pending without spending and at the same time the bill for the scheme under the same head is being paid in other Industrial Training Institutes due to lack of funds.
+Every time a utilization certificate has to be demanded to confirm that the funds disbursed earlier have been spent. Also, from time to time, data has to be collected from each of the industrial training institutes to ascertain what is the status of a project or what is the liability of a scheme to the government at some stage.
+In order to remove all these administrative difficulties, shortcomings, inefficiencies and to ensure that all financial transactions in government offices are done through cashless, chequeless and digital mode, as per the policy of the Central and State Governments, the Department of Skill Development and Entrepreneurship has issued an order for LRS (Liability
+# Page 2
+Government Resolution No.ITI-2019/ PR No.159/ Person-3
+The system has been developed in collaboration with ICICI Bank. The instructions in this regard are as follows:
+Government's decision:
+A separate account will be opened in State Bank of India through the Department of Skill Development and Entrepreneurship. As per the requirement, funds will be drawn from the government's endowment and accounts office and kept in this account. The system will be implemented through ICICI Bank for direct payment. After placing the order for payment to ICICI Bank, the bank is required to make the payment directly to the account of the beneficiary/ contractor during the T+ 3 period.
+LRS (Liability Register System) will be a web-based system.
+LRS (Liability Register System) is being introduced for the schemes mentioned in the" Form-A" attached with the system. Administrative approval will be recorded at the government level.
+After the administrative approval is granted, the tender process will be carried out and the information of the selected tenderer will be filled on this system by the concerned executing authority. a bank account in
+The number, IFSC code, etc. will be included. After entering this information, the system
+The computer generated code will generate. No work order can be given without specifying this notation.
+Thereafter, the work order will be issued as per the prevailing procedure and the bill/ payment will be sanctioned as per the prevailing procedure as per the progress of work. When the payment is passed, the Drawing and Disbursing Officer e.g. The principal, industrial training institute will enter the amount agreed for the actual contribution in that system with the deduction. The actual payment accounts will go to the finance officer as per the regular office procedure. After the Accounts Finance Officer passes the payment, the system shall pass the payment by checking the amount of payment and the amount of actual payment with deduction and pass the amount agreed by the Drawing and Disbursing Officer on the system.
+The amount passed on to all such Industrial Training Institutes will be visible to the Controlling Officer at the Skill Development and Entrepreneurship Department level through the system. The amount will be transferred to the zero balance account of ICICI Bank. The amount will be credited to the account of the concerned on a first come first serve basis as per the list passed by the Accounts and Finance Officer through ICICI Bank and approved by the Drawing and Disbursing Officer as per the list sent through this system.
+The amount deducted from the contractor's payment will be credited to the account of the concerned Drawing and Disbursing Officer. They have to deposit it in the required government account.
+Page 2 of 4
+# Page 3
+Government Resolution No.ITI-2019/ PR No.159/ Person-3
+This system will be applicable to all schemes from the next financial year (April 2020) and will be implemented for the first time in this financial year for STRIVE (Class B) scheme. However, all payments will be made only through LRS (Liability Register System). Those concerned should be careful about registering the payments of this scheme on this system.
+# Page 4

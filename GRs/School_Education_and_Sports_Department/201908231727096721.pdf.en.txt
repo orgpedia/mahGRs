@@ -1,0 +1,21 @@
+# Page 1
+Admission of orphan children under RTE 25% admission and facility for orphan students in Saral database.
+The Government of Maharashtra
+Department of School Education and Sports
+Government Circular No: RTE-2019/ PR No.160/ SD-1
+Madam Cama Marg Hutatma Rajguru Chowk
+Mantralaya, Mumbai 400 032
+Date: August 23, 2019
+Department of School Education and Sports, Government Resolution No.RTE-2018/ No. 315/ SD-1, dated 16th January, 2018
+Government Circular: As per the Government Decision dated 16th January, 2018, the revised procedure for conducting RTE 25% admissions in the State has been prescribed. As per the provisions of E (4) of the said Government decision, the documents of the orphanage regarding the orphaned children have been directed to be accepted.
+However, it has come to the notice of the government that other documents are being demanded for the admission of orphan children. Therefore, as per the said Government Circular, the following instructions are being issued: 1) For RTE 25% admissions, students from children's homes/ orphanages should be included in this category. NIC, Pune should make such facility available in the portal.
+2) The documents of the orphanage/ correctional home should be accepted for the admission of orphaned children.
+3) Other documents in respect of orphaned children e.g. Proof of income should not be considered.
+4) NIC, Pune should provide the following facilities for the orphan students in the Saral database.
+1) The middle name should be available in the NOT KNOWN facility as the name of the student's father/ mother is not known.
+Last Name- The NOT KNOWN feature should be available in this location as well.
+III. NOTE KNOWN facility should be provided along with other for lack of religion information.
+IV. Category- The facility to register as an orphan should be available in the category.
+# Page 2
+Government Circular No: RTE-2019/ PR No.160/ SD-1
+V. Information regarding updating the name, surname of the adoptive parents should be made available through NEW ENTRY TAB in case the orphan children are adopted after school admission.

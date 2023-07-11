@@ -1,0 +1,147 @@
+# Page 1
+Cloud Computing Policy Empanelment of Cloud Service Providers and Guidelines for Government organizations.
+Government of Maharashtra
+Directorate of Information Technology
+Government Circular No. - 060/3/2017/1
+Hutatma Rajguru Chowk, Madam Cama Road,
+Mantralaya, Mumbai - 400 032
+Dated 16th May, 2018
+Introduction
+DIT vide its circular dated 29.1.2018, circulated the salient features of the Cloud Computing policy of the State and the operational instructions regarding the steps to be followed by the Departments.
+As per para 4 of the above circular and approval of High Power Committee (IT) in its meeting held on 8.3.2018, DIT carried out a tendering process for empanelment of Cloud Service Providers (CSPs) and discovery of rates for various cloud services. Since this process has been duly completed now, it is necessary to issue detailed instructions regarding CSP empanelment and the action expected from the Government organizations to ensure that all IT applications are migrated to cloud by 30.10.2018. Accordingly, the following instructions are being issued by the Government.
+Government Circular:
+The following Cloud Service Providers (CSP) are being hereby empanelled by DIT for a period of 3 years for providing Cloud services to the all Government Departments, Sub ordinate Offices, Public Sector Undertakings, Urban and Rural Local Bodies& any body/ organization set up under any law of the State Government (henceforth collectively referred to as" Government Organizations") from 1.5.2018 till 30.4.2021.
+Tier-1 empanelment 1. Amazon Web Services 2. Microsoft 3. Net Magic 4. Control-S (Conditional Empanelment for Sec-A of Annexure 8.1, 8.2 and 8.3 and not any other section)
+Tier-2 empanelment 1. ESDS
+2. The total cumulative annual order value that can be awarded to CSPs in case of tier-2 empanelment will be subject to an upper cap of Rs 25 crore (inclusive of all Departments).
+Information regarding cumulative annual order value already awarded to tier-2 empanelled CSPs will be made available to Government organizations on a regular basis. Tier-1 has no upper or lower limit. Government organizations should ensure adherence to the upper cap limit at the time of selection of the CSP.
+Cloud service offerings
+3.1 The 3 cloud service offerings being provided by the empanelled CSPs are as follows.
+a) Public Cloud b) Virtual Private Cloud c) Government Community Cloud
+# Page 2
+Government Circular No.: -060/3/2017/1
+3.2 As part of each of these cloud service offerings, the following cloud services will be available to Government organizations
+Virtual machines
+Storage
+Database
+Media transcoding
+Services like DNS, Active directory, Virtual Private Network (VPN), API
+management, email/SMS gateway, back-up services, mobile services, developer tools and office productivity tools
+● Provision of bare metal server as a service
+Rates for cloud services
+4.1 The details of the CSP empanelled for each offering (Public, Virtual Private Cloud and Government Community Cloud) and the services listed above and the applicable rates are provided in Annexure-1. The applicable rates for the offerings and services are different for tier-1 and tier-2 CSPs. These rates will be applicable from 1.5.2018 till 30.4.2020 after which fresh rates will be notified by DIT by following due process.
+4.2. Three options- hourly rates, monthly rates if cloud services are taken for a minimum period of 1 year and monthly rates if cloud services are taken for a minimum period of 2 years are being made available to Government organizations.
+4.3. If any Government organization has already hosted its IT application on the cloud of any of the CSPs being empanelled by this GR under any existing contract/work order with the CSP and if the rate for the cloud services as per the contract/work order is lower than the rates notified in Annexure-1, the rates specified in the existing work order/contract will apply till the term of that contract. However, if the existing contract/work order rates are higher, the rates notified in Annexure-1 will apply from 1.5.2018. Foreclosure of Contract/work order can be done upto 31st October 2018.
+4.4 If any Government organization has already hosted its IT application on the cloud of any other CSP not empanelled under this GR or for an offering/service for which the CSP is not empanelled under this GR, the IT application has to be migrated to a CSP empanelled under this GR before 30.10.2018.
+4.5 To ensure that Government organizations get a hands-on experience, the Government organizations will be provided an option of free trial by the CSP for a limited period of 30 days before issue of formal work order.
+Disaster Recovery (DR) services
+5. Rates have been discovered for Datacenter services (DC only), Disaster Recovery (DR) services (DR only) and Datacenter & Disaster Recovery services (DC + DR). Government organizations may opt for one or more of these as per their requirements. If required, Government organizations may opt for different CSPs for DC and DR services.
+Managed Service Providers (MSP)
+6.1 A managed services provider (MSP) for this document is the cloud provider cloud services provider that manages and assumes responsibility for providing a defined set of services like Infrastructure as a Service (laaS), Software as a Service (SaaS) or Platform as a Service (PaaS) as per agreed term and conditions to Government organizations.
+Page 2 of 6
+# Page 3
+Government Circular No.: 060/3/2017/1
+6.2 Each CSP may appoint a maximum of 2 Managed Service Providers (MSP). The CSP can function as its own MSP. The MSPs already appointed by the empanelled CSPs are listed in Annexure-1. The MSP will perform the activities listed in Annexure-2. Government organizations may opt for the migration services of MSPs in addition to the regular cloud offerings. If the Government organization decides to engage the migration services of the MSP, additional charges of 5% (on the basic cloud services charges) towards MSP charges will apply for the period for which the services of MSP are engaged.
+Selection of CSP
+7. The Government organizations may select any of the empanelled CSPs through Departmental PC/PIC. Scope of work may be circulated to all empanelled CSP and presentation be done before PIC. After selection of the CSP, the Department may select any of the MSPs of the CSP, if required. If the Government organization has a system integrator or technical resource who can perform the technical tasks expected of a MSP, the Government organization can engage the system integrator or technical resource for performing the technical tasks instead of MSP.
+Guidelines for selection of cloud offering
+8.1 The following indicative guidelines should be used by Government organizations to decide the type of cloud offering (public cloud, virtual private cloud and Government community cloud) that they should opt for.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Sr.no                                                                                                                                                                                                                                                                                                                                                           | Type of IT application                            | Recommended cloud offering |
+| 1                                                                                                                                                                                                                                                                                                                                                               | Websites with only read access for citizens/users | Public Cloud               |
+| IT applications collecting and storing information regarding public infrastructure and publ assets like roads, buildings, bridges, water bodies, water conservation structures, water supply and sanitation, telecom and IT networks etc. (including GIS) covered under RTI Act. Finance and Planning Departments regarding payment of taxes, revenue receipts. | Public Cloud                                      |
+| IT applications involving collection of taxes, revenue, user fees and charges for various G2B and G2C services and where personal sensitive information is NOT collected or stored                                                                                                                                                                              | Virtual Private Cloud                             |
+| IT applications involving collection and storage of information related to G2B services (Government to Business)                                                                                                                                                                                                                                                | Virtual Private cloud                             |
+| IT applications involved collection and storage of information related to surveillance projects and safe and smart city projects in the State Finance and Planning Departments regarding budget distribution, drawing and disbursement of Government funds                                                                                                      | Virtual Private Cloud                             |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Page 3 of 6
+# Page 4
+Government Circular No.: -060/3/2017/1
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| 6                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Portals collecting and storing sensitive personal information of citizens like Aadhaar number, demographic data including address, date of birth, ekYC data, PAN number, Voter ID card number, bank account information, driving license information, personal health records (any one or more of the above) | Government Community Cloud |
+| Irrespective of the above criteria, Applications of the following Departments Property records of Revenue Department Applications related to urban planning and development control regulations Public Health Department& Medical Education Department including health insurance and hospital management and information systems School Education Department Women and Child Development Department Individual beneficiary schemes of Social Justice, Tribal Development, VJNT and OBC Department, Minorities Development and Skills Development Department Food and Civil Supplies Department | Government Community Cloud                                                                                                                                                                                                                                                                                   |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+8.2 DIT may update and make necessary changes/additions in cloud guidelines for selection of cloud offerings from time to time.
+8.3 It is clarified that the above cloud offering selection guidelines are indicative and Government organizations are free to choose the cloud service offering that would be suitable for them. While doing so, the Department should consider the nature and sensitivity of the data (in terms of data privacy, confidentiality, data concerning State & National security and requirements under the Right to Information Act) being handled by the application.
+8.4 Departments to provide Clo SPOC, Nodal off and auth ized signatory names in Scope of Work circulated to CSPs/MSP for cloud services.
+Hosting/ Migration
+9.1 If the Department engages a MSP, the MSP will submit a detailed plan regarding cloud deployment and configuration after carrying out a detailed study of the proposed/existing IT application of the Department. On acceptance of the above plan by the user Department, the MSP will assist the Department in deploying/migrating the Departmental application onto the cloud. The MSP must assist the Department in carrying out functional testing and data integrity testing to ensure operational acceptance. If the Department is engaging DR services, the MSP should carry out business continuity testing.
+9.2 All Government organizations must ensure that all existing applications are migrated to cloud on or before 30.10.2018.
+Payments linked to utilization
+10.1 In the case of cloud services provisioned by user Government organizations, the billing for cloud services will be based on actual consumption of services (Pay-As-You-Go model) with zero capital (one- time) cost.
+10.2 To incentivize optimal solution design and encourage proper utilization of the assigned computing resources, empanelled CSP in co-ordination with the user Department should ensure that the average monthly utilization of RAM, CPU and storage is not less than 50%.
+If the average monthly utilization is less than 50% in a particular month, the CSP should
+Page 4 of 6
+# Page 5
+Government Circular No.: - 060/3/2017/1
+immediately notify the user Department. The user Department and the MSP/CSP should undertake a joint assessment within 15 days, analyze the reasons for the utilization being less than 50% and undertake steps to ensure resource utilization of at least 50%. If the average monthly utilization of RAM or CPU or storage is less than 50% for 2 successive months, a penalty of 25% of the monthly bill amount (from the next billing cycle) will apply for those particular months where utilization is below 50%.
+However, if the CSP has proposed a resource optimization plan to bring the average utilization above 50% but such plan has not been approved by the user Department authorized Signatory within the above time period of 2 months, the penalty will be waived off by DIT.
+10.3 If average monthly utilization exceeds 65%, an additional incentive of 5% of the monthly bill amount will be payable to the CSP for a period not exceeding 6 months. The expenditure towards cloud services will be borne by the user Department from their budgetary resources. It is clarified that DIT will not bear the expenditure centrally for availing cloud services. Empanelled Cloud Service providers will raise quarterly invoices to the respective Department. Payments should ordinarily be made by the respective user Department within 1 month of the raising of the invoice.
+Management / Transition-Out Services
+11. CSP will provide a comprehensive exit management plan, with focus on sustainability and do Migration of the VMs, data, content and any other assets to the new environment or on alternate Managed Service Provider's offerings and ensuring successful deployment and running of user Department's solution on the new infrastructure by suitably retrieving all data, scripts, software, virtual machine images, and so forth to enable mirroring or copying to Agency supplied industry standard media.
+12. CSP Ensure that all the documentation required for smooth transition including configuration documents are kept up to date. Once the exit process is completed, remove the data, content and other assets from the cloud environment and destroy the VM, Content and data of user Department.
+Performance Bank Guarantee
+13. In addition to a one-time performance bank guarantee (PBG) of Rs. 50 lakhs to be submitted by empanelled CSPs to DIT for the entire duration of this empanelment, a PBG of 10% of the contract value should be submitted by MSP/CSP to respective user Department for the period of the work order, if work order value exceeds Rs. 5 lakhs in a financial year.
+Any penalties as per the Service Level Agreements (SLAs) may be recovered from this PBG.
+This Government Circular of Maharashtra Government is available at the website
+# Page 6
+# Page 7
+# Page 8
+# Page 9
+# Page 10
+# Page 11
+# Page 12
+# Page 13
+# Page 14
+# Page 15
+# Page 16
+# Page 17
+# Page 18
+# Page 19
+# Page 20
+# Page 21
+# Page 22
+# Page 23
+# Page 24
+# Page 25
+# Page 26
+# Page 27
+# Page 28
+# Page 29
+# Page 30
+# Page 31
+# Page 32
+# Page 33
+# Page 34
+# Page 35
+# Page 36
+# Page 37
+# Page 38
+# Page 39
+# Page 40
+# Page 41
+# Page 42
+# Page 43
+# Page 44
+# Page 45
+# Page 46
+# Page 47
+# Page 48
+# Page 49
+# Page 50
+# Page 51
+# Page 52
+# Page 53
+# Page 54
+# Page 55
+# Page 56
+# Page 57
+# Page 58
+# Page 59
+# Page 60
+# Page 61
+# Page 62
+# Page 63
+# Page 64
+# Page 65
+# Page 66

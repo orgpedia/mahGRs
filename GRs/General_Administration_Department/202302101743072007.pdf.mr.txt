@@ -1,0 +1,81 @@
+# Page 1
+मुख्य निवडणूक अधिकारी, महाराष्ट्र राज्य यांचे कार्यालयाकरिता संगणक व प्रिंटर्स खरेदी करण्यासाठी प्रशासकीय मान्यता देणेबाबत
+महाराष्ट्र शासन
+सामान्य प्रशासन विभाग
+शासन निर्णय क्र. एसटीवाय-२०२३/प्र.क्र.२७/२३/३३
+मादाम कामा मार्ग, हुतात्मा राजगरू चौक,
+मंत्रालय, मुंबई - ४०००३२
+दिनांक : १० फेब्रुवारी, २०२३.
+वाचा: शासन निर्णय, उद्योग, ऊर्जा व कामगार विभाग, क्रमांक भांखस-२०१४/प्र.क्र.८२/भाग-३/ उद्योग-४, दिनांक ०१.१२.२०१६
+शासन निर्णय विधानसभा सार्वत्रिक निवडणूक-२०१९ पार पडल्यानंतर कोविड-१९ या संसर्गजन्य रोगाच्या प्रादुर्भावामुळे घोषित लॉकडाऊनमुळे वित्त विभागाकडून संगणकसंच खरेदीवर बंदी घालण्यात आली होती.
+त्यामुळे मागील तीन वर्षापासुन निवडणूक शाखेकरिता संगणकसंच खरेदी करण्यात आलेले नाहीत. उपलब्ध सर्व संगणकसंचाचे अधिकारी/कर्मचारी यांना वाटप करण्यात आले असून, त्यांपैकी संगणकसंच निकामी झाल्यास दुरूस्ती करून वापरण्यात येत आहेत. सद्यस्थितीत एखादा संगणक नादुरूस्त झाल्यास नवीन संगणकसंच उपलब्ध करून देणे शक्य व्हावे, याकरिता नवीन संगणक व प्रिंटर्स खरेदी करणे आवश्यक असल्याने खालीलप्रमाणे नमूद विनिर्देश (Specifications) चे ५ संगणक (All in one) व ५ प्रिंटर्स तातडीने खरेदी करण्याकरिता प्रशासकीय मंजूरी देण्यात येत आहे.
+(अ) संगणक (All in one)
+----------------------------------------------------------------------------------
+| Parameters | Specifications |
+| Processor Make | Intel/AMD |
+| Processor Generation and Above | Latest |
+| Processor Description | Intel Core i3/i5/Ryzon 3/5 |
+| Chipset Series | H/Q/AMD Pro 500 |
+| Graphic type | Integrated |
+| Operating System (Factory Pre-Loaded) | Windows 10 Profesional |
+| OS Certification | Windows |
+| Type of RAM | DDR4 |
+| RAM Size (GB) | Minimum 4/8 |
+| RAM Speed (MHz) | 3200/2666 |
+| RAM Expandability upto | 32/64 |
+| Type of Drives used to populate the Intrnal Bays | HDD/SSD |
+| Total HDD Capacity (GB) | 1000/512 |
+| WiFi | Yes |
+| Bluetooth | Yes |
+| Number of Ethernet Ports | 1 |
+| Type of Ethernet Ports | 1 x Gogabit Port |
+| Number of USB 3.2 Version or above | 4 |
+| HDMI | 1 |
+| Number of DP Ports minimum | 1 |
+| LED Backlit Monitor Size | Minimum 23.8 inches diagonal, FHD (1920x1080), IPS, Non |
+----------------------------------------------------------------------------------
+# Page 2
+शासन निर्णय क्रमांकः एसटीवाय-२०२३/प्र.क्र.२७/२३/३३
+------------------------------------------------------------------
+| Inbuilt Camera, Speaker, Microphone with Port  |  (USB ३.१ ×१) | Yes |
+| Power Supply Capacity (Watt) | Max 120 |
+| ROHS Compliance, WIndows,Linux | Yes |
+| BEE/Energy Star for the given Model | Yes |
+| Mouse Connectivity | Wired |
+| Keyboard Connectivity | Wired |
+| On Site OEM Warranty Year) | 3/5 years |
+------------------------------------------------------------------
+(ब) प्रिंटर्स
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Parameters | Specifications |
+| Printer Technoloigy | Laser/Inkjet |
+| Type of Printing | mono |
+| Paper Size | A4 |
+| Print Speed per minute as per ISO/IEC २४७३४ in QAULO | Minimum 20 PPM |
+| Duplexing feature | Yes |
+| Wireless Connectivity | Yes/No |
+| Number of Main paper Trays | 1 |
+| Bypass tray facility | Yes |
+| On site OEM Warranty Years) | 3/5 |
+| Resolution (Dpi) | Minimum 1200x1200 dpi |
+| Processor Speed | 750 MHz or above |
+| Duplex Print Speed (IPM) | 18 |
+| Network Connectivity | yes |
+| Network Interface, if available | Ethernet 10/100 |
+| If yes, Type of Wireless Connectivity | No |
+| USB Port | ves |
+| Each Main Paper Tray Capacity | Minimum 250 |
+| Yeild of the cartriage/Ink Tank/Ink Pack supplied  |  with Printer (Per set)-blackYeild of the cartridge/Ink Tank/Ink Pack supplied with Machine as per ISO/IEC: 19752/2004€ for Black 9Number of Prints ) | Minimum 1000 |
+| Duty Cycle/Month (No of Prints) | 30000 |
+| BIS Registration under CRS of meity | yes |
+| Other Certifications available | UL,CE |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+२. सदर खरेदी करतांना शासकीय विभागाने करावयाच्या कार्यालयीन खरेदीसाठीच्या कार्यपध्दतीची नियमपुस्तिका याबाबत उद्योग, ऊर्जा व कामगार विभागाने निर्गमित केलेल्या शासन निर्णय क्रमांक:
+भांखस-२०१४/प्र.क्र.८२/भाग-३/उद्योग-४, दिनांक ०१.१२.२०१६ मध्ये नमूद केलेल्या विहीत कार्यपध्दतीचे अनुपालन करण्यात यावे.
+३. प्रस्तुत संगणक (All in one) व प्रिंटर्सचे विनिर्देश (Specifications) माहिती व तंत्रज्ञान
+महामंडळाकडून प्रमाणित करून घेण्यात आले आहेत.
+पृष्ठ ३ पैकी २
+# Page 3
+शासन निर्णय क्रमांक: एसटीवाय-२०२३/प्र.क्र.२७/२३/३३
+४. या प्रयोजनासाठी येणारा खर्च “मागणी क्रमांक ए-२, २०१५ - निवडणूका, १०२- निवडणूक अधिकारी, (००) (०१)निवडणूक अधिकारी (२०१५००१२), १७-संगणक खर्च” या लेखाशीर्षाखाली सन २०२२-२३ या आर्थिक वर्षासाठी मंजूर अनुदानातून भागविण्यात यावा.
+५. शासन निर्णय, वित्त विभाग क्रमांक: विअप्र-२०१३/प्र.क्र.३०/१३/विनियम, दिनांक १७.०४.२०१५ अन्वये वित्तीय अधिकार नियम पुस्तिका, भाग-१, उपविभाग-२, अनुक्रमांक-२७-अ, नियम क्रमांक-७६ अनुसार प्रशासकीय विभागास असलेल्या अधिकारान्वये हा शासन निर्णय निगमित करण्यात येत आहे.

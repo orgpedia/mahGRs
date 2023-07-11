@@ -1,0 +1,154 @@
+# Page 1
+Cloud Computing Policy-Empanelment of O Cloud Service Providers and Guidelines for Government organizations
+Government of Maharashtra
+Directorate of Information Technology
+Government Circular No. H - 060/3/2017/2
+Hutatma Rajguru Chowk, Madam Cama Road,
+Mantralaya, Mumbai - 400 032
+Dated 19th May 2018
+In the Addendum to Government Circular No. 060/3/2017/ 1
+Cloud Computing Policy-Empanelment of Cloud Service Providers and Guidelines for Government organizations dated 16th may 2018
+Ref: 1. Cloud Computing policy Circular dated 29.1.2018 2. Cloud Computing Policy-Empanelment of Cloud Service Providers and Guidelines for Government organizations dated 16th may 2018
+Government Circular:
+1. The following Cloud service providers (CSP) are being hereby empanelled by DIT for a period of 3 years for providing cloud services to the all Government Departments, sub ordinate offices, Public Sector Undertakings, Urban and Rural Local Bodies & any body/organization set up under any law of the State Government (henceforth collectively referred to as "Government organizations") from 1.5.2018 till 30.4.2021.
+Tier-1 empanelment 1. Amazon Web Services (AISPL) 2. Microsoft 3. Net Magic 4. Control-S (Conditional Empanelment for Sec-A of Annexure 8.1, 8.2 and 8.3 and not any other section)
+Tier-2 empanelment 1. ESDS
+2. List of empanelled CSP and their MSP
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Sr # | TIER                                          | CSP                                           | MSP                                    | Public Cloud            | Virtual Private Cloud   | Govt Community Cloud    |
+| 1    | 1                                             | Net Magic                                     | Net Magic                              | Yes                     | Yes                     | Yes                     |
+| 2    | 1                                             | Amazon Internet Services Private Limited      | M/s Orient Technologies Pvt Ltd        | Yes                     | Yes                     | NO                      |
+| 3    | 1                                             | Amazon Internet Services Private Limited      | Mahaonline                             | Yes                     | Yes                     | NO                      |
+| 1    | Microsoft Corporation (India) Private Limited | SIFY                                          | Yes                                    | Yes                     | Yes                     |
+| 5    | 1                                             | Microsoft Corporation (India) Private Limited | PricewaterhouseCoopers Private Limited | Yes                     | Yes                     | Yes                     |
+| 6    | 1                                             | CTRLS                                         | CTRLS                                  | Conditional -Sec A only | Conditional -Sec A only | Conditional -Sec A only |
+| 7    | 2                                             | ESDS                                          | ESDS                                   | Yes                     | Yes                     | Yes                     |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Page 2
+Government Circular No.: - 060/3/2017/2
+Cloud service offerings 3.1 The 3 cloud service offerings being provided by the empanelled CSPs are as follows.
+a) Public Cloud b) Virtual Private Cloud
+c) Government Community Cloud
+3.2 As part of each of these cloud service offerings, the following cloud services will be available to Government organizations
+Virtual machines
+Storage
+Database
+Media transcoding
+Services such as DNS, Active Directory, Virtual Private Network (VPN), API
+management, email/SMS gateway, back-up services, mobile services, developer tools and office productivity tools
+Provision of Bare metal server as a service
+--------------------------------------------------------------------------------------------------------------------------------------
+| Annexure 8.1 | PUBLIC CLOUD               | CSP/MSP Services | DC-1 YR | DC-2 YRS | DR-1 YR | DR-2 YRS | DC+DR 1 YR | DC +DR 2 YRS |
+| SEC A        | VIRTUAL MACHINE with OS    |                  |         | ⁇⁇       | ⁇⁇      |          | ⁇⁇         |
+| SEC B        | STORAGE                    | ⁇⁇               | ⁇⁇      | ⁇⁇       |         | ⁇⁇       | ⁇⁇         |
+| SEC C        | DATABASES                  | ⁇⁇               | ⁇⁇      | ⁇⁇       | ⁇⁇      | ⁇⁇       | ⁇⁇         |
+| SEC D        | MEDIA TRANSCODING          | ⁇⁇               |         | ⁇⁇       | ⁇⁇      | ⁇⁇       | ⁇⁇         |
+| SEC E        | Services                   | ⁇⁇               |         | ⁇⁇       | ⁇⁇      | ⁇⁇       |
+| SEC F        | Bare Metal Server          |                  |         | ⁇⁇       | ⁇⁇      | ⁇⁇       |
+| SEC G        | Additional Resources       |                  |         |          | ⁇⁇      | ⁇⁇       |
+| Annexure 8.2 | Virtual Private Cloud      |
+| SEC A        | VIRTUAL MACHINE with OS    |                  |         |          | ⁇⁇      | ⁇⁇       |
+| SEC B        | STORAGE                    | ⁇⁇               | ⁇⁇      | ⁇⁇       | ⁇⁇      | ⁇⁇       | ⁇⁇         |
+| SEC C        | DATABASES                  | ⁇⁇               | ⁇⁇      | ⁇⁇       | ⁇⁇      | ⁇⁇       | ⁇⁇         |
+| SEC D        | MEDIA TRANSCODING          | ⁇⁇               | ⁇⁇      | ⁇⁇       | ⁇⁇      | ⁇⁇       |
+| SEC E        | Services                   |                  |         | ⁇⁇       | ⁇⁇      |
+| SEC F        | Bare Metal Server          |                  |         | ⁇⁇       | ⁇⁇      | ⁇⁇       |
+| SEC G        | Additional Resources       |
+| Annexure 8.3 | Government Community CLOUD |
+| SEC A        | VIRTUAL MACHINE with OS    |                  |         | ⁇⁇       | ⁇⁇      |
+| SEC B        | STORAGE                    | ⁇⁇               |         | ⁇⁇       | ⁇⁇      | ⁇⁇       | ⁇⁇         |
+| SEC C        | DATABASES                  | ⁇⁇               |         | ⁇⁇       | ⁇⁇      |
+| SEC D        | MEDIA TRANSCODING          |                  |         | ⁇⁇       | ⁇⁇      |
+| SEC E        | Services                   | ⁇⁇               | ⁇⁇      | ⁇⁇       | ⁇⁇      | ⁇⁇       |
+| SEC F        | Bare Metal Server          |                  | ⁇⁇      | ⁇⁇       | ⁇⁇      | ⁇⁇       |
+| SEC G        | Additional Resources       |                  |         |          | ⁇⁇      |
+--------------------------------------------------------------------------------------------------------------------------------------
+Page 2 of 4
+# Page 3
+Government Circular No.: - 060/3/2017/2
+4. Contact LIST OF CSP/MSP
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Contact Details of CSPs/MSPs                    |
+| CSP                                             | MSP                                                      | Person in Contact                                                                                                           | Email ID and Telephone Number                                                                                                                                             | Contact Details                                                                                                                    |
+| Amazon Internet Services Private Limited (AISPL |                                                          | Mr. Vivek Gaikwad                                                                                                           | vivgaikw@amazon.com, 7777067698, 9820805198,Board line: 61192500                                                                                                          | Amazon Internet Services Private Limited (AISPL), 5th Floor, Salcon Ras Vilas, Near Select City Walk, Saket, New Delhi - 110017    |
+| Mr. Mandar Patil                                | pamandar@amazon.com,9869990063 Board line: 61192500      | Amazon Internet Services Private Limited. Ground Floor, L&T Business Park Gate No. 5, Saki-Vihar Road Powai Mumbai - 400072 |
+| ORIENT                                          | Mr. Manish Mehta                                         | manishmehta@orientindia.net, Mobile No: 9619768417                                                                          | M/s Orient Technologies Pvt Ltd Sales Office: 502, Ackruti Star, Central Road, MIDC, Andheri East, Mumbai - 400093. India Mobile: +91-9619768417 Board : +91-22-4292 8888 |
+| Mr. Umesh Shah                                  | umeshshah@orientindia.net, Ph: 022 42928888              |
+| MAHAONLINE                                      | Mr. Sachin Bhosale                                       | Sachin.Bhosale@mahaonline.gov.in Contact No.- 7400423303                                                                    | 5th Floor, Trade World, D Wing, Kamala City, Senapati Bapat Marg, Lower Parel, Mumbai, Maharashtra 400013. Mobile: 022-6707 7000                                          |
+| Mr. Sandesh Gadkar                              | Sandesh.Gadkar@mahaonline.gov.in Contact No.- 7400423310 |
+| CtrlS                                           |                                                          | Mr. Farshid Irani                                                                                                           | farshid.irani@ctrls.in/7738101609                                                                                                                                         | CtrlS Datacenters Ltd., 16, Software Units Layout, Madhapur (Hitech-City), Hyderabad - 500081                                      |
+| Mr. Padmanabh Nargunde                          | egov@ctrls.in/9205270110                                 | E mail- egov[at]ctrls[dot]in                                                                                                |
+| Tel no. +91-9643312818, +91-40-42030700         |
+| ESDS                                            |                                                          | Mr. Lokesh Sharma                                                                                                           | Lokesh.sharma@esds.co.in, 9765493344                                                                                                                                      | ESDS Software Solutions Private Limited, Plot No. B 24&25, NICE, Industrial Area, Satpur, MIDC, Nashik 422007                      |
+| Cloud.esds@gmail.com                            | E mail: sanchit[at]esds[dot]co[dot] in                   |
+|                                                 |
+| Microsoft                                       |                                                          | Mr Sanjeev P Rege                                                                                                           | sanjeevr@microsoft.com,+91 9833888615                                                                                                                                     | Microsoft Corporation (India) Private Limited, Level 10, Tower C, Epitome, Building No.5, DLF Cyber City, Phase-3, Gurgaon -122002 |
+| Mr Balachandran Nair N                          | balanair@microsoft.com, +91 9619899403                   | Microsoft Corporation (India) Pvt Ltd, Windsor, 4th Floor, Off CST Road, Kalina, Santacruz (E), Mumbai 400098               |
+|                                                 |
+| SIFY                                            | Mr Manav Aggarwal                                        | manav.aggarwal@sifycorp.com, 9910105958                                                                                     | B-7, Sector -132, Gautam Budh nagar Noida 201301                                                                                                                          |
+| Mr Neerad Dwivedi                               | neerad.dwivedi@sifycorp.com 9818227 875,                 |
+| PWC                                             | Mr Shivendra Singh                                       | shivendra.singh@in.pwc.com. +919611107583                                                                                   | PricewaterhouseCoopers Private Limited The Millenia, Tower 'D', 3rd Floor, No. 1 & 2 Murphy Road, Ulsoor, Bangalore-560008                                                |
+| Mr Sathish Kumar Mani                           | sathish.mani@in.pwc.com. +917760979548                   |
+| Net Magic                                       |                                                          | Mr Prasad Tilve                                                                                                             | prasad.tilve@netmagicsolutions.com, 9967359511                                                                                                                            | Netmagic IT Services Ltd., 24 & 30, Ground Floor, Okhla Industrial Estate, Phase-III, New Delhi-110020                             |
+| Mr Zamiruddin Shaikh                            | zamiruddin.shaikh@netmagicsolutions.c om,9686454522      | Lighthall C wing, Hiranandani Business Park, Saki Vihar Road, Chandivali, Andheri€, Mumbai-400072                           |
+| Aarti Soni                                      | aarti.soni@netmagicsolutions.com, 9820972783             | E mail: sourabh[dot]gaggar[at]wwindia[dot]com                                                                               |
+| Tel no.: +91-8586806211                         |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Additional information to Annexure 1
+As an example for Sizing of Infrastructure of any project:
+1. Select the Cloud (Public, Private or Community)
+2. Select the Virtual Server configuration(Pack 1 to Pack 20) from Section A
+3. Select the Primary or DR or DC+DR as per requirement
+Page 3 of 4
+# Page 4
+Government Circular No.: - 060/3/2017/2
+4. Then Select additional Storage if required from Section B 5. Then select the database required from Section C 6. This will give the total amount required for the Selected Infrastructure.
+7. Additional components can be selected like media transcoding etc. as per project requirement.
+Annexure 1 of this Circular supersedes the Annexure 1 of Government Circular No. aiši- 060/3/2017/ 1 Cloud Computing Policy-Empanelment of Cloud Service Providers and Guidelines for Government Organizations dated 16th May 2018
+This Government Circular of Maharashtra Government is available at the website
+# Page 5
+# Page 6
+# Page 7
+# Page 8
+# Page 9
+# Page 10
+# Page 11
+# Page 12
+# Page 13
+# Page 14
+# Page 15
+# Page 16
+# Page 17
+# Page 18
+# Page 19
+# Page 20
+# Page 21
+# Page 22
+# Page 23
+# Page 24
+# Page 25
+# Page 26
+# Page 27
+# Page 28
+# Page 29
+# Page 30
+# Page 31
+# Page 32
+# Page 33
+# Page 34
+# Page 35
+# Page 36
+# Page 37
+# Page 38
+# Page 39
+# Page 40
+# Page 41
+# Page 42
+# Page 43
+# Page 44
+# Page 45
+# Page 46
+# Page 47
+# Page 48
+# Page 49
+# Page 50

@@ -1,0 +1,30 @@
+# Page 1
+Approval of new head of accounts and computer statistics for the National Apprenticeship Promotion Scheme.
+The Government of Maharashtra
+Department of Skills, Employment, Entrepreneurship and Innovation
+Government Resolution No:- Rashi-2022/ P.S. No.64/ P.S.-3
+Madam Cama Marg, Hutatma Rajguru Chowk,
+Mantralaya, Mumbai- 400 032
+Date of release: November 10, 2022
+Read:- 1. Government Decision dated 02.08.2022. Ministry of Finance of India. of expenditure PFMS Division letter dated 23.03.2021
+Letter dated 13.07.2021 from the Central Government, Ministry of Skill Development and Entrepreneurship No.F.No.MSDE 12/01/2019-AP (PMU)
+Introduction: National Apprenticeship Promotion Scheme is a Centrally Sponsored Scheme. The scheme is implemented in the state as per the Central Government Apprenticeship Act, 1961. The scheme is being implemented through a notification issued by the central government from time to time.
+Under this scheme, candidates who have completed their training in Industrial Training Institute are trained as apprentices in Industrial Establishments. Accordingly, the Central Government pays the stipend per candidate to the industrial establishments. In order to ensure proper utilization of funds available under the scheme, the Central Government vide Reference No. Under letters 2 and 3, instructions have been given to open SNA account by linking National Apprenticeship Promotion Scheme with PFMS system. Accordingly, the matter of approving new accounting and computer statistics for the scheme was under consideration of the Government.
+Government Decision: Reference No. Administrative approval has been granted. The new accounting and computer specifications required to budget the funds for this Centrally Sponsored Scheme and to meet the expenditure on the educational stipend of the trainees are being approved as under.
+# Page 2
+Government Resolution No:- ITI-2022/ P.S. No.64/ Person-3
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Marathi           | English  |
+| Demand Number     | ZA- 2    |                                                                                        | Demand No.     | ZA-2      |
+| Main article      | 2230     | Labour, Employment and Skill Development                                               | Major Head     | 2230      | Labour, Employment and Skill Development |
+| Deputy Accountant | 03       | Training                                                                               | Sub Major Head | 03        | Training                                 |
+| subheading        | 102      | the candidate training.                                                                | Minor Head     | 102       | Apprenticeship Training                  |
+| group title       | (01)     | the candidate training.                                                                | Group Head     | (01)      | Apprenticeship Training                  |
+| Sub-group title   | (01)(03) | National Apprenticeship Promotion Scheme (100% Centrally Sponsored Scheme) (Programme) | Sub Group Head | (01)(03)  |                                          | National Apprenticeship Promotion Scheme (100% Centrally Sponsored Scheme) (Scheme) |
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+There are also eight digits 22309826 under the head 2230 and 102 under the head 102.
+The computer is a mess.
+This Government Resolution was issued by the Office of the Accountant General (Accounts and Entitlements)-1, Maharashtra, Mumbai
+No.S.V/ Cha-1/ Skill Development and Entrepreneurship Department/ UOR- 68/2022-23 dated
+26.09.2022 and is being issued with the approval of Department of Finance.
+# Page 3

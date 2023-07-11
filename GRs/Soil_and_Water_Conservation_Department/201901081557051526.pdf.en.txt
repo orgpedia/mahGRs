@@ -1,0 +1,56 @@
+# Page 1
+To give administrative approval to the proposal for marking of soil and water conservation treatments by external agencies using satellite based maps.
+The Government of Maharashtra
+Department of Soil and Water Conservation
+Government Resolution No: JASIA-2018/ PR No.473/ JAL-7
+Madam Cama Marg, Hutatma Rajguru Chowk,
+Ministry, Mumbai- 400 032.
+Date: January 8th, 2019
+Department of Soil and Water Conservation, Government Resolution, No. 2014/ No. 203/ Jal-7, dated 5th December, 2014.
+Department of Information Technology (DIT), Government Resolution, No.1716/ Q.No. 286/39 dated 09th August, 2016.
+Department of Information Technology (DIT), Government Resolution No: MATSAN-1717/ PR No. 111/39, dated 03.04.2018.
+Director, Soil Conservation and Watershed Management, Pune vide letter No. Mridsa/ Jayushi/ Mrida 2/2859/2018 dated 21st December, 2018.
+Hariyali, DPAP, Mahatma Phule Jal Abhiyan, Cement Barrage, Integrated Watershed Management Programme etc. Since 2015, the data of the works done under soil and water conservation in various schemes is being compiled digitally using modern technology (Remote Sensing, GIS, GPS, MIS).
+It is proposed to create a Geo Portal of the Department to collate village-wise data of works done in the catchment areas under the Department of Soil and Water Conservation along with the latitude and longitude. This is mainly in villages covered under the Jalyukt Shivar Abhiyan.
+# Page 2
+Government Resolution No: JASIA-2018/ PR No.473/ JAL-7
+Natural resource activities undertaken prior to and under the Mission need to be tracked with the help of satellite imagery.
+In the meeting held on 04.01.2019 under the Chairmanship of Secretary (Soil and Water Conservation), the Project Implementation Committee discussed the proposal for marking of soil and water conservation treatment by external agencies using satellite based maps.
+As per the decision taken in the meeting, the Project Implementation Committee has agreed to conduct e-tendering and work through external agencies to identify the soil and water conservation practices in the villages selected under the Jalyukt Shivar Abhiyan from 2015-16 to 2018-19. Under the Jalyukt Shivar Abhiyan, 22,598 beneficiaries have been selected in four years from 2015-16 to 2018-19.
+The Government was in the process of giving administrative approval to the manpower, resources, cost estimates, project duration, e-tendering process etc. required to mark the treatment of soil and water resources in the villages using satellite based maps by external agencies.
+Government Decision: Under the" Water-Shortage-Free Maharashtra for All-2019," Jalyukt Shivar Abhiyan is being implemented as per the relevant Government Decision dated 5th December, 2014. Under this campaign, 22,598 villages have been selected in four years from 2015-16 to 2018-19. In 5, Namud treatment is being approved by an external agency for marking using satellite based maps.
+Objectives of the Jio Portal:
+2.1 To digitally collate all the soil and water conservation works done before and after 2015 in the total 44,000 villages of the state.
+2.2 Stop duplication of work and control of finances while preparing the plan.
+2.3 To obtain information on the number of works/ area taken up village-wise.
+Page 2 of 5
+# Page 3
+Government Resolution No: JASIA-2018/ PR No.473/ JAL-7
+2.4 To make information available to the citizens at the village level about the works done on the basis of" Matha to Paytha" in the catchment area.
+2.5. To take note of the existing works for preparing village level plan for NRM works to be taken up under Soil and Water Conservation Department.
+2.6 Preparation of water balance.
+2.7. Compile online geo-tag information of all schemes of Soil and Water Conservation Department.
+Nature and scope of work:- In the first phase, under the Jalyukt Shivar Abhiyan, soil and water conservation treatment will be identified in 22,598 villages selected in four years from 2015-16 to 2018-19 and approximately 50 to 60 works will be identified in one village.
+4. Available Information:- The GIS Cell at the office of Vasundhara Watershed Development System, Pune provides information on field treatment and GIS.
+Using the human resources in the classroom, use the following information for Geo-Portal.
+4.1 Village No. / Information Survey No.
+4.2 Village Boundary 4.3 Watershed Lines 4.4 Village wise Rivers/ rivulets/ streams/ ponds/ water bodies etc.
+5. The soil and water conservation works to be marked using satellite based maps by external agencies are as follows.
+------------------------------------------------------------------------------------------------------------------------------------------
+| The type of work |
+| A.A.             | Control treatment                         | A.A. | The field of treatment                                           |
+| 1                | Small earthen bunds and rough stone bunds | 1.   | Consecutive Equivalent Variable/ Deep Consecutive Plane Variable |
+| 2                | Gabion Dam and Mud Drain Dam              | 2    | Farms                                                            |
+| 3.               | Cement Nala Dam and Diversion Barrage     |
+| 4                | gated barrage                             |
+| 5                | Kolhapuri Barrage (K. T. Weir)            |
+| 6                | Drain deepening/ de-silting.              |
+------------------------------------------------------------------------------------------------------------------------------------------
+Page 3 of 5
+# Page 4
+Government Resolution No: JASIA-2018/ PR No.473/ JAL-7
+6. The above-mentioned villages selected under Jalyukt Shivar Abhiyan are being approved to be marked by an external agency within a period of two and a half months using satellite-based maps.
+The Director, Soil Conservation and Watershed Management, Pune shall take further appropriate action in the matter of selection of agency and fixing of rate per village by adopting the e-tendering process for marking the treatments mentioned in Para-5 of Soil and Water Conservation on the satellite image by an external agency.
+Approval is being given for the proposal of Rs. 40.00 lakh for the work to be carried out by an external agency after e-tendering, inspection and verification of the work done and providing information and other incidental expenses.
+The expenditure for this purpose will be provided from the provisions of the head of account in Demand No.ZH-3, Head of Accounts-2402, Control and Evaluation of Soil and Water Conservation Schemes (Programme) 27, Small Constructions (2402 A201).
+# Page 5

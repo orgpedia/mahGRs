@@ -1,0 +1,40 @@
+# Page 1
+Necessary instructions regarding the use of e-Examination Management System MahaPariksha Portal.
+The Government of Maharashtra
+Department of General Administration (Information Technology)
+Government Circular No. Month- 0088/27/2016- DIR IT (MH)
+Hutatma Rajguru Chowk, Madam Cama Road
+Mantralaya, Mumbai- 400 032
+Date is November 28, 2018
+Reference: Government Decision No:-Month- 0088/27/2016-DIR IT (MH), dated- 19/09/2017.
+General Administration Department (Information and Technology) Government Decision No. Matans- 088/27/2016, Dy. The online examination will be conducted on 19th September 2017. The exam is conducted by Maharashtra Information Technology Corporation (MAHI).
+The modalities of the Mahapariksha Portal have been decided as per the decision of the Government in this regard. Accordingly, examinations of various departments are conducted through the MahaPariksha portal. Complaints are received from candidates, public representatives, social media and other concerned departments regarding this portal and the examination conducted. Meetings are held periodically with the representatives of the Global Institutions (GIs) and Technical Monitoring Committees (PWCs) of the said Portal. As per the discussions held in these meetings, the matter of issuing necessary instructions to streamline and streamline the functioning of the Mahapariksha Portal was under the consideration of the government.
+Government Circular: System Integrator (UTI) for smooth and smooth conduct of examinations conducted through MahaPariksha Portal (www.mahapariksha.gov.in). The following suggestions are being made to the ST Global Institutions:
+The examination will be conducted at the district and taluk levels.
+The examination shall be conducted only in AICTE/ State/ University recognized (registered)/ Government recognized colleges/ educational institutions. It should not be taken in any other private institution or cyber cafe.
+Adequate private security and necessary police arrangements should be provided along with security inside the examination centres.
+The question paper should be reviewed before preparing and publishing the answer key.
+# Page 2
+Government Circular No.: MATANSAM- 0088/27/2016-DIR IT (MH)
+Questions in the examination should be set according to the syllabus given by the concerned department.
+The question bank for preparing the question paper should contain a large number of questions.
+Password should be safe to open the question paper at the time of examination and the question paper should be in PDF format.
+8) The examination shall be conducted as per schedule and the results shall be declared in due course.
+9. Sample question papers should be made available on the Maha-Pariksha portal before the respective examination.
+10.There will be only one attempt available for any candidate to take the exam for a single post. Even for that position there will be more than one session.
+11.Per cent CC TV footage of the concerned examination shall be made available to Maha-IT within 22 hours of completion of the examination.
+12.Usually, the examination should not be conducted in more than two sessions per day.
+13. Meeting arrangement to be displayed at the examination centre.
+14.Previous depictions of all examinees in the examination should be included in the CC TV.
+15. The centre at which the examination is to be conducted should be controlled from one place.
+All the concerned examinees should be provided with the answer sheet/ prospectus within 10 days after the examination. (Answer/ Response Sheet) 17.Technical evaluation of standardized tests should be done from time to time. All errors in the examination system that appeared in this technical examination should be corrected immediately.
+The normalization process of these examinations should be relaxed.
+19.Resolving complaints received regarding the general examinations should be done immediately. They should be resolved within 30 days.
+20. Penal procedure for malpractices in examinations should be outlined and strictly enforced.
+The invigilators to be appointed for conducting the examination in the examination centres should be mainly teachers/ retired teachers of the school/ college with at least 5 years of experience in conducting the examination.
+UPS, DG Sets, LAN Connectivity etc.
+23.Provide necessary control over all aspects of the examination process until the examination is finally over.
+All concerned are requested to strictly follow the above instructions.
+Page 2 of 3
+# Page 3
+Government Circular No.: MATANSAM- 0088/27/2016-DIR IT (MH)

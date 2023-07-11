@@ -1,0 +1,81 @@
+# Page 1
+Grant of administrative approval for purchase of computers and printers for the office of the Chief Electoral Officer, State of Maharashtra
+The Government of Maharashtra
+the General Administration Department
+GOVERNMENT DECISION NO. STY-2023/ PR No. 27/23/33
+Madam Cama Marg, Hutatma Rajgaru Chowk,
+Mantralaya, Mumbai- 400032
+Date: February 10, 2023.
+GOVERNMENT DECISION, INDUSTRY, ENERGY AND LABOUR DEPARTMENT, NO. BHANKHAS-2014/ PR.No.82/ PART-3/ INDUSTRY-4, dated 01.12.2016
+After the Assembly General Elections-2019, the Finance Department had banned the purchase of computer sets due to the lockdown announced due to the outbreak of the COVID-19 epidemic.
+As a result, computers have not been purchased for the election branch for the last three years. All available computers have been distributed to the officers/ employees of the institute and are being repaired in case of failure. At present, administrative approval is being given for the immediate purchase of 5 computers (all in one) and 5 printers of the following specifications as it is necessary to purchase new computers and printers to make it possible to provide a new computer set in case a computer is lost.
+Computer (all in one)
+--------------------------------------------------------------------------------------------------------------
+| Parameters                                       | Specifications                                          |
+| Processor Make                                   | Intel/AMD                                               |
+| Processor Generation and Above                   | Latest                                                  |
+| Processor Description                            | Intel Core i3/i5/Ryzon 3/5                              |
+| Chipset Series                                   | H/Q/AMD Pro 500                                         |
+| Graphic type                                     | Integrated                                              |
+| Operating System (Factory Pre-Loaded)            | Windows 10 Profesional                                  |
+| OS Certification                                 | Windows                                                 |
+| Type of RAM                                      | DDR4                                                    |
+| RAM Size (GB)                                    | Minimum 4/8                                             |
+| RAM Speed (MHz)                                  | 3200/2666                                               |
+| RAM Expandability upto                           | 32/64                                                   |
+| Type of Drives used to populate the Intrnal Bays | HDD/SSD                                                 |
+| Total HDD Capacity (GB)                          | 1000/512                                                |
+| WiFi                                             | Yes                                                     |
+| Bluetooth                                        | Yes                                                     |
+| Number of Ethernet Ports                         | 1                                                       |
+| Type of Ethernet Ports                           | 1 x Gogabit Port                                        |
+| Number of USB 3.2 Version or above               | 4                                                       |
+| HDMI                                             | 1                                                       |
+| Number of DP Ports minimum                       | 1                                                       |
+| LED Backlit Monitor Size                         | Minimum 23.8 inches diagonal, FHD (1920x1080), IPS, Non |
+--------------------------------------------------------------------------------------------------------------
+# Page 2
+GOVERNMENT DECISION NO.: STY-2023/ PR No. 27/23/33
+-----------------------------------------------------------------------
+| Inbuilt Camera, Speaker, Microphone with Port |  (USB 3.1× 1) | Yes |
+| Power Supply Capacity (Watt)                  | Max 120       |
+| ROHS Compliance, WIndows,Linux                | Yes           |
+| BEE/Energy Star for the given Model           | Yes           |
+| Mouse Connectivity                            | Wired         |
+| Keyboard Connectivity                         | Wired         |
+| On Site OEM Warranty Year)                    | 3/5 years     |
+-----------------------------------------------------------------------
+(a) The printers
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Parameters                                            | Specifications                                                                                                                                           |
+| Printer Technoloigy                                   | Laser/Inkjet                                                                                                                                             |
+| Type of Printing                                      | mono                                                                                                                                                     |
+| Paper Size                                            | A4                                                                                                                                                       |
+| Print speed per minute as per ISO/ IEC 24734 in QAULO | Minimum 20 PPM                                                                                                                                           |
+| Duplexing feature                                     | Yes                                                                                                                                                      |
+| Wireless Connectivity                                 | Yes/No                                                                                                                                                   |
+| Number of Main paper Trays                            | 1                                                                                                                                                        |
+| Bypass tray facility                                  | Yes                                                                                                                                                      |
+| On site OEM Warranty Years)                           | 3/5                                                                                                                                                      |
+| Resolution (Dpi)                                      | Minimum 1200x1200 dpi                                                                                                                                    |
+| Processor Speed                                       | 750 MHz or above                                                                                                                                         |
+| Duplex Print Speed (IPM)                              | 18                                                                                                                                                       |
+| Network Connectivity                                  | yes                                                                                                                                                      |
+| Network Interface, if available                       | Ethernet 10/100                                                                                                                                          |
+| If yes, Type of Wireless Connectivity                 | No                                                                                                                                                       |
+| USB Port                                              | ves                                                                                                                                                      |
+| Each Main Paper Tray Capacity                         | Minimum 250                                                                                                                                              |
+| Yeild of the cartridge/ Ink Tank/ Ink Pack supplied   |  with Printer (Per set)- blackYeild of the cartridge/ Ink Tank/ Ink Pack supplied with Machine as per ISO/ IEC: 19752/2004€ for Black 9Number of Prints) | Minimum 1000 |
+| Duty Cycle/Month (No of Prints)                       | 30000                                                                                                                                                    |
+| BIS Registration under CRS of meity                   | yes                                                                                                                                                      |
+| Other Certifications available                        | UL,CE                                                                                                                                                    |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Government Decision Number issued by the Department of Industry, Energy and Labor regarding the rulebook of procedures for office purchases to be made by the government department while making these purchases:
+The prescribed procedure as mentioned in the Bhankas-2014/ S.No.82/ Part-3/ Industry-4, dated 01.12.2016 should be followed.
+(3) Specifications of all-in-one computers and printers
+Certified by the company.
+Page 2 of 3
+# Page 3
+GOVERNMENT DECISION NO.: STY-2023/ PR No. 27/23/33
+The expenditure for this purpose shall be met from the grant sanctioned for the financial year 2022-23 under the head" Demand No. A-2, 2015-Elections, 102-Electors, (00) (01) Election Officers, (20150012), 17- Computer Expenditure."
+This Government Resolution is being incorporated under the powers vested in the Administrative Department as per Rule No. 76 of the Financial Powers Rules Book, Part-I, Sub-Division-II, Roll No. 27-A, dated 17.04.2015 under the Government Resolution, Finance Division No: 2013/ PR No. 30/13/ Regulations.

@@ -1,0 +1,31 @@
+# Page 1
+Datsai Multistate Co-op Milk and Milk Products Ltd. Chilawadi T.G. Osmanabad
+A proposal to set up a new milk processing plant with a capacity of 10,000 litres has been given administrative approval.
+The Government of Maharashtra
+Department of Agriculture, Animal Husbandry, Dairying Development and Fisheries
+Govt. Purse No.: RAKUVI 2018/ PR No.70/ PADUM-8
+Ministry- Extension, Mumbai 400 032
+Date: 15th of June 2020
+Reference: Government Resolution No. 11th June 2020.
+The table under the heading" Government Decisions" in the Government Referendum-Contextual Government Decisions is as follows:
+-----------------------------------------------------------------------------------------------------------------------------------
+| A.A.  | Details                 | Project Cost (Rs. in Lakhs) | share of the government. (50%) | Beneficiary share (50%) |
+| 1.    | The plant and machinery | 232.46                      | 116.23                         | 116.23                  |
+| 2.    | Urban Construction      | 169.67                      | 84.83                          | 84.83                   |
+| 3.    | For BMC                 |  Construction               | 17.00                          | 8.5                     | 8.5  |
+| 4.    | For BMC                 |  Equipment                  | 17.83                          | 8.91                    | 8.91 |
+| 5.    | Technical Consultant    | 19.66                       | 9.83                           | 9.83                    |
+| Total | 456.62                  | 228.31                      | 228.31                         |
+-----------------------------------------------------------------------------------------------------------------------------------
+Instead, the table should read as follows:
+---------------------------------------------------------------------------------------------------------------------------------
+| A.A.    | Details                 | Project Cost |  (Rs. in Lakhs) | share of the government. (50%) | Beneficiary share (50%) |
+| 1.      | The plant and machinery | 232.46       | 116.23          | 116.23                         |
+| 2.      | Urban Construction      | 169.67       | 84.835          | 84.835                         |
+| For BMC |  Construction           | 7.00         | 3.5             | 3.5                            |
+| 4.      | For BMC                 |  Equipment   | 17.82           | 8.91                           | 8.91                    |
+| 5.      | Technical Consultant    | 9.05         | 4.525           | 4.525                          |
+| Total   | 436.00                  | 218.00       | 218.00          |
+---------------------------------------------------------------------------------------------------------------------------------
+# Page 2
+Govt. Purse No.: RAKUVI 2018/ PR No.70/ PADUM-8

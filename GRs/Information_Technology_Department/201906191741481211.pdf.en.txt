@@ -1,0 +1,35 @@
+# Page 1
+Cloud Computing Policy Instructions to Departments regarding hosting of IT applications.
+Government of Maharashtra
+General Administration Department
+Addendum to Government Circular No. GAD-IT-060/3/2017
+Hutatma Rajguru Chowk, Madam Cama Road,
+Mantralaya, Mumbai - 400 032
+Dated 19th June, 2019
+Introduction
+Considering the growing adoption of online services by citizens of the State & use of IT within Government, there is a constantly increasing demand from Departments for infrastructure for hosting services including disaster recovery and backup for their various IT applications.
+Para 7.13 of the State's e-Governance policy (DIT GR dated 23.09.2011)," The State shall explore the option of cloud computing as a preferred way for implementing all e-Governance projects in the State. The government had set up a committee headed by Principal Secretary IT to prepare the Cloud Computing Policy of the state. It is proposed to communicate the salient features of the State's Cloud Computing Policy to all Departments and issue operational instructions regarding the steps to be followed by the Departments.
+The following instructions are issued in addendum to earlier instructions issued in this regard.
+Government Resolution
+1. The following instructions will apply to all Government Departments, sub-ordinate offices, Public Sector Undertakings, Urban and Rural Local Bodies & any body/organization set up under any law of the State Government (henceforth collectively referred to as "Government organizations")
+2. In case of existing applications not hosted in a cloud environment, Government organizations must ensure that the applications are migrated to cloud on or before 31.03.2020. All Departments must review their existing software applications and ensure that the applications are cloud ready in time for the above migration.
+3. To Further Expedite the Migration of department applications and websites to Cloud selection of cloud service providers/ do Migration of existing applications to cloud and hosting of new applications, PIC of DIT is hereby authorized for selection of CSP for other department projects in presence of Secretary (or his representative) of departments in DIT PIC.
+4. Whenever departments are to avail the cloud services, they may send a detailed note to DIT for a PIC meeting and DIT PIC to be convened by DIT accordingly. Budget and payments for cloud services will continue to be provided by concerned parent department.
+All the concerned departments to make judicious use of cloud and its offerings appropriately and without delay.
+5. Website and Application Security audit is Mandatory for hosting on Cloud. DIT / CERT-IN empanelment of Security audit Agencies be used for this Audit. Submission of Security audit report and Certificate along with Audited source code to DIT is mandatory before going live on internet.
+# Page 2
+Government Resolution No.: GAD-IT-060/3/2017
+6. As per Supreme Court of India and Bombay High Court Order on GIGW compliances of
+Websites below Process for hosting of Application on cloud(CSP) is being included but not limited to below:
+1. Website should be in compliance with eGovernance Standards of Government of India 2. Technical Standards for Interoperability Framework for e-Governance (IFEG) in India Version 1.0 or higher
+1. MDDS- Demographic Standards,Character Encoding, Font Standard, eGov.BIDS 2. eSAFE-ISF01, eSAFE Framework (and associated documents) or higher
+3. Guidelines for Usage of Digital Signatures in e-Governance 4. Policy on Open Standards for e-Governance, Framework for Mobile Governance
+5. e-Governance policies of Government of Maharashtra 6. Guidelines of Indian Government Website (GIGW)
+7. WCAG 2.0 or higher standard, W3C
+8. Other e-Governance standards of Government of India (egovstandards.gov.in)
+7. Compliance Certificate submission by Department has to be done for showing above compliance to DIT.
+8. Details of the website such as Operating System, Database used, Web Servers used, Data Storage required, architecture, functionality, framework used etc. needs to be provided to DIT/SDC for due scrutiny as and when asked for by DIT
+9. Chief Information Security Officer (CISO) of DIT/SDC will analyze the documents submitted
+by department along with security audit certificate, and will submit acceptance or rejection report for hosting on cloud (CSP)
+This Government resolution of Maharashtra Government is available at the website
+# Page 3

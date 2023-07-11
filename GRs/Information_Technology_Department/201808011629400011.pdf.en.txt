@@ -1,0 +1,134 @@
+# Page 1
+Regarding Empanelment of Agencies for Mobile Application Development in Government of Maharashtra
+Government of Maharashtra
+Directorate of Information Technology
+Government Resolution No: GAD-061/2/2014-0/O DIRECTORATE OF IT-DIT
+(MH) Mantralaya (Annexe), Mumbai - 400 032
+Date: 1st August, 2018
+Reference:- DIT GR GAD-061/2/2014-0/O DIRECTORATE OF IT-DIT (MH), Dated-2nd
+September, 2014.
+Background Government of Maharashtra has envisaged comprehensive m-Governance programs (Mobile Applications Development) across all departments to bring in greater efficiency and transparency in service delivery. In order to develop and manage the above applications and initiatives, the State Government had proposed to seek the services of reputed IT organization having relevant experience to work with the State. Accordingly, a tender was floated and bid was invited from reputed IT firms for empanelment for a period of five (5) years to work with the State government in providing IT & ITeS services for various Mobile Application development activities.
+Government Resolution As per the evaluation of the tender and subsequent decision in Project Implementation Committee (PIC), following companies (ref. Annexure 1) are qualified and empanelled with Government of Maharashtra for a period of five years i.e. from 1th Augest 2018 to 31st July 2023 to provide IT services for m-Governance (Citizen Centric Mobile Applications Development) activities in Maharashtra. All department of Government of Maharashtra or the allied offices /corporations/boards (Independent bodies) etc. can avail the IT services from these firms.
+1. M/s Clavax Technologies Pvt. Ltd., Gurugram (HR) 2. M/s C-Net Infotech Pvt. Ltd., Bhopal (MP) 3. M/s Empover I Tech Pvt. Ltd., Hyderabad (TL) 4. M/s ESDS Software Solution Pvt. Ltd., Navi Mumbai (MH) 5. M/s Inscripts (1) Pvt. Ltd., Mumbai (MH) 6. M/s NetCreative Mind Solutions Pvt. Ltd., New Delhi 7. M/s Silver Touch Technologies Ltd., Ahmedabad (GJ) 8. M/s SmartCloud Infoservices Pvt. Ltd., Pune (MH) 9. M/s Trivial Works Solutions Pvt. Ltd., Mumbai (MH) 10. M/s Virtual Galaxy Infotech Pvt. Ltd., Nagpur (MH)
+2. The rates for different categories of IT Resources as fixed by Government of Maharashtra for the above firms are given below.
+-----------------------------------------------------------------------------------------------------------------
+| Category                     | Experience             | Rates in INR - Per Month Per Person (Excluding Taxes) |
+| Project Manager              | >=9 Years              | 35,000/                                               |
+| Business Analyst             | >=2 Years              | 25,000/                                               |
+| Sr. Software Developer       | >=4 to <8 Years        | 35,000/                                               |
+| Software Developer           | >=1 to <=3 Years       | 25,000/                                               |
+| User Interface (UI) Designer | >=2 to <5 Years        | 25,000/                                               |
+| Software Tester              | >=1 months to <3 Years | 18,000/                                               |
+-----------------------------------------------------------------------------------------------------------------
+# Page 2
+Government Resolution No.: GAD-061/2/2014-0/O DIRECTORATE OF IT-DIT (MH)
+Note: I. The above rates will apply for all work orders issued after the date of issue of this Government Resolution.
+II. The above rates are excluding of Government taxes and OPE (Out of Pocket Expenses).
+III. The rates mentioned above are valid for the 1st year and thereafter DIT reserves the rights to increase 10% in price every year after evaluation.
+3. This Government Resolution is applicable only for m-Governance (Mobile Application Development) projects.
+4. Types of resources and their required educational qualification is as given in the table below.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Sr.No. | Profile                      | Educational Qualification                                                                                                                                                                                      |
+| 1.     | Project Manager              | BE/BTech/MCA/MSc (Computer Science, Information Technology, Electronics and Telecom.) relevant experience in IT (PM Certification Preferable)                                                                  |
+| 2.     | Business Analyst             | MBA with BE/BTech/MCA/MSc (Computer Science, Information Technology, Electronics and Telecom.) relevant experience in IT                                                                                       |
+| 3.     | Sr. Software Developer       | BE/BTech/MCA/MSc (Computer Science, Information Technology, Electronics and Telecom.) relevant experience in mobile application development in iOS / Android / Windows & Native Code / PhoneGap / Similar tool |
+| 4.     | Software Developer           | BE/BTech/MCA/MSc (Computer Science, Information Technology, Electronics and Telecom.) relevant experience in mobile application development in iOS / Android / Windows & Native Code / PhoneGap / Similar tool |
+| 5.     | User Interface (UI) Designer | Graduate in any discipline with relevant experience in IT having screen designing, Photoshop.                                                                                                                  |
+| 6.     | Software Tester              | Graduate in any discipline with relevant experience IT & Software Testing                                                                                                                                      |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+5. Selection of the Vendor: Any department of Government of Maharashtra may appoint any of the empanelled Vendor for m-Governance related work in the state at the rates mentioned in this Government Resolution. For selection of Vendor on *Man-Month basis through this empanelment Government Resolution, following should be followed.
+a. Departments need to finalize the scope of work / concept note (ref. Annexure 2) for development of Mobile Application with concurrence of DIT.
+b. Thereafter concern department should circulate the scope of work/concept note among empanelled vendors and call for presentation before their Project Implementation Committee (PIC). The notice for the same should be sent at least 10 days in advance.
+C. Interested empanelled agencies will make presentations in front of Project Implementation Committee (PIC) of concern department and quote estimated efforts in man-months, PIC will evaluate the agencies and rationalize the man months efforts of selected agency. One representative from DIT & NIC should involve in PIC of concern Department.
+d. Based on the presentation, the vendor's understanding of the project output and quality of resources proposed, the PIC may select based on their requirement.
+[*Man-Month means 1 resource working for 1 month (Calendar working days as per GoM)].
+Page 2 of 8
+# Page 3
+Government Resolution No.: GAD-061/2/2014-0/O DIRECTORATE OF IT-DIT (MH)
+e. Concern Department of GoM will shortlist application based on merit of idea and select a vendor from the empaneled list to develop the application through presentation in front of Project Implementation Committee (PIC).
+f. Concern Department of GoM may sponsor the application once it is approved by PIC of concern department.
+g. The selected vendor need to follow the procedure as per Annexure 3 for developing the mobile application of concern Department.
+h. All necessary technical documents (Design Document / System Requirement Specification Document) should be verified by DIT before development of mobile application, for compatibility with existing I.T. system(s) if any.
+i. The mobile application of concern Department should be developed under observation of DIT.
+j. The mobile application which need to develop should be compatible for concurrent / cross platform(s).
+k. After development of mobile application, the concern department may do the User Acceptance Testing (UAT) along with representative of DIT and give the sign off for the same.
+I. The empaneled agency may be responsible to provide the training to the representatives of concern department for particular mobile application.
+m. The payment against work completed by empaneled agency may be done from concern department.
+n. The Empanelled vendors may raise invoices after UAT acceptance and sign off from user Department. Department will make payment against invoice ordinarily within 30 days from date of receipt of the invoice.
+6. Terms and Conditions: a. Each Empaneled Vendor has been empaneled for period of 5 years with effected from the date of issue of Government Resolution. Validity of empanelment may be extended for a further period depending upon the requirement and administrative convenience of Directorate Information Technology (DIT) Maharashtra. DIT Maharashtra, however, reserves right to terminate registration of empaneled agency, individual any time without giving any notice to the empaneled agency owing to deficiency of service, sub-standard quality of manpower deployed, breach of contract etc. or without giving any reason.
+b. Irrespective of the initial/extended period, the empanelment will deem to be operative until close of assigned projects, and hence agencies deploying resources would ensure the resources availability until completion of the work in hand which will under no circumstances extend to more than 3 months after the finishing of the empanelment with DIT Maharashtra.
+C. DIT Maharashtra will review the Empaneled vendors after every Two years. DIT reserves the right to remove in-active agencies after review and add new empanelled agencies in their place after following due processes.
+d. Empaneled Vendors are allowed only for providing software solution (Mobile Application Development) and in no case they will be allowed for supply of hardware under any project.
+e. Application backend database, website for services needs if any, concern department of Government of Maharashtra will be responsible to deploy the same on cloud as per Directorate of Information Technology (DIT) cloud policy.
+f. The concern department / offices etc. will be responsible to bear the cost of additional services like Payment Gateway with Transaction, SMS Gateway with Transaction (if required to integrate with mobile application).
+g. The empaneled vendors are required to design, develop, deploy and maintain citizen centric mobile applications for Government of Maharashtra and its affiliates.
+h. The empaneled vendors may develop mobile applications on - Android, iOS & Windows platform (as per concern Department requirement).
+Page 3 of 8
+# Page 4
+Government Resolution No.: GAD-061/2/2014-0/O DIRECTORATE OF IT-DIT (MH)
+The empaneled vendors will be responsible for developing System Requirement Specification (SRS) document of mobile application which need to develop.
+j. The vendors may also be asked to redevelop, enhance, modify or maintain existing mobile applications.
+k. The project will be treated as "completed" only:
+i) UAT is completed and signed off by concerned Department.
+ii) The empaneled vendors must ensure back end software services offered by them are security audited and gets security audit certification from Cert-in empaneled agencies.
+iii) The Mobile application is hosted on account of DIT in Google Play Store, Apple App Store & Windows App Store.
+iv) Source code of the project along with detailed documentation and IPR is being transferred to concern department of Government of Maharashtra for State Software Repository.
+v) In case of customization of existing application, the source code and IPR will only be limited to the customization done for State Government and will need to be handed over to concern department of Government of Maharashtra.
+I. The expenses of security Audit of Software Application may bear by the concern department of Government of Maharashtra.
+m. Outsourcing of the mobile applications (m-Governance) are not allowed.
+This Government resolution of Maharashtra Government is available at the website www.maharashtra.gov.in. Reference no. for this is 201808011629400011. This order has been signed digitally.
+By order and in the name of the Governor of Maharashtra.
+Digitally signed by SV R Srinivas DN:c=IN, o=Government Of Maharashtra, ou=DIT(GAD), postalCode=400032, st=Maharashtra, SVR Srinivas 2.5.4.200e71dbf230047862bd06131d35fda97cba0c6a6c5e2ca7125fd8ba7f7201a47f , d56dcb4d3fc1f81eb6dfc5fcbe63, cn=SV R Srinivas
+(S.V.R. Srinivas)
+(Principal Secretary - IT) Government of Maharashtra
+To, 1. Secretary to the Hon'ble Governor of Maharashtra, 2. Secretary to Hon'ble Chief Minister, 3. Personal Secretary to ALL Ministers/All Ministers of State, 4. Personal Assistant to Chief Secretary, Government of Maharashtra 5. Additional Chief Secretary/Principal Secretary/Secretary of All Departments, 6. Registrar, High Court (Original Side) Mumbai, 7. Registrar, High Court (Appeal Side) Mumbai, 8. Registrar, Lok Ayukta, Up Lok Ayukta, Maharashtra State Mumbai, 9. Secretary, Maharashtra Public Service Commission Mumbai, 10. Secretary, Maharashtra Vidhan Mandal Sachiwalaya Mumbai, 11. Auditor, Accountant General (A&E), Maharashtra Mumbai, 12. Auditor, Accountant General (A&E), Maharashtra Nagpur, 13. Auditor, Accountant General (Audit), Maharashtra Mumbai, 14. Auditor, Accountant General (Audit), Maharashtra Nagpur, 15. Pay and Accounts Officer, Mumbai 16. Residential Audit Officer, Mumbai
+Page 4 of 8
+# Page 5
+Government Resolution No.: GAD-061/2/2014-0/O DIRECTORATE OF IT-DIT (MH)
+17. Director General of Police, Maharashtra State Mumbai 18. All Commissioners of Police, 19. All Divisional Commissioners, 20. Commissioners of All Municipal Corporations, 21. All Collectors, 22. All CEOs of Zilla Parishad / Municipalities, 23. All Departments of Mantralaya, 24. All Head of the Departments and Head of the Offices of Government of Maharashtra 25. Select file, DIT, General Administration Department, Mantralaya.
+Page 5 of 8
+# Page 6
+Government Resolution No.: GAD-061/2/2014-0/O DIRECTORATE OF IT-DIT (MH)
+ANNEXURE 1
+Contact Details of Empanelled Vendors:
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Sr. No. | Company Name                         | Address                                                                                                   | Phone No.    | Contact Person     | Email Id                    | Mobile No. |
+| 1       | Clavax Technologies Pvt. Ltd.        | 727, Udyog Vihar, Phase 5, Gurugram, Haryana 122016                                                       | 0124 4382002 | Rahul Bahuguna     | raulb@clavax.com            | 9200739473 |
+| 2       | C-Net Infotech Pvt. Ltd.             | E-5/4, 2nd Floor, Commercial Area, Arera Colony, Bhopal (MP)-462016                                       | 0755 4096912 | Anil Jaitty        | info@cnet india.com         | 8770139987 |
+| 3       | Empover I Tech Pvt. Ltd.             | Plot No. 237-238, R3 Zen Building, 2nd Floor, Kavuri Hills, Hyderabad-500018                              | 040 39998999 | Madhu Babu G.      | madhubabu.g@em pover.com    | 9030992313 |
+| 4       | ESDS Software Solution Pvt. Ltd.     | Plot No. Gen 71/1 & 71/1/1, Mahape Circle, Mahape MIDC, Navi Mumbai 400 710                               | 0253 6636500 | Peeush Malik       | peeush@esds.co.in           | 8888877321 |
+| 5       | Inscripts (1) Pvt. Ltd.              | Ground Floor, Shrikant Chember, V.N. Purva Marg, Chembur, Mumbai-400071                                   | 022 3051000  | Paresh Varu        | paresh.varu@inscri pts.com  | 9821486009 |
+| 6       | NetCreative Mind Solutions Pvt. Ltd. | B-10, Ansal Chamber 1, Bhikaji Cama Place, New Delhi - 110066                                             | 011 40550882 | Manoj Garg         | sales@netcreative mind.com  | 9810978433 |
+| 7       | Silver Touch Technologies Ltd.       | 2nd Floor, Saffron Tower, Nr. Panchwati Circle, Ahmedabad (GJ)-380006                                     | 079 26563158 | Rohan Pawaskar     | rohan.p@silvertou ch.com    | 9833882752 |
+| 8       | SmartCloud Infoservices Pvt. Ltd.    | Survey No 81, Opposite to Satellite Towers, Koregaon Park Annexe, Mundhwa, Pune, Maharashtra 411001       | 020 60300707 | Ashutosh Sathe     | ashutosh@scispl.co m        | 9822574956 |
+| 9       | TRIVIAL WORKS SOLUTIONS Pvt. Ltd.    | 546, Ijmima Commercial Complex, Mindspace Link Road, Malad (W), Mumbai                                    | 022 49729412 | Dhirendra Kushwaha | dhirendra@trivialw orks.com | 7897101108 |
+| 10      | Virtual Galaxy Infotech Pvt. Ltd.    | 3, Central Excise Colony, Behind Mahatme Eye Bank, Chhatrapati Sq., Ring Road, Nagpur- 440015 Maharashtra | 0712 6466309 | Piyush Jugade      | info@vgipl.com              | 9730755914 |
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Page 6 of 8
+# Page 7
+Government Resolution No.: GAD-061/2/2014-0/O DIRECTORATE OF IT-DIT (MH)
+ANNEXURE 2
+Format of Concept Note / Scope of Work of Mobile Application
+The below details should be included as the Concept Note / Scope of Work:
+1. Name of the Proposed Mobile Application.
+2. Background of the concern Department.
+3. Introduction of proposed Mobile Application.
+4. Workflow of proposed Mobile Application.
+5. Name of the Platform (s) on which Mobile Application need to develop like - Android /
+iOS / Windows.
+6. Kindly mention - Mobile Application should be bilingual (English & Marathi) or Multilingual (English, Marathi & other preferred language(s))
+7. Stakeholders of Mobile Applications.
+8. If any additional service(s) like Payment Gateway, SMS Gateway need to integrate with Mobile Application, kindly describe the same in workflow of Mobile Application.
+Page 7 of 8
+# Page 8
+Government Resolution No.: GAD-061/2/2014-0/O DIRECTORATE OF IT-DIT (MH)
+ANNEXURE 3
+Scope of Work for Developing Mobile Application:
+1. Creating the draft of technical documents / Content Write-up for application and prepare the development plan.
+2. Work for developing the Mobile Application.
+3. Necessary changes will be made in the Mobile Application, but concern Department will ask for more.
+4. Take care of upcoming change request(s) after go live of application.
+5. Providing information related to WikiLeaks, GIGW, W3C, Localization Competition,
+Functionality & Load Testing etc., as required by Assistant Business, Back End.
+6. The security audit of front end application and backend application need to be done before go live.
+Page 8 of 8

@@ -1,0 +1,95 @@
+# Page 1
+As per the Project Implementation Plan (PIP) for the year 2019-20, administrative approval for the cost of implementation of e-Sushrut Computer Operating System under Hospital Management System (HMS) in all the health institutions of 34 major hospitals and 6 districts of the state through Centre for Development of Advanced Computing (C-DAC), New Delhi.
+The Government of Maharashtra
+the Department of Public Health
+Government Supplementary No: PRASHAMA-0219/ PR No. 166/ Arogya 7
+10th Floor, Gokuldas Tejpal Hospital Complex Building,
+New Ministry, Mumbai- 400001.
+The date: June 28, 2021.
+GOVERNMENT DECISION, DEPARTMENT OF PUBLIC HEALTH, NO. PRASHAMA-0219/ PR. NO. 166/ HEALTH-7, dated 29.09.2020.
+Letter No. 2 of the Joint Director, Health Services, Hospitals (State Level), Mumbai. by Room 3/ 3/ 14. Approval/ CDAC/ 3451-53/21, dated 25.02.2021.
+The Proposal:
+The e-Sushrut project has been successfully implemented on a pilot basis in two hospitals- District Hospital, Raigad and Divisional Referral Hospital, Nashik. It was supported by the Centre for Development of Advanced Computing (C-DAC), New Delhi. Considering the instructions of the Central Government to expand the project to 34 major hospitals and all health institutions in six districts of the state, the project will be implemented by the Centre for Development of Advanced Computing (C-DAC), New Delhi, in major hospitals and health institutions in six districts of Raigad, Pune, Nashik, Aurangabad, Nashik, Amravati and Bhandara. The administrative approval has been accorded vide Government Resolution dated 18.09.2019. A proposal to make some corrections in the above said Government Decision. 2 As per letter dated 25.02.2021 submitted by Joint Director, Health Services, Hospitals (State Level), Mumbai. Accordingly, the following supplementary letter is being attached to the Government Resolution dated 29.09.2020.
+# Page 2
+Government Supplementary No: PRASHAMA-0219/ PR No. 166/ Arogya-7
+Supplementary paper:
+Government Resolution, Public Health Department, No.Prasama-0219/ PR No. 166/ Health-7,
+""" Advanced Computing Development Centre (C-DAC), New Delhi"" in 29.09.2020."
+Computing Development Centre (C-DAC), Noida.
+29.09.2020 vide the aforesaid Government Resolution No. The first line of 3
+Read as follows.
+The programme is expected to be completed in six years
+The Rs. An expenditure of Rs. 1441.53 lakh is being approved. "
+In the above Government Decision dated 29.09.2020, vide Para No. 4 is read as follows:
+Come.
+The estimated cost of the project is Rs. 240.15 lakh.
+The estimated cost for the next five years is Rs. 1201.38 lakhs. Father's take on this
+And the details are as follows. :
+( Rs.in Lakh)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Code | Activity                                                                                                     | Year-1 | Year-2 | Year-3 | Year-4 | Year-5 | Year-6 | Total  |
+| A1   | Configuration, One Time Training to PMU & Master Trainers at DHS Mumbai & Technical Support from CDAC Noida. | 92.40  |        |        |        |        |        | 92.4   |
+| A2   | Annual Maintenance Technical support Team                                                                    |        | 77.40  | 85.14  | 93.65  | 100.68 | 108.23 | 465.10 |
+| B1   | On Site Project Management and Coordination Unit (at DHS Mumbai)                                             | 41.40  | 41.40  | 45.54  | 50.09  | 53.85  | 57.89  | 290.17 |
+| B2.1 | Project Administrative Installation Cost at C DAC                                                            | 25.00  |        |        |        |        |        | 25.00  |
+| B2.2 | Project Administrative Charges                                                                               |        | 15.00  | 16.50  | 18.15  | 19.51  | 20.97  | 90.13  |
+| C    | Hosting Charges of HMIS Software at CDAC Data Centre                                                         | 26.53  | 26.53  | 29.18  | 32.10  | 34.51  | 37.10  | 185.95 |
+| D    | FMS at Data Centre                                                                                           | 26.40  | 26.40  | 29.04  | 31.94  | 34.34  | 36.92  | 185.04 |
+| E    | Machine Interface for 34 Hospitals. One Machine in each Hospital.                                            | 8.50   |        |        |        |        |        | 8.50   |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Page 2 of 4
+# Page 3
+Government Supplementary No: PRASHAMA-0219/ PR No. 166/ Arogya-7
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Code  | Activity                                                                                                    | Year-1 | Year-2 | Year-3 | Year-4 | Year-5 | Year-6  | Total |
+| F     | FMS at Two Hospitals (Alibag + Nashik)                                                                      | 13.20  | 13.20  | 14.52  | 15.97  | 17.17  | 18.46   | 92.52 |
+| G     | Postgress Enterprises DH (PPEE-3 Years Subcription and Support License) per core/CPU basis for 16 core/ CPU | 6.72   |        |        |        |        |         | 6.72  |
+| Total | 240.15                                                                                                      | 199.93 | 219.92 | 241.90 | 260.05 | 279.57 | 1441.53 |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The total cost mentioned above includes CDAC Man Power and Services and Hosting.
+Costs are included in the price. A more detailed description is given in the following table:
+CDAC Manpower
+--------------------------------------------------------------------------------------------------------------------------------------------------
+| Sr. No.    | Type of Manpower                            | CDAC Rate (Exclusive Tax)            |
+| Experience | No of Resources                             | Rate per Month per Resource (In Rs.) | Annual Charges (In Rs.) |
+| 1          | Project Manager                             | 7-9 Years                            | 1                       | 250000   | 3000000 |
+| 2          | Project Engineer                            | 1-2 Years                            | 2                       | 70000    | 1680000 |
+| 3          | Data Analyst                                | 2-3 Years                            | 1                       | 110000   | 1320000 |
+| 4          | Developer                                   | 2-3 Years                            | 2                       | 100000   | 2400000 |
+| 5          | Tester                                      | 1-2 Years                            | 1                       | 70000    | 840000  |
+| 6          | Project In-Charge                           | 3-5 Years                            | 1                       | 120000   | 1440000 |
+| 7          | Project Executive                           | 1-2 Years                            | 3                       | 75000    | 2700000 |
+| 8          | Application Administrator                   | 2-5 Years                            | 1                       | 110000   | 1320000 |
+| 9          | Database Administrator                      | 2-5 Years                            | 1                       | 110000   | 1320000 |
+| 10         | Implementation Engineer                     | Upto 1 Year                          | 2                       | 27500    | 660000  |
+| 11         | Network Engineer                            | Upto 1 Year                          | 2                       | 27500    | 660000  |
+| 12         | Project Administrative Charges              |                                      |                         |          | 2500000 |
+| 13         | Medical Equipment Interface (34 Equipments) |                                      |                         |          | 850000  |
+| Total      |                                             |                                      |                         | 20690000 |
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Hosting
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Sheet for Server Infrastructure of E-Hospital |
+| Sr. No.                                       | Items (Descriptions)                                        | Qty. | CDAC Cloud Charges (Exclusive Tax) Unit Rate |
+| Per (In Rs.)                                  | Total Annual Charges (In Rs.)                               |
+| 1                                             | Database Server with OS (20 Core.56.GB RAM, 900 GB HDD)     | 2    | 482000                                       | 964000 |
+| 2                                             | Application Server with OS (20 core, 40 GB RAM, 800 GB HDD) | 2    | 429000                                       | 858000 |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Page 3 of 4
+# Page 4
+Government Supplementary No: PRASHAMA-0219/ PR No. 166/ Arogya-7
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Sheet for Server Infrastructure of E-Hospital |
+| Sr. No.                                       | Items (Descriptions)                                                                                          | Qty. | CDAC Cloud Charges (Exclusive Tax) Unit Rate |
+| Per ( In Rs.)                                 | Total Annual Charges (In Rs.)                                                                                 |
+| 3                                             | Reporting & FTP Server with OS (10 Core, 16 GB RAM, 800 GB HDD )                                              | 1    | 299000                                       | 299000 |
+| 4                                             | Backup Servies (For 2600 GB)                                                                                  | 1    | 312000                                       | 312000 |
+| 5                                             | Load Balancing Services                                                                                       | 1    | 60000                                        | 60000  |
+| 6                                             | Internet Bandwidth (Mbps)                                                                                     | 16   | 10000                                        | 160000 |
+| 7                                             | Postgress Enterprises DH (PPEE-3 Years Subcription and Support License) per core / CPU basis for 16 core/ CPU | 16   | 42000                                        | 672000 |
+| Total                                         |                                                                                                               |      | 3325000                                      |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+29.09.2020 vide the aforesaid Government Resolution No. In the third of four
+There's no change.
+The remaining items of the above Government Decision dated 29.09.2020 with the above changes
+It should be understood that the government's decision will remain and be revised to that extent.

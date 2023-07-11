@@ -1,0 +1,80 @@
+# Page 1
+202112201711241001 regarding implementation of Centrally Sponsored Pradhan Mantri Kisan Samman Nidhi (PM-KISAN). .
+The Government of Maharashtra
+Department of Agriculture, Animal Husbandry, Dairy Development and Fisheries
+Government Circular No.Kisyo-2019/ PR No. 20/11-A,
+Madam Cama Marg, Hutatma Rajguru Chowk
+Mantralaya, Mumbai- 400 032
+Date: February 4th, 2019
+Reference:- Letter from Ministry of Agriculture, Government of India No.F.no 1-1/2019-Credit.1 dated 01.02.2019
+circular
+PM Kisan Samman Nidhi Yojana (PM Kisan Samman Nidhi) is a Central Sector Scheme to provide income support to farmers.
+KISAN) scheme has been launched. Under this scheme, small and marginal farmers are given Rs. The financial assistance of Rs.6,000/- will be provided in 3 phases.
+The following instructions are issued for the immediate implementation of this scheme:
+are.
+First of all, a computerized list (in Unicode) of every village-wise account holder farmers should be prepared through the e-modification system developed under the National Land Records Modernization Program (NLRMP). To do this, log in to the E-Ferfaar2beta Module and select the Report menu.
+Then select the option" Account holder information (Agriculture)" from the additional report 1. Create a list of account holders by copying this information in the excel sheet or make the account holder's information available through the Export to Excel option.
+2) The farmer families who have been qualified by the district committee under the Forest Rights Act should also be included in this scheme.
+The farmer-wise information made available at the taluka/ district level for the Agriculture Census 2015-2016 is available at the local level in digital format. The data includes farmer-wise area (including area of other villages), gender, caste category.
+This information is used in paragraph No. The information provided in section 1 should be used in conjunction with the information provided.
+4) The process of distribution of subsidy to farmers in natural calamities is currently underway at the field level. That information should also be used to update the information in Appendix A.
+Scanned by CamScanner
+# Page 2
+5) After receiving the above information, the mobile number, Aadhaar number and bank account details of the farmers should be obtained in the form in Annexure-A.
+The Pradhan Mantri Kisan Samman Nidhi Yojana (PM-KISAN) is available to all families with a total cultivable area of up to 2 hectares. In this list, the talathi should do family-wise mapping of the account holders in that village. (" Family" means a husband and wife and their children under the age of 18.) )
+After family-wise classification, a separate list should be prepared of the families whose total cultivable holding area is 2 or less from all the different places. While preparing this list, give the name of the account holder. The holding area as on 01.02.2019 should be considered. The list includes the name of the eligible account holder, gender, caste category, bank account number, IFSC code, Aadhaar number (in case of non-Aadhaar number, vehicle license, voter photo identity card, NREGA family identity card or any one of the identity cards issued by the competent authority of the Central/ State Government. Mobile number should be compiled in the table given in Annexure-A.
+8) The list of disqualification criteria fixed by the Central Government will be communicated separately.
+9) A separate list of ineligible farmer families should be prepared in Annexure B as per the criteria of the Central Government for family-wise classification. Whether a farmer family is ineligible as per the norms of the Central Government or not should be decided by the village level committee after conducting local inquiry and accordingly it should be recorded in Annexure' B'.
+10) In the case of farmer account holders who have a common account and there is no fixed income or area in the account, the self-declaration of the person whose information in the account is mentioned in Annexure-A should be taken in Annexure-C.
+The information compiled under paragraphs 7 and 9 above should be published at the village level and if objections/ objections are received on it, the village level committee mentioned in paragraph 19 (a) should take an appropriate decision on it.
+(12) If the decision of the Village Level Committee is not acceptable, appeal may be made to the Taluk Level Committee mentioned in paragraph 19 (b).
+13) The lists prepared by following the above procedure should be read in the village and a chronicle should be prepared accordingly.
+14) Thus, the final list of eligible families in Schedule A should be prepared and its hard copy should be signed by all the members of the village level committee. Also, a soft copy of the Excel file (in Unicode) should be submitted to the Tehsil Office.
+The Tehsildar, Block Development Officer and Taluka Agriculture Officer of the village-wise list of eligible families received at the respective tehsil level should check at least 2% of the list received at random by allocating the villages and ensure eligibility.
+Scanned by CamScanner
+# Page 3
+The Divisional Officer (Province Officer) and the Deputy Divisional Agriculture Officer should check at least 1% of the list and confirm the eligibility.
+16) All the information in Appendix A, Appendix B and Appendix C should be in the font" Sakal Marathi" in Unicode.
+17) The necessary portal for uploading the final Excel File Soft Copy prepared in accordance with paragraph 13 above will be made available through MahaOnline. Information will be uploaded on this portal from the district and taluka level. The facility to validate the information before uploading will also be provided. This will make it possible to upload the file again by correcting the wrong information.
+18) The facility of viewing the Excel file uploaded on this portal will be provided on the dashboard of the portal.
+To effectively implement the above procedure, the following Central Control Committees are being constituted.
+(a) District Level Committee: i. District Collector- Chairman II. Chief Executive Officer- Member of the Board. District Superintending Agriculture Officer- Member. District Domain Expert (DILRMP)- Member v. Resident Deputy Collector- Coordinating Officer and District Level Nodal Officer vi. District Deputy Registrar Cooperative Societies- Member vii. District Lead Bank Officer- Member.
+Functions and responsibilities of the District Level Committee: To give wide publicity to the scheme.
+Training of officers and staff at Taluk and Zonal level.
+Daily review of the data collection in accordance with the time-bound schedule to be determined.
+• Resolving complaints at the local level.
+• Coordinate all aspects of the project.
+The District Collector will be the head of the scheme. The Resident Deputy Collector will be the nodal officer for the scheme.
+(b) Taluk Level Committees: i. Deputy Commissioner (Regional) II. Sub-Divisional Agriculture Officer Member iiv. Tahsildar- Block Development Coordination Officer and Taluk Level Nodal Officer Officer Member
+Taluka Agriculture Officer- Member vi. Assistant Registrar, Member of Co-operative Societies
+Scanned by CamScanner
+# Page 4
+Functions and Responsibilities of Taluk Level Committee: To redress the grievances received from the village level. Accordingly, the Taluk Level Committee will act as the Grievance Redressal Committee.
+The Taluk Level Committee will coordinate with various departments at Taluk level for the implementation of the scheme.
+Taluk level committees will review the functioning of all village committees on a daily basis.
+The Tahsildar will be the chief responsible officer for the scheme for the Taluk Level Committee.
+Village Level Committees: i. Chairman of the Committee ii. Gram Sevak/ Village Development Officer Member iii. Agriculture Assistant- Member iv. Secretary V.K.S.S.O.- Member
+Functions and Responsibilities of Village Level Committee: To identify eligible farmer families and for this purpose to obtain the information provided earlier for National Land Records Updation Programme and Agriculture Census 2015-16 and record it in the format given in Annexure A.
+Under the campaign, the information of bank account number, Aadhaar number, mobile number of the farmers of the village should be obtained with the consent of the concerned and filled in the Appendix A.
+The Talathi is the main responsibility of compiling this information at the village level and Gram Sevaks and Agriculture Assistants will fully cooperate in this work.
+(d) The Divisional Commissioner at the divisional level shall be the principal officer of the scheme. The Deputy Commissioner (Revenue) will also act as nodal officer at the department level.
+The Commissioner (Agriculture) will be the head of the implementation of the scheme at the state level. A project implementation team should be formed for this purpose.
+20) The funds will be made available at the level of the Collector for the compilation of information as above and for other office expenses. The amount of work done by the Collector should be utilized at the regional level.
+Scanned by CamScanner
+# Page 5
+21) In order to complete this work on time, the following time-bound programs are being given and should be strictly implemented.
+Duration of work
+To give wide publicity to the scheme at all levels. 506 February Talathi, Agriculture Assistant, Gram Sevak, Mandal Officer (Agriculture and Revenue), Naib Tehsildar, Tahsildar and concerned officers.
+Village-wise list of eligible farmers to be prepared and verified from February 7 to 10.
+To ensure classification by family. To collect all the computerized information required in Appendix A from February 10 to 12 (Excel File Soft Copy from February 7 to 15).
+The list of farmer families in Schedule A and Schedule B will be published in the village from 15 to 20 February and the time for receiving objections.
+If there are any corrections in this list, then the final list of eligible farmer families from February 20 to 21 should be submitted to the Tehsil Office in computerized (in Excel File Soft Copy).
+(2) Farmer families not falling in the category No. 17 of Schedule A. After verifying the list received at the tehsil level through the Taluk Level Committee, from February 22 to 26, computerized information (in Excel File Soft Copy) will be validated on the website made available by MahaOnline.
+Also, upload it on the central government website.
+The instructions given above should be strictly followed.
+thya
+⁇ 
+(Dinesh Kumar)
+Chief Secretary, Government of Maharashtra
+1) The governor. Secretary (2). Additional Chief Secretary to the Chief Minister 3. Private Secretary to the Minister/ Officer on Special Duty 4. Private Secretary/ Officer on Special Duty to the Minister of State. All Members of Parliament (6) Member of the Legislative Council
+Scanned by CamScanner

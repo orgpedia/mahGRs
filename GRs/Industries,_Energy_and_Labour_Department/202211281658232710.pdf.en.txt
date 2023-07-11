@@ -1,0 +1,29 @@
+# Page 1
+Funds for PM Gati Shakti Scheme
+under the Special Expenditure Support Scheme
+Create new headings for expenses
+About to do.
+The Government of Maharashtra
+Department of Industry, Energy and Labour
+Government Resolution No: IDC 2022/ P. No.309/ U-14
+Hutatma Rajguru Chowk, Madam Cama Road
+Mantralaya, Mumbai- 400 032
+As of November 28, 2022
+Reference:- 1) Central Government Letter No.44 (1)/ PF-S/ 2022-23 (Capex), dt. 06.04.2022 2) Government Resolution, Industry, Energy and Labour Department No. IDC-2021/ PR No. 538/ Industry-14D. 13/04/2022.
+Preamble: The Central Government has decided to provide interest free loans to the States under the Special Assistance Scheme for Capital Expenditure. In this regard, the Central Government vide reference No. 1 here. The guidelines have been issued vide Government letter dated 06/04/2022. Under this scheme, the government was considering the creation of a new accounting head to provide interest-free loans received from the central government for infrastructure projects under PM Gati Shakti.
+GOVERNMENT DECISION: The Government has approved the creation of separate head of accounts for the expenditure on non-interest bearing loans received for infrastructure projects under PM Gati Shakti under the Central Government's Special Assistance to States for Capital Expenditure Scheme.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Marathi           | English                                                                                                                                               |
+| Demand Number     | K-11                                                                                                                                                  | Demand No.     | K-11                                                                                                                                         |
+| Main article      | 6875- Loans to other industries.                                                                                                                      | Major Head     | 6875- Loans for Other Industries.                                                                                                            |
+| Deputy Accountant | 60- Other industries.                                                                                                                                 | Sub Major Head | 60- Other Industries                                                                                                                         |
+| Subordinate Top   | 190 Loans to Public Sector and other Enterprises                                                                                                      | Minor Head     | 190- Loans to Public Sector and other undertaking                                                                                            |
+| Group Top         | (1) Non-interest bearing loans (100% Central share) under the Scheme of Special Assistance to States for Capital Investment by the Central Government | Group Head     | (01)Interest free loan from the Central Government to the States under special assistance scheme for capital investment (Central Share 100%) |
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Page 2
+Government Resolution No: IDC 2022/ P. No.309/ U-14
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Marathi   | English |
+| sub-group |  Top    | (01) (01) PM GatiShakti Non-interest loan for infrastructure projects (Scheme Part-II) (68750011) | Sub Group Head | (01)(01)Interest free loan for Pradhan mantri Gati Shakti Infrastructure projects (Scheme part-II) (68750011) |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(2) Informal reference to the said Government Resolution by the Accountant General, Maharashtra-1, Mumbai No. 122/ 2022-23/629, Dt. 24/11/2022 and the Finance Department's Informal Reference No. 308/2022-/ Expenditure- 16, Dy. Issued with the approval and consent received under 28/11/2022.

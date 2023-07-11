@@ -1,0 +1,26 @@
+# Page 1
+Government approval for setting up of solar power projects with a total capacity of 187 MW at various locations in the State owned by Mahanirmiti Company.
+The Government of Maharashtra
+Department of Industry, Energy and Labour
+Government Corrigendum No:- Sourapr-2020/ P.No. 129/ Urja-7
+Hutatma Rajguru Chowk, Madam Cama Road
+Ministry, Mumbai- 400 032.
+The date is November 11, 2021.
+Department of Industry, Energy and Labor Government Resolution No. 129/ Energy-7, Dec. 29.09.2021
+Government Corrigendum: 50 MW capacity at Mauje Koudgaon, District Osmanabad, Mauje Sindala, Tt. Ausa, District
+The Government vide G.O. dated 29.09.2021 has sanctioned a total of 187 MW solar power projects of 60 MW capacity at Latur, 52 MW capacity at available site at Mahanirmiti Power Station and 25 MW capacity at Mauje Shivajinagar, Sakri District Dhule.
+The decision has been taken with administrative approval. Page 3 of the said orders
+The balance of the contract with KFW on the occupied lands was developed through the EPC method with a loan
+Details of funding for the proposed 187 MW Solar Power Project
+A chart is shown. Instead of the table in this order, the table should read as follows:
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| A. No.           | the name of the project                                | Project Capacity (MW) | Net Project Cost (Rs.) | Total cost of the project (Rs. crore) (including land purchase, power evacuation system and other expenses) | Receipt from KiW Bank (Rs. Crores.) (85% of Project Tender Cost)* | Share Capital of the Company (Rs. Crore) (B minus C) |
+| A                | B                                                      | C (85% of A)          | D== [B]                |
+| 1                | Kowdgaon, G. Osmanabad                                 | 50                    | 212.50                 | 245.78                                                                                                      | 180.63                                                            | 65.15                                                |
+| Sindala, Latur   | 60                                                     | 210.00                | 223.56                 | 178.50                                                                                                      | 45.06                                                             |
+| 3                | At the available site of the Mahanirmiti Power Station | 52                    | 182.00                 | 183.60                                                                                                      | 154.70                                                            | 28.90                                                |
+| 4                | Shivaji Nagar, Sakri, Dhule                            | 25                    | 87.50                  | 93.56                                                                                                       | 74.38                                                             | 19.18                                                |
+| Total (1+2+ 3+4) | 187                                                    | 692.00                | 746.50                 | 588.21                                                                                                      | 158.29                                                            |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Page 2
+Government Corrigendum No: SOURP-2020/ P.No. 129/ Energy-7

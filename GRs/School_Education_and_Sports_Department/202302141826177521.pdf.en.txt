@@ -1,0 +1,32 @@
+# Page 1
+Regarding the development of an integrated computer system at the sports directorate level under e-governance.
+The Government of Maharashtra
+Department of School Education and Sports
+Government Resolution No: Narikas-3023/ PR No.21/ CRUSE-1
+Madam Cama Marg, Hutatma Rajguru Chowk,
+Ministry Extension, Mumbai 400 032
+Date: February 14, 2023.
+GOVERNMENT DECISION, GENERAL ADMINISTRATION DEPARTMENT, NO. MATANS 2011/ PR. NO. 125/39, dated 23.09.2011 2. GOVERNMENT DECISION, GENERAL ADMINISTRATION DEPARTMENT, NO. DIT. 19/2019/ PR. No.32/ SEC- 3/39, Dy. 20.09.2019 3. Government Resolution, Finance Division, No. VYPR-2013/ Q. No. 30/2013/ Regulations, Part-II, Sec. 17.04.2015.
+4. Letter from the Commissioner, Sports and Youth Services, State of Maharashtra, Pune No. 10/02/2023.
+Introduction: Various schemes for the development of sports and youth welfare are being implemented under the Directorate of Sports and Youth Services. The schemes include creation of sports infrastructure, grooming of successful and talented sportspersons, financial assistance for state-of-the-art training, incentives and recognition to sportspersons, organizing sports events to promote the latent qualities of school students, honorarium to senior sportspersons, grants under Gymnasium and Stadium Development Scheme, 5% reservation in government and semi-government services to sportspersons, daily sports training under District Sports Training Centre, sports marks concession, scholarships to sportspersons and assistance to youth festivals, youth welfare activities etc.
+It is very important to develop a well-equipped integrated computer system for effective implementation of the schemes and for systematic management of sports development matters.
+At present, due to the lack of such a system, it is becoming difficult to provide the benefits of state schemes to the players. At present, the details of competitions and performance of players are not being saved under the integrated system, which is creating difficulties in getting information about various competitions, settling job reservation cases quickly. There have been cases of cheating on the basis of fake sports certificates and results under player reservation. Accordingly, it is important to have an effective system of collecting competition results and take appropriate measures. There is a need to develop a system to provide unified information to the sports associations and sports department offices through computer system. Accordingly, e-Governance under Directorate of Sports and Youth Services- Integrated Computer System for Administrative Management
+# Page 2
+Government Resolution No: Narikas-3023/ PR No.21/ CRUSE-1
+Proposal to develop and accordingly appoint an agency vide Reference No. (4) Submitted to the Government by the Commissioner, Sports and Youth Services. Accordingly, proposals are invited for selection of system integrator for design, development, implementation and maintenance of various e-governance initiatives in Directorate of Sports and Youth Service.
+Government's decision
+Administrative approval is hereby accorded to carry out the tender process for Request for Proposal for appointment of eligible agencies/ institutions under Directorate of Sports and Youth Services for providing Integrated e-Governance Solution as per the prescribed procedure.
+The scope of work of the organization appointed through the Request for Proposal will be as follows: 1) To study the existing website, computer system in the Directorate of Sports and to develop a comprehensive integrated computer system by upgrading the system.
+2) To study the functioning of the Directorate of Sports and develop systems for the implementation of various programs and schemes in accordance with it.
+3) Developing systems in line with the success of the beneficiaries and objectives of the schemes.
+4) Developing a system of GPS location mapping of beneficiaries for effective implementation of the scheme.
+5) Collection, preservation, segregation of various forms of information under the Sports Department.
+6) Maintain and update the system.
+7) To provide the necessary office manpower to develop the system.
+8) Training of officers and staff in handling computer systems under the Sports Department.
+As per the above, a period of 1 year is being fixed for developing an integrated computer system, under which the concerned agency will be obliged to maintain and manage the computer system for the next 3 years. Approximately Rs. It is expected to cost Rs. 3 crore. However, subject to examination of the tariff matters by the Department of Information Technology, the amount/ funds will be decided or finalised and accordingly the action regarding funding/ financial sanction will be taken separately.
+Page 2 of 3
+# Page 3
+Government Resolution No: Narikas-3023/ PR No.21/ CRUSE-1
+Government Decision No.4 regarding e-Governance Policy of General Administration Department (Information Technology). Matansa 2011/ PR No. 125/39, dated 23.09.2011 as well as Government Resolution No. DIT 19/2019/ PR of the same Department. No.32/ SEC- 3/39, Dy. The Request for Proposal (RFP) is being approved subject to the provisions dated 20.09.2019.
+(5) The Financial Powers Rules, 1978 Part I, in sub-section (3) of paragraph (4), 27 (2) (a), the administrative approval is being given to carry out the Request for Proposal (RFP) as per the powers vested in the administrative department. The proceedings in respect of financial sanction under paragraph (3) shall be dealt with separately. The cost will be met from the funds available under the e-governance of the School Education and Sports Department.

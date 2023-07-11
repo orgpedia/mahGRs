@@ -1,0 +1,179 @@
+# Page 1
+To resolve the issues related to payment of wages to the labourers working under the Centrally Sponsored Scheme of Mahatma Gandhi National Rural Employment Guarantee Scheme-Maharashtra within 8 days. "
+The Government of Maharashtra
+Department of Planning (ROH)
+Government Circular No:-Magrarohyo 2021/ PR No. 05/ Rohyo 7
+The new administration building, 16th floor,
+Mantralaya, Mumbai 400 032
+Date: August 4, 2021
+The Mahatma Gandhi National Rural Employment Guarantee Act, 2005
+The Maharashtra Employment Guarantee Act (2006)
+Preamble: Under MGRoHYO, work is going on in a big way in the state and the Employment Guarantee Scheme Department is working on" I am prosperous."
+So, village is prosperous, village is prosperous and my Maharashtra is prosperous. In rural areas
+Many new things will be included in the way people will go on the path of farmers-agriculturists wealth.
+Many obstacles have been removed to implement the scheme effectively.
+They are the payment of wages, the creation of property from this labor, and the poor in the rural areas from this property.
+The Employment Guarantee Scheme is working to improve the standard of living. To provide wages to the workers in a time bound manner.
+The law is binding. If more work is required to be done, 15
+Wages must be paid within 8 days. If the workers get the benefits on time.
+So more people will take advantage of this scheme as soon as possible and more wealth will be created.
+The life of the poor in rural areas will be better. In view of all the above, while providing wages to the workers
+There are some problems that the government is facing. To solve these problems
+Following guidelines are being issued for providing wages within eight days from the end.
+Government circular:
+Payment must be made within 8 days of closing:
+The day-wise procedure to be completed after closing of the attendance sheet is as follows.
+# Page 2
+Government Circular No: MgrRohyo 2021/ Q. No. 05/ Rohyo 7
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| A.A.                                         |                       |                                                 | Details |                     |   | in order to act |   |   | Responsible |
+| Maximum required                             | the officer/ employee |
+| the day                                      |
+| Last date of Muster Roll as per e-Muster     | T                     |
+|                                              |
+| 2                                            |                       | Registering on NREGA Soft by measuring the work | T+ 3 is | Technical Assistant |
+|                                              |
+| w                                            |                       | Generation of Wage List/ Data Entry             | T+ 5.   | CDEO                |
+|                                              |
+| Generation of FTOs (First Signature)         | T+ 6 is               | AAO/CDEO                                        |
+|                                              |
+| Approval of FTOs for payment (2nd Signature) | The T+ 7              | BDO/CDEO                                        |
+|                                              |
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+In the districts of Buldhana, Nanded, Bhandara and Washim, it is possible to pay wages to laborers within 8 days
+It is possible to do this work in other districts in eight days. For this, the following
+Action should be taken.
+1.1 NREGASoft cases where FTO has not been raised within two days of completion of the muster
+To share APO/ CDEO in Whats App group.
+1.2 After sharing the above information, the APO raised an FTO from the CDEO on the same day.
+to take.
+1.3 Frequently raise FTO from an APO/ CDEO within 6 days of the closure of the muster
+If it does not happen and they have to repeat it, then take action against the concerned.
+1.4 MIS Coordinator 100% payment in the Taluka/ District in any case.
+to see what happens within the day.
+1.5 If it is found that the wages have not been paid, the MIS Coordinator of the district and
+The responsibility will be fixed on the APO/ CDEO of the taluks.
+Page 2 of 8
+# Page 3
+Government Circular No: MgrRohyo 2021/ Q. No. 05/ Rohyo 7
+To verify the authenticity of the bank account from the PFMS:
+PFMS to ensure the existence of a bank account with the Government of India in recent times
+It has started to do. While raising FTO, the next point No. The Bank's 3 Steps
+PFMS if the account number and IFSC code are present after entering.
+The system is not showing as error. It is to be concluded that the account entered
+The number is the right beneficiary. After verifying the Aadhaar number and bank account number.
+There is no need for a match. Therefore, it is important to have an Aadhaar-linked account in the future.
+They didn't stay.
+Also, the account number displayed in the PFMS system has to be corrected because it
+The account number and the corresponding beneficiary do not match. However, the next point. It's as accurate as 3
+If you take action, the PFMS system will also stop showing errors. Also, stop rejecting transactions.
+will be.
+Don't create a rejected transaction:
+There are three main reasons for rejection.
+3.1 Wrong data entry of Account Number/ IFSC Code.
+3.2 Matching of Aadhaar number and Account number.
+3.3 No transaction in the account for more than 6 months.
+The account has been closed by the bank.
+In each case, the following steps should be taken:
+3.1 Enter the correct data of the Account Number/ IFSC Code.
+3.1.1 Data entry of Account Number/ IFSC Code of a beneficiary by the CDEO
+Passbook of the said beneficiary or the cancelled beneficiary cheque while doing so.
+Enter the scanned copy of the data. Do not enter data by telephone.
+3.1.2 Scanned copy of Passbook or Cheque containing the above information of the beneficiary from the Gram Rozgar Sevak
+through WhatsApp or other online means.
+Page 3 of 8
+# Page 4
+Government Circular No: MgrRohyo 2021/ Q. No. 05/ Rohyo 7
+3.1.3 When entering data in NregaSoft, the CDEO must first press the Enter button after entering the data.
+Once again check that all the data entry is done correctly or by checking how all
+Once you have entered the details, press the Enter button.
+3.1.4.Account Number and IFSC Code data
+The entry will not be wrong.
+3.1.5 Data Entry Errors by all CDEOs in the State every month
+The NREGA Commissioner should be removed as NREGASoft and those who make more than the prescribed number of errors
+Action should be taken against the CDO.
+3.2 Non-matching of Aadhaar and Bank Account Number:
+If the worker's account is rejected due to Inactive Aadhaar or Aadhaar not mapped
+There is a delay in mapping the account and Aadhaar number, which leads to a delay in getting wages to the laborers.
+In such a situation, by deleting this Aadhaar number, the transaction of laborers in Aadhaar to NEFT is done.
+It would be appropriate to change.
+3.2.1 This is the case if the FTO has not been raised on a job card for a long time.
+Therefore, when the bank raises the FTO after more than 6 months in the job card.
+The Aadhaar number of the account number should be deleted.
+3.2.2 Aadhaar with Bank Account Number while raising FTO on new Job Card
+Don't give the number. Because now the PFMS is aware that the bank account number is correct
+It is done through.
+3.3 Bank Account lying unutilized for more than 6 months or for a long time
+Job card not used
+3.3.1 Raise FTO on new job card or old card after a long time
+Make sure that the transaction is within 6 months.
+3.3.2 More than six months to take a printout of the passbook transaction from the bank
+If the transaction is not visible, the beneficiaries should be asked to make such a transaction. Therefore
+Page 4 of 8
+# Page 5
+Government Circular No: MgrRohyo 2021/ Q. No. 05/ Rohyo 7
+The beneficiary will be using the bank account. This action is taken by the Bank Correspondent and
+Rural employment should be done with the help of servants.
+3.3.3 After processing the above, print the passbook till the last transaction.
+Scan copy of the same should be sought from the Grama Rozgar Sevak.
+3.3.4 Before raising the FTO, the CDEO should check the bank account from the Passbook entry.
+It has been used within the last 6 months.
+3.3.5 Payments to bank accounts that have not been used for more than 6 months
+Do not raise FTO.
+3.3.6 Before that, the bank account should be properly processed and revived.
+If you complete the above steps, no transaction will be rejected.
+Regeneration of rejected transactions:
+Delay in payment to the worker/ relative due to rejection of any transaction
+All CDEOs and APOs are working to ensure that no transaction is rejected.
+have to do.
+But some transactions that have been rejected before this circular will have to be regenerated
+are.
+All the rejected transactions in the state were studied. Reject any transaction.
+There were only three reasons. These are the three main reasons for the above mentioned points 2.1, 2.2 and
+mentioned in 2.3.
+However, the reports of rejected transactions on the NREGA website do not have the account numbers of the workers.
+Bank name and IFSC code are not visible. Therefore, to check the account of the rejected laborers
+reports need to be supported. The Central Bank of India is the nodal bank for
+A dashboard has been developed to track the number of transactions rejected in FY 2021-22.
+The information is available on the dashboard above. Provide a user name and password to the district
+has come. Rejected at least once a week by the MIS Coordinator
+Page 5 of 8
+# Page 6
+Government Circular No: MgrRohyo 2021/ Q. No. 05/ Rohyo 7
+The details of the transaction are the name of the bank, account number and IFSC code of the district APO, PTO and
+CDEO's Whats App group.
+On the basis of the above information, point no. Step 3 is now complete.
+By completing the above process, the transaction will be regenerated.
+A 15-day period has been given to all the rejected transactions in the state to be regenerated.
+is being done.
+If not, the following persons will be held liable:
+4.1 CDEOs with more than the amount of rejected transactions decided by the government.
+4.2 The APO of the Taluk having more than the amount of Rejected Transactions as decided by the Government.
+4.3 MIS of the district with more than the amount of rejected transactions decided by the government
+Coordinator.
+Completion of Geotagging in a timely manner:
+The proportion of geotagging required in the state is around 50 per cent. Geotagging
+The steps are as follows:
+5.1 Before the start of the first geotagging work 5.2 After the completion of the second geotagging work, but before the 60% cost.
+5.3 Third Geotagging- 100% of the work is completed
+As mentioned above, the above work is done after spending 30 percent of the cost of work in Phase 2.
+Geotagging is available. Geotagging of the work before 60% of the total cost of the work
+It is mandatory. Otherwise, any kind of unskilled or skilled expenditure on this work in NREGA soft
+There may be delay in payment of wages to the workers as they cannot be recorded or spent. All of the technicalities
+The assistant is informed that as soon as 30 percent of the work is spent, the geotagging of the work is immediately done.
+should be done.
+Page 6 of 8
+# Page 7
+Government Circular No: MgrRohyo 2021/ Q. No. 05/ Rohyo 7
+MGNREGA Spatial Enumerator (MSE)- PTO i Geo Tagging
+GAS (GIS Asset Supervisor)- APO to approve Geo Tagging by MSE
+It is intended. Where PTOs as MSEs have more workload or more Geo
+Gramsevaks/ Gram Rozgar Sevaks of Gram Panchayats in the taluk where tagging is pending.
+As an MSE, the GEO can be registered in the MGNREGA mobile application so that the Gram Sevaks and Gram
+The work of Geo tagging will be speeded up with the help of employment service.
+The relevant PTO if the geotagging is pending for longer than the government decides in the future
+And the responsibility will be fixed on the CDEO.
+All the district, taluk and village level units should strictly follow these instructions.
+This will enable the workers to get their wages credited to their accounts within eight days.
+The order will come into effect immediately.
+# Page 8

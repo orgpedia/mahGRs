@@ -1,0 +1,63 @@
+# Page 1
+Corrigendum for grant of revised administrative approval to 233 repair works/ budget of Regional Water Conservation Officer, Soil and Water Conservation Department, Aurangabad under Mukhya Mantri Jal Sanvardhan Yojana.
+The Government of Maharashtra
+Department of Soil and Water Conservation
+Government Corrigendum No: MUJYO-2021/ PR No.394/ JAL-1
+Mantralaya, Mumbai- 400032
+Date: February 22, 2022.
+Read: 1. Government Resolution No. Mujyo-2021/ Q. No.394/ JAL-1, Dated 05.01.2022.
+Letter from Regional Water Conservation Officer, Soil and Water Conservation Department, Aurangabad No.Tansha-5/ Mujasanyo/ Pram/ 102/ Co/ 2021 D: 17-01-2022.
+Preamble: As per the relevant Government Decision No. 1, revised administrative approval has been granted to 233 repair works/ budget of Regional Water Conservation Officer, Soil and Water Conservation Department, Aurangabad under Mukhya Mantri Jal Sanvardhan Yojana. Reference letter No. A request has been made under Reference Letter No. 2 to rectify the errors in the names of the two schemes mentioned in the above Government Decision. Similarly, as per the relevant Government Resolution No. 1, the number in the line" Total Jalna and Parbhani Divisions" given in the head-wise table on page 16 is missing.
+For this, the following statement is being made:
+Corrigendum: Reference Government Decision No. 1. at p. 9& No.13 may be read as amended as follows:
+---------------------------------------------------------------------------------------------
+| A.A. | As per the original order         | The proposed amendments                        |
+| 1    | The name of the village: Abdulpur | Name of the village: Abdulpur Tanda            |
+| 2    | The name of the village: Tupewadi | Name of the village: Tupewadi (Shivgarh Tanda) |
+---------------------------------------------------------------------------------------------
+Similarly, in the line" Total Jalna and Parbhani Divisions" given in the Account Head wise table on page 16, the numbers are missing. The revised table should be read as follows:
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Account Head                               | The number of plans | Irrigation potential (ha.) | Water Storage (S.G.M.) | R.M. price | The price of Supra | increase | Percentage |
+| Latur Division                             |
+| Total is 0 to 100 (Account Head 4702 A046) | 43                  | 1143                       | 5381.4                 | 963.09     | 1229.84            | 266.75   | 27.70      |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Page 2
+Government Corrigendum No: MUJYO-2021/ PR No.394/ JAL-1
+------------------------------------------------------------------------------------------------------------------------
+| Total 101 to 250 (Account Head 4702 A055)     | 1   | 202     | 1047      | 21.567    | 35.843   | 14.276   | 66.19  |
+| Total Latur Division (0 to 250)               | 44  | 1345    | 6428.4    | 984.657   | 1265.683 | 281.026  | 28.54  |
+| Jalna and Parbhani Division                   |
+| Total is 0 to 100 (Account Head 4702 A046)    | 22  | 677     | 2865      | 347.79    | 488.19   | 140.4    | 40.37  |
+| Total 101 to 250 (Account Head 4702 A055)     | 3   | 432     | 1438.69   | 33.59     | 37.77    | 4.18     | 12.44  |
+| Total Jalna and Parbhani Divisions (0 to 250) | 25  | 1109    | 4303.69   | 381.38    | 525.96   | 144.58   | 37.91  |
+| Nanded G.P.                                   |
+| Total is 0 to 100 (Account Head 4702 A046)    | 4   | 200     | 946.28    | 75.21     | 136.82   | 61.61    | 81.92  |
+| Total Nanded GP (0 to 250)                    | 4   | 200     | 946.28    | 75.21     | 136.82   | 61.61    | 81.92  |
+| the Beed Department                           |
+| Total is 100 (Account Head 4702 A046)         | 31  | 769     | 3377.51   | 528.06    | 632.77   | 104.71   | 19.83  |
+| Total bead section (0 to 250).                | 31  | 769     | 3377.51   | 528.06    | 632.77   | 104.71   | 19.83  |
+| Beed G.P.                                     |
+| Total is 0 to 100 (Account Head 4702 A046)    | 22  | 801     | 4364.8    | 188.88    | 238.73   | 49.85    | 26.39  |
+| Total Bead GP (0 to 250)                      | 22  | 801     | 4364.8    | 188.88    | 238.73   | 49.85    | 26.39  |
+| Osmanabad Division                            |
+| Total is 0 to 100 (Account Head 4702 A046)    | 88  | 2029.94 | 10150.7   | 1404.07   | 1511.05  | 106.98   | 7.62   |
+| Total 101 to 250 (Account Head 4702 A055)     | 3   | 342     | 2272.98   | 154.25    | 193.43   | 39.18    | 25.40  |
+| Total Osmanabad Division (0 to 250)           | 91  | 2371.94 | 12423.68  | 1558.32   | 1704.48  | 146.16   | 9.38   |
+| Osmanabad G.P.                                |
+| Total is 0 to 100 (Account Head 4702 A046)    | 2   | 127.77  | 552.72    | 66.99     | 78.64    | 11.65    | 17.39  |
+| Total Osmanabad ZP (0 to 250)                 | 2   | 127.77  | 552.72    | 66.99     | 78.64    | 11.65    | 17.39  |
+| Aurangabad Division                           |
+| Total is 100 (Account Head 4702 A046)         | 14  | 173     | 1380      | 211.38    | 276.08   | 64.700   | 30.61  |
+| Total Aurangabad Division (0 to 250)          | 14  | 173     | 1380      | 211.38    | 276.080  | 64.700   | 30.61  |
+| Total Aurangabad is 0 to 100                  | 226 | 5920.71 | 29018.41  | 3785.47   | 4592.12  | 806.650. | 21.309 |
+| Total Aurangabad is 101 to 250                | 7   | 976     | 4758.67   | 209.407   | 267.043  | 57.636   | 27.523 |
+| Total Aurangabad is 0 to 250                  | 233 | 6896.71 | 33777.08. | 3994.877. | 4859.163 | 864.286. | 21.635 |
+------------------------------------------------------------------------------------------------------------------------
+The revised administrative sanction amount for these 233 schemes is Rs.
+4859.163 lacs (Rupees Forty Eight Crores Sixty Nine Lacs Sixteen Thousand Three Hundred only)
+Also, the original administrative approval of these 233 schemes is Rs. 3994.877 lacs
+An increase of Rs. 864.286 lacs (Rupees Eight Crores Sixty Four Lacs Eighty Eight Thousand Six Hundred
+That's just it).
+Page 2 of 3
+# Page 3
+Government Corrigendum No: MUJYO-2021/ PR No.394/ JAL-1

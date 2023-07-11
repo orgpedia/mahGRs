@@ -1,0 +1,31 @@
+# Page 1
+The Maharashtra Land Revenue Rights Records (Preparation and Maintenance of Records Records) Rules, 1971. to improve the 12.
+The Government of Maharashtra
+the Revenue and Forest Department
+Government Resolution No: Land-2022/ PR No.73/ J-1A
+Madam Cama Marg, Hutatma Rajguru Chowk,
+Ministry, Mumbai- 400032.
+Date of release: November 25, 2022
+Government Resolution No.Land-2018/ PR No. 92/ J-1A dated 12/09/2018 2. No.92/ J-1A, dated 30/07/2021
+In order to implement the" e-Crop Inspection" program in the entire state, the Regional Revenue Officer and the authority concerned have been directed to provide information about crop sowing to the farmers themselves through mobile app in G.No. 12. The guidelines have been issued in accordance with the Government Decision dated 2nd July, 2021. This" e-Crop Inspection" programme is being implemented across the state from 15 th August, 2021 through a mandate developed by Tata Trusts in association/ assistance. Accordingly, the Government has implemented the e-manipulation project under Digital India Land Records Modernization across the State, under which the process of manipulation at village level has been computerized. Therefore, the village sample number 7 is updated by making changes online.
+The existing pattern of Village Sample Number 12 has been amended to include the Account Number as per the Government Decision dated 10.09.2018. However, in the area under mixed crops, in this column, column number 4 is the indicator of mixed crop, column number 5 is irrigated and column number 6 is irrigated, in which no data has been recorded so far. Farmers are also confused about these pillars. Farmers are finding it difficult to understand the village model number 12. Since the e-Peasant Survekshan Mobile App is not available in the existing e-Peasant App, it needs to be modified from time to time to make the existing Village Model No. 12 flexible and easy for farmers to understand.
+In the same way, the traditional method of registering crop inspection through talathas for recording objective crops in village sample number 12 in the state should be discontinued and the information of the most objective and correct crop data should be made available to the government through a mobile app through the participation of farmers in a transparent and accurate manner through e-crop inspection through a mobile app.
+# Page 2
+Government Resolution No: Land-2022/ PR No.73/ J-1A
+In view of these changes, the Maharashtra Land Revenue Rights Records (Preparation and Maintenance of Records) Rules, 1971 were also under consideration of the Government to amend Sample I (i.e. Village Sample No.12) in Rule 3.
+Government's decision
+Sample I (i.e. Village Sample No.12 in vogue) in Rule 3 of the Maharashtra Land Revenue Rights Records (Preparation and Maintenance of Records) Rules, 1971 is being amended as follows:
+The following columns should be deleted:
+----------------------------------------------------------------------------------------
+| Column No.4    |   |   | Column No.5  |   |   | Column No.6 |   |   | Column No.7          |
+| Mixed cropping |   |   | watered down |   |   | unbridled   |   |   | The name of the crop |
+----------------------------------------------------------------------------------------
+Instead, the following columns should be entered:
+-----------------------------------------------------------------------------
+| The type of crop |   |   | The name of the crop |   |   | Crop area |
+| water-irrigated  |   |   | Ajal irrigated       |
+| 4                |   |   | 5                    |   |   |           |   |   | 7 |
+| indistinct       |
+| mixed            |
+-----------------------------------------------------------------------------
+# Page 3

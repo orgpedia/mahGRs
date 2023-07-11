@@ -1,0 +1,38 @@
+# Page 1
+Formation of Steering Committee and Implementation Committee for generation of digital information related to farmers using computerized rights archives.
+The Government of Maharashtra
+the Revenue and Forest Department
+Government Resolution No: SANKIRN-2022/ PR No.313/ L-1.
+The first floor, the main building, the ministry,
+Madame Cama Marg, Hutatma Rajguru Chowk, Mumbai- 400 032.
+Date is October 4, 2022.
+Preamble: The Central Government has given instructions to complete the basic requirements for creating digital information related to farmers. Accordingly, it is intended to develop a technology-based system for three things: (i) linking of farmers' data base with the records, (ii) Geo referencing of village maps, and (iii) GIS based real time crop monitoring. For this, Aadhaar seeding and other information needs to be included in the existing database of the Land Records Department. This digital database related to farmers will be used by the departments of Revenue, Agriculture, Cooperation, Revenue (Relief and Rehabilitation), etc. This will improve the quality of life of the farmers. The State Government had constituted a State Level Monitoring and Monitoring Committee for the purpose. The government has taken the following decisions:
+Government Decision: Since the Central Government has given instructions to complete the basic aspects of creating digital information related to farmers, it is meant to develop a technology-based system for three things: (i) attaching farmers' data base to the record, (ii) geo referencing of village maps, (iii) GIS based real time crop inspection. For this, Aadhaar seeding and other information needs to be included in the existing database of the Revenue/ Land Records Department. A Steering Committee is being constituted at the State level to take policy decisions and review their implementation.
+-----------------------------------------------------------------------------------------------------------------------------
+| A.A. | the name of the officer                                                                   | Names of the committee |
+| 1    | the Chief Secretary.                                                                      | Chairman               |
+| 2    | Additional Chief Secretary (Revenue), Revenue and Forest Department.                      | The Member Secretary   |
+| 3    | Additional Chief Secretary (Cooperation), Cooperation, Marketing and Textiles Department. | the members            |
+| 4    | Principal Secretary (Relief and Rehabilitation).                                          | the members            |
+| 5    | Principal Secretary (Agriculture).                                                        | the members            |
+| 6    | Principal Secretary (IT), Department of Information Technology.                           | the members            |
+| 7    | Ministry of Agriculture and Farmers Welfare, Government of India                          | the members            |
+| 8    | Additional Secretary/ Principal Secretary/ Additional Chief Secretary as required.        | The invited members    |
+-----------------------------------------------------------------------------------------------------------------------------
+# Page 2
+Government Resolution No: SANKIRN-2022/ PR No.313/ L-1
+The above activities will be reviewed every two months by the Control Committee.
+An Implementation Committee is being constituted to implement the policy decisions taken by the above Control Committee as follows:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| A.A.                                                                                         | the name of the officer                                                                              | Names of the committee |
+| 1                                                                                            | Additional Chief Secretary (Revenue), Revenue and Forest Department.                                 | Chairman               |
+| 2                                                                                            | Additional Chief Secretary (Cooperation), Cooperation, Marketing and Textiles Department.            | the members            |
+| 3                                                                                            | Principal Secretary (Agriculture), Department of Agriculture and Marketing.                          | the members            |
+| 4                                                                                            | Principal Secretary (Relief and Rehabilitation)                                                      | the members            |
+| 5                                                                                            | Commissioner and Director, Land Records, Maharashtra State, Pune.                                    | the members            |
+| 6                                                                                            | Director (Information Technology), Department of Information Technology.                             | the members            |
+| Commissioner (Agriculture), Department of Agriculture and Padum, State of Maharashtra, Pune. | the members                                                                                          |
+| 8                                                                                            | Commissioner (Cooperation), Cooperation, Marketing and Textiles Department, Maharashtra State, Pune. | the members            |
+| 9                                                                                            | Joint Secretary (L-1), Revenue and Forest Department.                                                | The Member Secretary   |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The meeting of the said Implementation Committee shall be held every month.

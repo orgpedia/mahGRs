@@ -1,0 +1,103 @@
+# Page 1
+सार्वजनिक आरोग्य विभागाच्या अखत्यारीत रुग्णालयामध्ये सी.सी.टी.व्ही कॅमेरे बसविण्यासाठी प्रशासकीय मान्यता देणेबाबत.
+महाराष्ट्र शासन
+सार्वजनिक आरोग्य विभाग
+शासन निर्णय, क्रमांक: संकीर्ण २०१९/प्र.क्र.४८/आरोग्य ३
+१० वा मजला, संकुल इमारत,
+जी.टी. रुग्णालय आवार, मुंबई - ४०० ००१.
+दिनांक : ०४ मे, २०१९.
+वाचा: १) सह संचालक, आरोग्य सेवा रुग्णालये राज्यस्तर, मुंबई यांचे पत्र क्रमांक- ससंआसे / कक्ष-३/टे ३/संकीर्ण/सीसीटीव्ही/ ९९६०/१८ दिनांक २१.०९.२०१८.
+प्रस्तावना:
+सार्वजनिक आरोग्य विभागाच्या अधिपत्याखालील रुग्णालयामध्ये सी.सी.टी.व्ही कॅमेरे बसविण्यासाठी येणाऱ्या खर्चास प्रशासकीय मान्यता देण्याची बाब शासनाच्या विचाराधीन होती.
+यासंदर्भात पुढीलप्रमाणे निर्णय घेण्यात येत आहे.
+शासन निर्णयः सार्वजनिक आरोग्य विभागाच्या अधिपत्याखालील ग्रामीण रुग्णालये, उपजिल्हा रुग्णालये,
+सामान्य रुग्णालये, स्त्री रुग्णालये, जिल्हा रुग्णालये अशा एकूण ४९८ रुग्णालयांमध्ये सी.सी.टी.व्ही बसविण्यासाठी रु.४.०२ कोटी खर्चास खालील प्रमाणे प्रशासकीय मान्यता देण्यात येत आहे.
+२. विभागाच्या अखत्यारीत रुग्णालयांना सी.सी.टी.व्ही. कॅमेरे बसविण्याबाबतचे निकष (Norm) खालील प्रमाणे आहे:
+# Page 2
+शासन निर्णय क्रमांक: संकीर्ण २०१९/प्र.क्र.४८/आरोग्य ३
+३. उपरोक्त सी.सी.टी.व्ही. साठी लागणारी साधनसामुग्रीची खरेदी माहीती व तंत्रज्ञान विभाग यांनी वेळोवेळी निश्चित केलेल्या मानकानुसार अथवा खालीलप्रमाणे करण्यात यावे.
+Guidelines for implementation of CCTV Cameras
+Areas to be covered by CCTV Cameras
+Front Gate (Entry /Exit Points) * Corridors Area offering citizen services and where interaction with citizens is more ❖ All hospitals, CCTV installation can be done especially in pediatric/gynecology wards but ensure that patent privacy in not violated General & Operational Guidelines
+* The CCTV cameras to be IP based.
+* Ensure that the products and solutions adhere to Open standard (i.e.ensure that there are no proprietary standards leading to locking of technology/solution) ❖ Basic video management system functionality needed to view recorded videos, perform forward and rewind function etc. Designated officials should be able to see live feed or stored feed from their desktops connected to VVTV system through LAN.
+❖ Video Data to be stored for 7 days on the primary storage (NAS/Disk Based Storage) In some case if back-up of data is considered essential, then it can be stored at alternate place on DVDs/External Hard Drives.
+Power backup to be ensured for cameras.
+पृष्ठ १७ पैकी २
+# Page 3
+शासन निर्णय क्रमांकः संकीर्ण २०१९/प्र.क्र.४८/आरोग्य ३
+❖ Cameras to be mostly flexed type. However, some Pan Tilt-Zoom (PTZ) CCTV Cameras may be installed in case of specialized requirements.
+❖ In open areas prone to heat/dust/rainfall the specifications are slightly different and also, the casing is of better specification.
+❖ Integrated solution with camera, storage and video management software, with 3 year warranty and maintenance should be purchased payment should be done only after User Acceptance Test (UAT) based on satisfactory functioning of cameras for a month, and proper training of staff to handle this.
+None of the IT Non-IT equipment proposed by the vendor should be End of life product.
+Proposals to be accompanied by the OEM certificate that the product is not end of life product and shall support for at least 5 years from the date of Proposal submission.
+❖ Recommended Technical Specifications for indoor, outdoor and PTZ CCTV cameras.
+Proper financial procedures to be followed.
+Recommended Benchmark Specification for the CCTV Cameras
+A. Indoor Cameras
+B. Outdoor Cameras
+पृष्ठ १७ पैकी ३
+# Page 4
+शासन निर्णय क्रमांकः संकीर्ण २०१९/प्र.क्र.४८/आरोग्य ३
+C. PTZ Cameras
+४. प्रशासकीय मान्यतेबाबतचा रुग्णालय निहाय तपशील पुढीलप्रमाणे आहे.:
+पृष्ठ १७ पैकी ४
+# Page 5
+शासन निर्णय क्रमांकः संकीर्ण २०१९/प्र.क्र.४८/आरोग्य ३
+Hospital
+पृष्ठ १७ पैकी ५
+# Page 6
+शासन निर्णय क्रमांकः संकीर्ण २०१९/प्र.क्र.४८/आरोग्य ३
+Pandharpur
+पृष्ठ १७ पैकी ६
+# Page 7
+शासन निर्णय क्रमांकः संकीर्ण २०१९/प्र.क्र.४८/आरोग्य ३
+70 Osmanabad SDH, Paranda 50 0 1 0 10000 10000
+पृष्ठ १७ पैकी ७
+# Page 8
+शासन निर्णय क्रमांकः संकीर्ण २०१९/प्र.क्र.४८/आरोग्य ३
+103 Kolhapur SDH, Kodoli 50 1 6 100000 60000 160000
+पृष्ठ १७ पैकी ८
+# Page 9
+शासन निर्णय क्रमांकः संकीर्ण २०१९/प्र.क्र.४८/आरोग्य ३
+141 Aurangabad RH, Karmad 30 0 2 O 20000 20000
+पृष्ठ १७ पैकी ९
+# Page 10
+शासन निर्णय क्रमांकः संकीर्ण २०१९/प्र.क्र.४८/आरोग्य ३
+180 Palghar R.H.Talasari 30 1 O 100000 0 100000
+पृष्ठ १७ पैकी १०
+# Page 11
+शासन निर्णय क्रमांकः संकीर्ण २०१९/प्र.क्र.४८/आरोग्य ३
+217 Nashik RH, Nampur 30 1 0 100000 0 100000
+पृष्ठ १७ पैकी ११
+# Page 12
+शासन निर्णय क्रमांकः संकीर्ण २०१९/प्र.क्र.४८/आरोग्य ३
+Ahamednag 255 RH, Akole 30 1 100000 100000 ar
+पृष्ठ १७ पैकी १२
+# Page 13
+शासन निर्णय क्रमांकः संकीर्ण २०१९/प्र.क्र.४८/आरोग्य ३
+280 Kolhapur RH, Gargoti 30 1 0 100000 0 100000
+पृष्ठ १७ पैकी १३
+# Page 14
+शासन निर्णय क्रमांकः संकीर्ण २०१९/प्र.क्र.४८/आरोग्य ३
+317 Parbhani RH, Manvat 30 1 0 100000 0 100000
+पृष्ठ १७ पैकी १४
+# Page 15
+शासन निर्णय क्रमांकः संकीर्ण २०१९/प्र.क्र.४८/आरोग्य ३
+353 Buldhana RH, Mehekar 30 1 0 100000 0 100000
+पृष्ठ १७ पैकी १५
+# Page 16
+शासन निर्णय क्रमांकः संकीर्ण २०१९/प्र.क्र.४८/आरोग्य ३
+५.अटी व शर्ती-: १. सदर खरेदीसाठी शासन निर्णय, उदयोग, उर्जा व कामगार विभाग, क्रमांक भांखस २०१४/प्र.क्र.८२/ भाग ||/उदयोग-४, दि.०१.१२.२०१६ अन्वये प्रसिध्द केलेल्या सुधारीत नियमपुस्तिकेत विहित केलेल्या कार्यपध्दतीचा अवलंब करण्यात यावा.
+२. प्रस्तावित खरेदीचे दर हे अंदाजित आहेत. त्यामुळे खरेदी प्रक्रियेअंती निश्चित करण्यात आलेला दर हा बाजारभावापेक्षा कमी असल्याबाबत आणि संबंधीत पुरवठादाराने या बाबींचा इतर ठिकाणी ज्या दराने पुरवठा केला आहे त्या दरापेक्षा जास्त नसल्याबाबत खातरजमा करण्यात यावी.
+३. खरेदी करण्यात येणा-या बाबींची पुरवठापुर्व व पुरवठयानंतर नमुना तपासणी (Pre/post dispatch random sample inspection) करुन उचित व योग्य विनिर्देश असलेल्या वस्तुंचीच खरेदी करण्यात यावी.
+४. खरेदी करण्यात येणा-या बाबींचा पुरवठा झाल्यानंतर त्यांची साठवणूक व वितरण (Storage and Distribution) करणे तसेच पुरवठा साखळी व्यवस्थापन (Supply Chain management) व वस्तुसुची व्यवस्थापन (inventory Management) योग्य पध्दतीने करुन सदर बाबी विनावापर पडून राहणार नाहीत व त्यांचा विहित मुदतीत वापर होईल याची दक्षता घेण्यात यावी.
+५. सदर खरेदीची व्दिरुक्ती (Duplication) होणार नाही याची दक्षता घेण्यात यावी.
+६. संपूर्ण खरेदी प्रक्रिया राबवितांना केंद्रीय दक्षता आयोगाच्या मार्गदर्शक सूचनांचे (CVC Guidelince) तंतोतंत पालन करण्यात यावे.
+७. खरेदी प्रक्रिया पुर्ण झाल्यानंतर केंद्रीय खरेदी समितीच्या मान्यतेनंतरच पुरवठा आदेश निर्गमीत करण्यात यावेत.
+८. सदर खरेदी राज्यस्तरावरुन ई-निविदा प्रक्रिया राबवून करण्यात यावी.
+९. उपरोक्त प्रस्तावावरील रु.४०,०००/- पर्यंतचा खर्च संबधित रुग्णालयाच्या रुग्ण कल्याण समितीकडील निधीमधून भागविण्यात यावा व उर्वरीत खर्च संबंधित रुग्णालयाच्या स्वीय प्रपंजी खात्यामध्ये उपलब्ध असलेल्या नीधीमधून भागविण्यात यावा.
+६. सदर शासन निर्णय, शासन निर्णय, शासन निर्णय वित्त विभाग क्र. विअप्र २०१३/प्र.क्र.३०/२०१३/विनियम भाग-२, दि.१७.४.२०१५ सोबतच्या परिशिष्टातील वित्तीय अधिकार नियम पुस्तिका,१९७८, भाग पहिला, उपविभाग- दोन मधील अ. क्र. ४, नियम क्र. ७ अन्वये प्रशासकीय विभागास प्रदान करण्यात आलेल्या अधिकारानुसार निर्गमीत करण्यात येत आहे.
+पृष्ठ १७ पैकी १६
+# Page 17
+शासन निर्णय क्रमांकः संकीर्ण २०१९/प्र.क्र.४८/आरोग्य ३

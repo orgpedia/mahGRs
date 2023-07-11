@@ -1,0 +1,33 @@
+# Page 1
+Re-constitution of the Domain Sub-Committee under the ESTICOM System Control Committee constituted to develop the Online Estimate and Contract Management (ESTICOM) System for the Department of Water Resources
+The Government of Maharashtra
+The Department of Water Resources
+GOVERNMENT DECISION NO. E ADMINISTRATION 2016 (124/2016)/ EC- 3
+Madam Cama Marg, Hutatma Rajguru Chowk,
+Mantralaya, Mumbai 400 032,
+The 24th August 2018
+Read: 1. E-Governance 2016 (236/16) LPA 1-Dated 02/09/2016. e-Administration 2016 (236/16) LAPA 1-Dated 01/10/2016
+3. Synchronization. Governing Decision of 02/08/2017
+Assistant Chief Engineer (s. Q)/ U.V.A-3/ E-Administration/ 2846D. 02.07.2018
+5. Letter from the Superintending Engineer e-Administration Board No. EPR/ (53/16)/ 2018/752
+D. 24.7.2018
+Preamble: As per the decision of the Government in Reference No. 1, the" EstiCoM System Control Committee" has been constituted to develop the" Online Estimate and Contract Management (EstiCoM)" system. The said Committee was reconstituted in pursuance of the Government decision in Reference No. 2. The sub-committee was formed under the committee constituted in view of the scope and broad nature of work for the system to be developed by the EstiCoM System Control Committee under the Government Resolution of Reference No. 3. The matter of reconstituting the sub-committee was under the consideration of the government.
+Government Decision: In view of the scope and scope of work for the system to be developed by the EstiCoM System Control Committee, the Sub-Committee under the EstiCoM System Control Committee is being reconstituted as follows. The committee comprises of the following officers of the Water Resources Department:
+--------------------------------------------------------------------------------------------------------------------------------------------
+| A.A.                                            | The name of the members     | designation            | Nomination to the Sub-Committee |
+| the Superintending Engineer, e-Governance Board | the Superintending Engineer | Chairman               |
+| 2                                               | Mr. Sanjay Bodkhe           | the Executive Engineer | the members                     |
+| 3                                               | Mr. Suren Hiray             | the Executive Engineer | the members                     |
+| 4                                               | Mr. Jagannath Magar         | the Executive Engineer | the members                     |
+| 5                                               | Mr. Abhay Katkar            | the Executive Engineer | the members                     |
+| 6                                               | Mr. Ashwin Pawar            | the sub-engineer       | The Member Secretary            |
+--------------------------------------------------------------------------------------------------------------------------------------------
+a) Functions of the Sub-Committee: 1.Requirement of Gathering Templates (RGT).
+2.Creating module wise required Master Data Dictionary for EstiCoM system.
+# Page 2
+GOVERNMENT DECISION NO.: E. ADMINISTRATION 2016 (124/2016)/ EC- 3
+3.Test the EstiCoM software for pilot projects.
+4.Acquiring User Acceptance Testing (UAT) in collaboration with Central Authorities.
+5.Verify the User Manual prepared by the developer.
+(b) Procedure and Meetings of the Committee: The procedure of the Sub-Committee shall be determined on the directions of the Chairman of the ESTICOM System Control Committee. The meetings of the Committee should be held as per the directions of the Chairman of the EstiCoM System Control Committee as well as as as required. There will be no prerequisites for a committee meeting. The Sub-Committee shall ensure that the proceedings are carried out in accordance with the timelines set by the EstiCoM System Control Committee.
+(e) Term of the Sub-Committee: The term of the Sub-Committee shall be from the date of the Order of Establishment till the completion of the work of the EstiCoM system. Action should be taken in accordance with the work prescribed by the Sub-Committee and as per the instructions of the EstiCoM System Control Committee.

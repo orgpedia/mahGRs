@@ -1,0 +1,52 @@
+# Page 1
+Unique Land Parcel Identification Number (ULPIN).
+The Government of Maharashtra
+the Revenue and Forest Department
+Government Decision No. Sankirna-2022/ PR No. 177/ L-1.
+Main Building, 1st Floor, Hutatma Rajguru Chowk,
+Madame Cama Marg, Mantralaya, Mumbai- 400 032.
+Date: July 28, 2022.
+Read:- 1.B.A letter dated 20.10.2021 and 24.12.2021 from the Department of Earth Resources, Government of India.
+Commissioner and Director of Land Records, Maharashtra State, Pune No. Land No.4, Terrain Identification Number/ ULPIN/ 2022, Dy. 31.03.2022 and dated 25.04.2022.
+Preamble: The Department of Land Resources, Govt. of India. In the letter of 1, instructions have been given to provide Unique Land Parcel Identification Number (ULPIN) for the rights records computerized under the Digital India Land Records Modernization Program (DILRMP). These numbers can be given to the landowners of the state as per geo-referencing as mentioned in the said instructions. However, for this, the work of geo referencing needs to be completed.
+A Unique Land Identification Number (ULPIN) will be issued to each district. It will also benefit the citizens and it will be possible to easily check the location on the basis of ULPIN. ULPIN is used for data sharing. As per the directions of the Land Resources Department of the Central Government, the government was considering to issue a Unique Land Parcel Identification Number to every land in the state. The government has taken the following decisions:
+Government Decision: Under the Department of Land Resources of the Central Government, No. As per the directions issued vide letter No. 1 regarding issuance of Unique Land Parcel Identification Number (ULPIN) for the rights records computerized under Digital India Land Records Modernization Programme (DILRMP), it is being approved to issue Unique Land Parcel Identification Number (UILPIN) to each of the land parcels in the State. The Unique Land Identification Number (ULPIN) is an 11-digit random number assigned to each territory.
+The process of issuing Unique Land Parcel Identification Number (ULPIN) to land parcels in rural and urban areas is being described as follows.
+ULPIN for Rural Rights Archive: About 2.62 crore 7/12 are operational in rural areas.
+2. ULPIN is being proposed for rural computerized rights archives.
+The ULPIN will be generated according to the computerized algorithm and it will have a system of identification.
+Duplicate ULPIN will not be generated.
+# Page 2
+Government Resolution No: SANKIRN-2022/ PR No. 177/ L-1.
+Steps to be taken in case of ULPIN will be as follows:
+5.1 All existing 7/12 names will be assigned ULPIN.
+5.2 The new ULPIN will be assigned to the new 7/12 number generated due to the inclusion or sub-category of the area. For this, the matrix will be prepared and made available on the website.
+5.3 The new ULPIN shall be applicable to orders passed under sections 20 (2), 85, 87, (106 with 135), 122, 135, 247, 257 of the Maharashtra Land Revenue Code, where the area and boundaries are being changed, as well as by the Kazap Order, and as per section 32 (1) of the Bombay Tenancy Act, 1947, when new land assessment numbers are assigned by changing the area and boundaries.
+5.4 In cases under sections 106 and 155 of the Maharashtra Land Revenue Code, as well as in cases of typographical errors, no changes will be made to the relevant 7/12 ULPIN.
+A centralized database will be used for this purpose.
+The following procedure will be used to execute the ULPIN.
+7.1 Unique Land Parcel Identification Number (ULPIN) will be issued on every 7/12 th.
+7.2.ULPIN should be generated from Random Number Generator. This number will be of 11 digits and there will be a system in operation to identify whether this number is correct or incorrect.
+7.3.ULPIN for rural areas (attached with 7/12) No. Random number starting with any of the digits 1,2,3 and 4 (total number available is 4000 crore)
+7.4.Whenever there is a change in the area and boundary of the territory for any reason, a new ULPIN will be generated.
+7.5. ULPIN will ensure inter-linkage of creation and re-creation.
+7.6.ULPIN and QR code will be mentioned on 7/12.
+ULPIN for Civil Rights Records: There are about 60 lakh operational Town Land Records in urban areas.
+2. ULPIN is being proposed for computerized rights archive.
+The ULPIN will be generated as per the computerized algorithm and will have a system of identification.
+Duplicate ULPIN will not be generated.
+The procedure for issuing the ULPIN in the case will be as follows.
+5.1 ULPIN will be assigned to all existing Town Geo Identification Numbers.
+5.2 The new ULPIN will be assigned to the new Town Geo-location Number which is generated due to the inclusion of area or alteration in its area and boundary due to subsidence.
+Page 2 of 3
+# Page 3
+Government Resolution No: SANKIRN-2022/ PR No. 177/ L-1.
+5.3 Orders passed under Sections 20 (2), (106 with 135), 122, 135,247,257 of the Maharashtra Land Revenue Code, which change the area and boundaries, as well as through the CGPA Order, and Section 32 (1) of the Bombay Land Acquisition Act, 1947, which prohibits the fragmentation and consolidation of land holdings for agricultural purposes, will be given a new ULPIN when new Town Land Assessment Numbers are assigned by changing the area and boundaries.
+5.4 In cases under sections 106 and 155 of the Maharashtra Revenue Code, as well as in cases of typographical errors, no change will be made in the ULPIN of the respective Town Geo-Evaluation Number.
+A centralized database will be used for this purpose.
+The following procedure will be used to execute the ULPIN.
+7.1 Each Income Tax Sheet will be assigned a Unique Land Parcel Identification Number (ULPIN).
+7.2. The number to be generated from the ULPIN Random Number Generator shall be of 11 digits with a system to identify whether the number is correct or incorrect.
+7.3.ULPIN (Income Statement with Geo-location Number) of Urban Area No. 5, 6, 7, 8 and 9 (total available number 5000 crore) 7.4. Whenever there is a change in the area and boundary of the land area for any reason, a new ULPIN will be generated.
+7.5. ULPIN will ensure interconnection of generation and re-transmission.
+7.6.ULPIN and QR code will be mentioned on the income tax return.

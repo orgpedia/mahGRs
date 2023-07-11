@@ -1,0 +1,23 @@
+# Page 1
+Planting and nurturing trees about the opening of a new article.
+The Government of Maharashtra
+the Home Department
+Government Sanitary Card No.:- Parichay- 0918/ PR No. 93/ VISA- 9
+Madam Cama Marg, Hutatma Rajguru Chowk,
+Mantralaya, Mumbai- 400 032
+Date of January 16, 2020
+Read:- Government Resolution dated 06/09/2019
+Government's stand:
+For the Police Department under the Home (Police) Department, a new title" Tree Plantation and Maintenance" has been approved under the Reference Government Resolution dated 06/09/2019.
+2. Paragraph No. Indicator of the scheme in the headings of the table in 1
+-----------------------------------------
+| Marathi         | English  |
+| The scheme code | (2406**) | (2406**) |
+-----------------------------------------
+Instead of
+---------------------------------------------
+| Marathi         | English    |
+| The scheme code | (2406A632) | (2406A632) |
+---------------------------------------------
+This should be read.
+# Page 2

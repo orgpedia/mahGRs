@@ -1,0 +1,46 @@
+# Page 1
+Guidelines for laying of Underground Optical Fiber Cables (OFC) under Bharatnet-Mahanet Project in forest lands outside National Parks and Sanctuaries
+Government of Maharashtra
+Revenue and Forest Department
+Government Circular No.FLD-2015/C.R.08/F-10
+Mantralaya, Mumbai-400 032
+Date: 06.09.2021
+Read: 1) Handbook of guidelines and clarifications issued by the Ministry of Environment, Forests and
+Climate Change, Govt. of India vide letter F. No.5-2/ 2017-FC, dt.28/03/2019
+2) Ministry of Environment, Forests and Climate Change, Letter No. 11-9/1998-FC(Pt.), dated 17/09/2018
+3) Government of Maharashtra, Revenue and Forest Department, Circular No.FLD-2015/C.R.08/ F-10, dated 25/03/2021
+4) Principal Chief Conservator of Forests (HoFF), Maharashtra State, Nagpur Circular No. Desk 17/NC/17-4/CR-92/287/2021-22, dated 16.06.2021
+Circular:
+The Forest (Conservation) Act, 1980 mandates obtaining prior approval of the Central Government for non-forest use of forest lands. The Ministry of Environment, Forests and
+Climate Change, Govt. of India has accordingly issued guidelines for implementation of the said Act from time to time. Chapter-4 of the Handbook of Guidelines and Clarifications issued by the Ministry lays down guidelines in respect of General Approval under section 2 (ii) of the said Act for Critical Public and Strategic Defence Infrastructure, which include underground
+Optical Fiber Cables. Based on the same, the State Governments have been authorized to exercise powers under section 2(ii) on behalf of the Central Government to decide the cases of diversion of forest lands along roads within existing RoWs (trench size not more than two meter in depth and one meter in width), not falling in National Parks and Sanctuaries. Such general approval conceded by the Central Government is subject to certain conditions apart
+from those stipulated in paragraph 4.1 of the Handbook of Guidelines referred above and all other guidelines issued in that behalf by the Central Government as well as the State Government.
+2. The Central Government vide the letter referred above at Sr. No.2 has clarified that the powers under general approval for granting approval under section 2(ii) shall be exercised by the State Government only, which means such powers cannot be further sub-delegated by the State Government.
+3. The Government of Maharashtra is committed to ensure robust and smooth telecommunication facilities across the State, which include bringing the remote areas under telecommunication network for better connectivity. Many a times, OFC alignments include forest-lands, making obligatory for moving proposals under the Forest (Conservation) Act, 1980. However, such patches of forests are spread across the district and more often than not, stretching across talukas as well as across forest-divisions. Under such circumstances, the user agencies are compelled to prepare separate proposals for each alignment, which do not move
+# Page 2
+Government Circular No.: FLD-2015/C.R.08/F-10
+ahead simultaneously, thereby defeating the basic objective of providing better communication facilities to the people inhabiting remote areas. Thus, in furtherance of the said objective and with a view of ease of doing business in that regard, the Government of Maharashtra hereby lays down following procedure for considering the proposals under section 2 (ii) for laying of Underground Optical Fiber Cables (OFC) under Bharatnet Mahanet Project in forest lands within existing RoWs along the roads not falling in National Parks and Sanctuaries. In case, the proposed area falls in the RoW of the road passing through National Parks and Wildlife Sanctuaries, as per para 4.2 of the Handbook of Guidelines and Clarifications, General Approval is subject to requisite permissions from the State Wildlife Board for wildlife shall be obtained and in case, the proposed area falls in the RoW of the road passing through Tiger Reserves, General Approval is subject to requisite permissions from the National Board for Wildlife /NTCA shall be obtained.
+4. Procedure
+4.1 This procedure shall be applicable only in respect of laying of Optical Fiber Cables (OFC) under Bharatnet-Mahanet Project in forest lands within existing RoWs along the roads not falling in Sanctuaries and National Parks.
+4.2 In the OFC proposals, the user agency shall be at liberty to initiate the proposal under Forest (Conservation) Act, 1980 prepared for the entire district showing following details in Part-I of the proposal, apart from furnishing other requisite details.
+--------------------------------------------------------------------------------------------------------
+| Sr No. | Taluka | Village | Survey No. | Alignment | Total Length (m) | Width (m) | Forest Area (ha) |
+| From   | To     |
+| 2      | 3      |         | 5          | 6         |                  | 8         |
+|        |
+--------------------------------------------------------------------------------------------------------
+4.3 The user agency shall ensure that the proposal must be complete in all respect, clearly depicting the alignment with kml files. The user agency will furnish the details of non forest area also, to avoid possibility of wrongly considering some forest patches as non forest areas.
+4.4 After applying online on PARIVESH portal, it shall move the hard copies of the proposal to the Deputy Conservator of Forests or the Divisional Forest Officer as the case may be (hereinafter referred to as 'the DCF'), based at District Headquarter.
+4.5 The DCF based at the District Headquarter shall coordinate with other DCFs in respect of the said proposal and for the said purpose, he shall be the authority to seek information from any other DCFs in whose jurisdictions the alignment falls. Such other DCFs shall be duty-bound to promptly furnish all relevant information sought by the coordinating DCF as stated above.
+4.6 It shall be the DCF based at District Headquarter, who shall fill up Part-II of the Form, on behalf of the Forest Department, irrespective of the fact that the proposed alignment may exist in areas in jurisdiction of other DCFs also. To facilitate him in this regard, whenever he seeks
+Page 2 of 4
+# Page 3
+Government Circular No.: FLD-2015/C.R.08/F-10
+information, the other DCFs through whose jurisdictions such alignment passes shall be under obligation to furnish the information in the form of duly filled Part-II, the Site Inspection Report and any other relevant information to the extent of their jurisdictions which has been so sought.
+4.7 For the purpose of expediting the proposal, the DCF at district headquarter may call the meeting of all other DCFs in the district, requesting them to attend in person at his ce or through virtual mode and it shall be obligatory for all other DCFs to attend such meetings in person with all relevant information.
+4.8 It shall be mandatory upon the officer on behalf of the User Agency, under whose signature and seal the Part-I of the proposal has been moved to respond to the DCF at the District Headquarter or any other DCF, as and when required. It shall also be mandatory upon him to attend in person in meetings called by any of such DCFs.
+4.9 The Circle-in-charge of Forest Department shall personally monitor the progress of the proposal and shall issue necessary directives to the DCFs concerned as and when required.
+4.10 Concerned Officers must submit the proposals within the stipulated time limit mentioned in circular issued by PCCF (HoFF) on 16.06.2021.
+4.11 Notwithstanding anything mentioned hereinabove, it shall be open for the user agency to move separate proposals to the DCF, having jurisdiction over forests through which the proposed alignment passes and in which case, such DCF shall take all appropriate measures for processing the proposals as desired under ordinary circumstances.
+This Government resolution of Maharashtra Government is available at the website
+# Page 4

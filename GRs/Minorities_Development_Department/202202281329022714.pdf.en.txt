@@ -1,0 +1,89 @@
+# Page 1
+Administrative approval for creation of new website and Case Information Management System for Maharashtra State Waqf Tribunal through National Informatics Centre (NIC).
+The Government of Maharashtra
+the Department of Minority Development
+Government Resolution No: Wakf 2019/ Q.No. 174/ Q. 4
+Madam Cama Marg, Hutatma Rajguru Chowk,
+Ministry, Mumbai- 400 032.
+Date: 28.02.2022.
+Read- 1) Minority Development Department Letter No.: Waqf 2019/ Q. No. 174/ Q. 08.12.2020 2) of Deputy Manager/ Technical Director, National Informatics Centre (NIC) vide letter No. TI/ 2020-21, dated 25.10.2021.
+Preamble- New scheme for Maharashtra State Waqf Tribunal through National Informatics Centre (NIC)
+Administrative approval for creation of website/ Case Information Management System
+The matter was under consideration of the government.
+Government's decision
+The Maharashtra State Waqf Tribunal has been accorded the status of a civil court.
+The office functions like a court of law. going on in the court
+Tribunals on the lines of e-Courts to make the information of cases available to the general public
+Website/ Case Information Management System
+Science Centre (NIC), Reference No. A government proposal was sought. in accordance with it
+The National Informatics Centre (NIC) has released its Reference No. 2 for Rs. 82,08,652/- (Rs.
+A proposal has been submitted to the government for Rs eight crore. Sadar
+Below are the details of the proposal.
+----------------------------------------------------------------------------------------------------------------------------------------
+| Sr. No | Position (Experience as per Tech Evaluation Criteria) | Unit      | Rate (R) | Multiplication Factor (M) | Total Cost (RxM) |
+| 1      | Project Manager                                       | Man Month | 93,312   | 4                         | 3,73,248         |
+| 2      | Solution Architect                                    | Man Month | 64,152   | 1                         | 64,152           |
+| 3      | UI Designer                                           | Man Month | 58,320   | 3                         | 1,74,960         |
+| 4      | Developer (3-5 Years Experience)                      | Man Month | 37,325   | 32                        | 11,94,400        |
+----------------------------------------------------------------------------------------------------------------------------------------
+# Page 2
+Government Resolution No: Wakf 2019/ Q.No. 174/ Q. 4
+--------------------------------------------------------------------------------------
+| 5  | Developer (5+ Years' Experience)        | Man Month | 64,152 | 16 | 10,26,432 |
+| 6  | Quality Expert                          | Man Month | 40,824 | 3  | 1,22,472  |
+| 7  | Database Admin (3-5 Years' Experience)  | Man Month | 58,320 | 4  | 2,33,280  |
+| 8  | Database Admin(5+ Years' Experience)    | Man Month | 69,984 | 2  | 1,39,968  |
+| 9  | Security Expert                         | Man Month | 46,656 | 2  | 93,312    |
+| 10 | Tester (3-5 Years' Experience)          | Man Month | 34,992 | 12 | 4,19,904  |
+| 11 | Tester (5+ Years' Experience)           | Man Month | 58,320 | 12 | 3,49,950  |
+| 12 | Documentation Expert                    | Man Month | 29,160 | 4  | 1,16,640  |
+| 13 | Business Analyst (5+ Years' Experience) | Man Month | 52,488 | 4  | 2,09,952  |
+| 14 | Training and Change Management Expert   | Man Month | 32,659 | 4  | 1,30,636  |
+--------------------------------------------------------------------------------------
+Onsite Resource Deployment for 24 Months after Go-Live
+---------------------------------------------------------------------------------------------------------------------------------------
+| Sr.No | Position (Experience as per Tech Evaluation Criteria) | Unit      | Rate (R) | Multiplication Factor (M) | Total Cost (RxM) |
+| 1     | Developer (5+ Years' Experience)                      | Man Month | 64,152   | 24                        | 15,39,648        |
+---------------------------------------------------------------------------------------------------------------------------------------
+ONE Year Offsite Technical Support after ONE Year Warranty:
+---------------------------------------------------------------------------------------
+| Sr.No | Description                          | Year | Rate/ Year | Total Cost (RxM) |
+| 1     | Offsite Technical Support for 1 Year | 1    | 2,32, 464  | 2,32,464         |
+| 2     | 1 Year Technical Support             |      |            | 2,32,464         |
+---------------------------------------------------------------------------------------
+Security Audit Charges:
+----------------------------------------------------------------------
+| Sr.No | Description                       | Agency | Charges (INR) |
+| 1     | Security Audit Charges (ONE Time) | 1      | 80,000        |
+| 2     |                                   |        | 80,000        |
+----------------------------------------------------------------------
+Cost Summary
+-----------------------------------------------------------------------------------------
+| Sr. No | Particulars                                                      | Cost      |
+| 1      | Development of Wakf Tribunal- CASE INFORMATION MANAGEMENT SYSTEM | 46,49,276 |
+| 2      | ONE Resource Deployment Charges for 24 Months after Go-Live      | 15,39,648 |
+-----------------------------------------------------------------------------------------
+Page 2 of 4
+# Page 3
+Government Resolution No: Wakf 2019/ Q.No. 174/ Q. 4
+---------------------------------------------------------------
+| 3 | Offsite Technical Support for 1 Year        | 2,32,464  |
+| 4 | Security Audit Charges (ONE Time)           | 80,000    |
+| 5 | Sub Total                                   | 65,01,388 |
+| 6 | Administrative charges (NICSI Charges @ 7%) | 4,55,097  |
+| 7 | Total                                       | 69,56,485 |
+| 8 | GST @ 18%                                   | 12,52,167 |
+| 9 | Grand Total                                 | 82,08,652 |
+---------------------------------------------------------------
+Website of Maharashtra State Waqf Tribunal on the lines of e-court/ Case Information
+The National Informatics Centre (NIC)
+As per the above Rs. 82,08,652/- (Rupees Two Lakh Eight Thousand Six Hundred and Fifty Two only)
+The proposal has been given administrative approval.
+3. Expenditure for the matter Demand No. ZE-1-2052 Secretariat General Service
+(00) (03) Implementation of e-Governance Project (20525125) (Programme) 17 Computer Expenditure under the heading"
+to be spent
+4. The said Government Decision, with the concurrence of the Department of Information Technology and the Government Decision of the Department of Finance.
+2013/ S.A. No.30/ 2013/ Regulations, Part-II, Sec. the Financial Powers Rules under 17.04.2015
+27 (a) of Sub-Division-2 of the Handbook, 1978 Part-I, Rule No. 1, 2 and 3 of 76
+Accordingly, the authority is being issued as per the authority given to the departments.
+# Page 4

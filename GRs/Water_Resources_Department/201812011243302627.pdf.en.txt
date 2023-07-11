@@ -1,0 +1,246 @@
+# Page 1
+Consolidated revised guidelines on Tender Publication, Opening of Tender Envelopes and Tender Scrutiny and Acceptance under e-tendering process of Water Resources Department.
+The Government of Maharashtra
+The Department of Water Resources
+Government Resolution No: Tender 0417/ (Q. No. 247/17)/ MOPR-1
+Ministry, Mumbai 400 032.
+The date: November 30, 2018
+Reference 1 General Administration Department, Government Resolution No. 273/39, D. 26/11/2014
+2 Maharashtra Public Works Rules, Para 202, Annexure 42
+3 Water Resources Department, Government Order No. Tender 0411/ (319/2011)/ Mopr-1,
+D. 18/10/2014 and Corrigendum D. 10/5/2016
+Department of Water Resources, Govt. Tender No.274/ MOPR-2, 2017 27/06/2017 and Refinement Tender 1017/ Q.No. 507/17/ Mopr-1, Dt. 05/12/2017
+5 Department of Water Resources, Government Resolution No. Tender 0417/ No. 247/ MP-1,
+D. 22/05/2018
+6 Department of Water Resources, Government Resolution No.Fiscal 0418/ No. 232/ MP-1,
+D. 30/08/2018
+7 Department of Water Resources, Govt. Purse No.Financial 0418/ No.232/ Mopr-1, Dy. 15/09/2018
+8 Department of Public Works, Government Decision, No. CAT/ 2017/ Q.No.08/ Ima-2, D. 27/9/2018
+Government Decision No. 9. CAT 01/2015/ Q.No.20/ EMA-2, D. 24/4/2015
+Government Decision No. 10 Tender No.1213/ (735/2013)/ Mopr-1D. 7/9/2015
+11 of Decision No. CAT- 06/04/148/ Building 2, Dy. 16/5/2005
+12 Circular No.TDS-0918/ (P.No. 590/18)/ MOPR-1 of Govt. 13/11/2018 13 Department of Water Resources, Government Decision No. Narrow/ 1217/ S.No. (114/17)/ Mechanical, Dy. 05.07.2018
+14 Department of Public Works, Government Decision, No. CAT/ 2017/ Q.No.08/ Ima-2, D. 26/11/2018
+15 Department of Public Works, Government Decision, No. CAT/ 2018/ Q.No.127/ EMA-2, D. 28/11/2018
+Introduction: Refer No. All tenders above Rs. 3 lakhs have been ordered to be invited and accepted through e-tendering process. Under the Digital India campaign, it has been decided that the maximum work of the Maharashtra government should be done through e-governance and the procurement process should be through e-tendering process. At present, the e-tendering process is being carried out by the National Informatics Centre (NIC). NIC has taken the responsibility of due diligence as per the agreement with the Government of Maharashtra. Tenders are published on the website and are published all over the world. Information about all the activities in the process
+# Page 2
+Government Resolution No: Tender 0417/ (Q. No. 247/17)/ MOPR-1
+Automatic alerts are received by the participating contractors through email and SMS through the system generated.
+Though all the instructions for tender work have already been issued through various government decisions, the department has issued consolidated instructions for tender work under the government decision of Reference No. 5 after the scrutiny of the tenders received from the government and the meeting held with the Principal Secretary and Additional Chief Secretary (Finance Department) accordingly found that the integrated policy was not reflected in the examination of the tenders. However, at the field level, it has been expedient to issue revised instructions after studying the difficulties faced in the implementation of the provisions of the said Government Decision, suggestions received, feedback etc. Under Section 25 of the Irrigation Development Corporation Act, the Government has the power to prescribe and give such directions.
+In this regard, after a comprehensive study of all the issues received from the field level, it was under consideration to disseminate the revised consolidated suggestions as follows.
+Government Decision: E-tendering system is being adopted to ensure speedy and transparent execution of various works of the Water Resources Department. The revised order regarding e-tender Publication, Publication Duration and Acceptance Procedure is being issued as under:
+Procedure to be followed before taking up the tender proceedings: 1.1 Reference No. 10 This work should be included in the approved annual receipt list as per the government decision here.
+1.2 The proposed work budget should first be updated with the current schedule and the technical approval of the budget should be obtained at the competent level.
+2.1 Normally, the tender procedure for the works of the Water Resources Department should be followed in the B-1 pattern.
+2.2 The draft of the Lumpsum Contract in the form of" C" should be used with the prior permission of the government for certain types of work.
+2.3 EPC (Engineering, Procurement and Construction) type tenders should be invited for the projects which are included in the Central Government's Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) as per their guidelines.
+2.4 The draft tender should mainly cover the following:
+A) Brief Tender Notice B) Detailed Tender Notice C) Additional Instructions to the Contractor D) Qualification Documents required E) General Description of Proposed Work F) Printed Form of Agreement G) General Conditions of Contract H) Special Conditions of Contract 1) Detailed Specifications for all Items of the Work 2
+# Page 3
+Government Resolution No: Tender 0417/ (Q. No. 247/17)/ MOPR-1
+J) Required Drawings 2.5 Since the warehouse material for the work is not to be supplied through the account, the Annexure-A of the tender should be kept intact.
+2.6 While fixing the tender period, the trend of financial provision available for the project as well as the urgency to complete the work should be taken into consideration and an objective time period should be fixed and mentioned in the tender. Delays due to possible difficulties arising in the work should be taken into account while determining this period.
+2.7 After the tender sale period, a period of two days should be given to submit the tender.
+2.8 In no case will the tender be accepted by the contractors in the form of hard copy, the condition in this regard should be included in the tender.
+2.9.Interpretation clause shall be inserted in the tender for all periods. Reference No. 11 Action shall be taken in accordance with the provisions of the above Government Decision.
+2.10 The draft Tender Paper approval authority is being provided as follows.
+Executive Engineer Rs.50 lakh to Superintending Engineer Rs.50 lakh to Rs. 2.50 crore to Chief Engineer Rs. 2.50 crore
+The draft tender set should be submitted in two copies with the approval of the competent authority.
+3 Amendments to the draft tender documents.
+No changes shall be made in any matter in the published tender or tender notice, the changes, if necessary, shall be made with the prior approval of the competent authority as indicated in the table below. Also, certain reasons for granting such approval should be prominently displayed on the website.
+------------------------------------------------------------------------------------------------------------------------------------
+| A.A. | The level of acceptance of the tender | the competent authority approving the modification in the tender notice published |
+| 1.   | the Executive Engineer                | the concerned Superintending Engineer                                             |
+| 2.   | the Superintending Engineer           | the Chief Engineer concerned                                                      |
+| 3.   | Chief Engineer and Administration     | the Chief Engineer                                                                |
+------------------------------------------------------------------------------------------------------------------------------------
+4.1 The tender for the work should be uploaded on the website mahatenders.gov.in from the divisional level using the Digital Signature Key (DSK) of the Executive Engineer. The required drawings should be uploaded along with the tender.
+4.2 All the dates of timelines in respect of tendering process shall be included in the e-tender as mentioned in the Draft Tender Set (DTP) approved by the Competent Authority.
+On page 19 of 3
+# Page 4
+Government Resolution No: Tender 0417/ (Q. No. 247/17)/ MOPR-1
+4.3 The e-tender should be made available for free of cost download to the contractor or other interested parties. However, it will be mandatory for the contractor or other interested parties to pay the tender price to participate in the tender process.
+4.4 Envelope No. 1 (Technical Envelope) and Envelope No. Two envelope system should be adopted.
+4.5 The Contractor shall provide the facility of lodging objections to the terms and conditions of the tender through e-tendering system seven days before the last date of submission of tender without calling for pre-tendering meeting.
+4.6 Disclosure of the issues of the contractor should be uploaded on the website by the Executive Engineer three days before the last date of submission of tender after obtaining approval from the Tender Accepting Officer.
+4.7 Tender Envelope No. 1 (Technical Envelope) and Envelope No. All documents in Form 2 (financial envelope) should be uploaded by the contractors along with their dues and the said contractors should certify online the acceptance of the terms and conditions of the tender.
+4.8 Contractors should be advised not to scan the tender copy and upload it in other documents while uploading the documents.
+4.9 The Digital Signature Key (DSK) of at least two of the Executive Engineer/ Divisional Accountant/ Deputy Divisional Engineer shall be used to enter the tender envelope No. 1 (Technical Information) should be opened.
+4.10 The Divisional Accountant shall verify the authenticity of the information received from the eligible contractors mentioned in the Self Evaluation Sheet.
+4.11 Evaluation reports of qualified contractors should be sent to the competent level for approval and approval. The entire process should be completed within 10 working days.
+4.12 The list of eligible and ineligible contractors (including the reasons for ineligibility) should be uploaded on the website and the envelope No. 2) If the original time of opening (financial envelope) has been changed, the revised time should be announced on the website.
+4.13 The Digital Signature Key (DSK) of at least two of the Executive Engineer/ Divisional Accountant/ Deputy Divisional Engineer shall be used to enter the Tender Envelope No. 2 (envelope containing financial debt) should be opened.
+4.14 Copy of comparative table and tender of eligible contractors should be downloaded and printed and signed by the Executive Engineer/ Divisional Accountant. Follow the instructions in steps 6 and 7.
+4.15 Under the tender process of the Water Resources Department, the following actions should be taken regarding the tender inspection, acceptance, payment of dues and the period of fault liability after the tender is finalized and the responsibility of the officer/ employee until the work is finalized and this should be mentioned in the tender conditions.
+If the documents attached with the tender are found to be false by the contractor during the tender inspection, acceptance, payment of dues and during the period of validity and finalization of work after the tender is finalized, then reference no. 15 All the instructions circulated under the Government Decision of the Public Works Department above are applicable to the Water Resources Department and action should be taken accordingly.
+On page 19 of 4
+# Page 5
+Government Resolution No: Tender 0417/ (Q. No. 247/17)/ MOPR-1
+The contractor's EMD/ SD/ Additional Performance Security Deposit should be forfeited and the contractor should be debarred from participating in any tender process of the Water Resources Department for three years.
+5 Tender Publication Media: For works up to Rs. 5.1 lakh, there is no need to call for tenders by giving advertisement from the newspaper. For such works, the tender notice should be published in Marathi and English on the notice board in the office of the Executive Engineer. 8 days for the first notice and 5 days for the second notice if there is no response.
+5.2 In the case of works whose budget is more than Rs.3 lakh, the following procedure should be adopted for publishing the work in the advertisement in the newspaper.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| A. No.                         | the budget price of the tender   | the right to distribute advertising                            | Advertising magazine                                                                                                                                                                |
+| Up to Rs 20 lakh               | the District Information Officer | One daily and one weekly                                       |
+| Above Rs 20 lakh to Rs 55 lakh | Deputy Director of Information   | One daily and one weekly                                       |
+| 3                              | More than Rs 55 lakh             | Headquarters (Directorate of Information and Public Relations) | One' A' class Marathi and English daily of the concerned division and one' B' class daily of that division and one' C' class daily of the district in which the work is to be done. |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+6 Advertising and Publicity.
+The advertisement should include information such as the name of the work, district, budget price, etc. The detailed tender notice is available on the government website and the notice board of the departmental office, it should be mentioned in the advertisement and action should be taken accordingly. The advertisement to be given in the newspaper should be in the prescribed format mentioned in Form-1. There shouldn't be any change. The Executive Engineer/ Divisional Accountant shall ensure the necessary verification of the publicity in the advertisement.
+Page 19 of 5
+# Page 6
+Government Resolution No: Tender 0417/ (Q. No. 247/17)/ MOPR-1
+7 The time and date of the tender
+The minimum tender period and the price of the tender set should be as follows:
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+| A. No.       | the budget price of the tender   | the tender set price | The minimum period for the publication of the tender |
+| The 1st time | time period                      | The 3rd time         |
+| 1.           | Rs 3 lakh to Rs 5 crore          | Rs.2000/- plus GST   | 15 days.                                             | 10 days  | It's 7 days |
+| 2.           | Above Rs 5 crore to Rs 100 crore | Rs.5000/- plus GST   | 25 days.                                             | 15 days. | 10 days     |
+| 3.           | More than Rs 100 crore           | Rs.10,000/- plus GST | 45 days.                                             | 30 days. | 15 days.    |
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+7.1 As the days of the offer are holidays, the period includes holidays including office days.
+The first and last day of the tender sale and the last day of submission of the tender should be government working days.
+7.2 If the time period for the publication of the tender is to be reduced for any reason, the prior approval of the Executive Director concerned shall be taken. However, the minimum period cannot be less than seven days.
+8.1 No need to hold Pre-Bid Conference with Contractors. This should be included in the proposal.
+8.2 If the contractor has any doubts after downloading the tender, they should be asked online under the Seek Clarification Option. The doubts should be clarified/ resolved online. The meeting should not take place. There is no need to provide the Seek Clarification Option for tenders with a budget price up to Rs. 1.50 crore.
+8.3 The last date for receipt of objections from the contractors shall be seven days before the last date of submission of tender. The clarifications thereon shall be published on the website three days in advance of the submission of the tender by the Executive Engineer with the approval of the competent authority accepting the tender. The Common Set of Deviations (CSD) will be part of the tender.
+8.4 Contractors should submit the tender considering that there is no change in the terms and conditions of the tender if the doubts are not resolved/ clarified by the Department till the last day of submission of the tender.
+9. For tenders up to Rs. 1.50 crore, the condition that the contractor is registered with the Public Works Department of the State of Maharashtra should be made mandatory.
+Contractors need not be registered for tenders with a budget of more than Rs. 1.50 crore.
+9.2 The following procedures shall be followed in determining the eligibility and subsequent eligibility for tendering.
+Page 19 of 6
+# Page 7
+Government Resolution No: Tender 0417/ (Q. No. 247/17)/ MOPR-1
+9.2.1 Post qualification as well as bid capacity of the contractor should not be checked for tenders where the estimated cost of the work is up to Rs. 1.5 crore.
+9.2.2 In respect of all works for which the estimated cost of the work is more than Rs. 1.5 crore to Rs.5 crore, the Bid Capacity of the Contractor shall be determined in accordance with the formula in point 9.3 (d) below.
+The tender accepting authority shall have the power to determine the bid capacity of the contractor.
+9.2.3 Post qualification procedure to be followed in respect of tenders for works costing more than Rs. 5 crore. The tender notice should mention that there is a post qualification criterion in the work contract.
+9.3 The tender should contain the following post qualification provisions.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| A. | Maximum annual turnover of the contractor in the preceding five financial years (April 1 to March 31)                                                                                                                                                                                               |   | At least 75% of the estimated cost put to tender                                                                                                                    |
+| B. | The contractor must have completed at least one equivalent work of equivalent value.                                                                                                                                                                                                                |   |                                                                                                                                                                     |   | Estimated cost put to tender for the work concerned: 30% of the total cost i) For all works from Rs.5 crore to Rs.10 crore: 30% ii) For all works above Rs.10 crore: 30% or Rs.5 crore whichever is higher |
+| c. | Minimum quantity of important items to be done in any of the last 5 years for the work concerned (the year may be different for each item)                                                                                                                                                          |   | 30% of the amount of important aspects of the work concerned.                                                                                                       |
+| d. | The bid capacity of the contractor                                                                                                                                                                                                                                                                  |   | (ox n x 2)- b where, o- maximum annual turnover in the last five years (at current rate) n- duration of work (years) b- cost of works in hand (in duration of work) |
+| E. | It should be made mandatory that the equivalent work as per the specific nature of the work concerned should have been done physically by the contractors within any period of time without considering the last five years only. work subletted by other contractors cannot be taken into account. |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Page 7 of 19
+# Page 8
+Government Resolution No: Tender 0417/ (Q. No. 247/17)/ MOPR-1
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| F. | The Chief Engineer shall, in each case, examine and determine the criteria for the availability of self-owned/ leased/ leased machinery and plant management systems available with the contractor for the work concerned and obtain the contractor's bond/ guarantee for making such machinery available at the site of construction. |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+9.3.1 An increase of 10% per annum should be taken into account while calculating the turnover, cost of work etc. at the current rate. The annual turnover balance sheet of the contractor should be certified by a chartered accountant.
+9.3.2 In selecting the items as per (a) above, only the important and salient aspects of the work in question should be considered.
+9.3.3 Contractors shall be bound to submit the remaining cost of the work in hand in an accurate and complete manner. Also, the contractor will also be obliged to promptly submit information regarding the work being tendered, but in case a new work is received (i.e. if the commissioning order for that work is received) before a final decision is made in this regard.
+Otherwise, the contractor will not be able to participate in the tender process of the Water Resources Department for the next three years.
+9.3.4 While determining the criteria as per (e) above, care should be taken to ensure that the definition of equivalent work is unambiguous.
+9.4 Power of Evaluation of Tender Executive Engineer:- Superintending Engineer up to Rs.50 lakh Chief Engineer from Rs.50 lakh to Rs. 2.50 crore All price tenders above Rs. 2.50 crore
+Two Envelope System of Tendering: In the e-tendering system, the contractor has to submit the tender documents in two envelopes as follows.
+10.1 Envelope No. Technical Bid: The contractor should submit the following documents.
+A copy of a valid certificate of the contractor being registered with the government (only for works up to an estimated cost of Rs. 1.5 crore)
+(ii) Proof of payment of the required amount (EMD scan copy).
+(iii) Partnership Agreement/ other valid documents in respect of ownership of the Company.
+(iv) Post qualification documents fulfilling the minimum eligibility criteria as prescribed in the tender 10.2 Envelope No. 2 (Financial Bid): The contractor should submit a copy of the letter regarding the clarification and resolution of the doubts published on the website.
+11 Opening of Tenders: The following procedure should be followed in this regard.
+11.1 The tender should be opened in the Divisional Office using the Digital Signature Key (DSK) of both the Executive Engineer, Sub-Divisional Engineer and the Divisional Accountant.
+Page 8 of 19
+# Page 9
+Government Resolution No: Tender 0417/ (Q. No. 247/17)/ MOPR-1
+11.2 The tender notice shall clearly state that" the date and time of opening of the tender to be published on the website shall be attended by the Contractor or his authorized representative, otherwise no complaint shall be entertained in case of opening of the tender."
+11.3 Signatures of the Contractors or their authorized representatives present at the time of opening of the tender should be taken. (Figure-3)
+11.4 Firstly, all the contractors should be provided with the envelope No. 1 to be opened.
+11.5 The supporting documents of the eligible contractors should be checked by the Divisional Accountant by opening the Self Evaluation Sheet.
+11.6 The Divisional Accountant shall send the assessment report along with the list of eligible contractors and reasons for ineligible contractors for approval at the competent level within three working days.
+11.7 If it is found at any stage of the tendering process that the contractor has submitted false/ incorrect information/ certificates, the statement of the said contractor shall be seized and criminal proceedings (under the Information Technology Act, 2000 and under the provisions of the Indian Penal Code) shall be proposed. 4.15 should be followed.
+11.8 The list of eligible contractors shall be published on the website with the approval of the competent authority accepting the tender. The date and time of opening of the financial bid should be intimated to the eligible contractors. The list of eligible contractors will be published on the website after two days, preferably in the form of envelope No. 2 to be opened.
+11.9 Envelope No. 2 After opening, the tender should be sent to the competent authority for approval by taking the signature of the contractor on the copy of the tender of the minimum payment according to the comparison table generated automatically on the computer system.
+12.1 Less than Three Tenders Received: If less than three tenders are received till the last date of submission of the tender, fresh bids shall be invited for the second tender immediately after the opening of the same. In doing so, no changes should be made to the original draft tender. If after such second requisition, again less than three or only one qualified tender is received, the tender should be opened and further proceedings should be taken.
+12.2. Three or more than three bids received and two bids qualified: There should be no wastage of time and for the works to be completed on time, if only two bids qualified at the time of first call, they should be opened and further action should be taken.
+12.3. Three or more than three bids received to qualify a single tender: If at the time of the first call, the qualified tender is below the budgeted rate or at the budgeted rate, the tender should be accepted otherwise a demand should be made. If only one more qualified tender is received after the second demand, it should be opened and further action should be taken.
+12.4 Emergency and Extraordinary Tasks: If only one qualified tender is received at the time of first call, a short term (at least seven days) re-tender should be called without opening such tender. To avoid wastage of time, these tenders should be published in the same newspaper in which they were published earlier and published on the same website. Even if one or more tenders are received at the time of second requisition, they should be opened and further action should be taken. However, such
+Page 9 of 19
+# Page 10
+Government Resolution No: Tender 0417/ (Q. No. 247/17)/ MOPR-1
+The work should be done with the prior approval of the concerned Executive Director and the reasons for the necessity of the work should be recorded by him.
+12.5 If a bid is received at a rate higher than the prevailing tariff, the tender should be submitted for approval with full support at the competent level. If such tenders are not acceptable, they should be cancelled at the competent level and the tender conditions should be re-examined and re-tendering should be sought and further action should be taken by relaxing the conditions to get competitive rates.
+12.6 The second call for tender/ third call for tender should be made through the facility under the Retender Option on the e-tendering portal.
+13.1 While accepting the tender, the rates of any item in the budget should not be updated and should be compared only with the tender rate.
+13.2 Right of acceptance of tender. Action should be taken in accordance with the provisions of Government Decisions 6 and 7.
+13.3 A Committee is being constituted for acceptance of tenders received at the Government level as follows:
+--------------------------------------------------------------------------------------------------------------------------------------------
+| 1. | Principal Secretary (Water Resources), Ministry of                                                       | Chairman                 |
+| 2. | Secretary (PR), Ministry of Water Resources                                                              | the members              |
+| 3. | Secretary (Finance), Ministry of Water Resources                                                         | the members              |
+| 4. | Chief Engineer (PWD) and Joint Secretary, Water Resources Department, Ministry of Water Resources        | the members              |
+| 5  | Chief Engineer                                                                                           | the members              |
+| 6. | Inter-Financial Adviser and Deputy Secretary, Department of Water Resources, Ministry of Water Resources | the members              |
+| 7. | the Deputy Secretary concerned                                                                           | member of the Secretary. |
+--------------------------------------------------------------------------------------------------------------------------------------------
+13.3.1 Checklist for Committee Meeting is attached. (Form-2) 13.3.2 In respect of tenders received for approval at the Government level, the aforesaid Committee shall proceed as follows:
+(i) The Deputy Secretary concerned shall convene a meeting of the Committee after the proposal for acceptance of the tender is received by the Government.
+(ii) The above Committee shall take a decision on the proposal under the authority of the Department.
+(iii) The proposal under the authority of the A.M.S. (Finance) Committee, along with the comments received from the aforesaid Committee, shall be placed before the Committee of Additional Chief Secretary (Public Works Department), Principal Secretary (Water Resources), Additional Chief Secretary (Finance) and Additional Chief Secretary (Planning), as decided.
+Page 19 of 10
+# Page 11
+Government Resolution No: Tender 0417/ (Q. No. 247/17)/ MOPR-1
+Joint Venture: For all construction works above Rs 50 crore, as well as for the construction, mechanical and electrical component works of the EPC system, if there is a combined tender, the Joint Venture Consortium established by the Joint Venture will participate in the tender process. The amount of participation in the established agency should be proportionate to the architectural, mechanical and electrical work in the tender. Follow the following instructions.
+It shall be mandatory for the agency established by the Joint Venture to register with the Registrar of Firms of the Government as per the provisions of Section 58 of the Indian Partnership Act, 1932 or with the Registrar of Companies as per Section 12 of the Limited Liability Partnership Act, 2008.
+If for any reason the registration of the agency set up by the Joint Mission is not received by the last date of submission of the tender, it shall be mandatory for the tenderer to submit proof of having filed the application with the Registrar concerned to the competent authority opening the tender. However, if the tenderer submits the envelope No. If the registered copy of the JV is not submitted within 15 days from the opening of the tender, the agency established by the joint venture will be automatically eliminated from the tender process. In such a situation, if the JV is of the lowest bidder (L-1), then without calling for a new tender, the opportunity will be provided to the agency of the second lowest bidder (L-2) at the rate of L-1 and on the same terms and conditions.
+The responsibility for compliance with the above provisions lies with the agency established by the joint mission.
+Tender Statement/ Issue Amount (EMD): 15.1 When the contractor submits the tender for the works as per the ratio prescribed by the Government, it is necessary to pay the amount of the statement/ issue separately for each work.
+15.2 To exempt payment of Issa, the provision of exempting contractors from paying Bayana/ Issa amount after depositing some amount with the Government and completing the required bond is now being abolished.
+15.3 Payment of Bayana/ Ishara amount in online cash through RTGS/ NEFT from the bank account of the contractor concerned shall be mandatory.
+15.4 The following amount is required to be paid along with the tender:
+----------------------------------------------------------------------------------------------------------------
+| A. No. | the estimated cost of the work | Minimum Deposit/ Indication Amount Percentage (of Budgeted Amount) |
+| 1      | Up to Rs. 1.50 crore           | 9%                                                                 |
+| 2      | More than Rs. 1.50 crore       | 1.50 lakh (minimum Rs.                                             |
+----------------------------------------------------------------------------------------------------------------
+15.5 If the Contractor does not complete the necessary requirements for issuing the work order within the stipulated time, after the notification of the acceptance of the tender, his statement/ indication amount shall be forfeited.
+On page 19 of 11
+# Page 12
+Government Resolution No: Tender 0417/ (Q. No. 247/17)/ MOPR-1
+16. Acceptance of tenders for lower rates exceeding 10% of the budgeted rate: The following procedure shall be followed before accepting such tenders.
+16.1 Before accepting the tender, the contractor concerned should obtain detailed information about the plan to complete the work. The contractor should ensure that the work is completed at the lowest possible cost based on the details provided.
+16.2 While accepting the tender, the condition that the contractor should be informed about it and its acceptance in writing should be included in the tender.
+Before accepting the tender No. The amount of additional performance security reserve as mentioned in section 18 shall be covered by the loan amount/ bank security guarantee.
+Security Deposit: The amount of security deposit for all types of work should be kept at 2% of the tender price.
+The contractor should recover 1% of the security reserve amount before commissioning and the remaining 1% as per the prevailing practice from every ongoing payment thereafter till the completion of fifty percent of the work.
+Additional Performance Security Deposit: If the minimum bid value of the tender is more than 10% less than the budgeted price, then in order to ensure that the work is completed within the stipulated time period, the amount of Additional Performance Security Deposit (ADD)/ Bank Security Guarantee (BSC) will be paid as follows: (g) The envelope No. 1 and No.
+The L-1 tenderer who submits the first minimum payment after opening shall submit the same to the concerned Executive Engineer within eight days. This eight-day period will not be relaxed for any reason.
+18.1 The minimum tender received shall be at the rate of 10% less than the cost of the work under tender, 1% of the work under tender but not less than Rs.1,000/- (ex. 1 to 10% lower rate- 1%) 18.2 Half of the tenders received will be at a lower rate of more than 10% of the price of the work under tender, while the amount owed will be at a lower rate of more than 10%. 18 (1) but not less than Rs.1,000/ (e.g. 1 4% less- 1% up to 10% and 4% above 10%- 4% for a total of 5%) 18.3 If the lowest tender received is at a lower rate than 1 5% of the price of the work under tender, the remaining amount is to be paid for issue No. As per 18.2, the amount is twice the amount of 6% plus 15% whichever is lower, but less than Rs.1,000/ [e.g. at a lower rate of 19% (6%+ (19%-15%) x 2%)= 14%]
+19. Provision, refund and other matters relating to additional performance security deposit to be dealt with as follows:
+19.1 The guarantee of the bank securities or the money loan of the bank shall be in the name of the Executive Engineer calling for the tender.
+19.2 The Bank Securities Guarantee or the Bank Credit should be from a Government/ Scheduled as well as Public Sector Bank.
+19.3 Term of Bank Securities Guarantee Envelope No. 2 From the date of opening the work defect should be up to a period of one month after the end of the liability period.
+Page 19 of 12
+# Page 13
+Government Resolution No: Tender 0417/ (Q. No. 247/17)/ MOPR-1
+19.4 The EMD of the contractors who furnish false bank security guarantee or bank loan should be seized and the said contractor should be prosecuted in the matter no. 4.15 should be followed.
+19.5 On satisfactory completion of the work, the Executive Engineer shall return the excess performance security deposit amount received from the contractors as per the provisions of the tender to the contractors within three months.
+19.6 If the tenderer of the received Minimum Debt (L-1) does not pay the Additional Performance Security Deposit within the above prescribed time, the tenderer of the Second Minimum Debt (L-2) shall be asked in writing and if the L-2 tenderer is willing to work according to the rate and condition of L-1, his tender shall be approved.
+20. Certified copy of tender:
+After the acceptance of the tender, the original copy will be in the possession of the departmental auditor and the responsibility of its security will be of the departmental auditor. The required number of copies of the tender should be taken out and certified jointly by the Divisional Accountant and the Executive Engineer and such certified copies should be made available to the contractor, Sub-Divisional Office. Action should be taken in the above manner so as to avoid unauthorised corrections in the original copy of the accepted tender.
+21. Negotiations: With a view to reducing the tender price, only the tender acceptance authority shall negotiate with the proposed contractor on minimum payment. There should be no negotiations at any other level. However, the tenders to be accepted at the government level should be negotiated by the concerned Regional Chief Engineer.
+Goods and Services Tax (GST):
+Reference No. 12 Action should be taken as per the instructions given in the above circular.
+Validity period of the tender: The period of validity for payment of the rate paid by the contractors in the tender should be 60 days, 75 days, 90 days and 120 days for tenders at the level of Executive Engineer/ Superintending Engineer/ Chief Engineer/ Government respectively. The validity period of the tender should be reckoned from the date of opening of the financial bid.
+General Instructions: 24.1 Tender should be processed only after the work budget is updated with the current rate schedule.
+The prevailing tariff list should not be updated and compared with the tender rate during the acceptance of the tender.
+24.2 The tenders to be submitted for acceptance at the government level should be submitted directly to the government by the concerned Chief Engineer.
+24.3 After the opening of the tender, the contractor of the lowest debtor (L-1) shall consider the contractor of the second lowest debtor (L-2) by taking action to forfeit the reserve amount of the said contractor if the security reserve amount is not paid within the stipulated period. However, while considering the L-2 contractor, the L-1 shall proceed to accept the tender of the L-2 contractor as per the rates and conditions finalised by it.
+24.4 Since it is mandatory to have a registered contractor from the Public Works Department for works up to Rs. 1.50 crore, educated unemployed engineers and laborers are co-operative Page 13 of 19
+# Page 14
+Government Resolution No: Tender 0417/ (Q. No. 247/17)/ MOPR-1
+As no change is proposed in the earlier prevailing system of assigning work to the institutions, the above reference to the prevailing system has been omitted. 9 The orders of the above government decision should be followed. (33:33:34% ratio)
+24.5 The provisions of this Government Decision shall continue to apply to tenders for the construction of projects under the Water Resources Department. The rules and regulations issued by the Industries Department of the Government of Maharashtra will be applicable for the tenders related to procurement. For computer and computer system tenders, action should be taken as per the guidelines of the Department of Information Technology, Government of India and as per the directions of the Department of Information Technology, Government of Maharashtra.
+24.6 The above directions are being issued in accordance with the provisions under Article 25 of the Corporations Act with a view to the proper management of the affairs of the Corporations and to ensure uniform functioning/ co-ordination of all the Corporations in this regard. It will be mandatory for all the corporations and offices of the Water Resources Department to follow the instructions given under this government decision.
+24.7 All the instructions in this Government Decision shall be issued by the Department of Water Resources, Electrical and Mechanical (Vs. And ya. ) Will be applicable to the work done under the organization. However, in respect of post qualification criteria for works to be carried out under Mechanized Organisation of Water Resources Department, Reference No. 13 The instructions issued under the above Government decision are applicable and in addition to this, all the above instructions will be applicable to the works being carried out under the mechanical organization of the Water Resources Department.
+24.8 This Government Decision shall come into force on the date of its publication.
+24.9 of this Order. Government decisions on 3, 4 and 5 are being revised.
+# Page 15
+# Page 16
+# Page 17
+# Page 18
+# Page 19

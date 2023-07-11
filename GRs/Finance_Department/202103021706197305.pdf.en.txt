@@ -1,0 +1,33 @@
+# Page 1
+Creation of Virtual Personal Loan Account (V.P.L.A.) on BEAMS system for control of disbursement of grants to Corporations under Water Resources Department. ..
+The Government of Maharashtra
+the Finance Department
+GOVERNMENT DECISION NO.: SAMRICH 2019/ PR. NO. 92/ KHASA-5
+Madam Cama Marg, Hutatma Rajguru Chowk
+Mantralaya, Mumbai- 400 032
+Date: 2nd of March 2021
+Read- 1. Government Decision, Water Resources Department No. BGM-1010/ (392/2010) Meaning-1, D. Decision of the Government, Finance Division No. 2015/ No. 06/ Koshasra-5, Dec. 22, 2010 On the 27th September 2016
+Preamble: The Government is providing grants to various Irrigation Development Corporations functioning under the Water Resources Department to meet the capital expenditure and these grants are sanctioned under various schemes for various irrigation projects. The amount so sanctioned is drawn from the Consolidated Fund of the Government and transferred to the respective accounts in the respective treasuries authorized for the Corporations. The Corporation withdraws the said funds from its own provident fund account and transfers the same to its operating accounts in commercial banks.
+(ii) the purpose for which the grant is sanctioned by the Government. For that purpose, it is deposited in commercial banks outside the government's account for a long time without incurring expenditure in the relevant financial year. This is a waste of government funds and is in conflict with the government's economic policy. At the same time, the government does not have immediate access to updated information on subsidy disbursements and actual expenditure. Considering all these aspects, the government was considering to link the existing private accounts of various Irrigation Development Corporations functioning under the Water Resources Department with the" Budget Estimation, Distribution and Control System (BEAMS)" of the government and provide the facility to the Irrigation Development Corporations under the Water Resources Department to utilize the capital grants distributed by the government through this system. For this, the National Informatics Centre, Pune has extended the Beams system to create a facility of" Virtual Self-Reposit Account." The government has already taken the decision in this regard.
+# Page 2
+GOVERNMENT DECISION NO.: SAMRICH 2019/ PR. NO. 92/ KHASA-5
+Government's decision
+1) The self-financing accounts opened in the treasury for various Irrigation Development Corporations functioning under the Water Resources Department will be linked to the" BEAMS" system. The grants for capital expenditure received from the state government budget will be deposited by the corporations in their own registers as per the existing procedure. These personal ledger accounts will not be controlled by the respective treasury but by the Virtual Personal Ledger Account System developed under BEAMS. However, these accounts will be managed by the Treasury as per the extant procedures.
+(2) The payment of capital expenditure by the Irrigation Development Corporation and its subordinate offices shall be made directly to the bank account of the payee through virtual self-financing accounts instead of through the commercial bank's circulation account as is the practice. For this, the existing system of CMP, State Bank of India, will be used to provide funds to the treasury. The use of cheque book for payment from personal provident fund accounts should be completely stopped. Government Resolution, Finance Department No. Narrow 1010/ S.No.68/ Part-II/ Koshaprasad-5, Dy. In exceptional cases where cheques are required to be issued, as mentioned in paragraph 4 of 31.01.2013, if the amount is to be transferred to the operating account of commercial banks for internal expenses from the personal provident account, the amount may be transferred with the concurrence of the Executive Director and the Chief Accounts and Finance Officer of the Irrigation Development Corporation. Such a facility has been made available in the Virtual Self-Reposit Accounting System. The procedure to be followed while using this system is given in Annexure-A.
+3) Use of the" Virtual Self-Register Accounting" system. The pilot project will be implemented from April 1, 2021 at Maharashtra Krishna Valley Development Corporation, Pune. Thereafter. This system will be used on a pilot basis in all the Irrigation Corporations under the Water Resources Department from 01.08.2021 onwards.
+4) While the system is being used as a pilot in the Maharashtra Krishna Valley Development Corporation, in case of any difficulty or minor modification required, the National Informatics Centre, Pune, in consultation with the Director, Accounts and Treasuries, shall immediately rectify the problem or modify the system as per requirement. Further, as per requirement, the Maharashtra Krishna Valley Development Corporation will provide the principal finance.
+Page 2 of 13
+# Page 3
+GOVERNMENT DECISION NO.: SAMRICH 2019/ PR. NO. 92/ KHASA-5
+As per the advice of the Accounts Officer, necessary amendments for all Irrigation Development Corporations should be made by the National Informatics Centre, Pune with the concurrence of the Director, Accounts and Treasuries.
+5) Virtual self-registration is a process of providing information to various users (treasury offices, administrative departments, irrigation development corporations) on accounting operations at various stages (e.g., at the end of the day). Required reports on treasury withdrawals, CMP system payments, failed transactions, synchronization patterns, etc. should be developed by the Director, Accounts and Treasuries with the help of National Informatics Centre from time to time.
+# Page 4
+# Page 5
+# Page 6
+# Page 7
+# Page 8
+# Page 9
+# Page 10
+# Page 11
+# Page 12
+# Page 13

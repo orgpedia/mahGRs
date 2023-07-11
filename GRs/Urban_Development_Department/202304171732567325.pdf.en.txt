@@ -1,0 +1,99 @@
+# Page 1
+Centrally Sponsored AMRUT 2.0 Mission on Administrative Sanction for Water Supply Project of Pimpri-Chinchwad Municipal Corporation (Rs. 153.36 Crore)
+The Government of Maharashtra
+the Urban Development Department
+Government Resolution No.Amrit-2023/ No.157/ NV-33
+Mantralaya, Mumbai- 400 032
+Date: 17th of April 2023
+Reference: 1. Guidelines issued by the Central Government in October, 2021 of the Centrally Sponsored AMRUT 2.0 Mission 2. Urban Development Department, Govt.
+Urban Development Department, Government Circular No. AMRUT 2022/ PR No. 203/ NV-33, dated 16th September, 2022.
+4. Water Supply and Sanitation Department, Government Resolution No: GRAPADHO-2021/ PR No.122/ PAPU-06, dated 29th June, 2022. A. (Pune)/ Amrut 2.0/ Tsh-2/ Pt. MC/ 4383, dated December 14, 2022.
+Minutes of the meeting of State Level Technical Accreditation Committee constituted under AMRUT 2.0 Mission held on 15.12.2022 and State Level High Powered Steering Committee held on 18.01.2023.
+Preamble: In the context of the Centrally Sponsored AMRUT 2.0 Mission No. The decision is being implemented in the state from 2021-22. Under this mission, infrastructure such as water supply, rejuvenation of lakes and green area development will be created in all the urban local bodies of the state and sanitation facilities will be provided in 44 cities of the state which were covered under the previous AMRUT Mission. Accordingly, Rs. The Central Government has approved the State Water Resources Plan (CAPEX cost only) with a project cost of Rs. 18236.39 crore. This includes the water supply project of Pimpri-Chinchwad Municipal Corporation. As per the technical approval given by the Chief Engineer, Maharashtra Life Authority, Pune under Section 5, it has been approved by the State Level Technical Committee in its meeting dated December 15, 2022 and January 18, 2023. The project was under the consideration of the government.
+# Page 2
+Government Resolution No: AMRIT-2023/ PR No.157/ NV-33
+Government Decision 1. Under the Centrally Sponsored AMRUT 2.0 Mission, the Pimpri-Chinchwad Municipal Corporation has sanctioned Rs.
+153.36 crore project. mentioned in 2.
+As mentioned in the prospectus, administrative approval is being given through this government decision. Sadar
+The financial structure of the project is:
+(Rs. in crore)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Name of the local body                 | The price of the project | Grant-in-Aid from the Central Government (25% of the project cost) | Permissible subsidy from the State Government (25% of the project cost) | Share of Urban Local Bodies (50% of the project cost) |
+| 1                                      | 2                        | 3                                                                  | 4                                                                       | 5                                                     |
+| Pimpri-Chinchwad Municipal Corporation | 153.36                   | 38.34                                                              | 38.34                                                                   | 76.68                                                 |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Components of the water supply project of Pimpri-Chinchwad Municipal Corporation and their estimates
+Below are the pricing details.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Sr. No.                                | COMPONENTS                                                   | Technical Details                       | AMOUNT    |
+| Net Cost (R1) after complience         |
+| A]                                     | Headworks, Raw Water Pumping Machinery & Allied Misc. works  |
+| 1                                      | Intake Channel                                               | Unlined Chanel- BW- 3.2 m, L=160m       | 101829072 |
+| MS Gate Size = 10 no's - 1.2 x 1.2 m   |
+| 2                                      | Coffer Dam                                                   | L= 160 m, TW-6.0m, Max Ht.- 16 m        | 123772879 |
+| 3                                      | Jack well (Sump) & Over head Pump House                      | Sump Capacity = 25 Min Detention Period | 758764059 |
+| Jack Well (Part-A)- 23.0 x 32 x 36 m   |
+| O. H. Pump House 13 x 32 x 11 m        |
+| 4                                      | Inst Instrumentation & SCADA                                 |                                         | 11843489  |
+| 5                                      | Approach Bridge                                              | L = 110 m, TW = 7.0 m                   | 65902822  |
+| Metering Room                          | Size 3.0x 8.0m x 3.0m                                        | 993218                                  |
+| 7                                      | SCADA Cum Office Room                                        | Size 8.56 x 5.35 m x 3.0m               | 866289    |
+| 8                                      | Switch Gear Room                                             | Size 12.0 x 5.00m x 3.0m                | 1218753   |
+| 9                                      | Approach Road                                                | L = 500 m , TOtal Width = 6.0m          | 8016344   |
+| (A) Sub Total Civil Works_Rs. Lakhs    | 1073206925                                                   |
+| Raw Water Pumping Machinery            | Electro-mech. components (HW) + 22Kv Elec. Sub-Station (HW ) |
+| VT pumps (4W+2Sb), of 670 Kw           |
+| (Q=580 lit/sec each & H= 87 m)         |
+| Mechnical works (A)                    | 171665505                                                    |
+| Electrical works (B)                   | 40996124                                                     |
+| EPBX system(c)                         | 78009                                                        |
+| Appoach Road Lighting (D)              | 630168                                                       |
+| Fencing work (E)                       | 574016                                                       |
+| (B) Sub Total E & M works Rs. Lakhs    | 213943822                                                    |
+| Net Project Cost (A)+(B)               | 1287150747                                                   |
+| 18% GST                                | 231687134                                                    |
+| 1% TS Charges                          | 12871507                                                     |
+| Labour Insurance 1% on Other CSR Items | 1844914                                                      |
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Page 6
+# Page 3
+Government Resolution No: AMRUT-2023/ PR No.157/ NAVI-33
+--------------------------------------------------------------
+| Total Cost                    | 1533554302                 |
+| Say Rs.                       | 153.36 Cr.                 |
+| time to complete the project. | 18 months from the date of |
+--------------------------------------------------------------
+The Opex price of the water supply project of Pimpri-Chinchwad Municipal Corporation is required to be set up by Pimpri Chinchwad Municipal Corporation. Completion of the project will take approximately 18 months.
+Administrative approval is being given to the water supply project of Pimpri-Chinchwad Municipal Corporation subject to the following conditions: 4.1 The Pimpri-Chinchwad Municipal Corporation will be the implementing agency for this project.
+4.2 The share of the local body for the project should be paid by the Pimpri-Chinchwad Municipal Corporation.
+4.3 The implementing agency shall be bound to implement the said project as per the guidelines of the Central Government and the decision of the Government in the context of the State Government.
+4.4 The State Government vide No. It shall be incumbent upon the concerned executing agency to complete the tendering process and execution of the project within the prescribed time frame as per the procedures prescribed under Sections 2 and 3. D.I. for this project.
+All types of pipes, including pipes, should also be included in the tender.
+4.5 The Maharashtra Jeevan Authority will be required to publish the model tender booklet issued for water supply and sewerage projects under the Centrally Sponsored AMRUT 2.0 Mission.
+4.6 The implementing agency shall ensure that the work orders for the said project are issued within 45 days from the date of order of administrative sanction.
+4.7 Under the Centrally Sponsored AMRUT Mission, it will be mandatory for the mission city to complete the reforms prescribed by the Central Government within the prescribed time frame.
+4.8 Methodology of Fund Distribution: As per the guidelines of Centrally Sponsored AMRUT 20 Mission, the Central share of funds will be distributed in three tranches (20%+ 40%+ 40%). Accordingly, the State share of funds will be shared with the Central share in proportion to the funds released by the Central Government.
+4.9 While raising self-financing funds for projects sanctioned under AMRUT Mission, Urban Local Bodies should match the Finance Commission funds received by them.
+Page 3 of 6
+# Page 4
+Government Resolution No: AMRUT-2023/ PR No. 157/ NAVI-33 (Convergence) will have to be inserted. For this, they should mark the funds received from the Finance Commission.
+4.10 As per the guidelines of the Mission, the funds allocated for the project will be based on functional outcomes. Also, the project will not be funded if it does not meet the functional outcome. The Commissioner, Pimpri-Chinchwad Municipal Corporation will be responsible for fulfilling these things.
+4.11 The first installment of the Central and State Government's share for this project was distributed to the Pimpri-Chinchwad Municipal Corporation after issuing the work order.
+will be done. Accordingly, after submission of Utilization Certificate to the Central Government as prescribed by the Central Government and completion of functional achievements, the next instalment of Central share of State share will be disbursed accordingly.
+4.12 It shall be mandatory for the concerned Urban Local Self-Government Institution to raise funds on the basis of the funds distributed by the Central and State Governments as per the financial figures of the Mission and submit the utilization certificate to the Government in the form prescribed by the Central Government.
+4.13 As per the instructions given while allocating funds for this project, the amount of funds distributed by the Central and State Government for this project is Pimpri-Chinchwad.
+It will be mandatory for the municipal corporation to open a separate bank account and keep funds in it.
+The funds allocated for the project are bound to be used for the same project and if it is used for any other purpose, it will be considered as serious financial irregularity.
+4.14 After the project is approved by the State Government for the Urban Local Bodies, the original project cost will be included in the Government Decision No.
+In case of extension of GRAPADHO-2021/ PR No. 122/ PAPU-06, dated 29th June, 2022, other than the stated reason, the entire responsibility will be of the concerned implementing agency. No additional funds will be provided by the State Government for this purpose.
+4.15 The overall responsibility of completing the project within the stipulated time will be shared by the concerned implementing agency, Project Management Consultant and Project Management Development and Management Consultant.
+4.16 After commencement of the project, the Project Manager shall make payment of the work within the limit of funds available after the consultant certifies the quality of work and payment.
+Page 4 of 6
+# Page 5
+Government Resolution No. AMRUT-2023/ PR No. 157/ NV-33 will be the responsibility of the concerned executing agency to hand over the work to the concerned contractor within 33 days.
+4.17 As per the guidelines under AMRUT 2.0 Mission, under reference No. A project manager should be appointed for the project. As mentioned in it, it will be mandatory for the concerned urban local body to make a decision on the payment of the project manager fee.
+4.18 All No Objection Certificates required for the completion of the project and the process of making available the site should be done before giving the project work order.
+4.19 In order for the project to be sustainable, the water supply should be provided as mentioned in the Detailed Project Report of the project.
+It will be the responsibility of the concerned urban local body, the management consultant of the project and the Maharashtra Jeevan Authority to ensure that there is no duplication between the project sub-plans and the project sub-plans that have been approved by the Pimpri-Chinchwad Municipal Corporation under UIDSSMT/ AMRUT or any other scheme in the past.
+All the guidelines issued by the Central Government for the Centrally Sponsored AMRUT 2.0 Engineering will be applicable to the water supply project of Pimpri-Chinchwad Municipal Corporation.
+# Page 6

@@ -1,0 +1,636 @@
+# Page 1
+Guidelines & Remedial measures to prevent damages to Approaches of Submersible & High Level Submersible bridges proposed under PMGSY 1 MMGSY schemes.
+Government of Maharashtra
+Rural Development Department
+Government Circular No.: PMGSY-2022/C.R.200/Works-2 Bandhkam Bhavan, 25 Marzban Road, Fort,
+Mumbai-400 001
+Date: 17th October, 2022
+Introduction :
+Maharashtra Rural Development Agency under Rural Development
+Department, Government of Maharashtra is executing ambitious schems like
+Pradhan Mantri Gram Sadak Yojana & Mukhyamantri Gram Sadak Yojana for
+improvements of rural roads in state. In which construction of roads and minor /
+major bridges is undertaken on Village Roads & other District roads, taken under
+these schemes.
+The bridges dealt with, are generally High level submersible or submersible
+type clearing ordinary flood levels. The Approaches for bridges are to be designed
+with submersible treatments and upstream & downstream aprons are to be
+provided to protect beds in case of bridges with raft foundations. However due to
+non-execution of Approaches with requisite treatments and standard specifications
+and non-provision of bed protections in case of bridges with raft foundations or
+due to unexpected sudden rise in flood levels, the approaches of submersible
+bridges gets damaged and river beds gets eroded, resulting in stoppage of traffic
+and damage to foundations. In view of this committee headed by Superintending
+Engineer, PMGSY, Nagpur was set up vide Govt. Order No. GSY-2022/CR
+200/Bandhkam-2, Mantralay, Dt.04/08/2022 to study & suggest provisions to be
+made in bridge estimates & to suggest remedial measures to prevent damages to
+# Page 2
+Government Circular No.: PMGSY-2022/C.R.200/Works-2
+approaches of submersible Bridges and erosion of river beds near foundations &
+damages to foundations of bridges. Various IRC codes and guidelines provides for
+provisions to be made in design and constructions of submersible bridges and
+approaches. The issue of making these guidelines available in concise form was
+under in considerations. Hence based on report and recommendations of
+committee, the detailed guidelines for preparations of DPR for submersible bridge
+and approaches is being issued as below.
+Government Circular:
+1.0 Definitions
+1.1 High Level Submersible Bridges:- When RTL of the bridge is fixed with
+reference to OFL and standard vertical clearance as such structure serves as high
+level bridge during OFL but gets submerged under higher flood with maximum 6
+interruption of 6 to 12 hours per year then the bridge is called as high level
+submersible bridge.
+1.2 Low Level Submersible Bridge:- When soffit of deck slab of bridge is fixed
+just above OFL so as to insure that the interruptions caused to traffic remain within
+permissible limit as mentioned in 1.1 above, is called as low level submersible
+bridge.
+1.3 Causeways :
+A Causeway is a paved submersible structure with or without openings (vents)
+which allows flood to pass through and / or over it.
+1.4 Flush causeway :
+The causeway which is also called paved dip or road dam, the top level of
+road is kept same as that of bed level of the channel is called as flush causeway. It
+is suitable where the crossing remain dry for most of part of year i.e. the stream is
+not perennial. Flush causeways are not suitable for crossing the streams with steep
+# Page 3
+Government Circular No.: PMGSY-2022/C.R.200/Works-2
+bed slopes causing high velocity even in low floods. The causeway covers the full
+width of the channel. Refer Fig (1)
+1.5 Vented Causeways :
+A Causeway provided with vents to permit normal flow of the stream to pass
+under the causeway is known as vented causeway. Vented causeways are classified
+as low vented causeways and high vented causeways.
+1.5.1 Low vented causeway :
+Low vented causeways are provided to cross quasi-perennial streams having
+sandy beds in areas with annual rainfall less than 1000 mm and where the
+carriageway of a flush causeway would be liable to get slushy due to post monsoon
+flow in the stream. The height is generally less than 1.20 m above the bed. In
+exceptional cases, the height may be 1.50 m above the bed level. Small size of
+vents in the form of hume pipes, short span slab / RCC Box Cells are provided in
+The width of the stream. The sill level of vents is kept about 150 mm- 300 mm below
+the average bed level of the stream. Refer fig. (2)
+1.5.2 High vented causeway :
+High vented causeway is provided when a road crosses a stream having one
+or more of the following characteristics:
+i. Sizeable catchment area with annual rainfall more than
+1000 mm,
+ii. Depth of post monsoon flow is more than 900 mm
+iii. Flow is perennial but not large
+The height of the causeways above the bed shall be kept between 1.5 m to
+3.0 m and larger size of vents comprising of hume pipes or simply supported /
+continuous R.C.C. slab superstructure over a series of short masonry piers or series
+of arches or boxes with individual spans less than 3.00 m are adopted. Refer fig (3)
+# Page 4
+Government Circular No.: PMGSY-2022/C.R.200/Works-2
+2.0 Criteria for avoiding / selection of submersible structures
+Submersible structures may not be considered for adoption in the
+following situations
+a) Roads of economic importance, roads linking important towns or
+industrial areas or areas with population more than 10,000 where
+alternative all weather route with reasonable length of detour is not
+available.
+b) On roads which are likely to be upgraded or included, from future
+traffic considerations, in the National Highway network.
+c) If the length of a high level bridge at such crossings would be less
+than 30 m except where construction of high level structure is not
+economically viable.
+d) Maximum mean velocity of stream during floods is more than 6
+m/sec.
+e) If the cost of submersible bridge with its approaches is estimated to be
+more than approximately 70% of the cost of high level bridge with its
+approaches, near about the same site.
+f) If the height of embankment for submersible portion of approaches is
+more than 2 m.
+g) Where there are faults in the river bed.
+h) If after completion of the submersible structures, the number of
+interruptions in a year caused to traffic and duration of the
+interruptions are likely to exceed the suggested values given in IRC.
+3.00 Requirements of various components parameters in design of
+submersible bridges and their protection works.
+3.1 Approach Road of submersible bridge / causeway :
+# Page 5
+Government Circular No.: PMGSY-2022/C.R.200/Works-2
+The approaches on either side of a submersible bridges should have a
+minimum straight & level length of 15 m and should be suitably increased, where
+necessary, to provide for the minimum sight distance for a vehicular speed of 35
+km/h. Horizontal curves in immediate approach roads for a length of about 100 m
+on either side of a submersible structure or causeways should be generally avoided.
+3.2 Design Speed :
+From consideration of safety of road users, lower design speed than that
+recommended in IRC: 73 should be adopted for the immediate approaches to a
+submersible bridge or causeway. The informatory boards installed on approaches
+should indicate permissible speed of 35 km/h in case of plain and rolling terrain
+and 20 km/h in case of mountainous and steep terrain irrespective of any higher
+speed adopted in the design of the road.
+3.3 Camber / Crossfall :
+The camber/crossfall on straight sections of immediate approaches and on
+submersible structure should be unidirectional towards the downstream and as
+recommended in following Table, depending on type of surface of pavement.
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+| Sr.No. |                                                                               |     | Surface Type |   |   | Unidirectional Cross fall (%) |
+| 1      | For all categories of roads High Type bituminous surfacing or cement concrete | 2.0 |
+| 2      | Thin bituminous surfacing for approaches                                      | 2.5 |
+| 3      | Brick/stone set pavement                                                      | 3.0 |
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Shoulders of approach roads likely to be submerged during floods should be
+paved to same cross fall towards downstream as for pavement.
+3.4 Gradients:
+As a general rule, values of ruling gradients specified in IRC:73 should be
+adopted. However, in case of immediate approaches to submersible structure,
+# Page 6
+Government Circular No.: PMGSY-2022/C.R.200/Works-2
+carrying substantial slow traffic, flatter gradients than ruling values should be
+preferred. Nevertheless, gradients in immediate approaches unless, otherwise
+permitted by user authority, should not exceed 5% (1 in 20) Limiting gradient,
+irrespective of nature of terrain.
+3.5 Sourcer shape/ trapezoidal longitudinal section of Bridge & Approaches:
+3.5.1 Need of trapezoidal L-Section:
+Afflux is more in case of submersible bridge than that of high level bridge.
+Further high afflux increases velocity which causes high moments on pier
+foundations. In order that excessive afflux and thereby hypercritical velocity are
+not created, the deck level of submersible bridge should be kept low. The bed
+erosion and afflux are interlinked. Thus higher Afflux will create more velocity
+obstruction, leading to bed erosion and damage to approach. The percentage of
+obstructions to the flood discharge is maximum when the flood rises just up to the
+top level of the submersible bridge. This condition causes erosion of banks and
+subsequent outflanking. Therefore, deciding RTL is one of the critical conditions
+for the design of submersible bridge. Trapezoidal / Sourcer shaped longitudinal
+sections of bridge and approaches are considered as hydraulically efficient safest
+longitudinal section. Hence to minimize % obstruction and spread of floods,
+maximum flow (@HFL) shall be allowed over the trapezoidal / saurcer shaped
+longitudinal section of bridge/causeway deck and approaches sloping towards
+bridge/causeways.
+3.5.2- Design for trapezoidal L-Section and its provisions:
+This can be achieved by providing Trapezoidal / longitudinal shape of Saurcer
+Shaped Bridge with approaches. Thus RTL of the Submersible Bridge shall be
+judiciously decided so that flood discharge of OFL shall clearly pass through vents
+of bridge. In case of high floods excess discharge is allowed to flow over
+# Page 7
+Government Circular No.: PMGSY-2022/C.R.200/Works-2
+trapezoidal L-section with permissible limit of time & occurrence of flood. The
+approaches upto HFL shall be designed as submersible approaches, So that there
+will not be failure during high floods. The trapezoidal L-Section shall be provided
+by providing gradient of 1:20 to 1:30 on both side approaches. Slope shall be
+started beyond 15 meters from approach slab of bridge with introduction of well
+designed vertical curves in approaches. Refer fig (4)
+3.6 Formation of Trapezoidal L-Sections in Approaches in cutting and
+protective measures to be provided:
+The approach roads to Submersible Bridge should preferably be in cutting
+with the approach gradient not steeper than 1 in 20. The sloping portions of the
+approach should merge into level portion of the bridge in the arc of a properly
+designed vertical curves in order to eliminate bumping. It is preferable to have the
+approach in cutting as the embankments are liable to be washed away during
+floods. In cutting, however, there may be the problem of silting but the same can
+be appreciably reduced if the approaches are aligned at a slight angle to the centre
+line of the bridge so that the gradient falls in the direction of the river flow. The
+approaches in cutting would get submerged for a considerable period therefore
+these should be provided with safe side slopes considering the submerged
+condition. Further, deep cutting (say more than 4 m) should invariably be avoided.
+Wherever steep side slopes are provided for the approaches in cutting, it is
+experienced that, the slopes slip over the road pavement and it becomes a recurring
+problem to clear it, after every flood. The values of safe side slopes for the
+different types of soil under submerged condition are given in table below.
+-----------------------------------------------------------
+| Type of Soil |    |       | Vertical |   |   | Horizontal |
+| Soft Soil    | 1: | 21⁄ 2 |
+-----------------------------------------------------------
+# Page 8
+Government Circular No.: PMGSY-2022/C.R.200/Works-2
+-----------------------------------------------------------
+| Type of Soil |    |       | Vertical |   |   | Horizontal |
+| B.C. Soil    | 1: | 2     |
+| Soft Murum   | 1: | 11⁄ 2 |
+| Hard Murum   | 1: | 1     |
+-----------------------------------------------------------
+The sides of cutting of Approaches should be protected by stone pitching up
+to at least 1 m above the Affluxes HFL. This would avoid souring of sides of
+cutting & consequent silting of Approaches. (Refer Fig.5 & 6 for pitching)
+Lined drains on either side along the side slopes should be provided. The
+lining may be either stone or brick or concrete. The Lined drains should meet the
+stream proper at least 10 m away from the edge of the main bridge junction as the
+flow of water in the drains would erode the banks for certain length in course of
+time. (Refer Fig.7 for drum alignment) In case of straight return walls, minimum 3
+m long walls perpendicular to the return walls should be provided to avoid
+undermining of foundations of return wall or/and abutments. In case of
+submersible bridges founded on sandy beds, extraction of sand/soft material
+beyond apron and curtain wall should not be done as this may endanger the safety
+of the structure. Fig (7) for lined drains.
+3.7 Pavement for submersible approaches :
+Length of approaches up to the spread of affluxed highest flood is subjected to
+repeated inundation and is always prone to outflanking. Therefore the roadway
+should be paved in a similar manner to that of the main Submersible Bridge i.e. full
+width bituminous treatment shall be provided in approaches. The paved approach
+roadway in cutting needs to be confined between anchor-walls. Refer Fig (8) & (9)
+# Page 9
+Government Circular No.: PMGSY-2022/C.R.200/Works-2
+3.8 Construction methods and provisions to be made for submerging
+approaches in Embankment :
+When the submerged approaches are in embankments then the possibility
+failure of approaches is like approaches cutting D/s side outflanking, washout of
+embankments, surface erosion etc.
+To prevent such failure following precautions needs to be taken, while
+constructing the approaches.
+i. Additional vents in form of pipes or box culverts shall be provided on both
+side approaches for quick draining / recession of flood water to downstream
+side. It helps in quick recession of flood waters of upstream side fields and
+minimize damages to crops standing in fields.
+ii. Material used for embankments construction shall have CBR value more
+than 5%
+iii. Layered compactions with maximum thickness of 150mm, at OMC shall be
+ascertained.
+iv. Side slopes shall be protected by providing stone pitching with pointing.
+V. Kerb stones at the edge of pavement of approach shall be provided to
+confine the pavement material.
+vi. The edge kerb stone facing flow at upstream & downstream shall be rounded
+so as to act as hydraulically efficient edge.
+vii. If it becomes necessary to provide the approaches in embankment then
+proper protection of approaches is to be done with stone pitching & toe wall. Also
+Full width of the roadway of approaches likely to be submerged should be paved.
+Refer fig (10) to (13) for cross-section of Approaches in Embankment for different
+Terrains & ground profiles.
+4.0 Requirement of other Protection Work in submersible bridges:
+4.1 RCC stopper shall be provided on D/S of pier cap of submersible bridge.
+# Page 10
+Government Circular No.: PMGSY-2022/C.R.200/Works-2
+4.2 Collapsible:- steel Pipe & Angle railing is recommended for submersible
+bridge.
+4.3: The floor protection should be properly designed as per the detailed
+guidelines contained in IRC : 89. The rigid flooring under the structure should
+extend for a distance of at least 3m on upstream side and 5m on downstream side
+of the structure. (Refer Fig 14)
+However if splayed wing walls are provided, the flooring should extend up
+to the line connecting the end of the wing walls on either side of the structure. The
+top of the flooring should be kept 600mm below the lowest bed level to prevent the
+flooring from acting as a weir. It is essential that the work of bed protection is
+simultaneously completed along with the work of the foundations of structure to
+prevent any damage to the foundations. No stone weighing less than 40 kg should
+be used in apron. Where required size stones are not economically available
+Cement Concrete block (M-15 grade) or stones in wire crates or cement concrete
+blocks and stones in combination may be used in place of isolated stones of
+equivalent weight. Cement concrete blocks should however, be preferred wherever
+possible.
+4.4 Bed Protection or Floor Protection for Shallow Foundations :
+In case of submersible structures, where adoption of shallow foundations
+becomes economical by restricting the scour, bed (floor) protection to the
+structures has to be provided. The bed / floor protection consists of the following
+components:
+• Upstream and Downstream flexible apron with a slope of 1:8
+Upstream and Downstream Cut-off Wall. Cut-off wall shall be at least
+300 m below maximum scour level.
+4.5 Bed protection or floor protection not required for deep foundations or open
+foundations in shallow rock strata -
+# Page 11
+Government Circular No.: PMGSY-2022/C.R.200/Works-2
+wherever deep foundations like well & end bearing pile foundations resting in
+hard rock strata and hard non-erodible beds are existing, bed protection works are
+not required to be provided.
+4.6:- Debris Arrester:
+During monsoon particularly during the first couple of rains a lot of debris is
+carried by floods. This debris gets obstructed by the piers and the superstructure.
+This causes damages to structure and obstruction to flow of water. The
+phenomenon is more pronounced in the case of bridges in forest areas when the
+floods carry a lot of trees and branches. This situation can be quite dangerous for
+smaller spans. Generally the banks get out flanged if the structure is strong enough
+to withstand water current forces. It is, therefore, desirable to resort to spans of
+minimum 8m or so. This will allow a lot of debris to pass through the bridge. If
+the spans are smaller in comparison to the size of debris, debris arresters should be
+provided about 50m on up stream of the bridge site so that there is free flow of
+floodwater through the bridge. The different types of Debris Arresters/guiders to
+be used are shown in photos. The debris Arresters may be circular steel pipe 50m
+on u/s bridge or sloping wall at pier location to arrest debris. Refer Photo's(1)&(2)
+5.0 Maintenance of existing bridges, causeways approaches and strengthening
+of existing beds and submersible approaches wherever required
+5.1 If failure approaches is found due to blocking of flow by debris and tree
+branches then debris arrester shall be provided at 50 m towards the U/S of bridge.
+5.2 Timely clearing at arrester side shall be ensured before onset of monsoon.
+5.3 wherever waterways are blocked due to debris or silting, then desilting and
+debris removal shall be carried out and waterways shall be cleared in all C.D.
+works & bridges before onset of every monsoon.
+# Page 12
+Government Circular No.: PMGSY-2022/C.R.200/Works-2
+5.4 If failure of high bank approach is found then provision of pipes in approach
+should be thought in order to minimize water pressure and for quick draining of
+stranded water from upstream fields of submersible approaches.
+5.5 Adequate Toe wall /Breast wall with pitching shall be constructed towards
+D/S of approach as per the stranded designs & drawings enclosed herewith.
+5.6 If possible D/S nallah shall be trained in the shape of approaches so that there
+will be easy flow of flood water.
+5.7 Pre monsoon & post monsoon inspection of bridges and approaches shall be
+done and required repairs, strengthening shall be carried before onset of monsoon.
+These are the guidelines are based on prevailing IRC & SP Codes mentioned
+above. However the amendments to related IRC codes shall be deemed to be
+applicable to these guidelines.
+This Government circular of Maharashtra Government is available at the
+website www.maharashtra.gov.in. Reference no. for this is 202210171507576420.
+This Circular has been signed digitally.
+By order and in the name of the Governor of Maharashtra.
+VIJAYKUMAR
+NANDKUMAR
+CHOUDHARI
+(Vijaykumar Choudhari) Desk Officer, Government of Maharashtra.
+DA- As above Annexure- 1) Figure No. 1 to 14.
+2) Photo 1 to 4.
+Copy forwarded to:
+1. Chief Engineer (PMGSY), MRRDA, Pune.
+2. Chief Executive Officer, Zilla Parishad (All) 3. Superintending Engineers (PMGSY), MRRDA (ALL) 4. Executive Engineers, (PMGSY), MRRDA (ALL)
+# Page 13
+Government Circular No.: PMGSY-2022/C.R.200/Works-2
+5. Executive Engineers, Zilla Parishad, (Construction Division) (ALL) 6. Under Secretary (Bandhakam-1), Rural Development Department, Bandhkam Bhavan, Fort, Mumbai 400 001.
+7. Select file, Bandhkam-2, Rural Development Department, Bandhkam Bhavan, Fort, Mumbai 400 001.
+# Page 14
+Figure Rural Annexures No.1 MARKER POSTS/
+BOLLARDS MAXFLOOD LEVEL DEVELOPMENT TO
+Government APPROACH
+DepartmentCUT OFF
+WALL BURIED , CUT OFF DRIFT MARKER POSTS date Circular WALL BURIED 2% BOLLARDS FALL
+17th No.
+APRON OctoberPMGSY, CARRIAGEWAY
+2022-. 2022/C.R.2007
+/WorksFig3.2Typical Features of Paved dipFlush Causeway -2,
+# Page 15
+Government Circular No.: PMGSY-2022/C.R.200/Works-2
+Figure LEVEL
+34000
+75mm WEARING COAT (M-25)
+1 7500 IN 30 OVER 300mm (M-10) PCC CUSHION 1 7500 IN 30 No.
+2 2000
+00.000 O 20.000
+2300
+PROTECTED FLANKS PROTECTED FLANKS CURTAIN WALL 17 ROWS OF 1000DIA GROUND LEVEL CURTAIN WALL
+NP-4 PIPES
+ELEVATION
+SCALE:-1:1000
+3500
+D/S
+L
+6000
+450
+U/S
+2500
+-75mm WEARING COAT(M-25)
+-300mm (M-10)POC CUSHION
+D/S U/S
+DISCONTINUOUS KERB HIGH
+-2000 PLAN
+SCALE:-1:1000
+SER
+LRRM WALL 600x900
+LSTONE PITCHING 600
+AVAILABILITY
+WELL COMPACTED
+SECTION
+SCALE:-1:1000
+Fig. 7.8 Dtails of vented causeway (Appendix 7.2)
+# Page 16
+Government Circular No.: PMGSY-2022/C.R.200/Works-2
+1. ALL DIMENSIONS ARE IN mm EXCEPT OTHERWISE WRITTEN. Figure PCC M15 230 GAURD 250 X STONE 250 RCC WEARING COURSE 75MM THK C.C. 1:36 250 THK 150 SIZE METAL ANCHORING -230 IN BANKS 2. THE ARCH BRIDGE.THE DIRECTION CLEAR BRIDGE ROAD PERPENDICULAR CLEAR AND WIDTH 4.25 ROAD M IS FOR WIDTH 7.50 TO SINGLE M. THE SHALL FOR DIRECTION LANE DOUBLE BE WIDE MEASURED LANE OF ARCH IN CONC. WALL TRAFFIC No.
+3. THE ARCH BRIDGE IS DESIGNED FOR > SINGLE LANE OF CLASS 'A' FOR SINGLE LANE WIDTH.
+RETURN RCC M20 GRADE ARCH RCC RAFT 250 THK SEMICIRCULAR INNER RADIUS 8 8 Dia.150 Dia 240 1000 ARCH CC/c /c 3 (5 NOS NOS SHEAR (AT OF OF EACH 2 20 LANE PIN DIA SUPPORT'UBRIDGE' TYPE ) ) THICKNESS ARCH 150 OF RETURN 4. 56. . > CONCE CLASS FILLING FILLING CIRCULAR cincour ADEQUATE ADEQU RETURNS RETOR & QUITABLE SUITABLE SINGLE 1000 'mm ABEHIND ' LANE LOADING AT TYPE NOcWEEP /C NOT . VERTICALLY OF LRRETURNS RETORNS OF -9 HOLES MORE CLASS FOR (RETURNS 3) C8 DOUBLE THAN 7 CODLE DATED SHALL SHALL SHALL REGULARLY OR MAY LOADING200 BE LAN LANE DE 17/8/1971BE mm BE PROVIDED AS PROVIDED WIDTHCPER /STAGGERED/ C TWO . HORIZONTALLY GOVT. LANES IN THE . OF . OF INDIA 3 DEPENDING UPON THE FOUNDATION STRAIGHT.
+BESKWEEN METSIMWERGSPOT 7 THERE SHALL BE A CLEAR JOINT BETWEEN PARAPET AND 100 THK CC 1:4:8 BED CONCRTE 400 -RCC RAFT 190 THK PIER BLOCK CAP WIDTH M20 BASE 400 8. KREB CROSS ON CUTRETURNS -OFF WALL AND AT MAIN THE BRIDGERAFT . ENDS SHALL BE RUBBLE FILLING PROVIDED.
+150 2300 2300 2300 2300 2300 150 9. RAFT TOP SHOULD BE KEPT 300mm BELOW LOWEST BED BOTTOM CUT OFF WALL -CUT OFF WALL 10. LEVELHEIGHT . OF BASE BLOCK INCLUDING CAP CAN BE MAX UPTO 750M
+11. R.C.C. SEMI CIRCULAR ARCH
+400 LONGITUDINAL SECTIONAL ELEVATION -CC 1: 3: 8 ab) ) CLEAR THICKNESSRADIUS-150mm -1000mm
+STIRRUPS 8 Dia.150 C/c SCALE 1:50 cd) ) MIXMAIN -1:STEEL1.5:3 -FE415-8 mm @ 150mm C/c L6-8 Dia. R.C.C. ARCH 12. eCLEAR ) DISTRIBUTION COVER OF STEEL 40mm -FE250- SHOULD 8mm BE @ GIVEN 240mm FOR C/c MAIN C/S OF PIER CAP PIER CAP 13. REINFORCEMENTSTEEL CONFIRM TO . GRADE FE415 (IS: 1786.
+SCALE 1:50
+DETAIL OF ANCHORAGE REINFORCEMENT
+SCALE 1:50
+RETURN 250 GAURD STONE. 250 -4750 250 PRESSURE RCC 75MM WEARING THK COURSE
+PEURE PIPE
+CC 1: 3:8 -
+U/S 40 mm Size 4, D/S
+Metal filling
+PCC M 15 CONC. WALL
+LANE) LANE) LLANELANE) SPANDRIL 750 HAUNCH DEPTH FILLING WALL PCC 1:3:8
+SINGAL TWO WO 450 -3000 (MIN.) -300 300 -5000 (MIN.)
+ICE WALL
+4750 8000 4250 U.R.C. IN 1:5
+L PRESSURE PIPE
+BASE BLOCK M20 &
+150CC 1:3:8 APPRON PIER CAP 300 DEPTH
+RAFT CC 1: 1.5:3
+190 & 250 THK
+2-10 dia LEVELING COURSE CUT 1500 OFF DEPTH WALL TO MINIMUM BE DECIDED 8 @Dia3000 . STIRRUPS C/C CC 1:3:8 100 THK ON SITE CONDITION
+(DETAIL AS GIVEN BELOW) RETURN 8 on DiaBoth . 250 Faces C/c Vertically CROSS SECTIONAL ELEVATION A-A
+SCALE 1:50
+-2-10 dia
+HALF TOP PLAN
+SCALE 1:50 CUT OFF WALL
+RAFT TOP LEVEL
+(MIN. DEPTH 1500) FOR MAX HEIGTH
+(H) 650
+DETAILS OF BASE BLOCK
+Fig. 7.4. Arch Type Vented Causeway (Single Lane)
+# Page 17
+Figure NATURAL Government SURFACE LEVEL
+No.
+F.L OF ROAD 4 Circular
+No.: BED OF NALLHA
+PMGSY
+-2022/
+C.R.200DATUM 95.50 /46 m 46 Works-2 SLOPE IN 30 SLOPE IN 25
+CURVE LEVELS
+FORMATION LEVELS 46.0 34.50 23 11.50 11.50 23 34.50 46.0
+FIGUREVERTICAL CURVE OF SUBMERSIBLE BRIDGE
+# Page 18
+Figure Government
+-WEARING SURFACE SEE NOTE BELOWNo.
+-150MM WBMUSING SIZE METAL 5 200MM WBMUSING OVER SIZE METAL Circular <-UD300MM THICK SUBGRADE IMPROVED
+300mm Thick Stone Pitching with Pointing -300mm Thick Stone Pitching with Pointing No.: 0.15m -Clw 7.50 -0.15m
+HFL
+PMGSY-Slope 1:40 Slope 40 -Kerb Stone
+-
+2022
+/
+C.R.200WEARING SURFACE FULL WIDTH OF ROADWAY SHALL BE BLACK TOPPEDRAIN FALL 1000 MM YEAR 50MM FULL GROUT TYPICAL CROSS SECTION OF SUBMERSSIBLE APPROACHES WITH SEAL COAT SHALL BE PROVIDEDRAINFALL 1000 MM /YEAR 20MM PREMIX CARPET WITH SEAL COAT SHALL BE Works-Berms -Berms IN CUTTING PROVIDEDSHALL BE DESIGN AS PER RELEVANT IRC0.90 -38THE SLOPE OF CUTTING SHALL GENERALLY BE EXCEPT FOR 2 VERY SOFT STRATA WHERE SHALL BE .1FOR HARD STRATA SUITABLE USUAL STEEPER SLOPES SHOULD BE PROVIDEDTHE SLOPE OF EMBANKMENT SHALL BE 21
+FOR CROSS SECTION CUTTING THE BERMS ON EITHER SIDE OF THE GUTTER SHALL BE 0.50 WIDE HOWEVER IN CASE OF VERY SOFT STRATA THE BERM ON CUTTING SIDE SHOULD BE 1.00 WIDEKEEPING BERMS ON ROAD SIDE AS 0.50
+300 MM THICK STONE PITCHING WITH CEMENT POINTING SHALL BE PROVIDED FOR GUTTER THE BERMS AND THE SIDE SLOPES OF THE CUTTING STRATA SOFT OR VERY SOFTTHIS STONE PITCHING SHALL EXTEND UPTO LEVEL 0:30 ABOVE H.FL. THE PITCHING NOT NECESSARY WHERE STRATA HARD
+TYPE CROSS SECTION SHOWN ARE FOR SUBMERSIBLE APPROACHES IN CUTTING OR EMBANKMENT FLOOD ZONE
+PROPERLY EMBEDED KERB STONE AT US AND DIS EDGES MADE OUT OF KHANDKI STONES OF 200 300 OR 1:36 OF 150 300 BE PROVIDEDTHIS WILL PREVENT CAVITATION AND DAMAGE TO SCALE- NOT TO SCALE EDGES
+# Page 19
+Figure Government
+No.6
+Circular
+No.:
+-WEARING SURFACE
+150MM WBMUSING SIZE METAL PMGSY-200MM WBMUSING OVER SIZE METAL
+--UDS -300MM THICK SUBGRADE IMPROVED-2022300mm Thick Stone Pitching with Pointing /0.15m Clw 7.50 -0.15m
+HFL C.R.200slope 3.5slope 3.5Kerb Stone
+/-300mm Thick Stone Pitching with Pointing Works150mm Thick Quarry Spalls
+-2 600mm Thick Stone Pitching
+300mm Thick Quarry Spalls
+HFL
+3.00m
+TYPICAL CROSS SECTION OF SUBMERSSIBLE APPROACHES
+Be Berms -0.90 IN CUTTING
+50
+SCALE- NOT TO SCALE
+# Page 20
+Figure Government
+No.7
+Circular
+NoJum
+.:
+PMGSYPROTECTED FLANKS
+-9000
+2022/C.R.200SPREAD
+/WorksAFFLUX
+-PAVED DRAINS BANKS BANKS -PAVED DRAINS 2 GUTTEROF ACTIVE CRITICAL OF ACTIVE GUTTERCHANNEL CHANNEL
+CURTAIN WALL
+7500
+MAIN CAUSEWAY
+Fig8.2
+# Page 21
+Figure Government
+No.8
+Circular
+No.: -US H.FL DS PMGSY-WEARING SURFACE SEE NOTE BELOW
+150MM WBMUSING SIZE METAL --200MM WBMUSING OVER SIZE METAL
+2022300MM THICK SUBGRADE IMPROVED
+/
+0.15m 7.50 -0.15m C.R.200225mm Thick Stone Pitching with Pointing-Slope 1:40 Slope 40 -200 300 150 300 Kerb CC 1.3.6 150mm Thick Quarry Spalls -225mm Thick Stone Pitching with Pointing /-150mm Thick Quarry Spalis Works1.50m
++0.50+ <H+0.50 -2
+I
+Toe Wall Toe Wall
+TYPICAL CROSS SECTION OF SUBMERSSIBLE APPROACHES
+IN EMBANKMENT FOR HEIGHT UPTO 1.50M
+SCALE NOT TO SCALE
+# Page 22
+Figure Government
+No.9
+Circular
+-UHFL DS No.: -WEARING SURFACE SEE NOTE BELOW
+150MM WEM USING SIZE METAL
+PMGSY200MM WEM USING OVER SIZE METAL
+300MM THICK SUBGRADE MPROVED
+-0.15m -Clw 7.50 0.15m 2022/Sope 140
+300mm Thick 150mm Stone Paching Thick Quay with Pointing Spalls -300mm -150mm Thick Thick Stone Quarry Pihing Spals with Ponting C.R.200600mm Thick Stone Pathing with Panting 600mm Thick Stone Piching with Pointing /300mm Thick Quarry Spal -300mm Thick Quarry Spal Works
+-2
+TYPICAL CROSS SECTION OF SUBMERSSIBLE APPROACHES
+IN EMBANKMENT FOR HEIGHT MORE THAN 1.50M UPTO 3.0M
+# Page 23
+Figure Government
+No.10
+Circular
+No.:
+PMGSY-WEARING SURFACE
+-150MM WBMUSING SIZE METAL
+<<--DS -200MM WEMUSING OVER SIZE METAL
+300MM THICK SUBGRADE IMPROVED2022/H.FL--- -H.F.L C.R.2000.15m 7.50 -0.15m
+225mm Thick Stone Pitching with Pointing Slope 3.5Slope 3.5-200 300 150 300 Kerb CC 1.36 /150mm Thick Quarry Spalls Works-225mm Thick Stone Pitching with Pointing
+Earthwork Filling -150mm Thick Quarry Spalis -2
++0.50 0.50
+Toe Wall
+TYPICAL CROSS SECTION OF SUBMERSSIBLE APPROACHES
+BOTH SIDE CUT
+Hilly Terrain
+# Page 24
+Government Circular No.: PMGSY-2022/C.R.200/Works-2
+Figure
+No.
+11
+-WEARING SURFACE
+150MM WBM, USING SIZE METAL
+-U/S D/S -200MM WBM, USING OVER SIZE METAL
+300MM THICK SUBGRADE (IMPROVED)
+H.F.L -H.F.L.
+0.15m C/w 7.50 -0.15m
+225mm Thick Stone Pitching with Pointing. -Slope 3.5% Slope 3.5% 200 x 300 or 150 x 300 Kerb in CC 1:36
+150mm Thick Quarry Spalls
+225mm Thick Stone Pitching with Pointing 1.50m Earthwork Filling 150mm Thick Quarry Spalls
+<
+H
++0.50+ +0.50 +
+Breast Wall
+-Toe Wall
+TYPICAL CROSS SECTION OF SUBMERSSIBLE APPROACHES
+LEFT SIDE BREAST WALL AND RIGHT SIDE FILL SLOPE
+(Hilly Terrain)
+SCALE: NOT TO SCALE
+# Page 25
+Government Circular No.: PMGSY-2022/C.R.200/Works-2
+Figure
+No.
+12
+-WEARING SURFACE
+150MM WBM, USING SIZE METAL
+-U/S D/S 200MM WBM, USING OVER SIZE METAL
+300MM THICK SUBGRADE (IMPROVED)
+H.F.L -H.F.L.
+0.15m -C/w 7.50 0.15m
+225mm Thick Stone Pitching with Pointing --Slope 3.5% Slope 3.5% 200 x 300 or 150 x 300 Kerb in CC 1:3:6
+150mm Thick Quarry Spalls
+-225mm Thick Stone Pitching with Pointing
+1.50m -150mm Thick Quarry Spalls
+Earthwork Filling
+<
+-H
++0.50 + +0.50 +
+Toe Wall
+TYPICAL CROSS SECTION OF SUBMERSSIBLE APPROACHES
+BOTH SIDE CUT
+( Hilly Terrain)
+# Page 26
+Government Circular No.: PMGSY-2022/C.R.200/Works-2
+Figure
+No.
+13
+-WEARING SURFACE
+-150MM WBM, USING SIZE METAL
+-U/S D/S 200MM WBM, USING OVER SIZE METAL
+300MM THICK SUBGRADE (IMPROVED)
+H.F.L --H.F.L.
+C/w 7.50
+-Slope 3.5% Slope 3.5%
+1.50m
+Earthwork Filling
+<Retaining Wall
+Retaining Wall H
+TYPICAL CROSS SECTION OF SUBMERSSIBLE APPROACHES
+BOTH SIDE RETAINING WALL
+(Hilly Terrain )
+SCALE: NOT TO SCALE
+# Page 27
+Government Circular No.: PMGSY-2022/C.R.200/Works-2
+Figure
+No.
+14
+8400
+- 7500 -COLLAPSIBLE
+FORMATION LEVEL RAILING
+300
+U/S D/S
+-4000 + 3000 3000 - 5000 6000
+300MM TH.STONE
+PAVING IN C.M.1:4 OVER
+-BOULDER APPRON 75MM TH.C.C.1:3:6 -CONCRETE BLOCKS (M-20 GRADE) -BOULDER APPRON
+300. C.CM15
+1000 300 CCM10SEN 1000 600MM TH. BOULDERS C
+-500mm TH. -DROP WALL
+1000 BOULDER 1000
+Fig. 5.1. Typical Section Through Bridge Floor
+# Page 28
+The following photographs showing Debris Arrester
+Debris ArresterReflector Gadchiroli District
+# Page 29
+Government Circular No.: PMGSY-2022/C.R.200/Works-2
+PHOTO-2
+District
+Gadchiroli
+in
+Reflector
+Arrester
+Debris
+# Page 30
+Site Photographs of Damaged Bridge & Approaches
+STOP
+2008
+STOP
+CROTUM
+STOP
+Time07-16-2022 14:25 NoteBopapur village Bride narkhed
+Damaged Approaches of Bridge on JalalkhedaBobapur Road in Narkhed Taluka of DistNagpur
+# Page 31
+PHOTO
+4
+Time07-16-2022 13:23 NoteBopapur village Bride narkhed Powered by NoteCam
+Damaged Approaches of Bridge on JalalkhedaBobapur Road in Narkhed Taluka of DistNagpur

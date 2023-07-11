@@ -1,0 +1,30 @@
+# Page 1
+Approval for accounting of interest and other deposits on the unclaimed amount of State Account on the account of Single Nodal Agency for Centrally Sponsored Schemes
+The Government of Maharashtra
+Department of Skills, Employment, Entrepreneurship and Innovation
+Government Resolution No. Kouvieu-2022/ No.37/ PR-3
+Madam Cama Road, Hutatma Rajguru Chowk,
+Ministry, Mumbai- 400032.
+Date: June 5, 2023
+Reference- 1) Office Order of the Union Ministry of Finance FNo. 1 (13) PFMS/ FCD/ 2020, p. 23.3.2021 2) Letter No. Narrow 2022/ Q. No. 09/ Resources, D. 7.6.2022
+The Proposal:
+Pursuant to the guidelines received through the Office Order at Reference 1 of the Central Government, the Department of Finance vide Reference No. 2 All the Administrative Departments have been advised to take action for opening a separate head for interest on the unspent amount of Centrally Sponsored Schemes under the head 801-Interest or interest on the unspent amount of subsidy received under the head/ sub-head of functional head relating to the department.
+2. The Government was considering to approve the accounting of interest and other deposits on the unclaimed amount of State Account on the account of single nodal agency for all Centrally Sponsored Schemes being implemented by the Department of Skill, Employment, Entrepreneurship and Innovation. A government resolution in this regard was issued.
+Government's decision:
+The following heads of accounts are being approved for crediting the interest and other deposits on the unclaimed amount of State Accounts on the account of Single Nodal Agency for all Centrally Sponsored Schemes implemented by the Department of Skill, Employment, Entrepreneurship and Innovation:
+# Page 2
+Government Resolution No: KAUVIU-2022/ PR No.37/ PR-3
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Marathi                 | English   |
+| the main article        | 0230      | Labour and Employment                                                                                              | Major Head     | 0230      | Labour and Employment                                                                                                 |
+| Deputy Account Head     |           |                                                                                                                    | Sub Major Head |
+| Subordinate Top         | 801       | Interest on unpaid balance or other deposits from the grantee                                                      | Minor Head     | 801       | Interest or Other earnings from grantee on unspent balances                                                           |
+| Group Top               | 01        | interest                                                                                                           | Group Head     | 01        | Interest                                                                                                              |
+| Subgroup Top            | (01) (02) | Interest on unpaid balance in single nodal account (Skill, Employment, Entrepreneurship and Innovation Department) | Sub Group Head | (01)(02)  | Interest on unspent balances in Single Nodal Account (skills, Employment, Entrepreneurship and Innovation Department) |
+| Group Top               | (02)      | Other deposits                                                                                                     | Group Head     | (02)      | Other earnings                                                                                                        |
+| the top of the subgroup | (02)(02)  | Other Deposits in Single Nodal Account (Skill, Employment, Entrepreneurship and Innovation)                        | Sub Group Head | (02) (02) | Other earnings in Single Nodal Account (skills, Employment, Entrepreneurship and Innovation Department)               |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+This Government decision has been taken with the concurrence of the Finance Department and in accordance with the informal reference No.No.BV/ C-1/ Skill, Development and Entrepreneurship Department/ UOR 90/2022-23/ 490, dated 01.02.2021, of the Accountant General's Office, Mumbai. Issued pursuant to Consent received under 11/10/2022.
+Page 83 of 3
+# Page 3
+Government Resolution No: KAUVIU-2022/ PR No.37/ PR-3

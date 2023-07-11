@@ -1,0 +1,59 @@
+# Page 1
+Implementation of Urban MahaNet project and Delivery of E-Governance Services
+Government of Maharashtra
+General Administrative Department
+Government Resolution No. GAD-2018/CR 25/Sect3/39
+Mantralaya, Mumbai 400 032
+Dated: 28/09/2018
+Introduction:
+The prestigious MahaNet (Bharat Net- phase 2) project is being implemented for providing high speed internet connectivity to around 13000 Gram Panchayats in the State through the State led implementation model. The project is being executed by the 100% Government owned company, Maharashtra Information Technology Corporation (MahalT), which is the Special Purpose Vehicle (SPV) & the State Implementation Agency (SIA) for the project. The project will comprise of underground optic fibre cable (for around 70% of the Gram Panchayats) and use of the aerial route using the electricity transmission and distribution network for the remaining Gram Panchayats. Providing connectivity to 12,740 GPs across 172 Talukas in 26 Districts with more than 50,000 KMs of fiber to be laid out during the implementation. The project aims an establishing a scalable, futuristic (IP-MPLS based), resilient (ring based), high capacity State-wide optical fiber network with telecom carrier-grade capabilities and reliability. Setting up a strong ICT backbone, while optimizing the economy of effort in a time-bound manner. Ensuring connectivity from Taluka to GPs with availability of Points of Presence (POPs) and horizontal connectivity to Government institutions. Vital Public Purpose project that would enable delivery of e Governance services such as e-Health, e-Education, e-Agriculture, etc.
+In line with the Rural MahaNet, Urban MahaNet programme will be a" Vital Public Purpose Project" aimed at providing high speed connectivity for delivery of services, through provision of cost-effective bandwidth connectivity, providing cost optimized broadband connectivity at various Government departments in Maharashtra, including point-to-point and internet bandwidth at urban local bodies, municipal corporations, municipalities for all urban centres (cities and towns), so as to enable them to provide e-governance services such as G2C services (e-health, e-education, etc. ), as well as G2G services (e.g., e-data governance and access, payments consolidation). Deploy a faster, convenient, and cost-effective approach to leverage the existing Telecom Service Provider (TSP) network and extend its reach in cities and towns to support all current and future government connectivity requirements.
+It was under consideration of Government to rollout digital/e-Governance services (such as e-health, e-education, e-agriculture, etc.) in rural and urban areas planned to be covered under BharatNet (I & II) and Urban MahaNet programs.
+Expansion of coverage of existing programs being operated by various Government
+# Page 2
+Government Resolution No.: GAD-2018/CR 25/Sect3/39
+departments across the State such as healthcare, education, etc. Enhancement of e
+Governance services attributes, and upgrade of underlying infrastructure currently being deployed by the departments for delivery of e-Governance services.
+Government resolution:
+Part I- Urban Mahanet:
+Urban MahaNet project is hereby declared as a Vital Public Purpose Project.
+(b) Government has approved the project for the implementation for scope, selection methodology, and timelines.
+(c) Project will be implemented by Maharashtra Information Technology Corporation Itd. (MahalT). MahalT is hereby authorised to make necessary changes in plan and in tender document if required and float a tender for the selection of Telecom Service Provider (TSP).
+(d) Right of Way (ROW) fees across the state (including underground and aerial) is
+hereby waived off for the project. TSP will pay restoration charges. TSP will be
+allowed to access all the roads and Government and para statal office buildings
+including those of local bodies, schools, Primary health centers, Hospitals colleges, Statuary Corporations of state Government.
+(e) No separate permission will be required to be taken by the TSP for ROW. Only prior
+intimation will be given to concerned authorities seven days before start of work
+(trenching/laying of Cable, connection, installation of equipments etc.) for both
+roads (bridges and flyovers) and buildings.
+(f) Necessary access will be given to all buildings and roads by local bodies, Schools, public hospitals, Colleges, state Government statuary bodies etc. to TSP for laying fiber (both underground and aerial), installation of poles etc. for the provision of bandwidth.
+--------------------------------------------------------------------------------------------
+| (g) Urban Development department will issue necessary instructions to all the local      |
+| bodies to cooperate with MahalT and its agencies for the ROW permissions.                |
+|                                                                                          |
+| (h) TSP will have option for installation of Smart Poles i.e. TSP can erect Smart Poles, |
+| which can be leveraged for deployment digital signage, microcells for 4G/5G, IoT         |
+| based sensors, etc., and Wi-Fi Provisioning i.e. TSP to deploy access points inside the  |
+| premises of the in-scope Government offices / departments.                               |
+|                                                                                          |
+--------------------------------------------------------------------------------------------
+(i) Contract with TSP will be for 3 years with option to extend for next 2 years.
+(j) A Steering Committee will be formed under the Chairmanship of Chief Secretary
+with g Principal Secretary-IT, Principal Secretary-Home, Principal Secretary-Urban Development (UD2) and Director General of Police (DGP) as a members of the
+Page 2 of 4
+# Page 3
+Government Resolution No.: GAD-2018/CR 25/Sect3/39
+Committee. The committee will meet on a periodic basis to review and monitor Row
+progress, and resolve issues related to obstructions to execution of the this project.
+Part II- Delivery of E-Governance Services:
+(a) Government has approved the proposed program for the implementation.
+(b) Project will be implemented by Maharashtra Information Technology Corporation Itd. (MahalT).
+(c) Public health, School education and Agriculture departments will make necessary fund provision in budget for the implementation of the project.
+(d) Concerned department can procure hardware or they can make the fund provision to MahalT.
+(e) MahalT will provide software and services for the project and department will department will make necessary fund provision to MahalT.
+(f) All other departments in next three years will make necessary effort to implement the MahaNet project.
+(g) Public health, School education and Agriculture department each will make provision of Rs. 100 Cr for the current financial year.
+This Government resolution is being issued based on the approval given in the cabinet meeting dated 18.09.2018.
+This Government resolution of Maharashtra Government is available at the
+# Page 4

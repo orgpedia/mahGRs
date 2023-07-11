@@ -1,0 +1,25 @@
+# Page 1
+Competent Authority for Data and Data Access for all Government organizations for all projects.
+Government of Maharashtra
+Directorate of Information Technology
+Government Resolution No. DIT - 2018/CR26/S3/39
+Hutatma Rajguru Chowk, Madam Cama Road,
+Mantralaya, Mumbai - 400 032
+Dated 16th October, 2018
+Government Resolution No. DIT - 2018/CR26/S3/39
+Ref: 1. Cloud Computing policy Circular dated 29.1.2018 2. Cloud Computing Policy-Empanelment of Cloud Service Providers and Guidelines for Government organizations dated 19th May 2018 and 4th Aug 2018 3. IT Act 2000 and 2008 and Amendments thereon
+Introduction
+Considering the growing adoption of online services by citizens of the State & use of IT within Government for providing various online services, there is a constantly increasing need and request from Departments for Data and Data Access of various departments for analytics on Data for projections, better decision making and regular monitoring of adopted state and national schemes.
+Government Resolution:
+1.1 Directorate of Information Technology has taken an initiative to stream line data, Standardize Data and make data interoperable for all departments at the state level for all Project where data is a requisite or pre-requisite.
+1.2 Directorate of Information Technology Government of Maharashtra is Appointed as Competent Authority to Authorize access to all Data of all departments residing either with department appointed SI or state agencies such as SDC, NIC, BSNL or any other cloud service provider including incremental Data with immediate effect.
+1.3 DIT through NDA and NOC with the SI and implementation team will ensure security of data and provide access as required for the project after due diligence and proper scrutiny.
+Data Type and Location
+2.1 Data in any format as per IT Act 2000 and all subsequent amendments, of all State Government departments residing either with department appointed SI or state agencies including but not limited to
+a) State Data Center b) NIC c) BSNL d) Any other cloud service provider e) Mahaonline Ltd
+As and when required for the purpose of DIT approved projects will be made available by the SI or such agencies on written request from DIT.
+2.2 Data and Data Access will be limited to the project requirements and initially read only data access will be given for the projects.
+This GR is issued with the approval of Hon'able Chief Minister, Government of Maharashtra
+# Page 2
+Government Resolution No.: DIT - 2018/CR26/S3/39
+This Government Resolution of Maharashtra Government is available at the website

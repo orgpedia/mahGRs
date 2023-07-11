@@ -1,0 +1,129 @@
+# Page 1
+Regarding computerization of estimates, work start orders, work measurement book, payments, SCADA and observation memorandum of contractors in Public Works Department.
+Government of Maharashtra
+Department of Public Works
+Government Decision No: COM-2019/193/P.No.25/ Computer Room
+Mantralaya, Mumbai-400 032
+Date :- 31 October, 2019
+Introduction
+In order to bring transparency in the work done through Public Works Department
+Efforts to improve existing computer system (Software) Public works
+are being done through the department. Generally done under Public Works Department
+Following procedure is followed for various types of work. Tender for any work accordingly
+After acceptance of the tender, the contractor or educated unemployed engineer selected through the process will start the work
+The order is given. After that the contractor or educated unemployed engineer starts the actual work.
+Supervising the said work. It is done through the Junior Engineer of Sub-Division. Their junior engineer
+Measurement book of works by type of work (B1,B2,C,D etc.) various stages of work, date wise
+Records measurements. Accordingly, the concerned Deputy Engineer, Divisional Office, while sanctioning the payment of the work
+It is submitted to the Executive Engineer after the approval of the Technical and Accounts Branch. The said payment is approved
+After that payment funds are provided to the contractor.
+Also in checking the quality of works by Vigilance and Quality Control Board under Public Works Department
+comes Accordingly, an observation memo is recorded on the work. Points recorded under Observation Memorandum
+The concerned departmental office is informed. Until satisfactory compliance with the above points is achieved
+Proceedings on the observation memorandum are ongoing. Verification of the above items while paying the work payments accordingly
+is done
+There is a lot of opinion to make the process more transparent, easy, timely and effective
+It started from the period. Accordingly, to avoid time wastage and other complications in the prevailing system and
+Work Estimates, Contractors Commencement Orders, Measurement of Works in order to streamline the department
+Matter of keeping books, payments, scada and observation memos computerized in online system
+It was under the consideration of the government.
+# Page 2
+Government Decision No: COM-2019/193/P.No.25/ Computer Room
+Government Decision:
+Public works department while implementing e-bill system related to measurement and payment
+Government decisions and circulars are being validated as per this decision.
+1) Budgetary as well as Deposit Contribution Fund and others made by Public Works Department
+Transparency and dynamism in government operations while executing the works approved by STROTRA
+To bring as well as to avoid repetition of filling the same information (Repetition of data entry in different
+formats) for digital monitoring of works through e-bill system
+The government has taken a decision.
+2) The said e-bill system will be implemented in a phased manner during the year 2019-20.
+3) Following are the various stages of existing as well as e-bill system in Public Works Department
+are:
+(i) Stagel estimate using online estimate system along with all related work related documents
+Creating by uploading.
+(ii) Stage | through authorized officers to approve (give administrative approval)
+(iii) After that prepare administrative approval letter with Unique ID under Online estimate system
+to do
+(iv) Detail estimate using online estimate system including all related work related maps and
+Creating by uploading with other documents.
+(v) Approval of Detail Estimate through Competent Authority. (Technical Approval)
+(vi) Thereafter preparation of technical approval letter with Unique ID under Online estimate system.
+(vii) BOQ under Detail estimate created in online estimate system is a web service
+Making available for e-bill through
+(vii) Preparing and approving DTP of relevant work using Online DTP system.
+(ix) Security Deposit from the selected contractor after acceptance of the work tender
+Issuance of fill letter online.
+Page 2 of 6
+# Page 3
+Government Decision No: COM-2019/193/P.No.25/ Computer Room
+Unique ID by automise method after payment of security deposit online by the contractor
+Bypassing Human Interface, generation of work orders and PAN No. through online e-mail,
+Bar Code etc. Issuance of items by numbering.
+(xi) Initiation of work measurement in e-bill system through login of contractor. Payment thereafter
+Junior Engineer, Deputy Engineer, Divisional Office Junior Engineer, Deputy Executive
+Submitting to Engineer, Auditor, Accounts Officer and Executive Engineer for approval.
+(Each will have different logins. Prescribed by each officer and Karyasan
+If no action is taken within the period, the payment on their liability will be at the next level
+push will be done and inform the concerned about dereliction of duty through computerized e-mail
+should come and inform the competent authority for further action.)
+(xii ) Details of payment sanctioned through e-bill system and current status of each payment
+Informing the contractor through email. (While preparing payments under e-bill system the contractor/
+S.B. To upload Royalty Passes and Bitumen Challan as per department
+The facility has been integrated into the e-bill system.)
+(ixiii) Uploading progress photos of the project. Regarding Secured Advance under the project
+Uploading photo with Latitude, Longitude as per government decision.
+(xiv) Regional and District Level Experimental Schools at D.W.G.N.I. Online Material through Mandal, Nagpur
+Online Material Testing Data, Test reports,
+frequency charts etc. To all other Deputy Engineers through Web service in e-bill system
+make available.
+(XV) While approving measurements under e-bill Prepared through Mandal, Nagpur
+Details of all work start orders, Test reports etc. due to online memo system
+Approving bills only after checking the quality of work while approving payments for available work using
+Page 3 of 6
+# Page 4
+Government Decision No: COM-2019/193/P.No.25/ Computer Room
+(xvi) Work for which SCADA system is to be used while sanctioning work payments
+Using SCADA Data of work (this will be available through Web service in e-bill system).
+E-Bill should be approved after checking the quality of work.
+(xvii) Availability of sanctioned payments in Accounts Management System. (e-bill system
+Internally generated payments will be available in the Accounts Management System.
+Also direct payment to the contractor through the system created through ICICI Bank
+To do, available while creating sanctioned payment vouchers from the list of payments while creating accounts
+so that there is no need to fill work details repeatedly.)
+(xviii) Direct payment to contractor : Payment of payment generated through e-bill
+Direct credit to the contractor&#39;s account (Development of this system by ICICI Bank
+Work is in progress. Also Webservice of said system with BDS / BEAMS system
+An addition is proposed by .)
+(xix) PWD Dashboard : Current status of payment under e-bill system, sanctioned payments, pending payments
+Also PWD by integrating overall work progress summary with e-bill system
+Making Dashboard available in the system (including estimate, bills, due prepayment, bills due
+for payment, divisionwise expenditure etc. should be included.)
+4) All the above online computer systems on the website of Public Works Department
+(www.mahapwd.com) are available for office work. Online mentioned above
+Time to time proposed improvements in the computerized system considering the difficulties of field officers
+should be done.
+S The said e-bill system computerized system Chief Engineer, Sa. left Prof. Division, of Nagpur
+C-DAC Pune in Information and Technology Coordinating Center (ITCC) at Nagpur under the aegis
+It has been developed with the help of Hon. Secretary (Roads) Chief Coordinator and Chief Engineer,
+S.B. Regional Division, Nagpur will be the co-coordinator. Also the information under the said system
+And the report is S.B. By coordinating with other systems of the department through Web Service
+Page 4 of 6
+# Page 5
+Government Decision No: COM-2019/193/P.No.25/ Computer Room
+Integration will be done. Login of Administrative Right to ITCC Nagpur
+will be S.B. Officers and employees in the department after their transfer, promotion in the concerned department
+Information should be updated in e-bill system by ITCC, Nagpur.
+From the date of issue of the said order, the commencement order shall remain in online form and
+All payments will be submitted and approved online. E-Measurement Online
+Measurement books in conventional method as the measurement book is prepared by working system
+will expire. Record measurements in the measurement book of Maharashtra Public Works Department 2
+Will be closed from April, 2020.
+7) Maintenance of internal computer system, hardware/server, various phases of e-bill online computer system
+Developing, annual maintenance etc. Expenditure Demand No.6, 2059 Public Works, (02) (02)
+Computerization of Office in Public Works Department (Programme), 17 Computer Expenditure, (2059
+2949), should be made through the head of Dattamatt.
+8) In case of any disputes or disputes, disputes, claims arising in the e-bill online computer system
+Concerned District Sessions Court and Hon. In dealing with the jurisdiction of Bombay High Court
+will come
+# Page 6

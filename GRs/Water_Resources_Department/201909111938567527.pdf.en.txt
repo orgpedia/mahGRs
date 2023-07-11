@@ -1,0 +1,270 @@
+# Page 1
+Consolidated and revised guidelines on quality control and quality assurance of project works under Water Resources Department.
+The Government of Maharashtra
+The Department of Water Resources
+Government Resolution No: Gunimam-2014/ P.S. No.57/ N.V.S.3
+Mantralaya, Mumbai: 400 032
+Date is September 11, 2019
+With a view to harnessing the water resources of the State, the Government of Maharashtra has planned multipurpose projects on rivers in several basins. Given the large amount of financial investment being made in these constructions, the use of natural resources and the technical complexity of the construction, there must be proper control over the quality of work to ensure that the constructions carried out are sustainable and stable.
+In view of this, the Department of Water Resources (erstwhile Irrigation and Power Department) has published various Public Works Handbooks (PWD Handbooks) since 1876 and accordingly, the Public Works Handbook PWD Handbook Chapter 33 (Part-I: Constructional Works and Part-II Soil Works) provides detailed guidance on maintaining the quality of project construction. Also, the Water Resources Department has issued Annexure No. Various circulars and guidelines have been issued as mentioned in Section 1.
+Considering all the above and modern trends, Annexure No. The revised guidelines for quality control and quality assurance of project construction under the Water Resources Department are being issued collectively as mentioned below by superceding the various documents mentioned in Section 1.
+Government Decision- To ensure quality assurance on the project under the Water Resources Department, the field engineers are being directed as follows.
+When a work is well planned and managed properly, quality assurance is possible only through a quality assurance/ management system and dedication to work to achieve the desired goals and create a serviceable structure.
+# Page 2
+Government Resolution No: Gunimam-2014/ P.S. No.57/ N.V.S.3
+The engineer in-charge of the construction will adopt the quality assurance system. This includes the following things:
+1) Detailed concept based on proper survey and investigation 2) Detailed drawings based on detailed concept.
+3) Detailed specifications based on concept, drawing, construction method.
+Effective supervision by" skilled and trained field engineers and supervisory staff."
+5) The use of a checklist based on specific details to ensure that the required instructions are being followed and there must be accountability.
+6) To ensure that the materials are of proper quality through test reports.
+7) Ensure quality of work by conducting field tests, record tests and inspection of completed works as per the expected frequency during the execution of work.
+8) Preparation of test records, use of materials, and documentation of photographic/ video recordings, record drawings 9) Provision of periodic orientation and special training to supervisory staff.
+10) Quality audit through a third party mechanism, review the audit errors and take corrective action.
+To assess the resource potential and quality of construction of the agency/ contractor.
+The engineer in-charge shall be vigilant and adopt appropriate construction practices to check the final product by complying with the quality inspection reports of the building materials, quality checks during the construction process through conceptual dimensions, drawings based on the same and necessary testing so that the construction meets the criteria of the conceptual standard.
+In order to improve the quality of work and to ensure that the field officers pay more attention to quality assurance, the following suggestions are being made.
+Duties and Responsibilities of a Construction Engineer
+Responsibilities of the Construction Engineer:
+1.1 All construction engineers should note that the purpose of the quality control and quality assurance system is to improve the quality of work. The engineers of the construction section have all the responsibilities to carry out the constructions as per the specifications and implement the construction as per the performance and safety of the constructions. The work done by the construction engineers
+Page 2 of 49.
+# Page 3
+Government Resolution No: Gunimam-2014/ P.S. No.57/ N.V.S.3
+The approved concept, drawings and specifications have been carried out as per the quality assurance/ management system and the work done must be certified as high quality.
+1.2 Procedure followed in the construction of the project Approved Contract Terms, Specifications, relevant Indian Standards as well as those issued by the Department of Water Resources before the work is taken up.
+Various government decisions/ circulars/ instructions in the letter must be complied with.
+2. Quality Assurance System: 2.1 The Executive Engineer of the Construction Department is required to provide certified copies of the tenders accepted for the work to be done, as well as the technical specifications, including the copy of the contracts, the commissioning orders issued to the contractor, the certified drawings, etc. to the Executive Engineer of the concerned Quality Control Room before starting the work.
+2.2 The officers of the Quality Control System shall independently inspect the works and shall take 20% representative sample tests out of the total tests to be taken as per the specifications to check the quality of work. Also it is the duty of the quality control engineers to point out the deficiencies and deficiencies in the construction to the construction department from time to time and as per requirement.
+2.3 The Engineer in-Charge shall follow all reasonable instructions given by the Engineer in the Quality Control Room. In case of differences of opinion between the Construction Engineer and the Quality Control Engineer on the issues/ defects in the work, the Chief Engineer (Construction) will be required to take appropriate action on the issues.
+2.4 Engineers in charge of construction and quality control must be present on the premises for a sufficient period of time. The quality control engineers approach should be constructive and suggestive. They should suggest corrective measures and assist the construction engineers in implementing them.
+2.5 POINT CONTROL Frequent joint inspection of work by engineers and construction engineer will help in improving the quality. The quality control engineer should be invited to the periodic coordination meetings of the construction engineers. So that it will be easier to understand and fix the shortcomings in the work to increase the quality of work.
+2.6 The construction department should develop an appropriate system in the field to implement the quality control and quality assurance system of the work. The system will involve laboratory testing of various aspects, obtaining findings, inspection of various stages of construction at the worksite, inspection and rectification of deficiencies. Analyze the results of the tests and take appropriate measures immediately, if necessary.
+2.7 The Chief Engineer/ Superintending Engineer/ Executive Engineer of the Construction Department shall take immediate corrective measures to implement the quality control and quality assurance system in the works where there is poor response to the work of improving the quality of construction.
+Page 49 of 3.
+# Page 4
+Government Resolution No: Gunimam-2014/ P.S. No.57/ N.V.S.3
+It's expected. So that the works are safe and secure and their serviceability can be assured.
+2.8 The quality control system should bring to the notice of the concerned construction department the important aspects of quality regulation to achieve good work. Appropriate action will be taken against technical supervisors and engineers of the construction department who show negligence regarding the quality of construction which is constantly defective despite repeated instructions.
+Concepts and Drawings:
+3.1 No engineering construction should be carried out without" approved" drawings. A detailed drawing of each element of the construction must be available on the site before the work begins.
+The safety and durability of the work depends on the concept and drawings of the work. The quality of the work starts from the quality of the drawings. The drawing must correspond to the regional situation. That is why it is necessary to indicate in the drawing the basic information from the survey and investigation (test pits, information about the fissure, etc., and geographical features). The designed layout of the construction structure should be underlined by the information obtained from the survey.
+3.2 The Engineer in-charge should prepare the drawings at the beginning of the work according to the field conditions and approve them at the competent level. (e.g. Grid survey, Contour plan, Alignment survey, Bearings, L-sections, Cross sections of canal& nalla in CD works, Foundation drawings, Plan in case of structures, Trial pit/ Bore results showing strata classification, Expected rock level or foundation level, etc.).
+3.3 Drawings should contain details of each element e.g. Handbook in RCC Construction
+On Concrete Reinforcement& Detailing:- Ironing concept as per SP 34 (S& T)-1987, bar bedding schedule, joint detailing/ splicing, lapping etc.
+3.4 Detailed drawings for construction joints such as aqueducts, joint measures, notes, and corresponding Indian standards need to be included in the drawings.
+3.5 Drawing notes should provide information on the assumptions made (e.g. strength, density, permeability, test frequency, acceptance criteria, etc.) as well as the properties of the material to be used so that field officers can inspect and use the material on the field.
+It will be easier to make decisions.
+3.6 Drawings should be self-explanatory. by verifying the concepts and drawings
+Ensure that they are compatible with the conditions and are acceptable for implementation on construction
+Page 49 of 4
+# Page 5
+Government Resolution No: Gunimam-2014/ P.S. No.57/ N.V.S.3
+It must be signed by a competent authority. Do not start work without approved drawings.
+(4) The specifications
+4.1 Detailed specifications for each component need to be prepared and approved at the competent level after considering the concept, drawings and materials. The specifications should include the conceptual parameters, the material properties required, the methodology used in the work, the workmanship, the quality of construction completed, etc. Also, it must specify the tests required for the material, the procedures for construction, and the tests and standards required for the completed construction. In addition, the relevant Indian standards for materials, machinery, procedures and tests should be mentioned for reference.
+4.2 Indian Standards, PWD Construction Manual Chapter No. 33 Part-I and Part-I The standard specifications or their revised version as well as the instructions in various government decisions/ circulars/ letters issued by the government from time to time are to be followed.
+4.3 Copies of the specifications approved in the case should be made available by the construction machinery to the quality control machinery before the commencement of work.
+5.1 The Chief Engineer/ Superintending Engineer of the construction section shall arrange for training of the field engineers as per the requirement of the work before the commencement of the working season. Such training should cover topics such as the study of drawings, conceptual assumptions, and the construction procedures required to achieve them. Also, to achieve the desired quality, it should be included in the procurement of materials as per the instructions of the government, their testing and preservation of various records regarding consumption in construction. The training/ workshop should cover topics such as the machinery required for specific tasks, placement of experienced workers and experts.
+5.2 Workshops on Quality Control related matters should be conducted at field level during the monsoon period through Quality Control Mechanism. Necessary support for this should be provided through the construction system.
+The O.K. card:
+The OK card is to be taken before starting any construction as well as after that at the beginning of each new season by following the procedure mentioned below. For this, the construction program of that work must be sent by the construction system to the quality control system.
+Page 49 of 5.
+# Page 6
+Government Resolution No: Gunimam-2014/ P.S. No.57/ N.V.S.3
+6.1 Green Card/ OK Card System:
+This system will be applicable for all the constructions being carried out under the Water Resources Department. Before starting each work, as well as at the beginning of each construction season, you should first check that the construction room is ready for work by reviewing the various components of the construction.
+6.2.O.K. Card:
+6.2.1 Works estimated at Rs. 6 crore or where the height of the canal embankment is more than 3.0 m or where the estimated cost of construction on the canal is Rs. For all works above Rs. 2 crore, the Construction Cell shall issue a certificate to the concerned S.A. of the Quality Control Cell.
+1/ The Deputy Engineer/ Deputy Engineer is required to obtain the OK card from the Quality Control System before commencing the work by submitting the required details and at the beginning of each construction season.
+6.2.2 The S.A. of the Construction Cell for all the works except the works mentioned in 6.2.1 above.
+1/ Deputy Judge. They will themselves approve the OK card by checking the pre-preparation of the work before starting the work as well as at the beginning of each construction season.
+6.2.3 Before starting the construction of the worksite, the detailed working drawings of the worksite shall be made available at the field location. The mixed concept should be approved from the competent level.
+As per the quality of materials as envisaged in the concept, minimum required material stock should be made available at field locations so that the pace of work is maintained. The field engineers should ensure that skilled and experienced engineers are appointed by the contractor on the work site. After verifying all the above aspects on the ground, the aforesaid point no. 6.2.1 The signed OK card for the mentioned works should be sent immediately to the concerned Quality Control Sub-Division through the Construction Sub-Division for inspection and approval and the records should be preserved. Sample of O.K. card for various aspects of work along with Annexure No. 2, 3, and 4 are provided for reference. There is no harm in changing this pattern to the competent level according to the type of work and the need.
+Since the computer system for issuing cards was developed, O.K.
+The request and approval of the card should be done through computer system in online mode. The Quality Control Officer shall take appropriate action for issuing the OK card within a maximum period of 3 days after receipt of the complete form of the card.
+Page 49 of 6.
+# Page 7
+Government Resolution No: Gunimam-2014/ P.S. No.57/ N.V.S.3
+6.2.5 The register of the O.K. card should be book-binding and four printed and numbered by the machine. Also, they should be preserved in the same way as the measuring book. The Executive Engineer of the construction department should print the booklet of the OK card of the work and supply it to the Sub-Divisional Engineer of the construction subdivision.
+Complete details of the card should be filled in 3 copies, signed and sent to the Deputy Commissioner of the Points Control Sub-Division regarding the OK card for approval. After receiving the request for the card, they should go to the field office and verify the details in the OK card and after confirming the details in it, they should give their feedback in the form of shares on all three copies. After the feedback is recorded, the Deputy Commissioner, Quality Control Sub-Division shall hand over 2 signed copies of the OK card to the Construction Sub-Division. Such processing shall be completed within a maximum of 3 days after receipt of the completed form of the OK card.
+The construction work should not be started without receiving favourable and satisfactory feedback from the Sub-Divisional Engineer, Quality Control Sub-Division regarding the OK card.
+A copy of the approved OK card must be available for verification at the worksite while construction is in progress.
+6.3 Yellow Notes/ Green Notes/ Red (Red) Notes: The SI-2/ Branch Engineer/ Junior Engineer of the Quality Control Sub-Division will visit the work area and record the daily inspection points of the work in the inspection note. There will be two types of inspections. One observation note will be yellow/ green and the other observation note will be red/ green. Both these types of inspection letters should be numbered in this mechanized manual as four actual machines.
+Samples of such observation sheets are given in Annexure 5 for soil work and Annexure 6 for composting work. There is no harm in changing this pattern to a competent level according to the requirements of the work. Detailed procedure for use of Yellow/ Green and Red/ Green Observation Cards is attached as Annexure No. It will be 7.
+Wherever it is possible to continue the work by correcting minor errors, a yellow note will be issued by the engineers of the Quality Control Room and it will mention the improvements to be made in terms of work. Where there are serious defects on the construction and it is not advisable to continue the work, the sub-registrar of the points control shall point out these serious defects to the construction sub-division through red beacon.
+Page 49 of 7.
+# Page 8
+Government Resolution No: Gunimam-2014/ P.S. No.57/ N.V.S.3
+The officer who issues the red beacon shall not be below the rank of at least Sub-Divisional Engineer.
+As soon as the red beacon is released from the quality control room, the engineers of the construction room must immediately stop the work and fix the serious flaws in the red beacon. Also, the quality control room officials should verify whether the errors in the red letter have been fulfilled or how.
+A post of quality control engineer who issues the red beacon should ensure that the faults are met. No work shall be resumed without the written permission of the competent authority.
+6.4 CONTRACTORS CONFIDENTIAL REPORTS: The Contractors Confidential Report should be written by the Construction Engineers after verifying the various points in the inspection letters and inspection notes received from the Quality Control Department regarding the construction work done by the Contractor.
+7.0 Subject wise Scrutiny for each construction: The inspection report based on specific provisions, relevant Indian Standards, concept notes and drawings for each component of the construction should be prepared by the Construction Cell.
+This checklist should include the pre-construction preparation of the components, material properties, construction procedures, specific machinery, equipment, skilled craftsmen, periodic inspections and necessary measures. Before starting the construction of each component, the Regional Engineer shall ensure that the work is done as per such inspection schedule and only then the work of the concerned component shall be allowed to start.
+Issues of General Inspection relating to Soil Works and Structural Works Annexure No. 8 are connected. The inspection schedule for each component should be finalised at the level of Executive Engineer of the construction department by making necessary changes in it.
+8.0 CONSTRUCTION PROGRAMME: The Executive Engineer of the Construction Cell shall, before commencing the work, provide to the Quality Control Cell a copy of the approved tender of the work, the case-wise technical specifications, Annexure B (Schedule B) and the commissioning order issued to the contractor.
+Also in each new season (before October of the month of the pair No. (9) Before commencing the construction, the Regional Engineer shall prepare a case-wise construction programme and provide a copy thereof to the concerned Quality Control Sub-Division. (preferably online).
+Page 49 of 8.
+# Page 9
+Government Resolution No: Gunimam-2014/ P.S. No.57/ N.V.S.3
+9.0 Material inspection:
+9.1 Copies of the approved specifications for the various construction components shall be made available to the concerned Quality Control Engineer as well as to the Engineer of the Construction Cell as well as to the Engineer of the Contractor and all the Field Supervisors for day-to-day work before the commencement of the construction of the component at the field location.
+9.2 The mine selected for the construction material shall be subject to approval of the Executive Engineer. Other materials required for construction. The work items like Vajrachurna, Iron Ore, Brick, Sand, Clay, Stone, Mixed Concepts, Different Types of Pipes, etc. should be initially tested in the laboratory of Quality Control Room under Water Resources Department or under MERY, Nashik or in a private laboratory (NABL certified). Thereafter, during the construction phase, the material shall be tested in a laboratory under the Quality Control Board in the Water Resources Department or in a laboratory accredited by the Quality Control Board or NABL (National Accreditation Board for Testing and Calibration Laboratories) accredited laboratory. Also, the various instruments used for testing need to be calibrated from time to time (according to the frequency specified in the corresponding Indian standard).
+As per the prescribed frequency, 80% of the total tests required for construction shall be conducted by this building control room and the remaining 20% shall be conducted by or in the presence of this quality control room. Also, the results of the test conducted by the points control room will be binding on the construction room.
+If there is a change in the mining of materials during the construction period, appropriate measures must be taken by conducting all quality control tests of the materials in the new mine, comparing them with the original design assumptions.
+No construction materials should be used.
+9.3 If it is found after testing the construction material that a lighter material is being used in the work area, it will be the responsibility of the construction engineer to remove the lighter material and use suitable and better quality material.
+If required, construction engineers should obtain quality control test results from two to three other laboratories, rather than relying on a single laboratory, so that it is possible to confirm by ensuring that the materials used are of proper quality.
+9.4 Specific Material Testing:- There is no objection to get the specific material test or any specific test (which is not available with Quality Control Room/ MARI Nashik) done from a private reputed laboratory (NABL certified). Also, the quality reports of such specific materials should be obtained from the manufacturers.
+Page 49 of 9.
+# Page 10
+Government Resolution No: Gunimam-2014/ P.S. No.57/ N.V.S.3
+Construction engineers should use materials only if they have verified the results of these tests and are satisfied. For this, the information about the laboratories available for testing such specific materials
+It should be determined before starting work (e.g. Tests on Elastomeric Bearing Pads, Neoprene materials for joints, sealants, epoxy chemicals, various pipes).
+10.0 Conductive work:
+10.1 In IS 456" Mix designed earlier not earlier to one year may be considered"
+Sufficient for later work provided there is no change in sources and the quality of the material. This is how it is described. It is mandatory to follow the above-mentioned procedure in order to obtain a mix design. Nominal mix can be used only for tenders where the volume of the mixer is up to 150 cum and the work is in one place. However, for tenders involving works of dispersed nature having aggregate compaction volume of more than 150 cubic metres, it will be mandatory to go for mix design.
+Components must be used only by weight. At present, automated digitally controlled batching and mixing plants of different capacities are available. Therefore, such batching plate should be included in the tender. Digital batching and mixing
+Online printer facility should be available in the plant. The batching platform should have the facility to provide batch-wise computerized information in print form. The batching plant should be certified by the Quality Council of India (QCI), Delhi.
+10.2. It is necessary to use suitable component materials to produce a durable, leak resistant and required density. The main component of the compressor is gravel and it should be well graded. Sand and gravel should be properly graded. The strength and porosity of the compressor depends on the water-cement coefficient. Therefore, there should be proper control over the water-cement coefficient.
+10.3 The engineers of the construction department are required to send the necessary information and materials required for the mixed concept to the quality control laboratory at least six weeks before the commencement of construction. Along with this, assumptions should be made based on the degree of control for the mixed concept and the data of the previous work. After receiving this information from the construction department, the mixed concept will be done by the quality control room.
+The mixed concept recommended by the quality control rooms should be used only after obtaining the approval of the Superintending Engineer, Board of Construction.
+As per Indian Standard 456, the acceptance criteria of the moderator should be checked. Addendum No. 10 provides information about the conciliation acceptance criteria.
+Page 49 of 10.
+# Page 11
+Government Resolution No: Gunimam-2014/ P.S. No.57/ N.V.S.3
+10.4 CORE TEST:- The core of the conductor should be tested to check the density, strength, permeability and thickness of the conductor (in canal lining).
+10.5 USE OF MINERAL ADMISSIONS: Components which are important for long-term durability and permeability (e.g. mass concrete). fly ash is required. The use of fly ash helps in reducing the shrinkage cracks due to heat generated by the hydration process of the cement.
+The decision on whether or not to use the sub-components in the construction work and what type of sub-components are required should be taken at the level of the executive engineer of the construction department.
+The quality control system should be made aware of this when planning the mix.
+10.6 CENTURING AND FRAMEWORK FORMWORK (IS 14687): Formwork is an important component in the construction process and plays a major role in the process of construction. The mold and support work allows to maintain the speed, safety and quality of work. A template is a temporary structure. Till the time the instrument does not get its own strength, it does the work of providing support and containment to the instrument.
+The construction includes moulding and sheathing.
+With the speed with which the technology of corrosive composting has developed, this technology of using molding is also developing. Due to the strong molding, the density of the compressor also increases.
+The structure and foundation should be stable and durable. They must be able to produce a good surface of the condenser.
+Construction engineers must conceptualize and approve the work.
+The use of wooden moldings should not be allowed. For acro shutter iron plate and iron pipe should be used.
+It is the responsibility of the construction engineer to incorporate the steel in the construction according to the structural stability of the structure as well as the dimensions and design of the steel.
+The engineers of the quality control room will check the general layout of the base and check works, inspect the surface and record their feedback.
+For important construction on the canal (e.g. Jal Setu, Vimochak, Ladimori etc. ) Prepare the moulds according to their size and use them for construction.
+The quality, durability and serviceability of the work depends on the quality of the work.
+Page 49 of 11.
+# Page 12
+Government Resolution No: Gunimam-2014/ P.S. No.57/ N.V.S.3
+Sample of O.K. Card of Iron ingot and check work along with Annexure No. 11 is given. This model should be finalized at the level of Executive Engineer of the construction room by making changes in the plan as per the requirement and the actual work of the contractor should be taken up only after the corresponding OK card is issued from the level of Deputy Engineer of the construction room.
+10.7 Curing: After water is added to form the compressor, cement combines with water to absorb the heat generated.
+The process of retaining water in the refrigerant is called curing.
+The following methods are used for the preparation of the composition:
+1) Cover the surface of the condenser with an impermeable material.
+24) Keeping the surface of the condenser constantly and continuously wet, keeping the surface of the condenser moist increases the strength of the condenser.
+For masonry and construction work, it is necessary to have a continuous and continuous training system by mechanical methods.
+3. At present, there are many chemical methods available for processing compost. After spraying and drying the surface of the compressor, an impermeable coating is formed and the water content in the compressor is reduced.
+The decision as to which of the above various methods should be used should be taken by the competent authority of the construction department as per the field conditions.
+11.0 Soil:
+11.1 Mines:- A mine map should be prepared for the filling work. Before starting the work, is there enough material available in the mine? It is also mandatory for the mine to be approved by the competent authority of the construction department after checking whether the quality control tests of the materials in the mine pass the conceptual parameters assumed for the concept.
+If the properties of the available material are different from the hypotheses, then the available material needs to be re-conceptualized according to the properties. (Use of locally available materials should be considered for conceptualization.) 11.2 RECORD TESTS: The soil work should be subjected to periodic record tests. The record test results should be compared with the hypotheses proposed and if they do not match, they should be re-conceptualized as per requirement.
+Records of all tests conducted should be preserved and analyzed in accordance with the concept.
+Page 49 of 12.
+# Page 13
+Government Resolution No: Gunimam-2014/ P.S. No.57/ N.V.S.3
+Importance and use of record tests along with Annexure No. This is explained in 12.
+11.3 Filling: While filling, the layers of core and shell filling should be done simultaneously.
+(When pressing the filler, a layer of core filler should always be on top of the shell filler) The work of the filler should be done by forming a union on the perpendicular length to ensure that the horizontal joint is not formed.
+11.4 Drains and Filters: The tests should ensure that the materials used for draining and draining meet the specified specifications.
+Before the work of L-Drains and Cross Drain, working drawings should be prepared.
+Proper care should be taken when working with an inclined filter.
+Be careful not to mix the filling material and the filling material together.
+The pitching work should be done as per the tender specification. The size, weight and density of the stones used for the ashtray should be as per the specifications.
+12.0 Inventory of materials and their use in construction
+the recording.
+Controlling the use of materials is a kind of quality assurance. In the present scenario, most of the materials are purchased from contractors. (Schedule A is unique.) All important materials brought to the worksite by the contractor (e.g. The construction sector engineers are responsible for keeping track of the records (cement, iron ore, chemicals, different types of pipes, specific materials, etc.) submitted by the contractor from time to time. Also these records need to be preserved by the construction engineers.
+Records of the use of materials brought to the work site and the actual work done
+Quantity is an important factor in determining the quality of work. It is the responsibility of the construction engineer to verify the authenticity of the matter.
+Records of the utilization of machinery and manpower must also be obtained from the contractor and verified by the engineers of the construction department.
+Receive periodic (daily/ weekly/ monthly) reports and get it scrutinized by the field supervisors and save the records. These records are important, along with the measuring book, for the acknowledgement of work.
+Page 49 of 13.
+# Page 14
+Government Resolution No: Gunimam-2014/ P.S. No.57/ N.V.S.3
+13.0 REGIONAL VISITS (Observation Notes):
+13.1 Construction engineers and quality control engineers shall visit the work site as per the frequency and requirement of the work specified in the following paragraph 13.5. During each visit, the engineers will record their observations and suggestions on the quality of work and issue observation notes.
+Whenever the engineers of the quality control room will visit the work area, they will inspect the work and issue inspection note/ note. Even if the work is found to be satisfactory, an inspection note/ note should be given.
+The following schedule should generally be followed for issuing and complying with the observation notes.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| the subject                                                                                                                                                      | When to take action                                                  |
+| Time period for visiting the project site and issuing inspection notes                                                                                           | Within 8 days from the date of the project visit                     |
+| Project by Quality Control Officer                                                                                                                               |  Inspection note issued on visit                                     |  Time to submit compliance by construction machinery after                 | within 15 days from the date of issue of the inspection note. |
+| Who has to submit the compliance through the construction system after the inspection note regarding the project visit is issued by the Quality Control Officer. | Inspection Notes issued by Sub Divisional Engineer (Quality Control) | Compliance must be submitted by the Sub-Divisional Engineer (Construction) |
+| Issued by Executive Engineer (Quality Control)                                                                                                                   |  Inspection Notes                                                    | Compliance must be submitted by the Executive Engineer (Construction)      |
+| Issued by Superintending Engineer (Quality Control)                                                                                                              |  Inspection Notes                                                    | Compliance must be submitted by the Superintending Engineer (Construction) |
+| Issued by Chief Engineer (Quality Control)                                                                                                                       |  Inspection Notes                                                    | Compliance must be submitted by the Superintending Engineer (Construction) |
+| Period for submission of Re-compliance by Construction/ System in respect of Inspection Notes issued by Quality Control Officer on Project Visit                 | within 15 days from the date of receipt of the compliance report.    |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+13.2 The Executive Engineer, Construction Department shall periodically review the issues in the inspection notes/ notes received from the Quality Control Room.
+The Executive Engineer, Quality Control Department shall submit monthly as well as quarterly quality control reports in respect of each work to the concerned Construction Department and the Construction Board. For this
+Page 49 of 14.
+# Page 15
+Government Resolution No: Gunimam-2014/ P.S. No.57/ N.V.S.3
+The required information from the construction room will be certified by the executive engineer of the construction room and submitted to the quality control room. The Superintending Engineer and the Quality Control Board shall submit quarterly and annual quality control reports to the Chief Engineer and Quality Control Chief Engineer of the concerned construction. The annual quality control report of each project will be submitted to the government through the Chief Engineer, Quality Control.
+13.3 The Construction Engineers shall be responsible for verifying that the work done on the project is as per the specifications in the approved tender as well as the terms and conditions of the tender and as per various Government decisions/ circulars issued by the Water Resources Department.
+13.4 The Construction Engineer and the Quality Control Engineer shall plan a joint field visit before commencing the construction keeping in view the planning of the work and availability of quality materials. Additional joint field visits should also be planned at important stages of the work.
+13.5 Frequency of site visit.
+Field visits are required to be undertaken by officers at various levels as indicated in the table below.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Annu No.                                                            | designation                       | Average number of tasks to be reviewed per month |
+| Construction/ Irrigation                                            |  Management                       | Quality control system                           |
+| 1                                                                   | Junior Engineer/ Six Engineer Sh. | At least 20 works.                               | At least 20       |
+| Sub-Divisional Engineer/ Assistant Engineer, Sub-Divisional Officer | At least 20 works.                | At least 10 works.                               |
+| 3                                                                   | the Executive Engineer            | At least 15 works.                               | At least 8 works. |
+| 4.                                                                  | the Superintending Engineer       | At least 10 works.                               | At least 5 works. |
+| 5                                                                   | the Chief Engineer                | At least 8 works.                                | At least 4 works. |
+| 6.                                                                  | the Executive Director            |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The above visits are expected during the period when the works are in progress and irrigation is in progress.
+The time period during which the number of field works is less, the pace of work is slow or the works are stopped (e.g., due to monsoon, land acquisition problems, lack of funds, forest land, etc.) and the need to visit the works is reduced.
+Page 49 of 15.
+# Page 16
+Government Resolution No: Gunimam-2014/ P.S. No.57/ N.V.S.3
+Less visits are possible. However, such a clear record should be made in the monthly daily/ report.
+At the end of each visit, it is mandatory for the officials to submit feedback on the progress/ quality/ quality/ defects/ deficiencies in the work (exploration/ construction/ irrigation management) as well as the measures/ implementation thereof through inspection notes. That is, it is expected to make a strong connection between the work visit and the inspection note.
+A record of such visits should be maintained in the office of each officer and the progress of compliance of inspection notes should be monitored. It is also mandatory to follow and follow the instructions given through the inspection note.
+The above-mentioned matters should be reviewed at various meetings.
+14.0 Joint Review Meeting: The Chief Engineer/ Superintending Engineer/ Executive Engineer of the Construction Cell shall review the works under their jurisdiction from time to time and invite the concerned engineers of the Quality Control Cell to review the quality control related matters in this meeting. The Chief Engineer (Construction) shall invite the Superintending Engineer, Board of Points Control to the meetings at the regional level. The Superintending Engineer, Construction Board will invite the Executive Engineer, Quality Control Department for the meeting at the Board level.
+In addition to this, the Executive Engineer, Construction Department should plan monthly review meetings with the Executive Engineer, Quality Control Department and take appropriate action to improve the quality of works by taking action to complete the compliance of the inspection notes issued by the Quality Control Room.
+15.0 Various records to be made available during the execution of work in the field:
+Approved concepts and drawings at the actual work site as well as the information obtained during the survey. The standard records of all the required aspects (splicing, lapping, covering etc.) are required to be maintained like Geological Ordering, Strata Classification, Intended Foundation Strata, Contour Plan, Topography of Canal& Natural Drainage, Bar Bendage Schedule (as per SP 34-1987: Handbook on Reinforcement& Detailing), Iron Ore Details, etc. All these things are required to be known to the field construction engineers.
+Field tests of all the components are required to be carried out at the given frequency at the workplace and field records are required to be maintained to ensure the same. (Annexure No. 13 is added.)
+Page 49 of 16.
+# Page 17
+Government Resolution No: Gunimam-2014/ P.S. No.57/ N.V.S.3
+It will be the responsibility of the construction department to prepare a monthly report of the details of the work done on the premises, the tests conducted, the feasibility of the frequency, etc. and give a copy to the concerned quality control department by the 5th of the month.
+# Page 18
+# Page 19
+# Page 20
+# Page 21
+# Page 22
+# Page 23
+# Page 24
+# Page 25
+# Page 26
+# Page 27
+# Page 28
+# Page 29
+# Page 30
+# Page 31
+# Page 32
+# Page 33
+# Page 34
+# Page 35
+# Page 36
+# Page 37
+# Page 38
+# Page 39
+# Page 40
+# Page 41
+# Page 42
+# Page 43
+# Page 44
+# Page 45
+# Page 46
+# Page 47
+# Page 48
+# Page 49

@@ -1,0 +1,51 @@
+# Page 1
+Amendments in the provisions of e-crop inspection registration process under rules 29 and 30 of the Maharashtra Land Revenue Rights Records and Record Sheets (Preparation and Maintenance) Rules, 1971.
+The Government of Maharashtra
+the Revenue and Forest Department
+Government Resolution No: Land-2022/ PR No.74/ J-1A
+Madam Cama Marg, Hutatma Rajguru Chowk,
+Ministry, Mumbai- 400 032.
+Date: January 31, 2023
+The Maharashtra Land Revenue Rights Records and Registers (Preparation and Maintenance) Rules, 1971.
+As per the provisions of Maharashtra Land Revenue Code, 1966. Maharashtra Land Revenue Manual (Vol. IV) Part II, Village Level Revenue Accounting System in the State of Maharashtra, the Maharashtra Land Revenue Rights Records and Record Keeping (Preparation and Maintenance) Rules, 1971, various village samples and secondary registers have been prescribed for maintaining revenue accounts at village level in rural areas of the State. Of these, Village Sample No. 7 is for" Record of Rights" and Village Sample No. 12 This relates to keeping a record of crops. In the cases under the head Right to Disclosure Record and Register of Crops in G.No. 7-12 of the said rule book, the general instructions on this consolidated model as well as the procedure for taking the records in the Crop Register are mentioned. According to the model no. The records of 12 crops are to be taken by the concerned Talathi and after the visit to the village, if the records are found to be wrong, the authority to correct them is the Board Inspector or an officer senior to him. Under the above decision of the Government dated 30 th July, 2021, instructions have been issued regarding the implementation of the" e-Crop Inspection" program in the entire State to provide the facility of registering crop sowing information through mobile app in G. No. 12 to the farmers themselves.
+With a view to collect real-time crop data from field level and to bring transparency in the collection of this data, to facilitate active participation of farmers in the process of crop sowing registration, to facilitate the flow of agricultural credit, to facilitate the process of settlement of crop insurance and crop inspection claims, to enable accurate compensation and proper assistance in case of crop loss due to natural calamities, a new system of crop inspection has been implemented in the entire state from 15th August 2021 by installing e-Pikpahani App in the smart mobile phones of the farmers.
+# Page 2
+Government Resolution No: Land-2022/ PR No.74/ J-1A
+At present, the farmers registered in the e-crop inspection system have been approved by the government.
+Instead, the crop inspection recorded by the farmers is considered to be self-certified and only
+It is necessary to give instructions regarding the inspection of ten percent crop inspection by talathas.
+In the background of all the above, due to the change in the method of taking the records of the previous crops by the concerned talathis, now the farmers will be able to get the e-pick from their smart mobile phones.
+The recording of the crop has begun. Accordingly, the matter of amending the procedure for crop inspection under the provisions of Rules 29 and 30 of the Maharashtra Land Revenue Rights Records and Records (Preparation and Maintenance) Rules, 1971 was under consideration of the Government.
+--------------------------
+| Government's decision: |
+|                        |
+--------------------------
+The revised procedure to be followed as per the provisions of Maharashtra Land Revenue Rights Records and Registers (Preparation and Maintenance) Rules, 1971, Rules 29 and 30 is being decided as follows.
+A. Record of crops In every village, record of crops grown in the field and their area.
+It will be kept in a separate form in the subsection wise sample number XII of each geodesic number or geodesic number. Account-wise crop yield will be recorded in this register.
+b. Process of recording crops through web portal
+(1) Whenever the crops grown every year are standing in the field and up to the date fixed by the Government for different crops or up to the date fixed by the officer appointed by the Government, as the case may be, the land owner or the person cultivating the land shall be required to record the crops grown in the field in the manner prescribed in the web manual and in the manner prescribed by the Government. The crops planted for that season will be recorded through mobile or any other device as per the priority given by the government.
+(2) The landowner or person cultivating the land shall be required to record the details of the crops grown along with the area of the crop cultivated, sources and types of water irrigation, trees on the bunds of the farm, permanent land, if there is infrastructure in the farm and such matters as may be specified by the Government from time to time.
+(3) The land owner or the person cultivating the land shall be required to upload a geo-tagged photograph with the latitude and longitude of the standing crop, the trees on the bund and the permanent fallow land entered by him through the web portal.
+(4) The landowner or the person cultivating the land shall be obliged to give a self-declaration regarding the authenticity of the records mentioned by him through a web command.
+(5) The land owner or person cultivating the land may self-correct the information of the crops recorded by him through e-crop inspection system within 48 hours from the date of registration of such information or within such time as the Government may direct.
+Page 2 of 4
+# Page 3
+Government Resolution No: Land-2022/ PR No.74/ J-1A
+(6) After the expiry of the period mentioned in the said point number 5, the crops and other information recorded by the land owner or the person cultivating the land will be recorded in the point number 5. Except the items in 7A will be considered valid and such information will be reflected in village pattern 12.
+(7) (a) The Government shall verify the information of at least 10% of the total number of account holders uploading the information in the e-Pikapahani system based on the parameters and conditions specified by the Government (e.g. unclear entries, uploading of blank or incorrect geo-tagged photos, etc.) through Talathas.
+(b) if the information on crops and other information recorded by the landowner or the person cultivating the land through the e-Pirakapahani system is found to be incorrect after verification by the Talatha as mentioned in point (7) (a), the Government may take other action against the landowner or the person cultivating the land, such as cancellation of the relevant record in village sample twelve or depriving the concerned of government benefits or as the Government may deem fit.
+(8) Crop inspection of the account holders who have not registered crop inspection through mobile app within the time fixed by the Government or the time fixed by the officer appointed by the Government, as the case may be, for each season.
+It must be completed within the stipulated time.
+(9) After the expiry of the time limit fixed by the Government or the officer appointed by the Government, as the case may be, for the recording of crops by the land owner or the person cultivating the land through the e-Pickupahani system, the Talathi shall, subject to the provisions of the said point 7 (a), fix the date of his visit to the village at least seven days in advance and shall inform the villagers about such date and purpose of his visit to the village by post or in any other appropriate manner. Similarly, he will inform the Sarpanch, Gram Panchayat members and other concerned about the visit to the village and request them to be present with him during the crop inspection verification on the day of the visit.
+(10) On the date fixed for the visit to the village, the Talathi shall visit each geo-assessment number or sub-division of the geo-assessment number determined in accordance with the said point number 7 (a) along with the villagers, Gram Panchayat members and Sarpanchs, if any, present therein and shall verify the crop records maintained by the land owner or the person cultivating the land in respect of those geo-assessment numbers.
+It will approve those entries if it is found to be correct or verify it after making necessary corrections in it.
+(11) The records of the crop and other records finally registered by the land owner or the person cultivating the land and the records verified and approved by the Talathi shall be made available to the villagers village-wise in the form of" view only" through mobile or any other device as per the priority given by the Government.
+(12) The land owner or the person cultivating the land or the villagers can apply to the concerned Talathi for correction in the e-crop inspection record registered through mobile device or any other device. Similarly, the crop inspection done from the Talathi level and the Talathi can apply to the concerned Circle Officer for correction in any of the records verified at the end of the verification as per point number 7 (a).
+Page 3 of 4
+# Page 4
+Government Resolution No: Land-2022/ PR No.74/ J-1A
+(13) As soon as may be after the receipt of such application under the provisions of point 12, the Talathi/ Mandal Officer shall visit the village for the purpose of verifying the records by giving advance notice to the applicant and the villagers as mentioned above and shall rectify the records found to be incorrect after conducting necessary inquiry and panchnama as may be prescribed.
+(14) The e-crop insurance records registered by the landowner or the person cultivating the land through mobile or any other device as per the priority given by the Government or verified and approved by the Talatha shall be considered valid for all Government schemes and benefits such as crop loan, crop insurance etc. until and unless the contrary is proved.
+The e-Crop Watch will be made available online for 3 years and will be stored for another 5 years. All data will be stored in a digital format.
+(16) The information collected through e-Pickupahani may be shared with other departments for the purpose of implementation of government schemes for farmers.

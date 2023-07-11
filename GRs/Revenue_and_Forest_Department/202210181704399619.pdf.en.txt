@@ -1,0 +1,86 @@
+# Page 1
+Guidelines for rationalization of crop cutting experiments.
+The Government of Maharashtra
+the Revenue and Forest Department
+Government Circular No. - SCY-2022/ Q. No.57/ M-7
+Madame Cama Marg, Hutatma Rajgaru Chowk, Mantralaya, Mumbai.
+Date of release: October 18, 2022
+Read:
+1) Government Decision, Department of Agriculture and Cooperation, No. Statistics 7075/40557-B-11-A, dated 23rd August, 1975
+Government Resolution, Revenue and Forest Department, No. SCY-2013/ P. No. 207/ M-7, dated 3rd November, 2015
+Government Resolution, Revenue and Forest Department, No. 2017/ PR No. 173/ M-7, dated 7th October, 2017 and dated 28th June, 2018
+Government Resolution, Revenue and Forest Department, No. SCY-2018/ No. 237/ M-7, dated 11th February, 2019
+Central Government Guidelines on Pradhan Mantri Fasal Bima Yojana, 2020
+The Proposal:
+Crop production data is required by the state and central governments for many basic and policy issues. Crop harvesting experiments are being carried out in the state of Maharashtra since 1944-45 to finalize the crop production estimates. The data obtained from this experiment is used to make reliable estimates of the average yield per hectare of various crops at the state and district level, to take policy decisions on many aspects including the production of agricultural products, procurement of agricultural products, import export policy, minimum support price, etc. Also, the average production of crops for 5 years at the taluka level is made available to determine the payment of crops. Apart from this, this data is also used for the compensation of crop insurance scheme.
+2. The revenue department conducts 6 crop harvesting experiments for separate major crops on gram panchayat basis to determine the remuneration. The total number of Gram Panchayats in Maharashtra is 28240 and a total of 1,69,440 crop harvesting experiments for one main crop are carried out by the Revenue Department under the chairmanship of the Mandal Officer. Under the Crop Survey Scheme and Pradhan Mantri Fasal Bima Yojana, 90,000 to 1,20,000 crop harvesting experiments are generally carried out for Kharif, Rabi and Summer seasons. Because of the large scope of the work of these crop harvesting experiments, it is difficult to complete these experiments within the time limit.
+(iii) Lack of coherence in the crop harvesting experiment and payment system, leading to administrative difficulties in showing different productivity of crops in the same area. By bringing in the rationality in the crop harvesting experiment, by adopting the single series method, the revenue is obtained circle-wise through the crop harvesting experiment.
+# Page 2
+Government Circular No: SCY-2022/ PR No.57/ M-7
+The data of average production should henceforth be used to determine crop yield, remuneration and crop insurance compensation. For this, the government was considering a comprehensive reform in the current crop harvesting experiment. Accordingly, the Government is approving the following revised procedures.
+Government circular:
+Procedure for selection for crop harvesting experiment:
+1.1. Preparation of list of villages.
+Under the Central Government's" Timely Reporting of the Agriculture Intelligence Scheme," 20 percent of the total villages in the mandal are selected randomly every year. All villages are elected for a period of five years. The information about the crops taken last year in the selected villages is taken from the concerned Mandal Officer. The final list of villages for this purpose should be decided at the time of training from the list received from the Mandal Officer.
+1.2. Inform the field staff of the selected villages for crop harvesting experiment:
+The villages that have been finalized for crop harvesting experiment as per 1.1) should take action to inform the field staff through the District Level Crop Harvesting Control Committee, Tehsildar, Taluk Agriculture Officer and Block Development Officer.
+Comprehensive Crop Harvesting Experiment Number for Crop Survey, Pradhan Mantri Fasal Bima Yojana and Payment:
+At least 6 crop harvesting experiments of each major crop are conducted gram panchayat wise under the chairmanship of Revenue Inspector or similar officer to determine the payment. Under the Pradhan Mantri Fasal Bima Yojana, 12 crop harvesting experiments are carried out at the level of Revenue Circle/ Mandal Block and 18 at the level of Taluk. Also, at least 24 crop harvesting experiments are conducted for non-insured notified crops depending on the sowing area in the respective district.
+2.2. Henceforth, the comprehensive Crop Harvesting Experiment Numbers for crops notified for Crop Survey, Production of Crops, Pradhan Mantri Fasal Bima Yojana and Insurance for Paysawari will be as follows.
+-----------------------------------------------------------------------------------------------------------------
+| A.A. | Crop Insurance Notified Area of Crop Harvesting Experiment | Minimum Crop Harvesting Experiment Number |
+| 1    | the Board of Revenue/ Board of Revenue Group               | 10                                        |
+-----------------------------------------------------------------------------------------------------------------
+Page 2 of 7
+# Page 3
+Government Circular No: SCY-2022/ PR No.57/ M-7
+Also, for non-insured crops, at least 150 crop harvesting experiments should be conducted at the district level if the sown area is more than 80,000 hectares, at least 120 crop harvesting experiments if the area is between 20,000 and 80,000 hectares and at least 80 crop harvesting experiments if the area is less than 20,000 hectares.
+2.3. At present, for most of the crops, the notified area is the revenue circle and accordingly crop harvesting experiment should be planned. While deciding the amount, the crop should be harvested on the basis of the data of the number of experiments decided as above.
+2.4. While planning crop harvesting experiments at the field level, the District Collector of the concerned district is being given the freedom to plan crop harvesting experiments at the Gram Panchayat level in excess of the minimum crop harvesting experiments at the Board of Revenue or Board of Revenue block level.
+3. Mechanism wise allocation of Crop Harvesting Experiments:
+3.1) Crop harvesting experiments should be implemented through the Revenue, Agriculture and Rural Development System and the crop harvesting experiments should be distributed to the three systems in the presence of the District Level Crop Harvesting Experiment Control Committee headed by the Resident Deputy Collector of the district in equal proportions of the total plan for the Kharif, Rabi and Summer seasons. Crop harvesting experiments should be implemented by Circle Officers/ Patwaris/ Talathis of the Revenue System, Agricultural Assistants of the Agriculture System and Gram Sevaks/ Village Development Officers of the Rural Development System.
+4. Guidelines for crop harvesting:
+Under the guidance of the State Level Drought Monitoring Committee constituted vide Government Resolution No. 3 dated 7th October, 2017, the Chief Statistical Officer, Agriculture Commissionerate, Pune shall separately issue guidelines and schedule for crop harvesting experiments at the beginning of Kharif and Rabi seasons.
+On the declaration of drought:
+5.1 In view of the difficulties faced in determining the Trigger-1 and Trigger-2 Taluks under the Drought Management Code, 2016 and the Government Decisions thereon, dated 07.10.2017, dated 28.06.2018 and dated 11.02.2019, the State Government has implemented a computer system called Maha MADAT for drought assessment with the help of MRSAC.
+With the help of that system, the Trigger-1 and Trigger-2 of these talukas are determined. However, ground truthing is mandatory at the field level to determine moderate or severe drought in the taluk where Trigger-2 is applied. There won't be any change.
+Page 3 of 7
+# Page 4
+Government Circular No: SCY-2022/ PR No.57/ M-7
+5.2. The field survey (verification) is done by randomly selecting 10% of the villages in the talukas where Trigger-2 is implemented, only to determine the extent of crop loss. Such taluks are eligible to be declared as drought prone if the extent of drought is more than 33%, and severe drought is indicated if the extent of drought is more than 50%. This field survey is used only to assess the extent of crop loss and should not be used to finalise crop production figures or crop yield estimates anywhere. If the above crop cutting experiment is in progress during the verification period, the data can be used for verification.
+5.3) Money is no longer used to declare drought in accordance with the above procedure in the Drought Management Code. However, to be useful for other purposes, the revenue will be determined circle-wise and will be applicable to the villages of that circle.
+Crop Harvesting Experiment Committees at State, District and Taluk level:
+6.1) State Level Crop Harvesting Experiment Control Committee:
+The State Level Drought Monitoring Committee in Reference No. 3 will work for the State Level Control of Crop Harvesting Experiments to be conducted seasonally in the State.
+6.2 Functions of State Level Crop Harvesting Experiment Coordination Committee:
+Control and planning of crop cutting experiments at the state level.
+Implementation of crop harvesting experiments conducted seasonally in the state in coordination with the Department of Agriculture, Revenue and Rural Development.
+3.To ensure timely and accurate data on crop production.
+4. Discuss and decide on the various problems faced during crop harvesting.
+Composition and functions of the District Level Crop Harvesting Experiment Control Committee:
+The following District Level Crop Harvesting Experiment Control Committees are being constituted for planning, distribution, implementation and monitoring of Crop Harvesting Experiments.
+Deputy Executive Officer (Gram Panchayat), Zila Parishad: Member 3. Agriculture Development Officer, Zila Parishad: Member 4. Representative of Sample Survey Organization: Member 5. Representative of Insurance Company: Member 6. Deputy Director of Agriculture, District Superintendent Agriculture Officer Office: Member Secretary
+Page 4 of 7
+# Page 5
+Government Circular No: SCY-2022/ PR No.57/ M-7
+6.4. Composition and functions of Taluk Level Committee for Crop Harvesting Experiment:
+The committee is being formed at the taluk level to control the taluk level crop harvesting experiment, implement it in coordination with the Agriculture, Revenue and Rural Development Department, take action to make the data of crop production available in accurate and timely manner, discuss and take decisions regarding the various difficulties faced during the crop harvesting experiment, and implement the scheme as per the guidelines.
+1) Tehsildar: President 2) Block Development Officer, Panchayat Samiti: Member 3) Taluka Agriculture Officer: Member 4) Agriculture Officer in the concerned Taluka Office: Member Secretary 5) Representative of the concerned insurance company: Member
+Composition and Functions of Village Level Committees:
+Talathi will be the chairman of the village-level committee if the crop cutting experiment from the revenue department. The committee will be headed by an agricultural assistant if the agriculture department has a crop harvesting experiment, and the committee will be headed by a gram sevak if the rural development department has a crop harvesting experiment.
+Along with this, two progressive farmers are being included in the village level committee of the village where the crop harvesting experiment is being carried out and accordingly the structure of the village level committee is being revised as follows.
+1. Agriculture Assistant/ Gram Sevak/ Talathi: President 2. Gram Panchayat Nominated One Gram Panchayat Member 3. Police Patil 4. Progressive Farmer 5. Progressive Farmer: Member
+8. Labour Service Wages for Crop Harvesting Experiments:
+The remuneration payable on experimental basis per crop harvested shall be admissible as per guidelines issued from time to time.
+Effective use of Mobile App for Crop Harvesting Experiments in the District:
+The above reference No. Under the Crop Insurance Scheme, 100 percent use of mobile app has been made mandatory to compile the details of crop harvesting experiment. Accordingly, the field staff should take action so that 100 percent of the crop harvesting experiment is recorded on the CCE App.
+The Commissioner (Agriculture), Maharashtra State, Pune should issue necessary instructions in this regard.
+Page 7 of 5
+# Page 6
+Government Circular No: SCY-2022/ PR No.57/ M-7
+10. The data obtained from crop harvesting experiments should be taken into account for crop productivity, crop insurance, payment and other aspects. There is no need for the monetary committee to conduct separate crop harvesting experiments. The committee constituted as per paragraph 6.4 shall declare the board-wise amount as per the procedure prescribed using the data of crop harvesting experiment.
+11. All concerned should follow the above instructions for smooth conduct of crop harvesting experiments.
+All Divisional Commissioners, Commissioners (Agriculture) and Chief Executive Officers of all Zila Parishads shall issue necessary supplementary orders to all concerned.
+Legislative proceedings, court cases, providing information to the citizens and other related matters regarding the data obtained through the crop harvesting experiment using the Single Series method will be handled by the Agriculture Department.
+The circular is being issued in concurrence with the Agriculture Department and Rural Development Department.
+# Page 7

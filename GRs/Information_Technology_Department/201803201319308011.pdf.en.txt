@@ -1,0 +1,67 @@
+# Page 1
+Regarding Empanelment of Consultants for IT Projects in Government of Maharashtra
+Government of Maharashtra
+Directorate of Information Technology
+Government Resolution No: GAD-080/4/2014-0/O DIRECTORATE OF IT-DIT (MH)
+Mantralaya, Mumbai - 400 032
+Date: 20th March, 2018
+Background
+Government of Maharashtra has again envisaged comprehensive e-Governance programs (IT Projects) across all departments to bring in greater efficiency and transparency in service delivery. In order to manage the above projects and initiatives, the State Government had proposed to seek the services of reputed consultancy organization having relevant experience to work with the State. Accordingly, a tender was floated and bid was invited from reputed consultancy firms for empanelment for a period of five (5) years to work with the State government in providing consultancy services for IT Projects activities.
+Government Resolution As per the evaluation of the tender and subsequent decision in High Power Committee (HPC), following companies have been qualified and are empanelled with Govt. of Maharashtra for a period of five years i.e. from 20th March 2018 to 19th March 2023 to provide consultancy services for e-Governance (IT Projects) activities in Maharashtra. Any department of Govt. of Maharashtra or the allied offices under it/corporations/boards (Independent bodies) etc. can avail the consultancy services from these firms.
+1. M/s Deloitte 2. M/s Ernst & Young 3. M/s Grant Thornton 4. M/s KPMG 5. M/s PwC 6. M/s Wipro
+2. The rates for different categories of consultants as fixed by Govt. of Maharashtra for the above firms are given below
+---------------------------------------------------------------------------------------------------------
+| Category             | Experience             | Rates in INR - Per Month Per Person (Excluding Taxes) |
+| Principal Consultant | >15 Years              | 3,24,000/                                             |
+| Managing Consultant  | >8 to <-15 Years       | 2,79,000/                                             |
+| Senior Consultant    | >5 to <=8 Years        | 2,52,000/                                             |
+| Consultant           | >3 to <=5 Years        | 2,25,000/                                             |
+| Associate Consultant | >6 months to <=3 Years | 1,80,000/                                             |
+---------------------------------------------------------------------------------------------------------
+Note: I. The above rates will apply for all work orders issued after the date of issue of this GR.
+II. The above rates are excluding of Govt. taxes and OPE (Out of Pocket Expenses).
+III. The out of pocket expenses (OPE) like Travel, boarding, lodging incurred by the
+# Page 2
+Government Resolution No. GAD-İ 080/4/2014-0/ O Directorate of IT-DIT (MH)
+deployed consultant for the purpose of official work pre- authorized by the department/purchaser shall be reimbursed by the Purchaser as per Policy provided in Annexure 1.
+However, Expenses incurred on stationary, printouts etc. will be reimbursed on actuals by the department on producing necessary bills/supporting documents and on prior approval by the department with a cap of 5% on the total monthly bill payment to the selected agency.
+IV. The rates mentioned above are valid for the 1st year and thereafter DIT reserves the rights to increase 10% in price every year after evaluation.
+V. Each consultant deployed on the project shall be entitled for 2 days of leave in a month subject to upper limit of 24 in a year. Also, apart from leave each deployed consultant would be eligible for Compensatory off on approval from the department. Compensatory off is off taken on a working day for work done on government holiday/public holiday.
+VI. The consultants must compulsorily work from the office of the department.
+Department must ensure proper working environment for the consultants and ensure seating near the officials with whom they have to frequently interact with.
+3. This GR is applicable only for IT & eGovernance projects.
+4. Types of Consultant and their required educational qualification is as given in the table below
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Sr.No. | Profile                                                                                                | Educational Qualification                                                                                       |
+| 1.     | Project/Program Management (Preparation of DPR, Bid Management, Vendor Management, Project Management) | Relevant experience in IT and eGovernance, Electronics / Telecommunication (MBA Preferable)                     |
+| 2.     | Financial Management (For Finance & Accounts type of work)                                             | CA with relevant experience (MBA Preferable)                                                                    |
+| 3.     | Solution Architect (For Project Design)                                                                | BE/BTech/MCA/MSc (Computer Science, Information Technology, Electronics and Telecom.) relevant experience in IT |
+| 4.     | Change Management                                                                                      | Graduate in any discipline with relevant experience (MBA Preferable)                                            |
+| 5.     | Legal Management                                                                                       | Graduate in Legal discipline with legal background experience                                                   |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+5. Selection of the consultancy firm: Any department of Govt. of Maharashtra may appoint any of the empanelled consultants for eGovernance related work in the state at the rates mentioned in this GR.
+For selection of consultant on *Man-Month basis through this empanelment GR, following should be followed.
+1. Departments need to finalize the scope of work for consultancy with concurrence of DIT.
+Page 2 of 11
+# Page 3
+Government Resolution No.: GAD-080/4/2014-0/O DIRECTORATE OF IT-DIT (MH)
+2. Thereafter departments should circulate the scope of work among empanelled firms and call for presentation with the CVs (Format of CV provided in Annexure 3) of the proposed resources before their Project Implementation Committee (PIC). The notice for the same should be sent at least 1 week in advance.
+3. The consulting empanelled firms need to clearly define the milestones in their proposal for the project
+4. Based on the presentation, the firm's understanding of the project output and quality of resources proposed, the PIC may select consultants based on their requirement.
+[*Man-Month means 1 resource working for 1 month (Calendar working days as per GoM)]
+6. In the case of urgent requirements, the department may directly select any of the empanelled consultancy firms after finalizing the scope of work with concurrence of DIT. However, the maximum period of such engagement shall not exceed a period of 2 months.
+7. The type of work that could be performed by the consultants is given in Annexure 2.
+8. The Selected Agency is expected to meet the SLA applicable as given in Annexure 4.
+9. Responsibility of the selected Agency: a. The Selected Agency will be required to provide Monthly Status Reports to the department on the performance of work.
+b. The Selected Agency shall be responsible for economizing the cost of the project by encouraging use of common infrastructure, database & code sharing etc. as per the eGovernance, cloud & other policies of Government of Maharashtra (GoM). The Agency also needs to ensure the deliverables follow eGovernance policy of GoM covering eGov standards, WCAG, Localization, standards and policies etc. issued from time to time by GoM and Gol.
+c. The Selected Agency should come up with major milestones of the project and need to clearly devise the measurable outcomes from the project duly approved by the department/purchaser, based on which periodic review (Quarterly/Mid-term review depending upon the duration of the project) will happen with the department availing the consultancy service. The selected agency needs to submit Fortnightly and regular status report to the department and DIT.
+d. The Project Manager of the Selected Agency should regularly (Monthly) and timely brief DIT about the progress and status of the project so that best use of existing infrastructure and inputs could be made in the interest of the project.
+This Government resolution of Maharashtra Government is available at the website
+# Page 4
+# Page 5
+# Page 6
+# Page 7
+# Page 8
+# Page 9
+# Page 10
+# Page 11

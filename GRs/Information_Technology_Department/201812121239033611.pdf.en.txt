@@ -1,0 +1,36 @@
+# Page 1
+Regarding setting up of the Governance Structure and Domain groups oversight committee for effective implementation of the Integrated University Management System (IUMS) Project.
+Government of Maharashtra
+Directorate of Information Technology
+Government Circular No: - GAD-DIT 061/1/2017/DIT (MH)
+Hutatma Rajguru Chowk, Madam Cama Marg,
+Mantralaya (Annexe), Mumbai-400032
+Date: 12/12/2018
+Reference: 1. Government Circular No: - GAD-DIT 061/1/2017/DIT (MH), Dated - 03/04/2018.
+2. Government Office Letter No: - GAD-DIT 061/1/2017/DIT (MH), Dated - 08/06/2018.
+Introduction:
+Government of Maharashtra has envisaged the implementation of the Integrated University Management System (IUMS) project for providing a web-enabled online platform for all the State Universities in Maharashtra. Under the IUMS project, the universities will be equipped with strong ICT backbone for providing a seamless experience for students, faculty, University officials, employees, affiliated colleges and other stakeholders etc. over the coming years.
+The High Powered Committee chaired by Chief Secretary has granted approval to the Detailed Project Report (DPR) of the IUMS project in its 119th meeting held on 18th January 2018. The project is being implemented by the Maharashtra Information Technology Corporation (MahaIT). The RFP for selection of system integrator has already been floated by MahaIT, the bid process is done and system integrator has selected. The IUMS project is an integrated project involving a wide ranging set of stakeholders ranging from students, faculty, Universities, Higher and Technical Education Department and the IT Department. To ensure effective and time bound implementation of the project, it is necessary to put in place a robust governance structure for overall planning, co-ordination and project monitoring.
+Accordingly, the Government has decided to set up a governance structure for the IUMS project.
+Government Circular:
+For the governance and monitoring of the entire project of IUMS project, the following governance structure is being modified as below:
+Domain Oversight Committees:
+Each of the domain groups will have below mentioned oversight committees (created on the recommendation of Higher and Technical Education Department.) These members will continue to function on the domain groups from the date of their appointment till 6 months after "Go-Live" of the IUMS project even if they move to new assignments.
+# Page 2
+Government Resolution No.: GAD-DIT 061/1/2017/DIT (MH)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Composition                                                                |
+| General Manager, Maha IT will be the Controller of all these Domain Groups |
+| Sr. No.                                                                    | Module         | Responsible University                                              | Committee Headed by | Co-Ordinator                                 |
+| 1                                                                          | Student        | University Of Mumbai                                                | Vice Chancellor     | Dr. Arjun Ghatule, Director, BOEE            |
+| 2                                                                          | College        | Dr. Babasaheb Ambedkar, Marathwada University. Aurangabad           | Vice Chancellor     | Mr. D. B. Phatak, Incharge Computer Section  |
+| 3                                                                          | Faculty        | Kavayatri Bahinabai Chaudhari North Maharashtra University, Jalgaon | Vice Chancellor     | Mr. B. P. Patil, Incharge Computer Section   |
+| 4                                                                          | Academic       | Dr. Babasaheb Ambedkar Technology University, Lonere                | Vice Chancellor     | Dr. Sunil Bamre, Registrar                   |
+| 5                                                                          | Administration | Shivaji University, Kolhapur                                        | Vice Chancellor     | Dr. Milind Joshi, Incharge, Computer Section |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The Domain Oversight Committees will supervise, monitor and provide overall leadership and direction with regard to the functioning of the domain groups of the respective modules.
+Project Steering Committee:
+Shri D. B. Phatak, IIT-Mumbai is included as a member of Project Steering Committee of IUMS project.
+This Government Circular is issued with the concurrence of Higher and Technical Education Department.
+This Government Circular of Maharashtra Government is available at the website
+# Page 3

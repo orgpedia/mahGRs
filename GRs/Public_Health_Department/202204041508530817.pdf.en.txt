@@ -1,0 +1,41 @@
+# Page 1
+Administrative approval for the procurement of medicines and medicinal materials under the State Blood Bank for the implementation of the approved project plan for 2021-22.
+The Government of Maharashtra
+the Department of Public Health
+Government Sanitation Number: PRASHAMA-1222/ PR No. 09/ HEALTH-7
+10th Floor, Hospital Building
+New Ministry, Mumbai- 400001.
+Date: 18th of May 2022.
+Government Resolution, Department of Public Health, No: NHM-1222/ Q. No. 09/ Health-7, dated 22nd March, 2022.
+Government Clarification:" As per the approved PIP of 2021-22, on page 3 of the relevant Government Resolution, the following Table (C) contains the details of the treatment of THALASSEMIA patients under the Blood Cell Programme.
+Purchase of medicines is indicated. ":
+(C)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| National Health Mission Maharashtra State Approved ROP 2021-22 |
+| THALASSEMIA                                                    |
+| Sr. No.                                                        | FMR Code | Medicine Name    | Strengnth | Total     |  Quantity | Proposed approx.  |  Unit Rate Including all Taxes (In Rs.) | Total Rs. in Lakhs |
+| 1                                                              | 6.2.7.2  | Tab. Deferasinox | 250mg     | 11,92,857 | 5.60      | 66.80             |
+| 2                                                              | 6.2.7.2  | Tab. Deferasinox | 500mg     | 9,94,047  | 10.08     | 100.20            |
+| 3                                                              | 6.2.7.2  | Tab. Deferasinox | 250mg     | 1,69,724  | 4.36      | 7.40              |
+| 4                                                              | 6.2.7.2  | Tab. Deferasinox | 500mg     | 1,45,669  | 7.62      | 11.10             |
+| 5                                                              | 6.2.7.2  | Inj. Desferal    | 500mg     | 3,000     | 1.50      | 4.50              |
+| 6                                                              | 6.2.7.2  | FCT Deferasinox  | 180mg     | 50,000    | 20.00     | 10.00             |
+| Sub Total (I)..                                                | 200.00   |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+So, instead of now,
+" As per the approved PIP for 2021-22, the following table (C) should be read for the purchase of medicines and medicinal materials for the treatment of THALASSEMIA patients under the Blood Cell Programme. ":
+# Page 2
+Government Sanitation Number: PRASHAMA-1222/ PR No. 09/ HEALTH-7
+(C)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| National Health Mission Maharashtra State Approved ROP 2021-22 |
+| THALASSEMIA                                                    |
+| Sr. No.                                                        | FMR Code | Medicine Name    | Strengnth | Total Quantity | Proposed approx. Unit Rate Including all Taxes (In Rs.) | Total Rs.in Lakhs |
+| 1                                                              | 6.2.7.2  | Tab. Deferasirox | 250mg     | 11,92,857      | 5.60                                                    | 66.80             |
+| 2                                                              | 6.2.7.2  | Tab. Deferasirox | 500mg     | 9,94,047       | 10.08                                                   | 100.20            |
+| 3                                                              | 6.2.7.2  | Tab. Deferiprone | 250mg     | 1,69,724       | 4.36                                                    | 7.40              |
+| 4                                                              | 6.2.7.2  | Tab. Deferiprone | 500mg     | 1,45,669       | 7.62                                                    | 11.10             |
+| 5                                                              | 6.2.7.2  | Inj. Desferal    | 500mg     | 3,000          | 1.50                                                    | 4.50              |
+| 6                                                              | 6.2.7.2  | FCT Deferasirox  | 180mg_    | 50,000         | 20.00                                                   | 10.00             |
+| Sub Total (I)..                                                | 200.00   |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

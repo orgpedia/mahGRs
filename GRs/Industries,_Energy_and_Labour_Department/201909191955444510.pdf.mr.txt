@@ -1,0 +1,234 @@
+# Page 1
+Guidelines for Authorising Chartered Electrical Safety Engineers (CESE)
+Government of Maharashtra
+INDUSTRIES, ENERGY AND LABOUR DEPARTMENT
+Government Resolution No. Misc 2019/ C.R. 96/ Energy-5
+Mantralaya, Madam Cama Marg,
+Hutatma Rajguru Chowk, Mumbai 400 032
+Dated the 20th September, 2019
+Ref: Letter of Central Electricity Authority No. CEI/1/2/2018 dated 21st June 2018
+Preamble -
+In accordance with the Regulation 5A of Central Electricity Authority (Measures relating to Safety and Electric Supply) Amendment Regulations, 2018, the Central Government has introduced Self Certification of the electrical
+installation by the owner or Chartered Electrical Safety Engineer (CESE) upto the notified voltage.
+In pursuance of the guidelines issued for authorizing the Chartered Electrical Safety Engineer by Central Electricity Authority (CEA), it was under consideration of the Government of Maharashtra for adopting guidelines for the state of
+Maharashtra, for authorizing the Chartered Electrical Safety Engineer upto the
+Notified Voltage declared by Government of Maharashtra from time to time. After
+consideration the State Government has decided to issue following Government Resolution :
+Government Resolution -
+In pursuance of the guidelines issued for authorizing the Chartered Electrical Safety Engineer by Central Electricity Authority (CEA), the Government of Maharashtra hereby adopt and issue the following guidelines for the state of
+Maharashtra, for authorizing the Chartered Electrical Safety Engineer upto the Notified Voltage declared by Government of Maharashtra vide notification issued in this regard from time to time.
+1. Short title and commencement :
+(1) These guidelines may be called the "Guidelines for authorizing the Chartered
+Electrical Safety Engineers (CESE)" under regulation 5A of Central Electricity Authority (Measures relating to Safety and Electric Supply) Amendment Regulations, 2018.
+(2) They shall come into force with immediate effect.
+# Page 2
+Government Resolution No.: Misc 2019/ C.R. 96/ Energy-5
+2. Definitions - In these guidelines, unless the context otherwise requires, (a) "Board means the Licensing Board established vide rule (2) of the
+Maharashtra Electrical Licensing Board Rule 2017.
+(b)"Chartered Electrical Safety Engineer or CESE " means a person authorized
+by the Government as referred to in CEA safety Regulation 5A.
+(c) "Government" means Government of Maharashtra.
+(d) "Notified Voltage" means a voltage notified by the State Government for the purpose of spacifying the voltage level upto which self-cetification is to be carried out under . Regulation 30 and regulation 43 of the Central Electiricty Authority (Measure relting to Safety and Electrical Supply ) Regulations 2010.
+(e) Words and expressions used and not defined in these guidelines but defined in the Electricity Act, 2003 and CEA (Measures relating to Safety and Electric Supply) Regulations, 2010 (as amended) shall have the meanings respectively assigned to them in the Electricity Act, 2003 and CEA (Measures relating to Safety and Electric Supply) Regulations, 2010 (as amended).
+3. Qualifications and mode of selection of Chartered Electrical Safety Engineer:
+(a) The Chartered Electrical Safety Engineer shall be :
+(i) an Electrical Engineering degree holder or equivalent degree with at least five years experience in operation and maintenance of electrical installations and also shall have the knowledge of the works related to observance of electrical safety regulations, or
+(ii) an Electrical Engineering Diploma holder with at least 10 years of experience in operation and maintenance of electrical installations and also should have the knowledge of the works related to observance of electrical safety regulations.
+(b) He/She shall qualify the on-line written examination conducted by Board. The procedure for conducting on-line written examination for the Chartered Electrical Safety Engineer is as follows: i. Eligible Engineer, who is domiciled in the state of Maharashtra appearing for CESE on-line written examination shall make an on-line application as given in Advertisement, after paying the application fees as decided by the Board from time to time through the mode as inidcated in the advertisement.
+ii. Engineer, who is domiciled in the state of Maharashtra, is eligible for exemption from CESE on-line written examination shall make on-line application as given in Advertisement after paying the application fees
+Page 2 of 13
+# Page 3
+Government Resolution No.: Misc 2019/ C.R. 96/ Energy-5
+as decided by the Board from time to time through the mode as inidcated in the advertisement.
+iii. Syllabus for examination is given in the guidelines as decided by the Central Electricity Authority from time to time. Indicative syallabus has been indicated at Annexure I.
+iv. Examination will be of Multiple Choice Questions (MCQ) Type or any other mode as decided by the Board and would be indicated in the advertisement.
+V. The Board will issue authorization certificate to those who have qualified in examination in ANNEXURE-II and those who are exempted from on-line written examination in ANNEXURE-III.
+(c) He/She shall have the knowledge of Electricity Act, 2003 and Central Electricity Authority (Measures relating to Safety and Electric Supply) Regulations, 2010 (as amended) and other relevant Acts and Regulations related to electricity supply.
+(d) Retired Chief Electrical Inspector/Superintending Engineer/Electrical Inspector of Electrical Inspectorate wing of Energy Department of the Government of Maharashtra having requisite qualifications as indicated para 3(a) above, are eligible for CESE and they will be exempted from examination.
+(e) CESE shall not hold any post in Government/ Semi Government /Public Sector Undertakings/ Companies or associated with any organization which directly or indirectly influence the working of CESE.
+(f) He/She shall for all the time in his possession have the basic testing equipments (indicative list of basic equipments is given in ANNEXURE-IV) as may be prescribed by the Board for testing of the electrical installations.
+4. Scope of work - The CESE shall assist the owner or supplier or consumer of electrical installations for the purpose of self-certification upto the level of notified voltage provided those installations which are not covered under Section 54 of Electricity Act, 2003.
+5. Duties and Responsibilities of Chartered Electrical Safety Engineer -
+(a) He / She shall carry out recommended tests as per the relevant Regulations and Standards.
+Page 3 of 13
+# Page 4
+Government Resolution No.: Misc 2019/ C.R. 96/ Energy-5
+(b) He/She shall test electrical installations and keep a record thereof in Form I/Form-II/ Form-III of Central Electricity Authority (Measures relating to Safety and Electric Supply) Regulations, 2010 (as ammended), as the case may be, and submit the same along with photographs/video of the apparatus tested to the supplier or owner or consumer by whom he/she is hired and to the respective office of the Electrical Inspector (El) within seven working days from the date of testing and will produce the same at the time of renewal. The Electrical Inspector may, on receipt of Self-certification report referred above, accept the report submitted by the supplier or owner or consumer in format given in Annexure-V or record variations as the circumstances of each case may require or recommend that the defects may be rectified as recommended in format given in Annexure-VI.
+(c) The owner shall carry out the recommendations given by the CESE in this report, within the time prescribed in the report. In case the owner fails to rectify the shortcomings as identified by the CESE even after the prescribed period, the CESE shall inform the same to the repective office of the Electrical Inspector within a period of 15 days from the expiry of the time prescribed in the report of rectification.
+Such records shall be made available to the office of the Electrical Inspector (EI) by the owner or CESE, as and when required.
+d. If, on inspection of installation of the owner or supplier or consumer, as the case may be, the CESE is satisfied that the installation is likely to be dangerous for the use of electricity, he/she shall bring the same to the notice to the owner and to the respective office of Electrical Inspector (El) within the period of 48 hours from the date of testing. The Electrical Inspector (El) on receipt of such notice shall direct the supplier to take immediate action as per Regulation 31 and /or Regulation 30(6) of CEA (Measures relating to Safety and Electric Supply) Regulations, 2010.
+6. Fees and leavy charges of CESE : (a) Fees for Testing of electrical installation in a single premise upto notified voltage under CEA Safety Regulation 43 shall be Rs. 5000 per installation.
+(b) Periodic Testing of electrical installation in a single premise upto notified voltage under CEA Safety Regulation 30 shall be Rs. 3000 per installation.
+Fees to be levied by the CESE to the owner or supplier or consumer shall be received in the modes other than cash.
+7. Accessibility of CESE to the Consumers : The Board on behalf of the State Government shall upload the names of the authorized CESE, within 30 days, after issuing the Authorisation Certificate, on the their web portal dealing with matters of inspection of electrical installations for the information of the owner, supplier and consumer.
+Page 4 of 13
+# Page 5
+Government Resolution No.: Misc 2019/ C.R. 96/ Energy-5
+8. Others terms and conditions : (a) It shall be the responsibility of owner or supplier or consumer of the installation to maintain and operate the installation in a condition free from danger and as recommended by the manufacturer / Chief Electrical Inspector (CEI) I Superintending Engineer / Electrical Inspector (EI) / CESE as per the relevant codes of practice of the "Bureau of Indian Standards".
+(b) The authorization of a Chartered Electrical Safety Engineer shall be liable to be suspended or cancelled by the Board, if he/she is found, to be indulging in willful negligence, mal-practices, misuse or any other activities affecting directly and in directly the safety of electrical installations. However, no such authorization shall be suspended/cancelled unless an opportunity of being heard is given to the concerned CESE.
+(c) The authorization of Chartered Electrical Safety Engineer will be issued to any person initially for the period of three years at the time of registration and will be renewed for further period of two years by the Board based on the performances of CESE on the fees decided by the Baord from time to time. However, the authorization will cease automatically on his/her attaining the age of 65 years.
+There shall be only one time fees of Rs. 10,000/- for the registration as CESE. The procedure for the renewal of authorisation shall be prescribed by the Board.
+(d) In case of any dispute arising between CESE and owner or supplier or consumer on the inspection, the decision of the respective Electrical Inspector on the same, shall prevail. An appeal against the decision of the respective Elctrical Inpector shall be heard by the respective Superintending Engineer.
+(e) Any electrical installation which have been checked / tested by the CESE may be inspected/revisited by the Chief Electrical Inspector or Electrical Inspector in case he/she is not satisfied with the check/testing carried out by CESE.
+(f) The testing equipment used by the CESE shall be calibrated at any NABL accredited laboratory at least once in every two years.
+This G.R. is available on Government of Maharashtra web site
+www.maharashtra.gov.in and its unique code is 201909191955444510. This G.R.
+is digitally signed.
+By order and in the name of the Governor of Maharashtra,
+Digitally Prashant Pundlik
+Prashant Pundlik
+Badgeri
+(Prashant Badgeri)
+Deputy Secretary to Government.
+Copy to:
+1. Prinicipal Secretary to Hon'able Governor of Maharashtra.
+Page 5 of 13
+# Page 6
+Government Resolution No.: Misc 2019/ C.R. 96/ Energy-5
+2. Prinicipal Secretary to Hon'able Chief Minister of Maharashtra.
+3. Private Secretary to Hon'able Minister (Energy).
+4. Private Secretary to Hon'able Leader of Opposition, Legistative Secretariat /
+Council.
+5. Private Secretary to Hon'able Minister of State (Energy).
+6. All Departments of Mantralaya
+7. Chairman & Managing Director, MSEDCL, Prakashgad, Bandra, Mumbai.
+8. Chairman & Managing Director, MSPGCL, Prakashgad, Bandra, Mumbai.
+9. Chairman & Managing Director, MSETCL, Prakashganga, Bandra, Mumbai.
+10. Director General, MEDA, Pune.
+11. Secretary, M.E.R.C. Mumbai.
+12. General Manager, BEST, Mumbai.
+13. Chief Executive Officer, Adani Eletricity Mumbai Ltd.
+14. Managing Director, TATA Power Ltd., Mumbai.
+15. Chief Electrical Inspector /S.E./E.I., IEL Deptt.
+16. Deemed Distribution Licensee in the State of Maharashtra.
+17. Select File (Energy-5).
+Page 6 of 13
+# Page 7
+Government Resolution No.: Misc 2019/ C.R. 96/ Energy-5
+(Annexures appended to the Government Resolution
+No. Misc 2019/ C.R. 96/ Energy 5 dated 20th September 2019)
+ANNEXURE - I
+INDICATIVE SYLLABUS FOR CHARTERED ELECTRICAL SAFETY ENGINEER
+1. Electrical elements and measurement: Basic knowledge of electrical circuit elements and parameters, measurement methods and measuring instruments used for electrical parameters i.e. current, voltage, power in DC networks; active power, reactive power, energy, frequency, power factor in single and three phase AC networks; power factor correction, Reactive power compensation.
+2. Transformer: Basic Principle, types, construction, equivalent circuit, Voltage Regulation, Parallel operation, knowledge of erection and commissioning, pre commissioning tests and test equipments used, transformer oil test and analysis, various transformer protections and relays used, knowledge of fire safety of transformer, preventive maintenance of transformer.
+3. Electrical machines, cables and wiring : Basic principle of DC motors, AC motors, starters and speed control of AC motors, Variable Frequency Drivers (VFDs) and its application, testing, protection and preventive maintenance of various motors.
+Internal wiring - Domestic, industrial; Cables types of cables, current and voltage ratings, selection, application, laying methods, cable protection and testing, causes of breakdown, preventive maintenance, methods and use of equipment for preventive measures like Partial discharge, thermo-vision etc.
+4. Power System: a) Generation Basic knowledge of different types of power plants Thermal, Hydro, Nuclear, Renewable energy sources, Non conventional energy sources, DG sets, various generator tests, protections and relays used.
+b) Transmission system Basic knowledge of transmission line electrical parameters, type of conductors, types of towers, type of insulators, Reactive power compensation, various clearances from conductor of transmission line as per CEA Safety Regulation, transmission line protections and relays used, transmission line tests and routine maintenance.
+c) Electrical Substation - Type of substation - AIS and GIS, layout and Bus bar scheme, earthing layout, type and basic principle of substation apparatus including circuit breaker, CT, CVT/PT, isolator, earth swich, wave trap, surge arrestor, LT switchgears, DC Batteries, Chargers, UPS, SCADA System, protection schemes and relays used for protection of various substation equipments, various operational interlocks, pre-commissioning tests of substation apparatus, procedure and test equipments used.
+Page 7 of 13
+# Page 8
+Government Resolution No.: Misc 2019/ C.R. 96/ Energy-5
+5. Distribution and LT Switchgears – Type and selection of electrical elements used in distribution i.e. fuses, ACBs, MCBs, MCCBs, ELCB/RCCB, switchboards, bus duct, synchronizing panels, linked switch with fuse, RMU, HT and LT Panels, APFC Panels, PLC logic panels, testing method of these switchgears and test equipments.
+6. Earthing - Types of system earthing, fault level calculations, type of earthing - rod/plate, earth conductor sizes, earth resistance measurement and test equipment used, earthing of substation apparatus, transmission and distribution lines/towers, earthing at consumer premises, earthing of industrial and domestic equipment.
+7. Safety from electricity and fire Personal protective equipments (PPE's) used in connection with safe use of electricity like Hand Gloves, Rubber Shoes, Waist belt, earthing rod, Goggles etc., Safe working clearances for different voltage levels, fire extinguishers used for different applications, knowledge of Static electricity, Lightning protection, Electrical Safety Audit, Elementary knowledge of first aid.
+8. Act, Safety Regulations and relevant Code and Standards Electricity Act, 2003, Factories Act, 1948, CEA(Measures relating to Safety and Electric Supply) Regulations 2010, CEA(Technical Standards for Construction of Electrical Plants and Lines) Regulations, 2010, CEA(Technical Standard for Connectivity to the Grid) Regulations, 2007, Relevant IS/NEC/IEC Standards mentioned in CEA Regulations or used in connection with generation, transmission, distribution of electricity, testing procedure, earthing of electrical apparatus and switchgears, fire safety, National Electrical Code, National Building Code, all amendments in the Acts, Regulations, Code and Standards as mentioned above.
+Page 8 of 13
+# Page 9
+Government Resolution No.: Misc 2019/ C.R. 96/ Energy-5
+ANNEXURE - II
+GOVERNMENT OF MAHARASHTRA
+REGISTRATION OF AUTHORISATION OF
+CHARTERED ELECTRICAL SAFETY ENGINEER
+Registration No. CESE/
+----------------------------------------
+| Recent passport size colour photograph |
+| Signature |
+----------------------------------------
+Shri/Kum/Smt. has passed
+the qualifying examination of Chartered Electrical Safety Engineer held at on
+(Roll No. ) is hereby, granted authorization as CHARTERED
+ELECTRICAL SAFETY ENGINEER under regulation 5A of Central Electricity Authority
+(Measures relating to Safety and Electric Supply) Regulations, 2010.
+Date Chairman of the Board
+Seal
+Page 9 of 13
+# Page 10
+Government Resolution No.: Misc 2019/ C.R. 96/ Energy-5
+ANNEXURE – III
+GOVERNMENT OF MAHARASHTRA
+REGISTRATION OF AUTHORISATION OF CHARTERED
+ELECTRICAL SAFETY ENGINEER
+Registration No. CESE/
+----------------------------------------
+| Recent passport size colour photograph |
+| Signature |
+----------------------------------------
+Shri/Kum/Smt. having
+satisfied that his/her qualification entitled him/her to exemption from taking the prescribed
+examination of Chartered Electrical Safety Engineer is, hereby granted authorization as
+CHARTERED ELECTRICAL SAFETY ENGINEER under regulation 5A of Central
+Electricity Authority (Measures relating to Safety and Electric Supply) Regulations, 2010.
+Date Chairman of the Board Seal
+Page 10 of 13
+# Page 11
+Government Resolution No.: Misc 2019/ C.R. 96/ Energy-5
+ANNEXURE-IV
+Indicative list of Basic testing equipment
+01. Voltmeter: Use to measure potential difference occurs any equipment/
+electrical apparatus.
+02. Ammeter: An instrument for measuring electric current in amperes.
+03. Multimeter: A multimeter can measure voltage, current and resistance.
+04. Megger/Earth Insulation Tester: An instrument for measuring the resistance
+of electrical insulation.
+05. Line Tester.
+06. Tong-tester: An electrical meter with integral AC current clamp is known as a
+clamp meter, clamp-on ammeter or tong tester.
+07. Safety Helmet: It should be available as per Indian Standard (IS:2925)
+08. Safety Belt: It should be available as per Indian Standard (IS:2521)
+09. Safety Shoes: It should be available as per Indian Standard.
+10. Hands Gloves : It should be available as per Indian Standard.
+11. Others necessary testing kits: as suggested by the office of the CEI/SE/EI.
+Page 11 of 13
+# Page 12
+Government Resolution No.: Misc 2019/ C.R. 96/ Energy-5
+ANNEXURE - V
+Acceptance of Self-Certification Report
+To, Name and Address of the Supplier/ Owner/ Consumer
+Sub: Acceptance of Self-Certification Report submitted by Name of the Supplier/ Owner/ Consumer for installations at installation address of the Supplier/ Owner/ Consumer.
+Ref: Self-Certification Report dated submitted by Name of the Supplier/ Owner/ Consumer
+(Name of the Supplier/ Owner/ Consumer)_has submitted self-certification report under regulation 30/43 for installation address of the Supplier/ Owner/ Consumer and requested for acceptance of the same by this office. The list of equpiments are as given below:
+--------------------------------------------------------------------
+| Sr. No. | Name of the Equipment with Voltage, Capacity etc. | Quantity |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+--------------------------------------------------------------------
+It is hereby said that self-certification report submitted by Name of the Supplier/
+Owner/ Consumer for installations at installation address of the Supplier/ Owner/
+Consumer under regulation 30/43 is found to be generally in order. Hence self
+certification report submitted by Name of the Supplier/ Owner/ Consumer for installations
+at installation address of the Supplier/ Owner/ Consumer under regulation 30/43 is hereby
+accepted. The acceptance of self-certification report submitted by Name of the Supplier/
+Owner/ Consumer is subject to full compliance of the relevant provisions of CEA (
+Measures relating to safety and Electric Supply) Regulations 2010 (as amended to date)
+in every respect.
+Electrical Inspector
+Page 12 of 13
+# Page 13
+Government Resolution No.: Misc 2019/ C.R. 96/ Energy-5
+ANNEXURE - VI
+Recomendations to rectify the defects in Self-Certification Report
+To,
+Name and Address of the Supplier/ Owner/ Consumer
+Sub:- Recomendations to rectify the defects in Self-Certification Report submitted by Name of the Supplier/ Owner/ Consumer for installations at installation address of the Supplier / Owner / Consumer.
+Ref: Self-Certification Report dated submitted by Name of the Supplier/ Owner/ Consumer
+Vide letter under referance Name of the Supplier/ Owner/ Consumer
+has submitted self-certification report under regulation 30/43 for installation address of the
+Supplier/ Owner/ Consumer and requested for acceptance of the same by this office.
+While scrutinizing the defects found are given below:
+----------------------------------------------------------
+| Sr. No. | Regulation | Description of defects | Recommendation |
+|  |  |  |  |
+|  |  |  |  |
+----------------------------------------------------------
+Hence self-certification report submitted by Name of the Supplier/ Owner/
+Consumer for installations at installation address of the Supplier/ Owner/ Consumer under
+regulation 30/43 is hereby rejected for rectification of defects as recommended above.
+Point wise full compliance report with referance to the relevant provisions of CEA
+( Measures relating to safety and Electric Supply ) Regulations 2010 (as amended to date)
+in every respect shall be submitted within 15 days from the recepit of this letter. If the
+owner/ supplier/ consumer fails to comply, necessary action will be initiated as per
+guideline no. 5 (d).
+Electrical Inspector
+Page 13 of 13

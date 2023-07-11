@@ -1,0 +1,35 @@
+# Page 1
+Cash Management Project (CMP) is a system of depositing money directly into the bank account of the Drawing and Disbursing Officer.
+The Government of Maharashtra
+the Finance Department
+Government Circular No. Narrow 2021/ Q. No. 30/21/ Exchequer Section 5
+Madam Cama Road, Hutatma Rajguru Chowk,
+Ministry, Mumbai 400 032.
+The date: April 7, 2021.
+Read:- 1. Department of Finance Government Resolution No. 1010/ No. 68/ Part-3/ Treasurer No. 5 23/12/2010.
+Finance Department Government Resolution No. 1010/ No. 68/ Treasury No. 5, D. 18/04/2011.
+Finance Department Government Resolution No. 1010/ No. 68/ Part-3/ Treasurer No. 5, D. 22/01/2013.
+4. Department of Finance Government Resolution No. 6/20/ T.D. 11/03/2020.
+Introduction: The above reference No. All payments through all Treasury/ Sub-Treasury offices in the State are being made directly to the accounts of Drawing and Disbursing Officers, Suppliers, Contractors, Grantee Institutions and beneficiaries of various schemes of the Government through the Cash Management Project (CMP) facility provided by State Bank of India. Also, the No. 4 As per the decision of the Government here, e-Kuber, a comprehensive and uniform computer system has been operationalized by the Reserve Bank of India for delivery at the Accounts and Accounts Office, Mumbai and Treasury Office, Nagpur.
+The reference No. 3 The Drawing and Disbursing Officer is to take action to mention the details of income on the' Beams' system as per the instructions given in the Government Decision here. As per the details of the income reported by them, the amount from the' CMP' system is credited to the account of the respective income tax payer.
+It is the responsibility of the Drawing and Disbursing Officer to ensure proper registration of income and the Treasury Office and the Drawing and Disbursing Officer must take care to ensure that the wrong demand is not made to the wrong demander, supplier, contractor or third party. The government decision
+The procedure to be followed by the Disbursing Officer in respect of direct credit of the amount to the account of the concerned supplier, institution or employee through CMP system and the procedure to be followed after submission of the payments in respect of payment of CMP by the Treasury Offices has been detailed. The reference No. 3 Detailed instructions are being issued as follows, taking into account the provisions of the Government Decision.
+Circular to the Government: Drawing and Disbursing Officers should prepare the payment as per the prevailing practice and submit the payments to the Treasury Office with the authorization letter by selecting the correct and accurate' Payee' from the' Payee Details' through the' Beams' system. The payments of all the third parties mentioned on the authorization letter (requesters, suppliers, contractors, grantee organizations, employees or beneficiaries of various schemes of the government) will be directly credited to their accounts through CMP.
+# Page 2
+Government Circular No: 2021/ No. 30/21/ KOSHA 5
+Therefore, the Drawing and Disbursing Officer as well as the officers/ staff of the Treasury Office who audit the payments should follow the following instructions.
+a) Procedure to be followed by the Drawing and Disbursing Officer:
+All the instructions mentioned in the Government Resolution dated 22nd January, 2013 should be strictly followed.
+All the Drawing and Disbursing Officers are required to register the requester, supplier, contractor or third person in the' Beams' system through the' Add New Payee' option and submit the printed application form through the system to the Treasury Office along with the appropriate documents.
+Payees should be selected from the' Payee Details' on the Beams/ Beel portal system and submit the payments to the Treasury Office with the letter of authorization. Special care needs to be taken while selecting' Payee'. Because in the Beams/ Beel portal system, as soon as the initials of the name of the payee are entered, all the payees starting with that letter appear on the system. If the first word in the name of the addressee is the same, the possibility of the addressee being chosen incorrectly cannot be ruled out. Thus, even in the absence of a malfunction, the wrong payer can be chosen in a hurry or due to negligence. Therefore, the Drawing and Disbursing Officer should ensure the correct selection of the income on the Beams/ Beel portal system.
+After the payment is passed as per the procedure prevailing in the Treasury Office, the information of the concerned payment will be' Uploaded' to the' CMP' portal by the Treasury Office and the concerned will be given' CMP Advice Slip'. On the CMP system, the Drawing and Disbursing Officer must verify the details of the payee once again before approving the payee's contribution.
+5 Since the Treasury Office does not have the facility and authority to change the Beams Authorization Letter, the Drawing and Disbursing Officer will be fully responsible for the payment of the amount to the wrong person.
+b) Care to be taken while providing CMP by Treasury Offices:
+The Treasury Office shall verify the names of the payee on the authorization letter along with the details of the supplier/ requester/ third party on the sub-certificate received along with the payment while auditing the payment. If there is any discrepancy between the two names, the payments should be objected and asked to the Drawing and Disbursing Officer. The treasury office should also take care that under no circumstances the wrong amount is provided to the recipient.
+2. A printed application for registration of a new payee from the Drawing and Disbursing Officer is received through the system at the Treasury Office for approval along with appropriate documents. on the cancelled cheque presented by the Drawing and Disbursing Officer to the Treasury while approving such proposals on the system.
+Be sure to fill in all the details (name, account number, bank details and IFSC code) correctly.
+Page 2 of 4
+# Page 3
+Government Circular No: 2021/ No. 30/21/ KOSHA 5
+3. It shall be mandatory for the Additional Treasury Officer-Cheque/ Deputy Treasury Officer (Higher Level)-Cheque in the Cheque Branch to ensure that the details of the payee on the payment and the details of the payee available on the CMP payment system are correct before approving the payment on the CMP system.
+# Page 4

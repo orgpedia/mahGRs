@@ -1,0 +1,90 @@
+# Page 1
+Establishment of a Coordination Office and a Committee of Officers for the construction and support functions in the new computer system" Master Database Module" under the Department of Water Resources.
+The Government of Maharashtra
+The Department of Water Resources
+Government Resolution No.2020/ (404/20)/ LAPA
+Madam Cama Marg, Hutatma Rajguru Chowk
+Mantralaya, Mumbai- 400 032
+Date: 2/08/2022
+Reference: 1) Government Circular No: EPRSA 2020/ (404/2020)/ Lapa Di. 08.02.2021 2) Govt Corrigendum No: EPRSA 2020/ (404/2020)/ LAPA D. 07.07.2021
+The e-water service system of the Water Resources Department has 34 modules of different types. In the system
+Important information was provided by the regional offices. With the current system developer
+Contract has been terminated. Also, the Department of Information Technology. Ruling on 29/08/2018
+According to the decision, the information of all government departments has to be migrated to the cloud. Therefore, the water supply system
+Need to migrate to the cloud. The development of the Master Database Module
+is undertaken.
+The scope of the Master Database Module system is as follows.
+The Master Database Module (MDM) is the central database for the system.
+The MDM will be a consolidated collection of updated information from various systems. so that the project information can be seen in one place
+* Dashboards required at senior levels will be received through this module.
+In addition, the module will generate various reports of importance and regular use as per the requirement of the Ministry.
+The information will be streamlined as all the information about the project will be updated in one place in the MDM.
+Requirement of experienced officers for Requirement Gathering Template (RGT) of the system
+For this, the development of an experienced coordination team i.e. system according to each field function and
+The government has decided to form a' Central Control Committee' to implement the following.
+# Page 2
+Government Resolution No: 2020/ (404/20)/ LAPA
+Government's decision:
+(a) The composition of the Committee:
+Step-by-step process to develop" Master Database Module" system for Water Resources Department
+" Committees are being formed. Committee for the Construction and Support Functions
+The structure is determined as follows.
+(a) The construction:
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| A.A.                                                      | Function Type                                                                      | the Coordinating Officer | Names of the committee |
+| construction                                              | Chief Engineer Water Resources (Special Projects), Pune                            | Chairman                 |
+| Praveen Kolhe, A.A. Pune Irrigation Project Board, Pune   | the members                                                                        |
+| the Superintending Engineer, e-Administration Board, Pune | the members                                                                        |
+| 4                                                         | Abhay Katkar, Superintending Engineer, Maharashtra Krishna Basin Corporation, Pune | the members              |
+| S                                                         | Mr. P.U. Zod, K.A. Pench Irrigation Department, Nagpur                             | the members              |
+| 6                                                         | Executive Engineer, Department of Construction Management Computerization, Pune.   | The Member Secretary     |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(a) Support functions
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Support Functions                                                                  | Chief Engineer, Quality Control (Architecture) Hydroelectric Project, Pune     | Chairman             |
+| Superintending Engineer, Directorate of Irrigation Research and Development, Pune. | the members                                                                    |
+| Superintending Engineer, Water Resources e-Governance Board, Pune                  | the members                                                                    |
+| 4                                                                                  | A.A. Maharashtra Engineering Training Academy, Nashik                          | the members          |
+| 5                                                                                  | Deputy Secretary/ Joint Secretary (Services), Ministry of Home Affairs, Mumbai | the members          |
+| 6                                                                                  | Executive Engineer, Department of Administration, Pune.                        | The Member Secretary |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Page 2 of 5
+# Page 3
+Government Resolution No: 2020/ (404/20)/ LAPA
+Reference No. 2. As per the Corrigendum, for the development of irrigation management practices, Reference No. 1's
+The functions of the committee and the committee mentioned in the government decision should be followed.
+The functions of the Construction and Support Functions Committee:
+The responsibilities of the proposed Coordinating Office and the relevant authorities will be as follows:
+1. The various systems developed under construction activities in e-governance e.g.
+Quality Control and Material Testing, E-bill, Estimate and DTP, etc.
+need from time to time to implement the systems to be undertaken in future
+to provide that information.
+Various functions developed under the framework of Support Functions in the e-Governance
+system, for example. e-Service Book, e-Times, Account Management System, etc.
+need from time to time to implement the systems to be undertaken in future
+to provide that information.
+(3) The field work related to the construction or support functions is easy, flexible and efficient.
+To suggest necessary changes in the system with a view to computerization to make it transparent.
+(transformation of existing system) and submit it to the government.
+4. System Requirement for developing the system and discussing with stakeholders.
+It supports software requirement specification (SRS) and gathering templates (RGT).
+Finalizing the module wise required master data for the system.
+At the stage of user acceptance testing and acceptance of the system (operational/ final)
+Acceptance of the document created by the developer
+Change in the work person in the approved RGT/ SRS or new from the field offices.
+To examine the need and feasibility of the request as required and to guide it.
+Developing the system accordingly as well as conducting a thorough inspection of the system developed
+Materials required for training e.g. User Manuals, training videos
+To examine and finalize etc. and to implement the method of training.
+to guide
+Page 3 of 5
+# Page 4
+Government Resolution No: 2020/ (404/20)/ LAPA
+(a) the composition and composition of the Committee:
+The Committee shall be appointed by the President on the recommendation of the Committee. as well as committee meetings.
+be conducted (preferably online) as per the instructions of the Chairman. Committee meeting
+There will be no restriction on work. the time limit set by the Committee
+Be sure to check the process.
+(a) The term of the Committee:
+The tenure of the Committee shall be for a period of 6 months from the date of commencement of the Scheme.
+# Page 5

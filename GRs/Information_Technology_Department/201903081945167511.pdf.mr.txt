@@ -1,0 +1,29 @@
+# Page 1
+HYBRID - Administrative Approval on Establishment of Hybrid Adaptive Cyber Security Operations and CERT Maharashtra
+Government of Maharashtra
+General Administration Department
+Government Circular No. DIT2019/CR No.13/Sec.3/39
+Hutatma Rajguru Chowk, Madam Cama Road,
+Mantralaya, Mumbai - 400 032
+Dated - 8th March 2019
+Government Circular No. DIT2019/CR No.13/Sec.3/39
+Directorate of Information Technology (DIT) envisages to create robust and flexible and Secure IT infrastructure for safety and security of data to be used in data driven Governance Analytics which can cater to operational needs and decision making at all levels of Government of Maharashtra.
+Ref: 1. Cloud Computing policy Circular dated 29.1.2018 2. Cloud Computing Policy-Empanelment of Cloud Service Providers and Guidelines for Government organizations dated 16th May 2018,19th May 2018 and 4th Aug 2018
+Government Circular:
+1. Directorate of Information Technology (DIT) has taken an initiatives to setup Hybrid Adaptive Cyber Security Operations center at a cost of Thirty nine cr with below components (indicative) to ensure all cyber-attacks are dealt with in a professional and timely manner.
+a. Hybrid Security Operations Centre
+b. Computer Emergency Response Team (CERT-MH) for all Department verticals of GoM, except Law & Order
+c. Centre of Excellence on Al powered Security of Critical IT infrastructure of GoM.
+2. The below activities are to be performed in a timely manner by the Hybrid SOC (indicative). Details of Scope of work are placed in Annexure I
+a. Security Operations & Analytics Centre (SOC)
+b. Incident Management,Threat Hunting and Management
+c. Simulation and Honeypots, Threat forecasting using Situational awareness
+3. Directorate of Information Technology (DIT) is setting up Computer Emergency Response Team (CERT-MH) to address risks arising from security incidents and to protect the Government's critical information infrastructure and also provide advisory services to other public sector undertakings, corporates & business institutions, citizens of the state and other non-Government entities having set-up within the state of Maharashtra
+4. DIT to setup Center of Excellence (COE) for AI powered Security automation. and also below indicative activates to be performed
+a. Administer the cyber security training programs undertaken across the state of Maharashtra
+b. To create standard operating procedures (SoPs) for multiple situations revolving around cyber security
+c. To study and release white papers, advisories and policies for issues for cyber security related domains
+# Page 2
+Government Resolution No.: DIT2019/CR No.13/Sec.3/39
+5. DIT has been designated as the Competent Authority to Build Own and Operate the SOC and CERT Maharashtra that are necessary and pre requisite for a Stable and secure Cyber Space and key in meeting the objectives and timelines of the Hon'ble CM Citizen Services Project reaching to everyone across Maharashtra and Administrative approval has been given to DIT through this Circular.
+This Government Circular of Maharashtra Government is available at the website

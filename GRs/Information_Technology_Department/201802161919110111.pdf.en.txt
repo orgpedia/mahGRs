@@ -1,0 +1,127 @@
+# Page 1
+Setting up of Global Fintech Hub and implementation of Fintech policy
+Government of Maharashtra
+Directorate of Information Technology
+Government Resolution No:- DIT-2018/C.R-17/D-1/39
+Mantralaya- Mumbai- 400 032
+Dated 16th February 2018
+Introduction
+The Indian financial services sector has undergone a considerable transformation in the past few years with the growing popularity and acceptance of FinTech products and services. 'FinTech' describes any business that aims at providing financial services by making use of innovative technology.
+The 'Digital India Campaign' launched in July 2015, by the Government of India has provided the much-needed push towards a digital ecosystem. With an ambitious goal to make India a 'cashless economy', the Government of India has introduced United Payments Interface (UPI) and Bharat Interface for Money (BHIM) to support digital payments. This convergence of financial services and exponential technologies has resulted in FinTech having an increasingly important role to play.
+Customers across the globe have been open to adopting new products and channels, often introduced by FinTech start-ups. Additionally, FinTech is unbundling traditional banking services in order to specialize in certain areas. New age start-ups are providing both traditional and innovative products, with an enhanced value proposition such as ease of use, enhanced user interface, low cost, etc.
+Directorate of Information Technology (DIT) has studied the best practices in the Fintech sector with a focus on Government and regulatory support. Globally, the initiatives taken by regulators and Governments in the FinTech sector include infrastructure support, setting up of regulatory sandboxes, adoption of open APIs by banks and building FinTech bridges with global hubs. Based on the above and given the vast potential of FinTech in the Banking, Financial Services & Industries sector, the Cabinet has approved the Fintech policy of the State with a view to promote the Fintech sector in the State of Maharashtra. As part of this policy, a Global Fintech Hub will be established as a focal point for FinTech activity within the State of Maharashtra. The approval of the Fintech policy and issue of instructions for operationalization of the same was under the consideration of the Government.
+Government Resolution:
+The Government hereby approves the Fintech policy of the State and the setting up of the "Global Fintech Hub" in the Mumbai Metropolitan Region. For operationalization of the policy, the following instructions are being issued.
+Setting up of Smart FinTech centers
+1. To meet the needs of the FinTech sector and in order to provide supporting amenities and accommodation to the workforce therein in the vicinity of the banks and other financial service providers and regulators, it is necessary to provide built up space at affordable rates.
+For this purpoe, Government has approved the setting up of Smart FinTech centers wherein additional FSI (Floor Space Index) shall be admissible in all urban local bodies of the State having a population greater than 10 lakh subject to the following:
+a. Upto 200% additional FSI will be admissible (as per the upper limit specified in the State's IT/ITES policy of 2015) in the areas within the limits of all urban local bodies with population greater than 10 lakh in the State, subject to the condition that the plot should have an access road with minimum width of 18 metres.
+# Page 2
+Government Resolution No.: DIT-2018/C.R-17/D-1/39
+b. FSI of upto 4 will be admissible within the limits of Navi Mumbai Municipal Corporation subject to the condition that the minimum area requirement for availing of the additional FSI as above shall be at least 50 acres and the plot should have an access road with minimum width of 24 metres.
+c. At least 85% of the built-up area should be occupied by units in the business of FinTech (start-ups, incubators, and accelerators), banking, financial services including NBFC and insurance, and IT/ITES with focus on FinTech.
+d. Premium of 30% of the prevailing ready reckoner rate will be applicable for availing the additional FSI.
+2. The above additional FSI will be subject to approval by a Committee chaired by Principal Secretary, Information Technology and comprising representatives of Industries, Finance and Urban Development Departments (UD-1). The above mentioned premium amount will be deposited in the FinTech corpus fund which is being set up by DIT.
+3. The units housed in the Smart Fintech centers will be permitted to work 24x7x365 days without any close down (except some exigencies arising wherein the State/Central Government thinks it fit to keep the operation in suspension).
+4. All the fiscal incentives relating to stamp duty exemption, electricity duty, electricity tariff, power tariff subsidy, property tax, entry tax, works contract tax, etc. as provided under the IT/ITES policy-2015 (Fiscal incentives for IT/ITES Units, B of Para 5) shall be applicable to the units set up as part of the Smart FinTech centers.
+5. Urban Development Department will make necessary changes in the relevant Development Control rules as per the provisions of section 154 of the Maharashtra Regional and Town Planning Act 1966.
+6. The Directorate of Information Technology will develop a web portal on which the developer of every Smart FinTech centers will be bound to provide / update detailed information about names of the units in the hub, utilization of built-up area and activities being carried out, manpower employed in the Smart FinTech centers on yearly basis.
+7. If a Smart FinTech centers has availed additional FSI as per the provisions of this policy and subsequently it is found that the built-up space in these centers (which is mandated to be used for FinTech activity) is being used for non-FinTech/ commercial activities / any other activity not permitted as per the FinTech policy under which the said center was approved, a penal action as below will be taken; the payment will be made to the concerned planning authority and Government in the ratio of 3:1.
+a. The misuse shall be ascertained by physical site verification of the said Smart FinTech centers by a team of officers from the Directorate of Information technology and the Planning Authority which has approved the building plans of the said Smart FinTech centers.
+b. A per day penalty equal to 0.3% (a thirteeth of a percent) of the prevailing ready reckoner value of the built-up area that has been found to be used for non-FinTech activities.
+2
+# Page 3
+Government Resolution No.: DIT-2018/C.R-17/D-1/39
+c. The penalty will be recovered from the date of issue of Occupancy Certificate till the day non-FinTech use continues.
+8. After payment of the penalty to the concerned Planning Authority which had sanctioned the building plans of the concerned Smart FinTech center, the said Smart FinTech center will restore the use of premises to the original purpose for which LOI/ Registration was granted.
+If the Smart FinTech center fails to pay penalty and / or restore the use to its original intended use, the concerned Planning Authority will take suitable action under the MRTP Act against the erring Smart FinTech center under intimation to the Directorate of Information Technology.
+Creation of FinTech Corpus Fund
+9. The Government of Maharashtra will create a Fintech corpus fund of Rs. 250 crore over the next three years to fund the following incentives to FinTech start-ups and operational expenses of Industry Sandbox and the Global FinTech hub. CIDCO, MIDC and MMRDA will contribute an amount of Rs. 25 crore each to set up this fund. DIT will make necessary budget provision for the Fintech corpus fund.
+Development of Incubation Space for accelerators and start-ups
+10. The Government of Maharashtra will establish physical infrastructure for providing end-to end support to all its ecosystem players. This will be in the form of a co-working space of minimum 10,000 sq.ft. in one of the central locations of Mumbai, which will be made available to FinTech companies at reasonable rates. A hub and spoke model will be followed where the centrally located physical infrastructure set up by the Government will act as the hub and locations of other stakeholders like educational institutions, FinTech accelerators, banks, technological firms and IT parks can act as spoke locations. Until the hub gets self-sufficient from its own revenue sources, the Government will fund its operations.
+Unused/idle office spaces in Government and Urban local bodies shall be leased out to house the incubators and startups. Similarly, vacant spaces/plots in MIDC areas in the state will be used to set-up infrastructure for the FinTech sector.
+Incentives to start-ups
+11. To give an impetus to the FinTech sector in the State, the Government has approved the following incentives that will apply to all FinTech startups which will be as per the following definition:
+"FinTech start-ups are establishments that use technology and innovative business models in delivering of financial products and services and having annual turnover up to 25 Crores". The FinTech start-ups must have a registered office in the State of Maharashtra to be eligible to avail the benefits under this policy. The incentives provided under this policy will be over and above any other incentives that maybe applicable under the State's Start up and Innovation Policy.
+i. Reimbursement of internet and electricity charges
+Since Internet and electricity connectivity are absolute necessities for survival of these new age companies, charges towards internet and electricity are other major concerns
+3
+# Page 4
+Government Resolution No.: DIT-2018/C.R-17/D-1/39
+of start-ups. Over and above the subsidy available to startups and IT/ITeS companies under the IT/ITES policy, Internet and electricity charges of FinTech startups in the State will be reimbursed up to an amount of Rs. 3 lakh per year. This will be applicable for a maximum of 3 years for each start-up.
+ii. Reimbursement of expenditure towards hosting infrastructure
+Expenditure incurred by Fintech start-ups towards availing cloud space (maintained, operated and managed by a cloud storage service provider on storage servers that are built on virtualization techniques) will be reimbursed by State Government subject to an upper limit of Rs. 3 lakh per year for a total period of 3 years. The cloud space should be availed by FinTech start-ups from cloud service providers empanelled as per the cloud policy of the State Government in DIT GR dated 19/01/2018 and at rates finalized by DIT. Any expenditure towards hosting charges over and above this amount of Rs. 3 lakhs per year has to be met by the Fintech start-up.
+iii. Reimbursement of State GST
+The State GST paid by early stage start-ups with annual turnover up to Rs. 5 crore will be reimbursed to reduce the tax burden on start-ups in their formative phase. It will not only help the start-up in achieving breakeven but also let them focus on their technological innovation endeavor. The tax reimbursement will be applicable for a maximum period of 3 years subject to the annual cap of Rs. 4 lakh.
+The total incentive applicable to any fintech startup will have an annual cap of Rs. 10 lakh per year per start-up. The item wise upper cap of the three items above (reimbursement of internet and electricity charges, hosting infrastructure and reimbursement of State GST) will be flexible subject to the overall cap of Rs. 10 lakh per year per startup. The overall annual cap of Rs. 10 lakh will be subject to review from time to time. The reimbursement of electricity and internet charges and State GST will be done for expenditure incurred in the financial year beginning from FY 2017-18.
+iv. Reimbursement of exhibition/global event participation fee
+A FinTech unit will be eligible for reimbursement of 50% exhibition/global event participation fee (space cost/rent) for exhibitions on approval by the FinTech Officer, subject to a ceiling of Rs. 5 lakh per FinTech start-up and limited to two such events during the lifetime of the start-up.
+Creation of Investment Fund
+12. An investment fund of up to Rs. 20 crore will be created in joint venture with banks, industry players and key stakeholders to fund the FinTech accelerators and incubators. This fund will be made available to FinTech accelerators and incubators to catalyze growth opportunities for high potential start-ups through their resources, programs and mentorship.
+Creation of Incentive Fund for Top-rated start-ups
+13. An incentive fund of up to Rs. 10 crore will be created to encourage high growth FinTech start ups in the first years their operations. Each year top 20 rated start-ups will be provided a grant of Rs. 10 lakh each, once during the lifetime of the start-up. These start-ups will be identified on several parameters including growth rate, innovation, social impact, etc.
+# Page 5
+Government Resolution No.: DIT-2018/C.R-17/D-1/39
+Application forms should be submitted in the format specified in Annexure-A to the Fintech PMU of MahaIT at pmu.fintech@mahait.org. The annual timelines for the same are as shown in Annexure-B.
+Government of Maharashtra will provide preference to early stage startups (up to 3 years from date of incorporation) and FinTech startups with women founders to avail of the above incentives.
+It will earmark a certain proportion of the total fund for the benefit of such startups.
+Creation of Maharashtra FinTech Registry -
+14. A registry of all the FinTech companies based in Maharashtra will be created to form a community of FinTech companies. All FinTech start-ups incorporated in the state should register and be the member of this common platform. To enable services to the global and local FinTechs, support based model shall be initiated, where FinTechs and investors could come together on the common platform and exchange services. This facilitates the creation of a virtual hub among entities.
+Industry sandbox in Global FinTech hub
+15. An Industry sandbox will provide a controlled and legal testing solution space where start-ups /banks /technology companies can test innovative products, services, business models and delivery mechanisms in the real testing environment. The Government of Maharashtra will provide the following critical support in setting up the industry sandbox in Global FinTech hub.
+a. Government of Maharashtra will support the formation and institutionalize the industry sandbox along with financial institutions and various regulators such as RBI, SEBI, IRDAI and PFRDA as part of the Global FinTech hub.
+b. Government of Maharashtra will provide physical infrastructure to house the industry sandbox in Mumbai. Housing the industry sandbox in Mumbai will provide an impetus to existing FinTech firms to operate out of Mumbai and encourage upcoming start-ups to start their businesses in Mumbai.
+c. Government of Maharashtra will co-ordinate with various stakeholders to streamline various processes such as the application for testing in the sandbox, shortlisting of start-ups, testing in the safe space and finally commercialization of products. The Global FinTech hub will act as the supporting agency for all the start-up applicants of the state and provide assistance to start-up in application process for start-ups intending to avail of industry sandbox services.
+d. The industry sandbox will require financial support for meeting its operational expenses in the initial few years. Government of Maharashtra will provide financial grants for smooth functioning of the industry sandbox in Mumbai till it becomes self sufficient from its own potential revenue sources.
+GovTech
+16. Government shall pilot a number of different projects using Blockchain and DLT (Distributed Ledger Technologies) across areas like land registry, supply chain management, and identity management, education, healthcare amongst other areas. Expertise of FinTech start-ups in the use of innovative technologies like Blockchain, Artificial Intelligence, Internet of Things (IoT) shall be leveraged for solving governance related issues (referred to as GovTech).
+5
+# Page 6
+Government Resolution No.: DIT-2018/C.R-17/D-1/39
+Specific problem statements will be floated by the Government agencies to be taken up by the start-ups to improve service delivery of Government schemes. Funding and encouragement will be provided to start-ups that come up with innovative solutions for improving governance. The approval of such pilot projects and selection of start-ups for implementation will be done by Project Implementation Committee (PIC) of DIT.
+Governance structure
+17. The following governance structure is being set up for overseeing the activities of the Global FinTech hub.
+i. State level steering committee- The committee will have the following composition.
+a. Principal Secretary (IT) - (Chairman)
+b. Representative from Chief Minister's office - (Member)
+c. Representative of Finance Department - (Member)
+d. Representative of Industries Department - (Member)
+e. Representative from Reserve Bank of India - (Member)
+f. FinTech Officer - (Member, Secretary)
+g. Managing Director, SICOM - (Member)
+h. Director IT- (Member)
+The Committee may, if it so desires, invite experts in the field of Fintech for its various meetings.
+The State level steering committee will be responsible for the following:
+a. Coordinating with regulators (RBI, SEBI, IRDA etc.) and other stakeholders to strengthen the FinTech ecosystem in a way that allows FinTech firms to develop new technologies in a responsible manner
+b. Undertaking a scoping exercise to gain a general understanding of the major FinTech innovations/developments, technology platforms involved and how markets, and the financial sector in particular, are adopting new delivery channels, products and technologies
+c. Creating an execution roadmap and identifying actionable steps for the hub d. Review and appropriately re-orient the operations and programs of the hub to respond to the rapidly evolving FinTech scenario
+ii. Advisory panel- An advisory panel comprising of around 15 experts for giving inputs to the State level steering committee will be set up by the State Government. The Advisory panel will be responsible for proposing necessary changes in policies in their specific areas of expertise such as banking, investment management, technology, ease of doing business, talent development to the Steering Committee.
+iii. FinTech Officer
+MahaIT will appoint a "FinTech officer" who will be part of the steering committee and be responsible for the following:
+a. Creating development strategies and regulatory policies around technology innovation
+b. Creating an organizational structure for the Global FinTech hub
+c. Managing the overall operations of the hub
+Enhancing the efficiency and strengthening the competitiveness of Mumbai's financial sector
+# Page 7
+Government Resolution No.: DIT-2018/C.R-17/D-1/39
+e. Recruiting and managing a team of professionals and guide them on a day to day tasks
+f. Managing the branding and marketing of Mumbai as a hub through FinTech events and initiatives
+g. Guarding the hub's ecosystem against any market or consumer related risks associated with the use of any products/services devised by the member start ups
+h. Examining cross country practices across hubs, studying models of successful regulatory responses to disruption across the globe and providing recommendations to the steering committee
+i. Any other related operational activities
+A working group shall be setup consisting of key industry players to assist the FinTech Officer as and when required. The FinTech officer should work in close co-ordination with the Directorate of Information Technology (DIT). DIT shall issue administrative orders, whenever necessary to facilitate the functioning of the Fintech Hub.
+Talent Development & Impetus to research
+18. Necessary guidelines will be issued by Higher and Technical Education Department to Universities and educational institutions to offer full-time courses and professional degrees in FinTech.
+19. Government will provide one-time research funding to doctoral and post-doctoral research scholars in reputed educational institutes of the State who are engaged in research projects on financial technologies. A chair on Fintech development will be formed in reputed research institutes. Proposals in this regard will be approved by the State level Steering Committee.
+Representatives of the concerned University and the Higher and Technical Education Department should be invited to the meetings of the State Steering Committee in which such proposals are taken up for consideration.
+Role of Maharashtra Information Technology Corporation (MahaIT)
+20. Operationalization of this policy will be done through the Maharashtra Information Technology Corporation. A Project Management Unit for Fintech (Fintech- PMU) is being set up by MahaIT. All communication regarding Fintech should be addressed to the Fintech-PMU at pmu.fintech@mahait.org. MahaIT should develop and communicate detailed Standard Operating Procedures (SOP) to all stakeholders.
+Directorate of Information Technology (DIT) shall issue necessary guidelines regarding the implementation of the Fintech policy.
+This Government Resolution is being issued as per the approval of the Cabinet to the Fintech policy in its meeting held on 6th February 2018.
+7
+# Page 8
+Government Resolution No.: DIT-2018/C.R-17/D-1/39
+# Page 9
+# Page 10
+# Page 11
+# Page 12

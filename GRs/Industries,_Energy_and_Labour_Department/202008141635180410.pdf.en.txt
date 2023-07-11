@@ -1,0 +1,87 @@
+# Page 1
+To modify the existing computer system developed by Maharashtra Labour Welfare Board, Mumbai for collection of data of migrant workers.
+The Government of Maharashtra
+Department of Industry, Energy and Labour
+Government Resolution No: STALANKA 2020/07/ PR No.86/ WORKER-10
+Ministry, Mumbai- 400 032.
+The date: August 13, 2020.
+Preamble: Situation arising out of COVID-19 outbreak in the country
+Many of the workers in the state work in their home state, for example. Migration to Madhya Pradesh, Uttar Pradesh, Bihar, etc.
+has done. Also, some migrant workers are returning to Maharashtra from their native states. All of these kinds of
+Instructions to keep complete/ detailed information of migrant workers in computerized manner. the Secretary of Labor
+Ministry of Labour& Employment, Government of India vide their letter dated 19/6/2020
+The information of migrant workers should be made available immediately as per the instructions of the Central Government.
+Action needs to be taken. At present, the computer system is run by the Maharashtra Labour Welfare Board.
+It has been prepared and it is comprehensive and provides complete information to the workers. the same
+It will be possible to collect information of all unorganized and migrant workers in the system. the centre
+In view of the instructions of the government, the existing computer system of the Maharashtra Labour Welfare Board
+The matter of giving instructions to the developer was under the consideration of the government.
+Maharashtra government's decision comes in the wake of the Covid-19 situation in the state
+Many of the workers in the state work in their home state, for example. Uttar Pradesh, Bihar, Madhya Pradesh and so on.
+He has returned to Maharashtra. All of these migrant workers
+The details should be computerised. Ministry of Labour and Employment
+221 dated 30/06/2020 regarding inter-state migrant workers
+A list of employees is provided. The Census Department 250
+List of Jobs, 122 Jobs List of Labour Department and 221 Jobs List of Central Government
+# Page 2
+Government Resolution No: STALANKA 2020/07/ PR No.86/ WORKER-10
+A total of 300 jobs have been created. Unorganized/ Migrated
+It is advised to use this list of 300 jobs while obtaining information about the workers
+(Included in the list).
+Maharashtra Labour Welfare Board with 5 or more workers at the establishment.
+The purpose of keeping the information of the workers in the establishment is according to the Maharashtra Labour Welfare
+A computer order has been prepared by the board. This computer is ordered online.
+It keeps information about the establishment, its workers and the contributions received from them. or a computer.
+unionized among workers who are registered in the order. Uninvited migration and permanent
+This includes the resident workers. The Unorganised Workers Social Security Act, 2008
+An unorganised sector is an industry with less than 10 workers.
+Thus, among the unorganized workers, home workers, self-employed workers and wage workers.
+The welfare of the workers in the unorganized sector as well as the workers in the organized sector of Maharashtra
+Other workers mentioned in Annexure 2 of the Act are also included. unsettled
+Along with the registration of workers, the registration of inter-state migrant workers is also required.
+Maharashtra Shops and Establishments Act, 2017, Maharashtra Building and Other Construction Workers
+The Factories Act, 1948 and the Contract Labour Act, 1970.
+Provisions as to whether or not to register on the basis of the number of workers, labourers, in the relevant rules.
+However, for the purpose of obtaining consolidated information, the following 10 persons are required to be registered at the time of registration of all such workers
+All information must be entered in the registration form.
+PAN-Alphanumeric-10 Digits 2. TAN-Alphanumeric-10 Digits 3. TIN-11 Digits 4. GESTIN-15 Digits 5. EPFO-15Digits 6. ESIC-17 Digits 7. MSEDCL Electricity Connection Number-12 Digits 8. MCA CIN (if registered as a company)-21 Digits 9. Aadhaar Number-12 Digits 10. Mobile Number-10 Digits Page 2 of 15
+# Page 3
+Government Resolution No: STALANKA 2020/07/ PR No.86/ WORKER-10
+Maharashtra Labour Welfare Board, Mumbai has already developed the website.
+The website contains all the information related to the Secretary, Ministry of Labour and Employment, Government of India, as per the instructions of the Central Government.
+Welfare Commissioner in charge of the process of registering migrant and unorganized workers,
+Instructions have been given to Maharashtra Labour Welfare Board, Mumbai. Maharashtra workers
+The existing computer system of Welfare Boards includes Inter-State Migrant Workmen (Regulation of Employment and
+Instructs the developer to make changes as per the provisions of the Terms of Service) Act, 1979
+are being provided. Accordingly, the developer ordered all the migrant and unorganized workers to pay paragraph 2.
+Maharashtra Labour Welfare in such a way that information can be collected with the 10 points mentioned in the
+Necessary changes should be made in the computer system of the board. In-charge Welfare Commissioner, Maharashtra
+The Labour Welfare Board, Mumbai should take appropriate action. Need to be updated in the computer command line
+The Maharashtra Labour Welfare Board has given a separate proposal regarding the increased expenditure for this change.
+Submit it to the government.
+Information on the 10 matters mentioned in paragraph 2 regarding workers, Shops and Establishment Register, Maharashtra
+Establishment and Registration of Labourers under Labour Welfare Board, Maharashtra Building and Other Construction Board
+Registration of Establishments and Workers with Directors, Industrial Safety and Health
+The registration of workers to be taken at the time of registration of factories with the Directorate.
+Director Labour Commissioner, Maharashtra State, Director, Directorate of Industrial Safety and Health, Secretary,
+the Maharashtra Building and Other Construction Board and in-charge Welfare Commissioner, Maharashtra Labour Welfare Board
+are being provided.
+5. The above computer commands should be modified. as well as all organized, unorganized and
+Registration of inter-state migrant workers is being done on this new website.
+Commissioner of Labour, Maharashtra State, Director, Industrial Safety and Health
+Directorate, Secretary, Maharashtra Building and Other Construction Board and In-charge Welfare Commissioner, Maharashtra
+The Labour Welfare Board should give wide publicity for public awareness.
+Page 3 of 15
+# Page 4
+Government Resolution No: STALANKA 2020/07/ PR No.86/ WORKER-10
+# Page 5
+# Page 6
+# Page 7
+# Page 8
+# Page 9
+# Page 10
+# Page 11
+# Page 12
+# Page 13
+# Page 14
+# Page 15

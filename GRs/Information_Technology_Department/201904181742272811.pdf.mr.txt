@@ -1,0 +1,30 @@
+# Page 1
+Regarding setting up of the Governance Structure and Domain groups' oversight committee for effective implementation of the Integrated University Management System (IUMS) Project.
+Government of Maharashtra
+Directorate of Information Technology
+Corrigendum No: - GAD-DIT 061/1/2017/DIT (MH)
+Hutatma Rajguru Chowk, Madam Cama Marg,
+Mantralaya (Annex), Mumbai-400032
+Date: 18/04/2019
+Reference: 1. Government Circular No: - GAD-DIT 061/1/2017/DIT (MH), Dated – 03/04/2018.
+2. Government Office Letter No: - GAD-DIT 061/1/2017/DIT (MH), Dated -08/06/2018.
+3. Government Circular No: - GAD-DIT 061/1/2017/DIT (MH), Dated – 12/12/2018.
+Government of Maharashtra has envisaged the implementation of the Integrated University Management System (IUMS) project for providing a web-enabled online platform for all the State Universities in Maharashtra. Under the IUMS project, the universities will be equipped with strong ICT backbone for providing a seamless experience for students, faculty, University officials, employees, affiliated colleges and other stakeholders etc. over the coming years.
+Government Circular: For the governance and monitoring of the entire project of IUMS project, the following governance structure is being modified as below:
+Domain Oversight Committees:
+----------------------------------------------------------------------------------------------------------------------------------------
+| Domain Groups Oversight Committee for Non-Agricultural Universities |
+| General Manager, MahalT will be the controller of all these Domain Group |
+| Sr.No. | Module | Responsible University | Committee | Co-Ordinator |
+| 1. | Student | University of Mumbai | Vice chancellor | Dr. Arjun Ghatule, Director, BOEE |
+| 2. | College | Dr. Babasaheb Ambedkar, Marathwada University, Aurangabad | Vice chancellor | Mr.D.B. Phatak Incharge Computer Section |
+| 3. | Faculty | Kavaytri Bahinabai Chaudhari North Maharashtra University, Lonere | Vice chancellor | Mr. B.P. Patil, Incharge Computer Section |
+----------------------------------------------------------------------------------------------------------------------------------------
+# Page 2
+Government Resolution No.: GAD-DIT 061/1/2017/DIT (MH)
+---------------------------------------------------------------------------------------------------------------------------
+| 4. | Academic | S.N.D.T. Women's University, Mumbai | Professor & Head, Department of Resource Management | Dr. Archana Bhatnagar |
+| 5. | Administration | Shivaji University Kolhapur | Vice chancellor | Dr. Milind Joshi, Incharge Computer Section |
+---------------------------------------------------------------------------------------------------------------------------
+The Domain Oversight Committees will supervise, monitor and provide overall leadership and direction with regard to the functioning of the domain groups of the respective modules.
+This Government Circular of Maharashtra Government is available at the website

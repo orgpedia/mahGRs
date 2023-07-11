@@ -1,0 +1,163 @@
+# Page 1
+प्रादेशिक मनोरुग्णालय, पुणे, ठाणे व रत्नागिरी येथे सी.सी.टी.व्ही. कॅमेरे बसविण्यासाठी प्रशासकीय मान्यता देणेबाबत.
+महाराष्ट्र शासन
+सार्वजनिक आरोग्य विभाग
+शासन निर्णय क्रमांकः प्रशामा-२०२१/प्र.क्र.२०/आरोग्य ३अ
+गो.ते.रुग्णालय संकुल, दहावा मजला, संकुल इमारत
+मंत्रालय, मुंबई ४००००१
+दिनांक : २७ जानेवारी, २०२१
+वाचा :- संचालक, आरोग्य सेवा, मुंबई यांचे पत्र क्रमांक : संआसे/सीसीटीव्ही/प्रशा.मंजुरी/टे-२/माआ /३५५६-६०/२०२०, दिनांक १५/०६/२०२०
+प्रस्तावना : प्रादेशिक मनोरुग्णालयामधून रुग्ण पळुन जाणे, वैद्यकिय अधिका-यांना मारहाण होणे, बंदी रुग्ण
+डयूटीवर असलेल्या कर्मचा-यांना मारहाण करणे इत्यादी प्रकारास प्रतिबंध करण्याबाबत तसेच तदनुषंगीक
+बाबीवर लक्ष ठेवणे करिता प्रादेशिक मनोरुग्णालयामध्ये सी.सी.टि.व्ही. कॅमेरा बसविणे आवश्यक आहे. प्रादेशिक
+मनोरुग्णालय, पुणे, ठाणे व रत्नागिरी येथे सी.सी.टी.व्ही. कॅमेरे व त्याअनुषंगाने लागणारी उपसाधने (अॅसेसरी)
+बसविण्यासाठी येणा-या खर्चास प्रशासकीय देण्याचा प्रस्ताव शासनाच्या विचाराधीन होता. याबाबत पुढील
+प्रमाणे निर्णय घेण्यात येत आहे.
+शासन निर्णय : प्रादेशिक मनोरुग्णालय, पुणे, ठाणे व रत्नागिरी येथे सी.सी.टी.व्ही. कॅमेरे व त्याअनुषंगाने लागणारी
+उपसाधने (अॅसेसरी) बसविण्यासाठी येणा-या खर्चास खालीलप्रमाणे प्रशासकीय मान्यता देण्यात येत आहे :
+--------------------------------------------------------------------------------------------------------------------
+| अ.क्र | कार्यालयाचे नाव | एकुण सी.सी.टि.व्ही कॅमे-याचे संख्या व त्याला लागणारी उपसाधने (अॅसेसरी) | अंदाजित रक्कम (रुपये) |
+|  | प्रादेशिक मनोरुग्णालय, पुणे | २० | रु.१५,००,०००/ |
+| २ | प्रादेशिक मनोरुग्णालय, ठाणे | ३० | रु.१९,००,०००/ |
+|  | प्रादेशिक मनोरुग्णालय, रत्नागिरी | ३५ | रु.२१,००,०००/ |
+|  | एकुण | ८५ | रु.५५,००,०००/ |
+--------------------------------------------------------------------------------------------------------------------
+# Page 2
+शासन निर्णय क्रमांकः प्रशामा-२०२०/प्र.क्र.२९/आरोग्य ३अ
+माहिती तंत्रज्ञान संचालनालयाने दि. ४.३.२०१३ च्या पत्रान्वये सी.सी. टि. व्ही. कॅमेरा बसविणेकरिता
+खालील प्रमाणे मार्गदर्शक सूचना निर्गमित केलेल्या आहेत. सदर मार्गदर्शक सूचनांचे तंतोतंत पालन करावे.
+Guidelines for Implementation of CCTV Cameras in Government offices.
+Areas to be covered by CCTV Cameras Front Gate (Entry / Exit Points) Corridors of Govt. offices Area offering citizen services and where interaction with citizens is more.
+✰ All hospitals, CCTV installation can be done in Psychiatry wards but ensure that patient privacy is not violated.
+General & Operational Guideline's The CCTV cameras to be IP based.
+* Ensure that the Products and Solution adhere to Open standards (i.e. ensure that there are no proprietary standards leading to locking of technology/solution).
+Basic Video Management System functionality needed to view recorded videos, perform forward and rewind function etc. Designated officials should be able to see live feed or stored feed from their desktops connected to CCTV system through LAN.
+❖ Video Data to stored for 7 days on the primary storage (NAS/Disk Based Storage.) In some cases if back-up of data is considered essential, then it can be stored at alternate place on DVDs/External Hard Drives.
+Power backup to be ensured for cameras.
+❖ Cameras to be mostly flexed type .However some Pan Tilt-Zoom (PTZ) CCTV Cameras may be installed in case of specialized requirements.
+❖ In open areas prone to heat/rainfall, the specifications are slightly different and also, the casing is of better specification.
+Integrated solution with camera, storage and video management software, with 3 year warranty and maintenance should be purchased. Payment should be done only after User Acceptance Test (UAT) based on satisfactory functioning of cameras for a month, and proper training of staff to handle this.
+None of the IT/ Non-IT equipments proposed by the vender should be End of life product.
+Proposals to be accompanied by the OEM certificate that the product is not end of life product and shall support for at least 5 years from the date of proposal submission.
+Recommended Technical Specification for indoor, Outdoor and PTZ CCTV cameras.
+Proper financial procedures to be followed.
+Recommended Benchmark Specification for the CCTV Cameras.
+A. Indoor Cameras
+पृष्ठ ७ पैकी २
+# Page 3
+शासन निर्णय क्रमांकः प्रशामा-२०२०/प्र.क्र.२९/आरोग्य ३अ
+----------------------------------------------------------------------------------------------------------------------------------
+| Sr. No. | Parameter | Specification |
+| 1. | Video Compression | H.264 |
+| 2. | Video Resolution | 1280x720 or above |
+| 3. | Frame Rate | Minimum 25 fps in all resolutions |
+| 4. | Image Sensor | Minimum ¹¼" progressive Scan CCD/CMOS |
+| 5. | Lens Type | Fixed Focal/ Varifocal |
+| 6. | Lens | 2.7- 8 mm, 4xDigital Zoom |
+| 7. | Minimum Illumination | Colour: 1lux, B/W:0.5 lux (at 30 IRE) |
+| 8. | Image Settings | Compression colour, Brightness, Sharpness, Contrast, White balance, exposure control, black light compensation |
+| 9. | Audio | Built in microphone |
+| 10. | Protocol | HTTP,HTTPS,FTP,SMTP,RTSP,RTP,TCP,UDP,RTCP,DHCP,UPnP, QoS |
+| 11. | Security | Password protection, IP Address Filtering, User Access Log |
+| 12. | Operating Condition | 0 to 50 o C |
+| 13. | Casing | Tamper Resistant casing for Indoor Environment (Box or Dome) |
+----------------------------------------------------------------------------------------------------------------------------------
+B. Outdoor Cameras
+---------------------------------------------------------------------------------------------------------------------------------
+| Sr. No. | Parameter | Specification |
+| 1. | Video Compression | H.264 |
+| 2. | Video Resolution | 1280x720 or above |
+| 3. | Frame Rate | Minimum 25 fps in all resolution |
+| 4. | Image Sensor | Minimum 1/4" progressive Scan CCD/CMOS |
+| 5. | Lens Type | Fixed Focal/ Varifocal |
+| 6. | Lens | 2.7- 8 mm, 4x digital zoom |
+| 7. | Minimum Illumation | Clour: 1lux, B/W:0.5 lux (at 30 IRE) |
+| 8. | Image Setting | Compression colour, Brightness, Sharpness, Contrast, White balance, exposure control, black light compensation |
+| 9. | Audio | Built in microphone |
+| 10. | Protocol | HTTP,HTTPS,FTP,SMTP,RTSP,RTP,TCP,UDP,RTCP,DHCP,UPnP, QoS |
+| 11. | Security | Password protection, IP Address Filtering, User Access Log |
+| 12. | Operating Condition | 0 to 50 oC |
+| 13. | Casing | Outdoor Camera ( in open sky) to include IP66 Casing (Box or Dome) |
+---------------------------------------------------------------------------------------------------------------------------------
+पृष्ठ ७ पैकी ३
+# Page 4
+शासन निर्णय क्रमांकः प्रशामा-२०२०/प्र.क्र.२९/आरोग्य ३अ
+C. PTZ Cameras
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Sr. No. | Parameter | Specification |
+| 1. | Video Compression | H.264 |
+| 2. | Video Resolution | 1280x720 or above |
+| 3. | Frame Rate | Minimum 25 fps in all resoluation |
+| 4. | Image Sensor | Minimum 4¹/" progressive Scan CCD/CMOS |
+| 5. | Lens Type | Fixed Focal/ Varifocal |
+| 6. | Lens | 4x digital zoom, 10xoptical zoom |
+| 7. | Minimum Illumination | Colour: 0.5 lux, B/W:0.1 lux (at 30 IRE) |
+| 8. | Panning Range | 360 degrees (endless) |
+| 9. | Tilting Range | 0 degrees to 90 degrees |
+| 10. | Image Setting | Compression, colour, Brightness, Sharpness, Contrast, White balance, exposure control, black light compensation, Auto tracking, per set tour settings |
+| 11. | Audio | Built in microphone |
+| 12. | Protocol | HTTP,HTTPS,FTP,SMTP,RTSP,RTP,TCP,UDP,RTCP,DHCP,UPnP, QoS |
+| 13. | Security | Password protection, IP Address Filtering, User Access Log |
+| 14. | Operating Condition | 0 to 50 oC |
+| 15. | Casing | Tamper Resistant Casing for Indoor Environment |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+सी.सी.टी.व्ही. कॅमेरे कार्यान्वीत करण्याकरीता लागणारी उपसाधने (अॅसेसरी) यांचा तपशील
+खालीलप्रमाणे :
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+| Sr. No | Material Description |
+| 1 | 16 inch Network Video Recorder with capability to view live / prerecorded video, H.264/MPEG-4 Dual Codec Decoding, HDMI, VGA, 2 USB2.0, Dual-core CPU |
+| 2 | 32 inch Network Video Recorder with capability to view live / prerecorded video, H.264/MPEG-4 Dual Codec Decoding, HDMI, VGA, 2 USB2.0, Dual-core CPU |
+| 3 | 40" LED Monitor. Samsung (or higher) |
+| 4 | 4TB Hard Disk of Any Standard Manufacturer with Standard such as CE/FCC/ISO for (Minimum seven days recording) |
+| 5 | 24 port 100/1000 MBPS Switch |
+| 6 | 8 port 100/1000 MBPS Switch |
+| 7 | Supply and fixing of 6U Wall Mount Rack |
+| 8 | Supply and laying of OFC cable with pipe/casing with ISO Mark( Inclusive of Installation and |
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+पृष्ठ ७ पैकी ४
+# Page 5
+शासन निर्णय क्रमांकः प्रशामा-२०२०/प्र.क्र.२९/आरोग्य ३अ
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|  | Fitting) |
+| 9 | Supply and laying of CAT-6 Cable with pipe/casing with ISO Mark( Inclusive of Installation and Fitting) |
+| 10 | 2 Core1.5 Sq MM Power Cable for supply of power to all the cameras with PVC Conduit, HDPE Pipe, Casing-Caping, Flexible Wire, Ethernet Ports, Saddling, Jumper, Turning pipe, screws, etc wherever necessary at site. |
+| 11 | Supply and erecting ISI mark G.I. Camera mounting pole. |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+अटी व शर्ती :
+१. सदर खरेदीसाठी शासन निर्णय, उदयोग, उर्जा व कामगार विभाग, क्रमांक भांखस-२०१४/प्र.क्र.८२/
+भाग ||/उदयोग-४, दि.०१.१२.२०१६ अन्वये प्रसिध्द केलेल्या सुधारीत नियमपुस्तिकेत विहित
+केलेल्या कार्यपध्दतीचा अवलंब करण्यात यावा.
+२. प्रस्तावित खरेदीचे दर हे अंदाजित आहेत. त्यामुळे खरेदी प्रक्रियेअंती निश्चित करण्यात आलेला
+दर हा बाजारभावापेक्षा कमी असल्याबाबत आणि संबंधीत पुरवठादाराने या बाबींचा इतर
+ठिकाणी ज्या दराने पुरवठा केला आहे त्या दरापेक्षा जास्त नसल्याबाबत खातरजमा करण्यात
+यावी.
+३. खरेदी करण्यात येणा-या बाबींची पुरवठापुर्व व पुरवठयानंतर नमुना तपासणी (Pre/post
+dispatch random sample inspection) करुन उचित व योग्य विनिर्देश असलेल्या
+वस्तुंचीच खरेदी करण्यात यावी.
+४. खरेदी करण्यात येणा-या बाबींचा पुरवठा झाल्यानंतर त्यांची साठवणूक व वितरण (Storage
+and Distribution) करणे तसेच पुरवठा साखळी व्यवस्थापन (Supply Chain management)
+व वस्तुसुची व्यवस्थापन (inventory Management) योग्य पध्दतीने करुन सदर बाबी
+विनावापर पडून राहणार नाहीत व त्यांचा विहित मुदतीत वापर होईल याची दक्षता घेण्यात
+यावी.
+५. सदर खरेदीची द्विरुक्ती (Duplication) होणार नाही याची दक्षता घेण्यात यावी.
+६. संपूर्ण खरेदी प्रक्रिया राबवितांना केंद्रीय दक्षता आयोगाच्या मार्गदर्शक सूचनांचे (CVc
+Guidelince) तंतोतंत पालन करण्यात यावे.
+पृष्ठ ७ पैकी ५
+# Page 6
+शासन निर्णय क्रमांकः प्रशामा-२०२०/प्र.क्र.२९/आरोग्य ३अ
+७. सदर खरेदी राज्यस्तरावरुन ई-निविदा प्रक्रिया राबवून करण्यात यावी.
+८. खरेदी प्रक्रिया पुर्ण झाल्यानंतर केंद्रीय खरेदी समितीच्या मान्यतेनंतरच पुरवठा आदेश
+निर्गमीत करण्यात यावेत.
+२. उपरोक्त खरेदीकरीता होणारा खर्च खालील लेखाशिर्षा अंतर्गत मंजूर अनुदानातून भागविण्यात यावा.
+मागणी क्रमांक आर-१
+२२१०-वैद्यकीय सेवा व सार्वजनिक आरोग्य
+०१ - नागरी आरोग्य सेवा व विषम चिकित्सा
+११०-रुग्णालय व दवाखाने
+११०-६ पंचवार्षिक योजनांतर्गत योजना, राज्य योजनांतर्गत योजना
+(०६) (०१) मध्यवर्ती मनोरुग्णालये
+२१ – पुरवठा व सामुग्री (२२१० ०२९१)
+३. सदर शासन निर्णय, शासन निर्णय, शासन निर्णय, वित्त विभाग क्र.विअप्र-२०१३/प्र.क्र.३० /२०१३
+/विनियम भाग-२, दि.१७.४.२०१५ सोबतच्या परिशिष्टातील वित्तीय अधिकार नियमपुस्तिका, १९७८, भाग
+पहिला, उपविभाग-दोन मधील अ.क्र.४, नियम क्र.७ अन्वये प्रशासकीय विभागास प्रदान करण्यात आलेल्या
+अधिकारानुसार निर्गमीत करण्यात येत आहे.
+# Page 7

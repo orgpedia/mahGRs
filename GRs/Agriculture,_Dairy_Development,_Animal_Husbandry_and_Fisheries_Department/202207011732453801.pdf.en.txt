@@ -1,0 +1,1091 @@
+# Page 1
+Implementation of Pradhan Mantri Fasal Bima Yojana (PMFBY) in the State for Kharif 2022 and Rabi 2022-23.
+The Government of Maharashtra
+Department of Agriculture, Animal Husbandry, Dairy Development and Fisheries
+Government Resolution No.Propivio-2022/ P.S. 72/11-O
+Madam Cama Marg, Hutatma Rajguru Chowk
+Mantralaya, Mumbai 400 032
+Date: July 1, 2022
+Read: 1. Department of Agriculture and Padum, Government Decision No. CIOS/ 1299/ CR 89/11-O, Dt. 4.12.1999.
+Government of the Department of Agriculture and Padum Decision No. Propivio-2020/ No. 40/11 O, D. 29.06.2020.
+Government Resolution No. 40/11 A of the Department of Agriculture and Padum- 2020/ PR No. 40/11 A, d. 17.07.2020.
+4. Revised guidelines of Pradhan Mantri Fasal Bima Yojana of Ministry of Agriculture and Farmers Welfare, Government of India.
+Letter No.5 of the Ministry of Agriculture and Farmers Welfare, Govt. of India. 15019/02/2019/ Credit 2, Dated 27.05.2021.
+Letter No. 6 of the Ministry of Agriculture and Farmers Welfare, Government of India. 17011/06/2018/ Credit 2 (FTS 65880), dated 17.06.2022.
+State Level Crop Insurance Coordination Committee. 08.06.2022 and D. Minutes of the meeting held on 30.06.2022.
+Introduction: Pradhan Mantri Fasal Bima Yojana is being implemented in the State since Kharif season 2016. Reference No. The scheme was approved for a period of three years from Kharif season 2020. However, the Central Government vide Reference No. The scheme has been approved for implementation under the Cup& Cap model (80:110). Accordingly, the government was considering to implement the Pradhan Mantri Fasal Bima Yojana for the notified crops in the notified areas of the state for one year for Kharif 2022 and Rabi 2022-23 seasons.
+Government Decision: Reference No. Insurance companies have been selected as implementing agencies for a period of one year as per the approval given under letter No. 6. The Government has decided to implement the Pradhan Mantri Fasal Bima Yojana (PMFBY) in the State for Kharif 2022 and Rabi 2022-23 seasons by adopting the Cup& Cap model (80:110) for the notified crops in the notified areas.
+Objectives of the scheme: 1. To provide insurance cover to the farmers in case of crop loss due to unforeseen adverse conditions like natural calamities, pests and diseases.
+2. Maintaining financial stability of farmers even in the most difficult situation of crop loss.
+Encourage farmers to use innovative and improved machinery technology and materials.
+4. To ensure continuity of credit flow to agriculture sector, which will help in achieving the objectives of food security, crop diversification and accelerated growth and competitiveness of agriculture sector, besides protecting the farmers from production risks.
+# Page 2
+GOVERNMENT DECISION NO.: PROPEVIO-2022/ P.S. 72/11-A
+Salient features of the scheme: The scheme will be applicable only to the notified crops in the areas notified under this Order.
+2. Pradhan Mantri Fasal Bima Yojana is voluntary for loanee as well as non-loanee farmers.
+Farmers who are cultivating the notified crops in the notified area on lease or lease in addition to the account holders are eligible to participate in the scheme.
+Under this scheme, the insurance premium to be paid by farmers has been limited to 2% for Kharif season, 1.5% for Rabi season and 5% for Kharif and Rabi season cash crops.
+Under the scheme, the risk level for one year Kharif 2022 and Rabi 2022-23 has been fixed at 70% for all notified crops.
+The threshold yield of notified crops in the notified area shall be determined by taking into account the risk level of the crop whose average yield in the last 5 years is more than the highest yield in the previous 7 years. The threshold yield will be for a period of one year and the premium rate offered by the insurance company will also be for this one year period.
+The scheme will be implemented for one year through selected crop insurance companies for a total of 12 district clusters. The insurance companies will bear the liability up to 110% of the total deposit insurance premium amount in the district group in a year. However, in case the amount of crop insurance premium paid in a year is more than 110% of the sum assured, the State Government will bear the burden of more than 110% and in case the amount of crop insurance compensation paid is less than the total sum assured in the district group, the insurance company will retain a maximum of 20% of the sum assured and refund the remaining sum assured to the State Government.
+8. Risk Factors: The following are covered under the scheme.
+8.1.1.Prevented Sowing/ Planting/ Germination of Crops due to Adverse Climatic Conditions.
+8.1.2 Mid-season Adversity (loss of crops due to adverse climatic conditions)
+8.1.3. Decrease in yield due to natural fire, lightning, hailstorm, storm, cyclone, flood, inundation of area, landslide, drought, rainfall deficit, pests and diseases etc. during the period from sowing to harvesting.
+8.1.4 Localized Calamities.
+8.1.5 Post-harvest losses due to natural causes.
+Crops and farmers covered under the scheme: Under this scheme, insurance cover will be provided to food crops, pulses crops and cash crops. The scheme will be implemented for the following notified crops at the level of Revenue Board/ Mandal Group or Taluka as notified by the Government for Kharif and Rabi seasons in the State.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Pick category      | Kharif season                                                                  | Rabi season                                                                           |
+| Cereals and pulses | Rice (Paddy), Kharif Jowar, Bajra, Nachani (Ragi), Moong, Urad, Tur, Maize (8) | Wheat (horticulture), Rabi sorghum (horticulture and Jirayat), gram, summer rice. (4) |
+| Wheat crops        | Soybeans, Soybeans, Sesame Seeds (5)                                           | summer ground (1)                                                                     |
+| Cash crops         | Cabbage, kharif onion (2)                                                      | red onion (1)                                                                         |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Page 46 of 2.
+# Page 3
+GOVERNMENT DECISION NO.: PROPEVIO-2022/ P.S. 72/11-A
+Kharif paddy and summer paddy crops have been notified for the notified areas in the state, for which the threshold production and the average production of the current year has been determined by taking rice into account.
+4. Crop-wise insurance premium rate and insurance premium subsidy: Under this scheme, the insurance premium rate will be charged at a realistic rate. However, the rate of premium per hectare to be paid by all farmers for Kharif and Rabi seasons is as follows.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| A.A.                          | crops                                                        | Insurance premium to be paid by farmers                                 |
+| Kharif season                 | Rabi season                                                  |
+| Crops and cereals             | 2% of the sum insured or the actual rate whichever is lower. | 1.5 per cent of the sum insured or the actual rate, whichever is lower. |
+| Cash crops (Kapus and Onions) | 5% of the sum insured or the actual rate whichever is lower. | 5% of the sum insured or the actual rate whichever is lower.            |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Under this scheme, the difference between the crop-wise premium per hectare and the actual premium to be paid by the farmers will be considered as the rate of normal premium subsidy. The central share of the insurance premium subsidy has been capped under the new amendment. As per the existing guidelines of the Central Government of the scheme, after deducting the farmer's share of the minimum insurance premium received through e-tendering, the remaining amount was being given to the insurance company by the State and Central Government in equal proportions. However, as per the revised guidelines of the Central Government dated 17 th August, 2020, the cap on Central share of insurance premium subsidy shall continue to apply. As per the revised guidelines of the Central Government, the Central Government will pay 30 per cent to the crops of dry districts and 25 per cent to the crops of horticultural districts.
+The State Government's premium subsidy to the insurance companies will be paid through the Agriculture Insurance Company of India (AIC) in various stages as per the procedure prescribed by the Central Government under the guidelines of the scheme.
+5. Insurance Coverage Amount and Crop Insurance Premium to be Paid by Farmers: Under Pradhan Mantri Fasal Bima Yojana, the crop-wise coverage amount for the year 2022-23 in the State has been generally fixed as per the crop loan rates fixed by the District Level Crop Loan Rate Committee. Similarly, there is a difference in crop-wise crop loan rates within the districts and crop loan rates have been approved at higher rates in some districts than the rates of the State Crop Loan Rate Committee. In this regard, the insured amount of the district where the rate is fixed higher than the maximum rate fixed by the State Crop Loan Rate Committee shall be the limit fixed for that crop.
+The details of district wise, crop wise insurance cover amount, insurance premium rate, insurance premium subsidy etc., for District Groups (Cluster) No. 1 to 12 are enclosed in Form A-1 to A-66.
+Components of the insurance sector:
+The scheme will be implemented with an Area Approach and crop-wise list of notified insurance area units i. e. Mandal or Mandal groups and Talukas is as per Annexure. The Mandal Group or Taluk Area Components are indicated by the headings},+} and the Annexure is attached to the Government Resolution. Under the scheme, the number of crop cutting experiments to be carried out in the insurance area specified for each crop to calculate the average crop productivity will be as follows:
+Page 46 of 3.
+# Page 4
+GOVERNMENT DECISION NO.: PROPEVIO-2022/ P.S. 72/11-A
+---------------------------------------------------------------------------------------------------------
+| A.A. | Crop Harvesting Experiment Insurance Notified Area | Minimum Crop Harvesting Experiment Number |
+| 1    | the District                                       | 24                                        |
+| 2    | Taluka                                             | 16                                        |
+| 3    | the Board of Revenue/ Board Group                  | 10                                        |
+| 4    | the Village/ Gram Panchayat                        | 4                                         |
+---------------------------------------------------------------------------------------------------------
+The State Level Crop Insurance Coordination Committee has notified crop-wise insurance sector components taking into account the average production in the last 5 years of the highest production in the last 7 years, area under the crop and the available manpower to carry out adequate crop harvesting experiments in the current season. In doing so, major crops in all the districts of the state have been included. The required number of crop cutting experiments have been planned as per the standard method of estimation of yield for all the notified crops.
+At present, 12 crop harvesting experiments are planned at the Revenue Board and Revenue Board block level.
+Accordingly, while the Revenue Board or the Revenue Board is planning the crop harvesting experiment at the regional level at the block level, the District Collector of the concerned district is being given the freedom to plan the crop harvesting experiment at the gram panchayat level for at least 12 crops. The Collector should plan the crop cutting experiments for the notified crops in the notified area for crop insurance as per the prescribed method in accordance with the available resources, manpower at the local level. Crop insurance should be used to calculate the average productivity of all these crop harvesting experiments to determine the average productivity of the notified crop of the notified area.
+Under the scheme, for Kharif 2022 and Rabi 2022-23, the average productivity in the insurance sector component of the current season will be determined by giving 90% weightage to the yield obtained through crop cutting experiments for paddy, soybean and cotton crops and 10% weightage to the technical yield. While determining the technical output, the production based on the technology obtained through Maha-Agritech projects will be within the limit of 30% lower/ higher tolerance limit of the production obtained through crop cutting experiments. In order to get accurate and timely production forecast, it is necessary to conduct crop harvesting experiments with the help of satellite images, as well as use modern techniques for crop production forecasting, e.g. The central government has suggested the use of drones (Dynamic Remotely Operated Navigation Equipment), smartphones, etc.
+With a view to obtain accurate data in a transparent manner, it has been made mandatory to use the mobile app developed by the Central Government for crop harvesting experiments under this scheme. No other system/ app should be used for crop harvesting experiments. The selection of the plot should be done by the random method prescribed for crop harvesting experiment or by using remote sensing technique if possible.
+7. Insurance Coverage: Under Pradhan Mantri Fasal Bima Yojana, farmers will get insurance cover for losses due to non-avoidable reasons for Kharif 2022 and Rabi 2022-23.
+7.1.Prevented sowing/ planting/ germination due to adverse climatic factors:
+Page 4 of 46
+# Page 5
+GOVERNMENT DECISION NO.: PROPEVIO-2022/ P.S. 72/11-A
+The insurance cover will be payable if the sown/ un-sown area is more than 75% of the normal sown area only for the notified major crops which could not be sown/ transplanted in the notified area on a large scale due to unfavourable weather conditions, inadequate rainfall in the season and other climatic factors.
+7.2 On Account Payment of Claims due to Mid-Season Adversity In case of adverse weather conditions during the season, however, if the expected production of the farmers is expected to fall by more than 50% of the average production of the previous 7 years due to floods, rain interruptions, drought, etc. up to 15 days before the normal harvest.
+7.3. Standing Crops from sowing to harvesting: Comprehensive insurance cover will be provided against crop yield loss due to unavoidable risks such as drought, rainfall, flood, inundation of area, widespread pest and disease infestation, landslides, natural fire, lightning, storm, hailstorm and cyclone.
+7.4 Localised Calamities: Under this, the loss of notified crop in a particular area due to damage caused by local natural calamities such as hailstorm, landslide, inundation of insured area, cloudburst or lightning, etc. will be determined at the individual level by conducting panchnamas.
+7.5. Post Harvest Losses: The loss due to hailstorm, cyclone, cyclone and unseasonal rain within two weeks (14 days) after harvesting of notified crop which is required to be spread in the field after harvesting or drying by tying straws, shall be assessed at individual level by conducting panchnama and determining the compensation subject to the criteria.
+General Exceptions- All of the above insurance coverage will not apply to the consequences of war and nuclear war, intentional damage and other avoidable risks, so insurance coverage will not be available in such circumstances.
+Scheme Implementation Mechanism: The scheme for Kharif 2022 and Rabi 2022-23 in the State will be implemented by the following insurance companies in the respective district groups.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| A.A.                               | District Group Number                               | The districts included                                                                                                                                                                                            | the designated insurance company |
+| 1                                  | Ahmednagar, Nashik and Chandrapur.                  | HDFC ERGO Insurance Co. Ltd. Address: HDFC House, 1st Floor, 165 166 Backbay Reclamation, HT Parekh Marg, Churchgate, Mumbai- 400020 Toll Free No: 1800 266 0700 E-mail: pmfby.maharashtra@hdfcergo.com           |
+| 4                                  | Jalna, Gondia, Kolhapur                             |
+| 2                                  | Solapur, Jalgaon, Satara                            | The address of Indian Agricultural Insurance Company is: Mumbai Regional Office, Stock Exchange Towers, 20th Floor, Dalal Street, Fort, Mumbai- 400023 Toll Free No: 1800 419 5004 E-mail: pikvima@aicofindia.com |
+| 6                                  | Aurangabad, Palghar, Raigad and Bhandara districts. |
+| Washim, Buldana, Sangli, Nandurbar |
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Page 46 of 5.
+# Page 6
+GOVERNMENT DECISION NO.: PROPEVIO-2022/ P.S. 72/11-A
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| A.A. | District Group Number          | The districts included                                                                                                                                                                             | the designated insurance company                                                                                                                                                                         |
+| 9    | Yavatmal, Amravati, Gadchiroli |
+| 10   | Osmanabad                      |
+| 11   | Latur                          |
+| 3    | Parbhani, Wardha, Nagpur       | ICICI Lombard General Insurance Co. Ltd. Address: Manikchand Icon, 3rd Floor, Plot No.246, C Wing, Bundgarden, Pune- 411001 Toll Free No: 1800 103 7712 E-mail: customersupportba@icicilombard.com |
+| 8    | Hingoli, Akola, Dhule, Pune    |
+| 4    | 5                              | Nanded, Thane, Ratnagiri, Sindhudurg                                                                                                                                                               | United India Insurance Co. Ltd. Address: Regional Office, 2nd Floor, Kakade Biz Icon, Near E-Square, Ganeshkhind Road, Shivajinagar, Pune-411016 Toll Free No: 1800 233 5555 Email: pmfbypune@uiic.co.in |
+| 5    | 12                             | bead                                                                                                                                                                                               | Bajaj Allianz General Insurance Co. Ltd. Address: Commer Zone, 1st Floor, Samrat Ashok Path, Jail Road, Yerawada, Pune- 411006 Toll Free No: 1800 209 5959 E-mail: bagichelp@bajajallianz.co.in          |
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Schedule of the scheme: The deadline for submission of insurance proposal for loanee and non-loanee farmers will be the same. As per the guidelines of the Central Government, the deadline for submission of insurance proposals by borrower/ non-loanee farmers to the banks and submission of proposals of borrower/ non-loanee farmers by the banks to the respective insurance companies has been fixed as follows.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| A.A.                                                                           | baba                                                                                                                                                                                                                                                                                                                                                           | kharif              | Rabbi                                                                                                                                      |
+| 1                                                                              | The last date for submission of application for participation in the scheme by farmers (borrowers and non-borrowers)/ deduction of insurance premium from the bank account of the borrower borrower or non-borrower farmers by the primary cooperative society/ bank/ your government service center/ insurance representative/ online application by farmers. | As of July 31, 2022 | 30th November, 2022 (Rabi Jowar) 15th December, 2022 (Wheat, Gram, Onion and other crops) 31st March, 2023 (Summer Rice, Summer Groundnut) |
+| Notice to loanee farmers for crop change in insured areas. Last date to submit | Two office hours before the last date of insurance registration                                                                                                                                                                                                                                                                                                |  Day before         | Two working days before the last date of registration                                                                                      |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Page 46 of 6.
+# Page 7
+GOVERNMENT DECISION NO.: PROPEVIO-2022/ P.S. 72/11-A
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| A.A. | baba                                                                                                                                                                                                                                                                                                                                                                                                                                                    | kharif                                                                                                             | Rabbi                                                                                                                                                                                                                |
+| 3    | The last date for transfer of insurance premium amount of farmers (borrowers and non-borrowers) electronically to the concerned insurance company and submission of consolidated declarations and insurance proposals from merchant bank/ Gramin Bank/ District Central Co-operative Bank branch to the concerned insurance company and registration of each farmer participating in the scheme on the website of Crop Insurance Scheme (PMFBY portal). | Within 15 days after the date of final participation of the farmer in the scheme.                                  | Within 15 days after the last date of participation of farmers in the scheme                                                                                                                                         |
+| 4    | Deadline for the loanee farmer to inform the bank not to participate in the scheme and not to transfer the insurance premium to the company by deducting the loan amount                                                                                                                                                                                                                                                                                | 7 days prior to the registration deadline                                                                          | 7 days prior to the registration deadline                                                                                                                                                                            |
+| 5    | The last date for submission of insurance declarations of the non-loanee farmers, electronic transfer of premium amount to the insurance company and registration of the farmer's participation on the website of the Crop Insurance Scheme (PMFBY Portal).                                                                                                                                                                                             | The application of the farmer' s participation and the amount of the insurance premium. Two days from the receipt. | Within two days from the receipt of the farmer's participation application and insurance premium                                                                                                                     |
+| 6    | Last date for acceptance/ rejection of farmer participation information by insurance companies on website of Crop Insurance Scheme (PMFBY                                                                                                                                                                                                                                                                                                               |  Portal)                                                                                                           | In the case of loanee farmers, it will be done within 15 days from the last date of insurance registration and in the case of non-loanee farmers, it will be done within 30 days from the last date of registration. | 15 days after the last date of insurance registration in case of loanee farmers and 30 days after the last date of insurance registration in case of non-loanee farmers. |
+| 7    | Your Government Service Center/ Bank/ Insurance Representative to rectify the errors in the insurance proposal                                                                                                                                                                                                                                                                                                                                          | Within 7 days of the insurance company's notification.                                                             | Within 7 days of the insurance company's notification.                                                                                                                                                               |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Page 46 of 7.
+# Page 8
+GOVERNMENT DECISION NO.: PROPEVIO-2022/ P.S. 72/11-A
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| A.A. | baba                                                                                                                                  | kharif                                                                                                                                                                    | Rabbi                                                                                                                                   |
+| 8    | Insurance company to accept revised proposal                                                                                          | Within 7 days from the date of removal of the defect in the insurance proposal by the center/ bank/ insurance representative.                                             | Within 7 days from the time your Government Service Center/ Bank/ Insurance Representative clears the errors in the insurance proposal. |
+| 9    | Bank/ Insurance Company to provide access to the insurance proposal to the insured farmer along with the folio                        | Within 7 days from the date of acceptance of the information on the portal by the insurance company.                                                                      | Within 7 days from the date of acceptance of the information on the portal by the insurance company.                                    |
+| 10   | Final date for approval of farmer participation information by insurance companies on website of Crop Insurance Scheme (PMFBY portal) | The last date of participation of farmers in the scheme.                                                                                                                  | Within 60 days after the last date of participation of farmers in the scheme.                                                           |
+| 11   | The last date for submission of average yield data to the insurance company.                                                          | Moong and Urad D. 15th November, 2022, Other Kharif Crops (excluding Tur, Cotton& Onion) D. 31st January, 2023 Cotton 28th February, 2023 Tur and Onion 31st March, 2023. | Rabi Crops- D. upto 31st July, 2023. Summer Rice and Onion- D. upto 31st August, 2023. Summer Groundnut- D. upto 31st October, 2023.    |
+| 12   | to pay damages.                                                                                                                       | 3 weeks after receiving the average production figures, subsidies, etc.                                                                                                   | 3 weeks after receiving the average production figures, subsidies, etc.                                                                 |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+9.1 Criminal action in case of bogus crop insurance: If it is found that the name of the farmer is not on the 7/12 line of the survey number and area for which crop insurance has been taken out, making bogus cases of crop insurance on the basis of bogus 7/12 and crop insurance records, then the responsibility of taking legal action against the culprits in such cases will be of the concerned insurance company as per the direction of the District Control Committee. Also, action should be taken against the Tahsildar for filing separate cases through the Revenue Department regarding the attempt to defraud the government by manipulating the revenue documents.
+9.2 E-Crop Inspection: Crops should be inspected under E-Crop Inspection. If there is a difference between the crop insured under the insurance scheme and the crop registered in the e-crop inspection, the crop registered in the e-crop inspection will be considered final.
+10. Method of determining compensation:
+10.1 Areas not grown due to adverse climatic factors (a) Determination of Preventive Sowing Compensation:
+Page 46 of 8.
+# Page 9
+GOVERNMENT DECISION NO.: PROPEVIO-2022/ P.S. 72/11-A
+This provision shall be applicable in case of failure of sowing or sowing/ transplantation of notified major crop in the notified area of Kharif and Rabi seasons due to inadequate rainfall or adverse climatic conditions in the notified area, in more than 75% of the sown area of the notified insurance area unit.
+b) The terms of compensation under this risk shall be as follows:
+1) The concerned District Collector should issue a notification regarding the notified insurance area and the crop-wise average sown area based on the representative suggestions regarding this risk.
+(ii) Notified insured area units where sowing/ sowing has not been done in more than 75% of the average sown area shall be eligible for compensation. The deadline for applying this risk should not be more than one month before the deadline for sowing the crop. Also, the insurance must be registered within 15 days after the last date of joining the scheme.
+3) Farmers who have paid the insurance premium amount before the notification of the loss to be announced by the concerned Collector or the insurance premium amount has been deducted from their account will be eligible for this assistance. All the banks should ensure that the insurance premium of all the loanee farmers is deducted within 15 days of the sanction of crop loan in the case of loanee farmers and this provision is applicable to all the loanee farmers. Otherwise, the concerned banks will be responsible for the compensation of the farmers who have been deprived of insurance coverage due to the fault of the banks.
+4) The notified insurance sector component will be taken into account for determining the compensation.
+5) The insurance company may request the District Level Joint Committee to issue the notification for pre-sowing/ pre-sowing compensation notification within the prescribed period with necessary proof. The district-level joint committee will study the matter and take a decision within 7 days. If the fact of sowing does not meet the demand of the insurance company, it will inform the insurance company with the reasons.
+If the district level joint committee decides not to implement this provision, the insurance company can ask the state government for a notification with these details.
+6) The compensation will be limited to 25 per cent of the sum insured and the insurance cover of the said area will be terminated.
+(i) The insurance cover shall be applicable only to major crops in the notified area. While fixing the main crop at the insurance notified area, at least 25% of the total gross cropped area at the district/ taluka level shall be covered under that main crop of the season.
+2) The farmer concerned will not be eligible for insurance risk cover if the crop loan is sanctioned/ disbursed only after non-deposit or deduction of insurance premium by the bank before the notification.
+The concerned District Collector shall be required to issue a notification regarding the risk within 15 days after the last date of participation in the scheme but within a period not exceeding one month from the last date of sowing of the crop as per the notified crop schedule.
+4) The compensation will be paid by the insurance company within 30 days after the report of the affected area, the estimated sown area and the notification is issued by the concerned collector.
+5) After receiving the first installment of the insurance subsidy from the government, the insurance company will pay the compensation as above.
+After payment of compensation to the notified crop in the affected notified area under the said risk, the insurance cover for the said crop shall be terminated and the said notified area/ crop shall not be eligible for compensation to be determined on the basis of income at the end of the season.
+Page 46 of 9.
+# Page 10
+GOVERNMENT DECISION NO.: PROPEVIO-2022/ P.S. 72/11-A
+After the implementation of this provision, the new insurance cover registration facility will not be available for the affected notified area/ crop.
+(8) This provision shall, after coming into force, apply to all farmers who have taken insurance cover for the affected notified area/ crop.
+9) The farmers who have not paid the insurance premium before the notification of the loss to be announced by the concerned Collector/ have not deducted the insurance premium amount from their account will not be eligible for compensation.
+All banks are required to upload the list of insured farmers on the crop insurance portal. However, if the list is pending to be uploaded on the Crop Insurance Portal, the concerned banks are required to send the list of farmers along with the amount of insurance premium deposited with them to the concerned insurance company with suitable reasons within 7 days of the notification of loss under this provision. However, this provision should only be used in exceptional circumstances.
+10.2 Fixation of Mid-Season Adversity Compensation.
+For example, during the rainy season. If the expected production of the farmers is expected to decrease by more than 50 percent of the average production due to floods, rain interruptions, drought, etc., then the insured farmers will be given an advance up to a limit of 25 percent of the amount of compensation.
+(a) The criteria for grant of compensation shall be as follows: (i) If the expected production of the notified crop in the notified area is less than 50% of the average production of the previous 7 years of the notified crop, all the notified insurance areas shall be eligible for such assistance.
+Based on the representative suggestions, the concerned Collector should issue a notification regarding the payment of compensation for the notified insurance area for a particular crop and group of crops by meeting the necessary provisions for determining this risk.
+The amount of damage and the compensation to be paid will be determined according to the joint inspection of the state government officials and the insurance company.
+Farmers who have paid the insurance premium amount before the notification of the loss to be announced by the concerned Collector or the insurance premium amount has been deducted from their account will be eligible for this assistance. All the banks should ensure that the insurance premium of all the loanee farmers is deducted within 15 days of the sanction of crop loan in case of willing loanee farmers and the same is applicable to all the willing loanee farmers. Otherwise, the concerned banks will be responsible for the compensation of the farmers who have been deprived of insurance coverage due to the fault of the banks.
+The advance amount of compensation will be given up to a limit of 25% of the expected compensation amount and this assistance will be adjusted from the final compensation.
+(6) If the adverse event occurs 15 days before the normal withdrawal time, this provision shall not apply and no compensation shall be payable.
+7. The notified insurance sector component shall be taken into account for determining the compensation.
+(b) Method of determining the compensation: (i) The District Level Monitoring Committee shall constitute a Joint Committee of the officials of the Insurance Companies and the State Government and this Committee shall take action for crop loss survey.
+Page 46 of 10.
+# Page 11
+GOVERNMENT DECISION NO.: PROPEVIO-2022/ P.S. 72/11-A
+2) Based on the above report, the State Government officials and representatives of insurance companies will jointly inspect the affected areas and determine the extent of damage. For this, mobile app and preferably remote sensing Automatic Weather Stations (AWS) under Maha Agritech project, objective data collected from various sources as well as various proxy indicators identified by the Central Government should be used.
+(3) The above provision shall apply if the expected loss of the affected crop in the notified insurance area is more than 50% of the average production of the preceding 7 years.
+4) Compensation formula: Threshold production- Expected production
+Compensation amount Rs.- X Sum Insured X 25% Threshold Product
+(e) Conditions: (1) In order to be eligible for this provision, farmers are required to participate in the scheme by paying the insurance premium, irrespective of the eligibility criteria such as sanction/ disbursement of loan to farmers before the notification in this regard.
+2) After receiving the insurance premium subsidy (first installment) from the government, the insurance company will be compensated for this provision.
+3) The farmers who are eligible for the above provisions will be compensated by the insurance company within 1 month after the report of the damage and notification is issued by the Collector.
+4) The compensation will be adjusted against the final compensation amount.
+All banks are required to upload the list of insured farmers on the Crop Insurance Portal. However, if the list is pending to be uploaded on the Crop Insurance Portal, the concerned banks are required to send the list of farmers along with the amount of insurance premium deposited with them to the concerned insurance company with suitable reasons within 7 days of the notification of loss under this provision. However, this provision should only be used in exceptional circumstances.
+10.3. Determination of compensation based on average yield at the end of the season. (a) Technological basis for determination of compensation for notified crops other than paddy, soyabean and cotton. If the average yield per hectare of the insured crop in a given area falls below the threshold yield, it is assumed that all the insured farmers in that area have suffered a loss.
+The threshold yield or guaranteed yield of an insurance component shall be the average yield of 5 years out of the best of the previous 7 years in that season for all crops x the risk level. Under the scheme, the risk level for all crops has been fixed at 70% for Kharif and Rabi seasons 2022-23.
+Average production in the last 7 years of the threshold production season best 5 years x 70% (Risk Level)
+Page 46 of 11.
+# Page 12
+GOVERNMENT DECISION NO.: PROPEVIO-2022/ P.S. 72/11-A
+2. Formula for determining compensation:
+Average annual production
+Compensation- The sum insured (Rs. It's per. (a) the production
+(b) Procedure for determination of compensation for paddy, soyabean and cotton crops based on technology: 1. The compensation to be determined under the Pradhan Mantri Fasal Bima Yojana is 90% weightage to the produce obtained through crop cutting experiments in the insurance sector unit as determined by the Government.
+The average production at the insurance sector component level will be determined by giving 10% weightage to the production.
+The production is based on the technology obtained through Maha-Agritech projects while determining the technical output
+30% of the yield obtained through harvesting experiments will be within the limit of lower/ higher tolerance limit. If
+Average yield per hectare of an insured crop in a given area
+If the production is less than the production, it will be assumed that all the insured farmers in the area have suffered losses.
+The threshold yield of an insurance component is the best 5 out of the last 7 years for that season for all crops.
+Average output for the year will be x risk level. Kharif and Rabi seasons for all crops under the scheme
+The risk level has been fixed at 70 per cent for 2022-23.
+Threshold production= 5 years best average production in the last 7 years of the season X 70% (Risk level)
+3. Formula for determining compensation:
+Average Production= (Crop Harvesting Experiment yield× 0.90)+ (Technical Yield x 0.10) The production based on the technology obtained from the Maha-Agritech projects while determining the technical yield is the crop
+30% of the yield obtained through harvesting experiments will be within the limit of lower/ higher tolerance limit.
+For example, while implementing the scheme, the average production assuming 10% technical yield is as follows: 1000 kg/ ha.
+The production achieved on the basis of technology is 1500 kg/ ha.
+Technical production Cap@ 30% 1300 kg/ ha.
+Average yield (1000x 0.90)+ (1300 x 0.10) 900+130
+1030 kg/ ha.
+Threshold production- Average production for the current year
+The amount of insurance cover (Rs. It's per. (a) the production
+Fixed T.Y. The threshold yield will be determined on the basis of the average yield of the last 5 years out of the previous 7 years for the notified crops and the level of risk determined.
+Page 46 of 12.
+# Page 13
+GOVERNMENT DECISION NO.: PROPEVIO-2022/ P.S. 72/11-A
+4. The data of production at the insurance sector component level under the MahaGritech project will be taken into account while determining the average production based on technology. If these data are not received in time, the production data obtained through crop harvesting experiments will be taken into account while determining the average production.
+General Instructions regarding Crop Harvesting Experiment: 1. If the crop harvesting experiment fails to cover the area under the crop as per the number prescribed in the insurance area component, the following action shall be taken.
+Where there is not enough area under the crop, adverse climatic conditions/ infrastructural facilities do not allow sufficient crop to be harvested, the concerned insurance sector shall first assume the average yield of the nearest equivalent insurance sector unit for the unit. Only if it is not possible to do so, the insurance sector concerned assumes the production of a higher unit than the unit. However, this provision can be used only in exceptional circumstances and at least for insurance sector entities, and not to prevent crop harvesting experiments. The district level machinery needs to ensure that adequate crop harvesting experiments are carried out in all the notified insurance area units as planned. The threshold product will not be released before the insurance claim is settled.
+It will be mandatory/ necessary for the State Government/ concerned field staff to provide full opportunity to the insurance companies to co-witness the crop harvesting experiments and provide electronic/ physical copies of the relevant photographs and charts immediately. Field level staff/ officials engaged in crop harvesting
+In order to coordinate with them and to mobilize manpower accordingly, the schedule of crop cutting experiment should be informed to the crop insurance company at least 7 days in advance.
+Crop insurance companies will be required to appoint one of their skilled representatives at the district level for at least three months during the harvesting season to control, coordinate and obtain necessary information about the crop harvesting experiment in the district. For this purpose, the district administration should make arrangements to facilitate the exchange of information on crop harvesting experiments by providing the necessary space and facilities in the office of the District Superintendent Agriculture Officer.
+If the distance between two rows of tur is up to 180 cm, then it should be considered as a continuous crop and its production should be recorded in the crop harvest. If the sowing distance between two rows of turmeric is more than 180 c.m. then the amount of increase in the distance between the two rows does not reduce the production of turmeric.
+Crops occupy the open space. Because of this, there is a problem in determining the production of tur by recording the distance between the crop and removing the distance between the two rows of tur. Therefore, if the distance between two rows of tur is up to 180 cm, then the crop should be harvested by considering it as a continuous crop of tur and the production should be fixed. However, if the distance between two rows is more than 180 cm, then the distance between the next two rows will be 180 cm, excluding the plot for harvesting the crop. The site should be selected within the m.
+10.4. Localised Disasters: Under this component, the loss of notified crop due to damage caused by localised natural calamities such as inundation of insured area, landslide, hailstorm, cloudburst or lightning, will be determined by conducting panchnama at individual level.
+The risk will be applicable if the crop is damaged due to increased water level or overflowing well or flood water entering the field and the farm remains submerged for a long time.
+Page 46 of 13.
+# Page 14
+GOVERNMENT DECISION NO.: PROPEVIO-2022/ P.S. 72/11-A
+10.5) Determination of post-withdrawal compensation.
+The compensation will be paid only for the notified crops which have been harvested and spread for drying in the fields in the notified area, in case of damage caused by hailstorm, cyclone, cyclone and unseasonal rain for a maximum period of 2 weeks (14 days) from the harvest. Under this provision, the risk will be applicable only if the unseasonal rainfall is more than 20% of the average of the long-term rainfall of that month for that district and the loss is found in the panchnama at the individual level.
+The criteria for compensation under risk 10.4 and 10.5 shall be as follows:
+This provision will be applicable at the individual level for all farmers growing notified crops in the notified insurance area.
+The maximum liability will be equal to the sum insured for the affected crop area.
+(3) The compensation shall be paid in proportion to the net cost incurred for cultivation of the crop till the occurrence of the risk under this head subject to the sum insured.
+11. Action to be taken to determine the compensation for various risks covered under the scheme.
+11.1 Action to be taken and timelines for Adverse Conditions/ Pre-Sowing Risks during Kharif and Rabi Season 1. A District Level Joint Committee is being constituted under the Chairmanship of the Collector at the District level to determine the compensation for Adverse Conditions/ Pre-Sowing/ Pre-Sowing Risks during the season.
+The representatives will be as follows: 1) District Superintending Agriculture Officer (Convener/ Secretary) 2) Representative of the concerned insurance company 3) Representative of the Meteorological Department at the nearest observatory 4) Representative of the Krishi Vidyapeeth or Krishi Vigyan Kendra 5) Three farmer representatives nominated by the Committee 6) Subject experts nominated by the Committee (as per requirement)
+The first meeting of the said Committee shall be held within 7 days of the issue of the said Government Resolution so that the members of the Committee may be acquainted with the nuances of the said provision.
+In case of adverse weather conditions or in case of pre-sowing/ pre-sowing risks, the decision to issue the notification should be taken by keeping all the information, reports in accordance with the representative suggestions in the district level joint committee meeting within 7 days of the detection.
+4. Neglected survey of 5% of total sown area of notified crops in notified areas within 7 days of the meeting of the District Level Joint Committee is required to be carried out for assessment of damage. The survey is to be conducted at 10 randomly selected locations in the insurance sector. Further, a survey of 75% of the area under pre-sowing/ pre-sowing risk conditions is required to assess the damage.
+The notification shall be issued within 7 days of the receipt of the report of the Joint Committee on the assessment of losses in the notified insurance sector units.
+The State shall fix the amount of insurance within one month after the notification is issued regarding the loss in the notified insurance sector units and after receiving the report of the Joint Committee on Damage Assessment.
+Page 46 of 14.
+# Page 15
+GOVERNMENT DECISION NO.: PROPEVIO-2022/ P.S. 72/11-A
+The insurance company should pay the compensation immediately without waiting for the final premium subsidy subject to the receipt of at least 50% premium subsidy from the government.
+11.2 Action to be taken under Risk of Post Harvest Loss and Local Disaster and Time Limit-
+(a) The manner and schedule of submission of the report of loss
+Farmers who have taken insurance cover will be required to inform the concerned insurance company about the affected crop and affected area according to the survey number within 72 hours of the incident. It will be mandatory to report the survey number and details of the damaged area while reporting the damage.
+Payment of premium can be verified from the Crop Insurance website/ bank as per requirement.
+The bank will be required to ensure that the premium is paid within 48 hours and submit its receipt to the insurance company.
+The mobile app developed by the Department of Agriculture and Farmers Welfare will be able to provide information by taking pictures of the area damaged due to local disasters along with its latitude and longitude.
+b) Method of reporting crop loss Farmers participating in the scheme should report the loss within 72 hours of the occurrence of the incident through insurance company, concerned bank, agriculture/ revenue department or toll free number. First of all, the central toll-free number should be used. The information will be sent to the concerned insurance company from the central toll-free number within the next 48 hours. If the central toll-free number is not available, the bank/ agriculture and revenue department should be informed about the disaster and the information should be immediately given to the insurance company.
+e) Documents required to be submitted for determination of compensation The farmer is required to submit an application in the prescribed format for filing a claim for compensation along with the required documents (7/12, proof of payment of insurance premium with crop record, etc.) to the insurance company. If the farmer is not able to submit the application in the prescribed format with complete information, he can submit the application on the basis of available information, but the remaining information in the application will be required to be submitted to the insurance company within 7 days. The photographs taken through the system on mobile phones can be given as proof of crop loss. Along with this, details of the India Meteorological Department, media reports, etc. can be shared.
+(i) The insurer shall appoint a supervisor as per the prescribed experience and educational qualification criteria to assess the loss within 48 hours of receipt of information. It is required to have a diploma in any subject and two years of experience or a degree in agriculture and allied subjects and one year of experience. Similarly, retired officers of Agriculture/ Horticulture/ Agriculture Extension Branch, retired bank officers who have experience in crop loan disbursement can be appointed.
+The survey of crop loss will be done by a joint committee which will include the supervisor of the insurance company, agriculture officers at the taluka level and the concerned farmers.
+A report of the damage must be prepared within 10 days.
+Page 46 of 15.
+# Page 16
+GOVERNMENT DECISION NO.: PROPEVIO-2022/ P.S. 72/11-A
+4) The compensation should be paid within 15 days after the receipt of the report of damage (subject to the condition that the insurance premium has been deposited).
+For post-harvest risk, if the affected area of the notified crop is more than 25% of the total sown area, all eligible farmers in the notified area will be eligible for post-harvest compensation. The amount of loss will be determined by the insurance company on the basis of a sample survey conducted by the joint committee.
+For local disaster risk, if the affected area is up to 25 per cent of the notified insured area, at individual level and is more than 25 per cent, eligible farmers in the notified area (who have participated in the insurance scheme and whose crop loss was reported within the prescribed time) will be eligible for compensation.
+7) The insurance company will pay the unpaid compensation within 15 days after receiving the report of the damage.
+8) If the compensation (based on the crop cutting experiment) determined on the basis of average yield at the end of the season is more than the compensation received under post-harvest compensation, the difference in compensation will be paid to the farmers. But if the compensation received under the post-harvest compensation is more, then the difference amount will not be recovered from the farmers.
+(a) The conditions:
+1) Farmers who have paid the premium amount before the notification of loss or the insurance premium amount has been deducted from their account will be eligible for this assistance.
+(ii) On receipt of advance insurance premium subsidy (at least the first installment) from the Government on the risk under local disaster, the insurance company shall pay compensation for the said provision. However, the compensation for the said provision will be paid by the insurance company only after the final premium subsidy (second installment) is received from the government in respect of the risk after withdrawal.
+(3) If at the end of the season, the compensation determined on the basis of the available information on the crop harvesting experiment is higher than the compensation received under this provision, the amount of difference between the higher compensation will be payable to the farmer at the end of the season. If the farmers' participation or insurance premium is deducted after the occurrence of a local disaster, then such farmers will not be eligible for financial assistance.
+Important Terms and Conditions for Risk Matters 1. The insurance premium shall be received by the insurer from the bank/ financial institution or directly. In case the premium is not received by the insurer on time due to the negligence of the above mentioned entities, the liability for compensation payable in respect of the said insurance proposals shall rest with the concerned bank/ financial institution.
+In case of any wrong information provided by the bank or financial institution in respect of the insurance proposal of the borrower farmers, the liability of compensation in respect of such proposal shall be borne by the concerned bank/ financial institution.
+3. Only sanction/ disbursement of crop loan and submission of insurance proposal and payment of insurance premium by the farmer/ bank and no acknowledgement of risk by the insurance company unless the purpose of growing the crop is clear.
+Rainfall data as a representative indicator of various risks, other meteorological data, satellite imagery validated by ISRO or any other government agency (MRSAC), drought situation of Mahalanobis National Crop Forecast Centre, New Delhi
+Page 46 of 16.
+# Page 17
+GOVERNMENT DECISION NO.: PROPEVIO-2022/ P.S. 72/11-A
+The crop report prepared by the district level officers, local media reports and photographs etc. should be used.
+4. The data from the Automatic Weather Station authorized under the Mega Project will be used to determine the compensation. The following tips should also be used.
+Acute Drought Situation- Data collected with the help of satellite under MahaAgritech, Maha-Relief Project as per the Drought Code of 2016.
+(ii) Drought conditions or rainfall declared by the Government.
+3. Abnormal increase or decrease in temperature as compared to long-term average.
+4. Widespread outbreak of pests and diseases.
+5. Natural calamities including floods resulting in extensive crop loss 5. Differences in planting area: In order to avoid over-reporting of sown area and over-insurance coverage, stakeholders should verify all land records, bank documents, revenue documents and loan proposals etc. covered under the Sundur Scheme and take appropriate action. The scheme provides for crop rotation and protection against losses due to local calamities. However, if any discrepancy is found between the sown area and the insured area, such insurance proposals will be cancelled. Below are the steps to be followed in this regard.
+The provision of difference in area of cultivation will be applicable to the major crops for which the general sowing area data at the block level will be available on the National Crop Insurance Portal using remote sensing or other technology from MNCFC. Data from any other source, including the state government, will not be considered.
+However, if the area covered is more than the sown/ sown area reported at the Taluk level, such irregularity/ discrepancy shall be brought to the notice of the Department of Agriculture, Government of India and Ministry of Farmers Welfare, Government of India in writing after the last date of participation but before finalizing the matching of applications and documents received by the banks. The list of bank branches should also be mentioned. So that the government can take cognizance of these cases and the concerned banks will make appropriate corrections before finalizing the season data.
+(2) The decision of the Government of India in respect of discrepancies in the insurance sector shall be final. If the difference between the sown area and the insured area reported by MNCFC is more than 30% at the taluk level, all the insured area units in such taluk will fall under the area discrepancy category.
+Accordingly, the excess area will not be treated as insured and the premium amount of the concerned farmers will be forfeited and dedicated to the Government of India Technology Fund.
+4) As per the sector reform component, the amount of insurance premium reimbursed by the insurers will be transferred to the Central/ State Government in the ratio of 50:50.
+5) The details regarding the area improvement coefficient considered in the insurance compensation will be made available on the National Crop Insurance website.
+13.No Liability for Damage Compensation: The liability for damage as per the provisions of the scheme shall be borne by the insurance company concerned. Under this scheme, insurance companies will bear the liability of up to 110 per cent of the total deposit insurance premium amount in the district group in a year. However, in case the amount of crop insurance compensation payable in a year is more than 110% of the sum assured, the State Government will bear the burden of more than 110% of the premium amount and if the due crop is more than 110% of the premium amount.
+Page 46 of 17.
+# Page 18
+GOVERNMENT DECISION NO.: PROPEVIO-2022/ P.S. 72/11-A
+If the amount of insurance compensation is less than the total deposit insurance premium amount in the district group, then the insurance company will keep a maximum of 20 percent of the insurance premium amount and return the remaining insurance premium amount to the state government. Below is an example of how this is done.
+Situation-1: If the amount of deposit insurance premium in the district group is 100 crore and the compensation payable is 115 crore, then the insurance company will pay a compensation of Rs 110 crore and the state government will pay Rs. 5 crore.
+Situation-2: If the premium amount deposited in the district group is 100 crore and the compensation payable is 75 crore, then the insurance company will pay a compensation of Rs. 20 crore and Rs.
+5 crore to the State government.
+Method of payment of compensation to farmers:
+The insurance companies are required to reimburse the farmers insurance premium received by them and the advance insurance premium received from the government (first installment) for claims arising out of sowing/ transplantation due to adverse weather conditions/ local calamities during the season without waiting for the payment of the final insurance premium (second installment). As per Section 64B of the Insurance Act, the insurance company is required to pay the compensation in such cases by using the insurance premium received for the affected area, the farmer's share and the advance insurance premium (first installment) paid by the state government.
+2) Claims for post-harvest losses based on production figures are required to be made on receipt of the second installment of insurance subsidy from the Government. The government is required to disburse the second installment based on the interim insurance participation data received on approval of applications on the portal within 15 days after the deadline for insurance registration. The remaining insurance premium is to be paid by the government, if applicable, after full verification of the insurance registration data for the season.
+(3) In the provision of fixing the compensation at the end of the season, the compensation for the notified crops in the notified area shall be determined by the competent authority of the insurance company on the basis of the insurance proposal received from the bank/ insurance representative after receiving the production data as per the schedule prescribed by the State Government.
+4) The compensation to the farmers participating in the scheme will be transferred by the financial institution to the concerned bank/ financial institution through electronic fund transfer system and thereafter, the detailed information of the compensation in writing will be provided by the insurance company. After receiving the compensation amount, the bank/ financial institution shall credit the compensation amount in the account of the eligible farmer within one week and submit the certificate to the insurance company. This information will also have to be published on the notice board and insurance website by the bank.
+5) If the farmers have participated in the insurance scheme through insurance agents, the compensation amount will be directly credited to the farmers' account through the insurance company and they will be informed about it and the information of such farmers will be required to be published on the insurance website.
+6) The compensation to be paid to the farmers as specified above shall also be paid in respect of loss due to sowing/ non-sowing due to adverse climatic conditions, loss due to local natural calamities or post-harvest losses.
+7) Complaints of farmers and other stakeholders involved in the insurance scheme will need to be addressed by the insurance company without delay.
+Page 46 of 18.
+# Page 19
+GOVERNMENT DECISION NO.: PROPEVIO-2022/ P.S. 72/11-A
+(8) The State Government shall not, under any circumstances, recalculate or refer the insurance claim cases for reconsideration after a period of more than 1 month from the date of payment of compensation in case of claims for insurance compensation in dispute on account of misreporting of productivity or other reasons. The claims received after this period will be referred to the State Level Coordination Committee/ State Level Technical Advisory Committee and thereafter to the Technical Advisory Committee under the Ministry of Agriculture, Cooperation and Farmers Welfare, Government of India for consideration and decision.
+State Level Coordination Committee:
+The State Level Crop Insurance Coordination Committee (SLCCCI), constituted under the chairmanship of the Chief Secretary, will monitor the implementation of the scheme at the State level. The composition and functions of the Committee shall be as follows:
+Chief Secretary: Chairman. Additional Chief Secretary (Finance): Member.
+4 Additional Chief Secretary (Agriculture): Member 5. Principal Secretary (Revenue): Member 6. Principal Secretary (Cooperation): Member
+Commissioner (Agriculture), State of Maharashtra: Member
+Commissioner and Registrar of Co-operatives, Maharashtra State: Member 9. Representative of Insurance Company: Member
+Director (Directorate of Finance and Statistics, Mumbai): Member
+Representative of Reserve Bank of India: Member 12. Representative of Maharashtra State Cooperative Bank: Member 13. Representative of NABARD: Member
+State Level Bankers' Committee (SLBC) members.
+Maharashtra Sudur Survekshan Sub Plan Centre Nagpur (MRSAC): Member
+Representative of the India Meteorological Department (IMD): Member
+17. Skymet Weather Services Ltd. Representative of: Member 18. Deputy Secretary (Agriculture) Government of Maharashtra: Member Secretary
+Functions of State Level Crop Insurance Coordination Committee:
+Monitoring the implementation of the plan.
+(ii) To decide on the areas and crops to be notified during each season, to determine the district groups, to determine the risk level, to determine the amount of insurance cover, to take action on selection of operational mechanism etc., taking into account the available data of crop production, area under crop and the capacity to undertake crop harvesting experiments as per the prescribed numbers.
+3.Take decisions after due deliberation in respect of various difficulties faced in the implementation of the scheme and to correspond with the Central Government, if necessary.
+page 46 of 19.
+# Page 20
+GOVERNMENT DECISION NO.: PROPEVIO-2022/ P.S. 72/11-A
+4. To discharge the responsibilities prescribed by the Central Government from time to time.
+Control of the scheme: The control of the scheme at the state level will be done by the State Level Crop Insurance Scheme Coordination Committee through the Commissioner, Agriculture. In order to ensure that maximum farmers get the benefit of the scheme, the Commissioner, Agriculture will take measures in accordance with the following points with the help of the district level committee and the field machinery.
+The details of the farmer's complete name, bank account number, name of the village, category of farmers (small and marginal farmers/ SC/ ST/ women, men), insurance covered area, details of crops, amount insured, deposit insurance premium, insurance premium subsidy, etc. will be collected by the bank and the details of the insurance proposal and insurance premium amount will be submitted to the respective insurance company in soft and hard copy within the prescribed time. The detailed details of the crop harvesting experiment by the state government will be submitted to the concerned insurance company within the stipulated time.
+b) The amount of compensation will be directly credited to the account of the beneficiary farmers by the concerned insurance company.
+The farmer-wise details of compensation will be published on the notice board by the bank.
+(c) The bank-wise and notified area-wise list of beneficiary farmers under the scheme will be published by the insurance company on the crop insurance website and the website of the concerned insurance company. Action will also be taken by the insurance company to redress the grievances of the farmers in this regard.
+5% of the beneficiary farmers of the scheme will be examined by the regional/ local office of the insurance company and a separate report will be sent to the State Level and District Level Coordination Committee.
+e) 10% of the beneficiaries screened by the insurance company will be screened by the District Level Coordination Committee and its report will be sent to the State Government.
+e) 1% to 2% of the beneficiaries will be examined by the head office of the insurance company or through an independent mechanism appointed by the Central Government and its report will be submitted to the Central Government.
+a) As soon as the details of the crop protected area and sown area are obtained for the area coefficient calculation, the crop should be harvested before the experiment begins. Similarly, errors in productivity records should be brought to the notice of the state government immediately. However, the error shall not be reported after 15 days from the date of receipt of final crop productivity data.
+District Level Review Committee: During every season, the agriculture department will closely monitor and control the agricultural situation in the state. Committees have been formed at district level.
+District Collector: 2. General Manager, District Central Co-operative Bank: 3. Manager, Lead Bank: 4. Agriculture Development Officer District Council: 5. District Superintending Agriculture Officer: 5. Member Secretary The committee shall submit a detailed report to the implementing agency (concerned insurance company) every fortnight regarding the sowing area of each crop, climatic conditions, pest and disease outbreak, crop damage assessment etc. Appointment of mechanism for conducting panchnamas at individual level, beneficiary verification etc. The committee will be responsible for the successful implementation of the plan.
+Page 46 of 20.
+# Page 21
+GOVERNMENT DECISION NO.: PROPEVIO-2022/ P.S. 72/11-A
+Similarly, the district. The implementation of the scheme will be reviewed at the district level under the chairmanship of the Chief Minister.
+District Level Steering Committee:
+Following Steering Committees are being constituted in each district for planning, implementation and monitoring of crop harvesting experiments to ensure accurate and timely availability of crop yield data to the Agriculture Department.
+1. Resident Deputy Collector: Presiding Officer 2. Deputy Chief Executive Officer (Development), District Council: Member 3. Agriculture Development Officer District Council: Member 4. Representative of Sample Survey Organization: Member 5. Representative of Insurance Company: Member 6. Technical Officer, District Superintendent Agriculture Officer Office: Member Secretary The presence of the representative of the insurance company on the committee will be mandatory so that the insurance company gets to know the complete situation, planning of crop harvesting experiments, schedule, selection of plots for crop harvesting, obtaining form 2 copy and production of each plot etc.
+The Chairman of the committee will be responsible for planning crop harvesting experiments, uploading all information on the National Crop Insurance Portal and training of the concerned personnel. The minutes of the meetings of the Steering Committee should be submitted to the District Level Review Committee and State Level Nodal Officer to the Commissioner of Agriculture. It shall be mandatory for the concerned insurance company to depute a responsible officer on a daily basis to the office of the Chairman of the Steering Committee for at least three months during the harvesting period to coordinate and obtain information regarding harvesting. For this, the district administration will be required to provide adequate space and facilities to the representative of the insurance company as per the requirement and this will be ensured by the chairman of the district steering committee.
+18. Action to be taken on complaints received from farmers under the scheme:
+In respect of Pradhan Mantri Fasal Bima Yojana, complaints are received from farmers, public representatives regarding non-receipt/ non-receipt of compensation, non-response from insurance companies, non-receipt of crop panchnama from insurance companies, non-acceptance of applications of farmers by banks, lapses/ delays by banks while submitting information to insurance companies, non-payment of beneficiaries by banks within the stipulated time despite receipt of payment through insurance companies, etc.
+Complaints received by the Agriculture Department are being followed up with immediate action.
+Accordingly, various complaints received should be redressed through committees at the taluk, district, division, and state level respectively. For this purpose, the Government had earlier issued Government Resolution No. 1/ 11-O, D. July 12, 2019 and d. In view of the instructions given as on 06.08.2019, the following Committees are being constituted under the Chairmanship of the concerned Tahsildar at the Taluk level, the concerned Collector at the District level, the Divisional Commissioner at the Divisional level and the Secretary Agriculture at the State level:
+Page 46 of 21.
+# Page 22
+GOVERNMENT DECISION NO.: PROPEVIO-2022/ P.S. 72/11-A
+Taluk level committee
+A Grievance Redressal Committee has been formed at the taluk level under the chairmanship of the Tahsildar to address the grievances of the farmers.
+1) Tehsildar: President, 2) Block Development Officer, Panchayat Samiti: Member, 3) Taluk Agriculture Officer: Member, 4) Farmer Representative: Member, 5) Taluk Level Representative of Agrani Bank: Member, 6) District Central Cooperative Bank Representative: Member, 7) Representative of Insurance Company concerned: Member, 8) Representative of your Government Service Centre Driver: Member, 9) Taluk Agriculture Officer: Member Secretary
+Duties and responsibilities to be performed by Taluk Level Committee: 1) To take action subject to the guidelines of the scheme for the redress of the farmers to be received in connection with the implementation of the scheme.
+2) To take action on complaints received regarding the scheme.
+3) To have taluk level control over the functioning of your government service center related to the scheme.
+4) To regulate the participation in the scheme by all nationalized/ private/ co-operative bank branches in the taluk.
+5) Verify the complaints regarding registration and make recommendations to the department level/ district level committee as required.
+the District Level Committee
+(a) The Chairman:
+District Superintendent of Agriculture Officer: Member 3) Representative of Insurance Company: Member
+District Lead Bank Officer: Member.
+District Deputy Manager, NABARD: Member
+Member of the Board of Directors (Agricultural University/ Research Institute):
+7) Farmer Representative (Maximum 3): Member 8) Deputy Director of Agriculture, District Superintendent Agriculture Officer Office: Member Secretary
+the Divisional Commissioner Level Committee
+Divisional Commissioner: Chairman 2. District Collector: Member
+page 46 of 22.
+# Page 23
+GOVERNMENT DECISION NO.: PROPEVIO-2022/ P.S. 72/11-A
+(3) The representative of the insurance company
+4) Agricultural University Scientist: Member 5) Farmer Representative (Maximum 2): Member 6) Joint Director of Agriculture of the concerned department: Member Secretary
+the State Level Committee
+Secretary/ Principal Secretary/ Additional Chief Secretary (Agriculture): Chairman 2) Commissioner Agriculture: Member 3) Commissioner Cooperation: Member 4) Coordinator, State Level Bankers Committee: Member 5) Chief General Manager, NABARD: Member 6) Farmer Representative (Maximum 2): Member 7) Member of Legislature (in the department receiving the complaint) (Maximum 2): Member 8) Deputy Secretary: Member Secretary The Committee may appoint experts from Universities/ Meteorological Departments/ Research Institutes/ Commodity Boards/ Maharashtra State Remote Sensing Utilities Centre/ State Technical Support Units as per requirement.
+The complaints should be redressed by the district level committee. If the complaints made to the committees at the district level are not resolved properly, the divisional level committee should resolve those complaints. Complaints not resolved at the divisional level should be submitted to the State Level Committee. Complaints of serious nature, pertaining to more than one district and extent of damage to the tune of Rs. Complaints of more than Rs 25 lakh will be submitted to the state level committee. The state level committee will resolve the issue immediately after receiving the complaint. The decision of the committee will be binding on all parties.
+The District Superintending Agriculture Officer of the concerned district is being authorized to look into the claims in court cases related to Pradhan Mantri Fasal Bima Yojana, to take complete action on behalf of the government and to take complete action on the complaint being filed in the District Consumer Disputes Redressal Forum.
+The above committees should take action under the guidelines for the redressal of the grievances of the farmers received in connection with the implementation of the scheme at the taluka and district levels. If the complaints at the district and division level are not resolved according to the guidelines of the scheme, then the matter at the level of the Commissioner of Agriculture should be submitted with complete details and feedback by the Divisional Agriculture Joint Director. The Commissioner, Agriculture will supervise and monitor the implementation of the scheme at the State level.
+The Commissioner, Agriculture, Maharashtra State, Pune has provided the data of average income based on the crop harvesting experiment of Kharif crops in the notified area to the concerned insurance company. The date of 15th November and remaining Kharif crops 31st January (excluding Tur, Onion and Kapus) Kapus- 28th February, Onion and Tur should be submitted by 31st March. Also, the data of average income based on crop harvesting experiment for Rabi crops (excluding summer paddy and summer groundnut) in the notified area should be submitted to the concerned insurance company by 31st July, summer paddy and onion by 31st August and summer groundnut by 31st October. The responsibility of submitting this data to the Agriculture Commissionerate in time will be of the District Level Crop Harvesting Steering Committee of the concerned district.
+page 46 of 23.
+# Page 24
+GOVERNMENT DECISION NO.: PROPEVIO-2022/ P.S. 72/11-A
+At least 10 crop harvesting experiments should be carried out in the Mandal/ Mandal group notified as insurance area unit and at least 16 crop harvesting experiments should be carried out in the notified block. Crop harvesting experiments based on the notified area applicable to the Mandal or group of Mandal and Taluka should be considered for determining the compensation under this scheme.
+The figures declared by any government department/ institution in respect of losses due to drought, scarcity situation and flood should not be taken into account while determining the compensation under the scheme. For this, the average income data collected through crop harvesting experiments and based on the crop survey estimation experiment conducted at the regional level for the estimation of crop production by the state government should be taken into account.
+22. The field work of crop harvesting experiment has been entrusted to the field staff of Revenue, Agriculture and Rural Development departments respectively. The Collector, Chief Executive Officer, Zilla Parishad and District Superintending Agriculture Officer should control the crop harvesting experiment in the notified insurance area through the Tahsildar, Block Development Officer and Taluk Agriculture Officer respectively for effective implementation of the crop harvesting experiment in their respective areas. Under this scheme, the central government has made it mandatory to use a mobile app for crop harvesting experiments. Otherwise, the central government will not disburse the amount of the insurance premium subsidy. This should be brought to the notice of all the field officers and employees and implemented accordingly.
+Payment of insurance premiums and cases:
+The banking system used in the National Agriculture Insurance Scheme and the National Crop Insurance Program under the Prime Minister Crop Insurance Scheme will continue to be applicable to cooperative banks. The operational insurance company should approach the authorized nodal bank, but need not approach the Loan Allocation Centre (Primary Agricultural Credit Co-operative Societies. The branches of Commercial Banks/ Regional Rural Banks will continue to function as Nodal Banks. The Regional Offices/ Administrative Offices of Lead Bank and Commercial Banks will take action for sending the guidelines of the scheme to their Subsidiary Banks, coordinate the forwarding of insurance proposals from the bank branch to the insurance company within the prescribed time frame and take action for putting the complete information of insurance on the Crop Insurance Portal. In addition, insurance companies will use insurance agents/ insurance intermediaries to increase the participation of non-loanee farmers in the scheme.
+The nodal bank/ bank branch shall submit the declarations/ proposals to the insurance company in the format indicated on the Agriculture Insurance Portal. (iii) Information about male/ female, bank account number, etc.
+Only those farmers whose insurance application details are uploaded on the National Insurance Portal will be eligible for insurance coverage and the insurance premium subsidy of the state and central government will be paid accordingly.
+Loanee Farmers: 1. Loanee farmers have the option to opt out of the scheme.
+Borrower farmers can decide whether to join the scheme or not. Farmers in the scheme
+The declaration of non-participation is expected to be made before the season or seven days before the deadline for participation in the scheme. If the farmers' declaration is received seven days before the deadline for joining the scheme, the loanee farmers will be excluded from the participation of the scheme for the next season.
+Page 46 of 24
+# Page 25
+GOVERNMENT DECISION NO.: PROPEVIO-2022/ P.S. 72/11-A
+Farmers can deduct the amount from the bank account from seven days before joining the scheme till the last day. After this, the banks will decide the final list of farmers who will participate in the scheme.
+Eligible loanee farmers who wish to participate must be included, excluding farmers who do not wish to be. The other procedures of the banks regarding the eligible loanee farmers will continue as before.
+4.Kisan Credit Card in the bank in which the farmers declare whether to participate in the scheme or not
+It is expected to be deposited in the branch of the bank from which the account is held or from which the crop loan is taken.
+5. Loanee farmers should have separate applications for joining and not joining the scheme.
+6) All those farmers who do not give a declaration of not joining the scheme with their own signature will be considered to be a participant in the scheme.
+7. After the declaration of non-participation of the farmers in the scheme, the farmers are required to get the receipt of the concerned application along with the signature of the responsible officer of the branch.
+If a farmer had given a declaration about not joining the scheme in the last season, but has given a declaration about joining the scheme in the current season, then the concerned farmer needs to be registered.
+If there is any change in the farmer's Kisan Credit Card account, if the concerned farmers are not willing to register their participation in the Pradhan Mantri Crop Insurance Scheme, then the banks will have to give such consent.
+10. It is a prerequisite for the farmer to have a bank account to participate in the Pradhan Mantri Fasal Bima Yojana, PM Kisan, Kisan Credit Card.
+11. The scheme has been made optional for the loanee farmers as per the revised guidelines of the Central Government for the farmers who have been sanctioned loans for notified crops and notified areas. The farmer will be required to inform the concerned bank about the non-reduction of insurance premium for the notified crops for which he has taken a loan to opt out of the scheme, up to seven days before the deadline for registration. The farmers who do not inform the banks about their non-participation in the stipulated time will be considered as participating in the scheme and the insurance premium of these farmers will be deducted from the loan account in the prescribed manner. As per the scheme schedule, the bank branch/ primary agricultural credit supply cooperative society sanctioning the loan (through the nodal bank) shall prepare the information in the prescribed form of monthly crop-wise, insurance area-wise, insurance premium rate as per the sum insured and submit it to the concerned insurance company.
+The loan disbursing bank/ Primary Agricultural Credit Supply Co-operative Society will sanction the insurance premium to be paid by the farmers as additional loan amount.
+12.R. As per the schedule fixed by the State Level Committee, till the last date, the branches of the merchant bank/ Regional Rural Bank/ Nodal Bank (in case of Primary Agricultural Credit Supply Co-operative Society) shall submit the insurance proposal and send it to the insurance company along with the details, including the amount of crop insurance premium.
+Non-loanee farmers: 13. Non-loanee farmers desirous of joining the scheme are required to fill up the application form of their insurance proposal.
+The premium along with the premium amount will be submitted by the farmers at the local branch of the banks/ Regional Rural Bank/ Primary Agricultural Credit Supply Cooperative Societies/ your Government Service Centre/ authorized insurance representative of the insurance company or through the insurance intermediary.
+page 46 of 25.
+# Page 26
+GOVERNMENT DECISION NO.: PROPEVIO-2022/ P.S. 72/11-A
+14. The farmer participating in the scheme should submit the insurance proposal in the prescribed form at the branch of the merchant bank/ regional bank.
+The insurance premium will be paid at the Gramin Bank branch/ Primary Agricultural Credit Supply Co-operative Society. The farmers will have to open a savings bank account. The officers of the bank will help and guide the farmers in filling up the applications and other matters. While accepting the insurance proposal of the farmer, it will be the responsibility of the concerned banks to check the amount covered by him and the applicable insurance premium amount, etc. The branch of the bank shall prepare crop-wise crop insurance proposal/ declaration in the prescribed format and send the same along with the premium amount to the implementing insurance companies within the prescribed time limit.
+Institutions approved by the Insurance Regulatory and Development Authority of India and the concerned insurance company.
+The representatives appointed by the company while accepting the insurance premium from the farmer will check the relevant land record documents regarding the area under the farmer's crop, the amount of insurance cover, etc., as well as save a copy of the agreement/ consent letter of the tenant or family farmers in the archive. The authorized agency/ insurance representative will send the amount of the deposited insurance premium and the collected proposal to the insurance company within 7 days. In case of such farmers, they will verify their bank account and send the details to the insurance company.
+Participation of non-loanee farmers in the scheme- directly through the insurance company:
+Non-loanee farmers can also join the scheme through the crop insurance website or the website of the insurance company authorized by the government. Non-loanee farmers participating in the scheme through the above method will have proof of participation in the scheme e.g. It is mandatory to have a receipt of payment of Xerox or insurance premium of the application. If the information entered in the insurance proposal is found to be incorrect, the insurance premium of the farmers will be forfeited and the farmers will not be entitled to compensation.
+The insurance company has the right to return the insurance proposal submitted for participation in the crop insurance scheme within 1 month of receiving the proposal if it is incomplete/ does not submit the necessary evidence and documents along with the proposal/ if the due insurance premium is not paid. If the insurance company rejects the proposal, the entire amount of the insurance premium will be refunded to the concerned farmer through the insurance company.
+18.Performance Option- Non-loanee farmers can join the scheme before sowing as per the crop sowing plans. However, in case of change in crop plan for any reason, the information about it will be given to the concerned insurance company 2 working days before the last date of joining the scheme.
+It must be reported through the medium or through the insurance representative. Also, the self-declaration of sowing of the crop of the notified crop and the additional insurance premium amount, if required, must be paid to the concerned insurance company. If the premium paid earlier is more than the premium paid for the crop sown, the additional premium amount will be refunded by the insurance companies.
+The loanee farmers can also change the name of the insured crop in case of any change in the crop plan, but for this, the loanee farmers need to inform the concerned bank in writing about the change of crop 2 days before the last date of joining the scheme so that their proposed crop can be changed.
+Crop insurance can be covered. But instead of replacing the un-notified crop with the notified crop insurance
+Page 46 of 26.
+# Page 27
+GOVERNMENT DECISION NO.: PROPEVIO-2022/ P.S. 72/11-A
+For this, the self-declaration of sowing of the notified crop is required to be submitted to the bank if it is to be protected.
+All banks are required to ensure that all loans sanctioned for the notified crop are insured within the prescribed period.
+All insurance proposals submitted by the Nodal Banks/ Primary Agricultural Credit Supply Co-operative Societies after the prescribed time will be rejected by the insurance company and the liability of all such insurance proposals will be of the respective banks.
+Therefore, the Nodal Banks/ Primary Agricultural Credit Supply Co-operative Societies should not accept any insurance proposal after the prescribed period. All the Nodal Banks/ Primary Agricultural Credit Supply Cooperative Societies should ensure that the consolidated report of the farmers participating in the scheme along with the deposit insurance premium is sent to the respective insurance company within the prescribed time frame. If the bank does not submit the insurance proposal to the insurance company within the prescribed time limit, the responsibility will be of the concerned bank.
+All branches of banks, all nodal banks, district central cooperative banks, farmers participating in the scheme.
+The list and other necessary information such as the complete name of the farmer, bank account number, name of the village, category of small and marginal landholders, SC/ ST, male/ female category, insurance protected area, name of the crop, deposit insurance premium, government subsidy, etc. will be taken in soft copy from the concerned Primary Agricultural Credit Supply Cooperative Societies/ Bank branches and the information will be sent to the concerned insurance company within 15 days after the expiry of the deadline.
+21. The information of non-loanee farmers shall be obtained by insurance companies from the intermediary agencies in the prescribed form. It is the responsibility of the concerned insurance company to obtain the information of the farmers (borrowers and non-borrowers) participating in the scheme through banks/ financial institutions, insurance intermediaries and the concerned insurance company will also assist the bank in publishing the information on the website of the crop insurance scheme.
+All the insurance companies will check the information of the farmers participating in the scheme received from them and will publish the final insurance premium of the subsidy given by the government under the scheme on the website of the insurance company one month before receiving it.
+Publicity, publicity and training:
+The scheme needs to be given adequate publicity at the regional level. The services of audio visual medium, agricultural extension officers of the state should be utilized for this. It is also necessary to provide training to the persons doing the work of collecting insurance premiums, scrutinizing insurance cases, etc. The implementing agency should make arrangements for this.
+2) The insurance company concerned should prepare a special action plan for creating awareness and training among the farmers regarding the scheme.
+3) The insurer should spend 0.5 per cent of the total premium amount on the promotion and publicity of the scheme at the field level and submit the details of the expenditure incurred to the state and central government at the end of the season. If the premium amount is less than 0.5 per cent of the total premium amount, the insurer will have to deposit the difference amount in the' Technology Fund' within three months from the last date of registration.
+Page 46 of 27.
+# Page 28
+GOVERNMENT DECISION NO.: PROPEVIO-2022/ P.S. 72/11-A
+Roles and responsibilities of various institutions in the scheme:
+In the Pradhan Mantri Fasal Bima Yojana, various departments of the Central Government, State Governments, various institutions, including public and private insurance companies and various financial institutions will be involved. For the smooth and effective implementation of the Pradhan Mantri Fasal Bima Yojana, it is mandatory for every institution to perform the work assigned to them in the best possible way.
+(a) Roles and Responsibilities of the Central Government:
+The guidelines for the effective implementation of the Pradhan Mantri Fasal Bima Yojana will be issued by the Central Government from time to time. Also, coordination and assistance will be provided to the state government for public awareness/ publicity.
+The Central Government will issue guidelines to the financial institutions/ banks through the Reserve Bank of India and NABARD for the fulfillment of the financial aspects of the Pradhan Mantri Fasal Bima Yojana.
+Management of" National Crop Insurance Portal."
+Establishment of a Technical Support Unit/ Central Project Management Cell and provision of necessary services.
+Establishment/ reconstitution of the Technical Advisory Committee.
+Payment of 50% of the Central Government share of 80% of the premium amount of the previous season to the insurance companies within 15 days after the last date of crop insurance registration as advance premium amount.
+7. Payment of remaining premium within 15 days as soon as district wise data of farmer participation is finalized on National Crop Insurance Portal.
+The implementation of the Pradhan Mantri Fasal Bima Yojana will be monitored and reviewed and instructions will be given to the insurance company regarding crop insurance premium and other necessary matters. From time to time, the work of insurance companies will be reviewed and suggestions will be given to improve it if needed.
+Training/ workshops will be conducted for State Governments and other stakeholders.
+10. Guidance on the provisions of the scheme and to decide on any difficulties while determining the compensation.
+To provide support, guidance and resources for the use of technology required for bringing transparency, good governance in the implementation of the scheme and ensuring timely payment of insurance compensation to the farmers.
+(b) Roles and Responsibilities of the State Government The State Government shall perform the following functions for the effective implementation of the scheme:
+After the notification of the scheme is issued, the necessary information in the notification should be published on the website of the crop insurance scheme with the help of the insurance company selected for the implementation of the scheme by the state government.
+District wise and crop wise estimated dates of sowing and harvesting shall be obtained from the Agricultural Universities/ Central Institutions and displayed on the website of the Department of Agriculture through the Commissioner of Agriculture.
+Necessary action should be taken to ensure compensation within the prescribed time frame and use of modern technology for effective implementation of the scheme.
+4.To give necessary directions to all the agencies/ institutions/ government departments/ committees involved in the implementation of the scheme.
+Page 46 of 28.
+# Page 29
+GOVERNMENT DECISION NO.: PROPEVIO-2022/ P.S. 72/11-A
+The insurance company will be given the data of the area-wise income of the crops notified under the Pradhan Mantri Fasal Bima Yojana for the last 10 years.
+Payment of 50% of the State Government's share of the previous season's insurance premium amount to the insurance companies within 15 days after the last date of crop insurance registration as advance insurance premium amount. The remaining insurance premium subsidy amount for Kharif and Rabi seasons should be paid before 31st March and 30th September of the next year respectively.
+7. Payment of remaining premium within 15 days as soon as district wise data of farmer participation is finalized on National Crop Insurance Portal.
+The state government is required to pay the insurance premium subsidy for Kharif and Rabi seasons before March 31 and September 30 of the next year, respectively. If the State Government pays the State Share Insurance premium subsidy amount after a period of more than 3 months from the date of payment, the State Government will have to pay penalty at the rate of 12% per annum for the period of delay.
+The State Government will try to use Public Financial Management System (PFMS)/ PFMS Linked System as far as possible for disbursement of State share of insurance premium to the companies.
+10.In order to increase the participation of farmers in the insurance scheme, massive awareness and publicity will be done through the agriculture and other related departments of the state government.
+11. Submission of income data of notified crops to the insurance company in the prescribed format as per schedule.
+To assist the insurance company in determining the compensation at the individual level under local natural calamities and post-harvest losses.
+Crop harvesting experiments should be implemented as per requirement in the notified area and the income data should be sent to the insurance company on the basis of crop harvesting experiments within the prescribed period.
+14. Attendance of representatives of insurance company at the time of crop cutting experiment and table number to be used at regional/ district/ state level for filling up data of crop cutting experiment. 2 will be tested. Projections of yield obtained through crop harvesting experiments will be printed through audio visual medium to ensure accuracy and within the given time frame.
+At least 3% of the total allocation for the scheme should be used by the state government for administrative expenses, crop harvesting experiments, use of modern technology, state technical support unit, travel expenses and contingency expenses.
+Under the scheme, the increased premium subsidy burden will be borne by the State Government for crops in dryland districts for which the realistic premium rate is more than 30% and in horticultural districts for crops for which the realistic premium rate is more than 25%.
+If the amount of crop insurance compensation payable in a year to the district group under the scheme is more than 110% of the deposit insurance premium amount, the state government will bear the burden of more than 110%.
+18.R. The State Government will provide the insurance company within the stipulated time by obtaining the technical output for the paddy, cotton and soybean crops from the Maha Agritech Project.
+The roles and responsibilities of the insurance company:
+The insurance company will act as a link between the state government and other enforcement agencies.
+(2) The State Level Crop Insurance Coordination Committee shall address the necessary issues as per the notification.
+page 46 of 29.
+# Page 30
+GOVERNMENT DECISION NO.: PROPEVIO-2022/ P.S. 72/11-A
+The insurance company will be responsible for determining the compensation under this scheme and paying the compensation directly to the bank account of the farmer.
+4. Determination and payment of compensation after receipt of average income figures as per schedule.
+5. Reinsurance to be provided as required.
+6. Database- To create a database of crop production and climatic factors as well as agricultural insurance.
+To review the Pradhan Mantri Fasal Bima Yojana and submit it to the Ministry of Agriculture Cooperation and Farmers Welfare (Central Government) with necessary suggestions for effective implementation.
+Before the start of the crop season, the insurance company concerned must announce in writing the appointment of private insurance representatives.
+9. Payment of service charges to enforcement agencies.
+Insurance companies should take the initiative to implement pilot projects using new technologies for effective implementation of the scheme in a transparent manner.
+To make efforts to create awareness and publicize the information of the scheme to the farmers in order to increase the participation of non-loanee farmers by at least 10%, to provide necessary manpower and resources for this purpose, and to coordinate with the State Government and other institutions for public awareness and publicity.
+To provide monthly progress reports/ statistics and other related information as requested by the Central and State Governments.
+13.Collect and disseminate information about the insured farmers/ beneficiaries on the website from the authorized banks and their representatives.
+14.Various grievances related to the scheme should be redressed within the prescribed time frame fixed by the Financial Regulatory Authority and a toll free number based on docket facility should be made available under the control of Agriculture Insurance Company of India to register the grievances of the farmers.
+15. Intermediaries should not be appointed to ensure that the insurance company itself takes action for the participation of the loanee farmers.
+16. The district headquarters telephone office is required to be established for the district for which the insurance company has been appointed. Also, agriculture graduate representatives should be appointed in the respective district offices. Crop insurance offices should be set up at the taluka level in the district where the work has been assigned and at least one representative should be appointed. The details of this office and representative should be made available on the Agriculture Insurance website. Where due to some technical reasons, the insurance company could not find a place to open the office, the representative of the insurance company will be provided a place in the office of the District/ Taluk Agriculture Officer.
+17.A Nomination of a Loss Accessor as per the guidelines of the Central Government shall be mandatory.
+The information about the participation of farmers in the scheme will be made available to the district office by the insurance company. Thereafter, the Collector should verify the revenue circle-wise, crop-wise sowing area records provided by the Revenue Department to the insurance company for the season and the details of the farmers involved in the insurance scheme, and if there are any discrepancies in this, it should be immediately pointed out. Otherwise, the sowing report provided to the insurance company will be considered as final and the insurance compensation will be determined accordingly.
+Page 46 of 30.
+# Page 31
+GOVERNMENT DECISION NO.: PROPEVIO-2022/ P.S. 72/11-A
+It shall be the responsibility of the insurance companies to obtain the details of the insurance proposals uploaded on the portal by the nodal banks/ merchant banks/ Gramin Banks and the deposit of insurance premium online.
+20.The insurance company shall use modern technology, remote sensing, satellite imagery, drones, etc. to determine the sowing area of the notified crop in the notified area and compensation.
+21. For effective implementation of Pradhan Mantri Fasal Bima Yojana, after receiving insurance proposals from Nodal Banks/ District Central Co-operative Banks, as well as the average production figures of notified crops, insurance premium subsidy, as well as the revenue circle-wise sowing area data from the government, the insurance company is required to fix the compensation amount and pay it to the farmers within 2 weeks. Otherwise, the insurance company will have to pay the amount of compensation to the beneficiary farmers along with a late fee at the rate of 12 percent.
+22.The insurance companies should increase the capacity of the toll free number to facilitate the farmers to contact the toll free number issued during the season and ensure that the toll free number works without any complaint. Similarly, if the toll-free number is not properly operationalized, then the concerned insurance company will be required to take further action according to the guidelines of the scheme by taking note of the suggestions, complaints regarding crop loss received by the farmers through phone, letter, email.
+Insurance companies will help these financial institutions to fill up the details of the participating farmers on the Crop Insurance Portal. Apart from this, no other format/ website/ facility etc. can be used by the insurance companies to collect the information of the farmers participating in the scheme.
+24.The insurance company is obliged to use modern technology in coordination with the state government to determine the details of the sowing area of the notified crops in the notified area, the supervision of crop harvesting experiments and compensation. The State Government will provide necessary assistance like appointment of suitable agency for remote sensing, satellite imaging, use of drones etc. while determining the compensation through the insurance company. This is necessary for effective control and ground toothedness. Insurance companies are expected to take an active part in the use of technology.
+25. Adequate manpower to be provided for co-supervision of crop harvesting experiments and mandatory use of Crop Harvesting Experiment App.
+26.The companies are required to create adequate and committed manpower for advertising, creating awareness and capacity development of the scheme. The detailed plan needs to be submitted by the company to the central and state governments before the start of the season.
+27.If the application of the loanee and non-loanee farmers received by the insurance companies is incomplete, the copy of the required certificate has not been attached, the Aadhaar number or Aadhaar registration number/ delivery or the insurance premium has not been paid, then the insurance companies will have the right to accept or reject the application within 15 days or 1 month respectively. If the claim is rejected, the insurance company will refund the entire premium paid by the farmer. The procedure decided by the Central Government for the examination of the application will be mandatory.
+If the amount of crop insurance compensation payable in a year to the district group under the scheme is 80 percent or less of the total deposit insurance premium, the amount of the deposit crop insurance premium in excess of the payment of compensation shall be refunded to the State Government by the concerned insurance company through the Agriculture Insurance Company of India.
+Responsibilities of Banks/ Financial Institutions: 1. All banks and institutions which are regulated by the Reserve Bank of India and National Bank for Agriculture and Rural Development (NABARD) and which disburse seasonal crop loans to farmers will be treated as financial institutions under the scheme.
+Page 46 of 31.
+# Page 32
+GOVERNMENT DECISION NO.: PROPEVIO-2022/ P.S. 72/11-A
+Under the Pradhan Mantri Fasal Bima Yojana, the District Central Co-operative Bank of each district will act as the nodal bank in case of co-operative banks and each branch of the said bank will act as the nodal bank in case of commercial banks and rural banks.
+The Divisional/ Administrative Offices of Commercial Banks and Gramin Banks, District Central Cooperative Banks (Nodal Banks) in each district are required to forward all the guidelines, government decisions etc. received by them in accordance with the scheme to all the branches under their control.
+The Divisional/ Administrative Offices of Commercial Banks and Gramin Banks, District Central Co-operative Banks (Nodal Banks) in each district should instruct all the banks under them to sanction additional loans for the insured farmers while sanctioning loans for the loanee farmers.
+All the banks should provide proper guidance and help to the farmers who want to participate in the scheme. For example, opening bank accounts of farmers, helping them file insurance proposals by taking appropriate insurance premiums and updating their reports.
+It is mandatory for all banks/ financial institutions to upload the details of the applicant farmers electronically on the National Crop Insurance Portal. For this, all banks/ financial institutions need to have CBS integration so that instant exchange of information is possible.
+All the nodal banks are required to submit the deposit insurance premium amount, insurance proposal and collateral information of the loanee and non-loanee farmers separately to the respective insurance company within the stipulated time.
+8. All lead banks/ nodal banks should inform all branches under them that all loans taken for notified crops in their jurisdiction and borrowers desirous of participating in the scheme will be covered under the insurance scheme. If due to the error/ delay/ negligence of the concerned bank, some of the loanee farmers do not get the insurance cover and the compensation is sanctioned during the season, then the responsibility of payment of the sanctioned compensation to all the farmers who are not covered by the insurance will be solely of that bank/ branch.
+If the declarations/ proposals and insurance premiums are credited to the Company by the Bank/ Primary Agricultural Credit Supply Company after the prescribed time limit, the same shall be rejected forthwith and the concerned Bank shall be responsible for any such declarations. Accordingly, the facility of filing applications on the National Crop Insurance Portal will be closed after the prescribed deadline. However, if any grievances are raised in this regard, they will be redressed as per the procedure of the prescribed Grievance Redressal Committee. Notwithstanding any decision of any financial institution, including primary agricultural cooperative societies, to exempt the loanee farmers, who have taken seasonal crop loans for the notified crops and wish to join the scheme, this clause shall prevail over any such decision and participation of such farmers in the crop insurance scheme shall be mandatory.
+It is very essential that all the branches of all the Nodal Banks/ Commercial Banks and Gramin Banks send the crop-wise and notified area-wise crop insurance proposals in the prescribed format (separate for non-loanee farmers) along with the premium amount to the concerned insurance company within the stipulated time. If a bank does not deposit the premium amount to the insurance company within the stipulated time, the liability of the bank concerned to pay the premium amount to the insurance company along with the interest on the late deposit premium amount (prevailing interest rate payable on savings account).
+All the Nodal Banks/ Commercial Banks/ Gramin Banks are required to upload the details of Farmer-wise Crop Insurance Offer and Deposit of Insurance premium (NEFT/ RTGS/ UTR) online on the National Crop Insurance Portal. Also, all proposals must be sent to the insurance company within the stipulated time.
+12.Yes, compensation is paid under the scheme in direct mode. However, in exceptional circumstances under the scheme, after receiving the compensation amount sanctioned by the concerned insurance company, all the
+Page 46 of 32.
+# Page 33
+GOVERNMENT DECISION NO.: PROPEVIO-2022/ P.S. 72/11-A
+The banks are required to credit the amount in the bank account of the beneficiary farmers within 7 days. If a bank does not deposit the compensation amount in the farmers' bank account within the stipulated time, the concerned bank will be obliged to deposit the compensation amount along with interest (prevailing interest rate payable on savings account) in the farmers' account.
+The Nodal Bank/ Administrative Offices will take the details of the farmers participating in the scheme, such as the complete name of the farmer, the correct bank account number, the name of the village, the category of small landholder, the category of Scheduled Castes, Scheduled Tribes, women farmers, the insurance protected area, the name of the crop, the deposit insurance premium, the government subsidy, etc. in soft copy from the concerned Primary Agricultural Credit Supply Cooperative Society/ Bank branch and send the same to the concerned insurance company within 15 days after the expiry of the deadline.
+14. Once the insurance company receives the insurance proposal from the bank, it will examine it and convey it to the bank. The concerned bank will re-examine the insurance proposal from the documents available with it and if there are any corrections in it, it will be brought to the notice of the insurance company within 15 days, otherwise the insurance proposal sent by the insurance company will be treated as final and no changes in it will be accepted in future.
+The bank concerned must publish the list of farmers who have received compensation on the notice board. Also, the certificate that the compensation amount received has been deposited in the bank account of all the farmers should be sent to the insurance company and the list of farmers eligible for compensation should be published on the crop insurance portal with the help of the insurance company.
+16.Service banks have to make available all documents related to the insurance proposal to the concerned insurance company for inspection as and when required.
+17.Bank should ensure that no farmer is deprived of the benefit of the scheme. If a farmer is deprived of the benefit of the scheme due to the fault of the financial institution, then the responsibility of paying the compensation due to that farmer will remain with the concerned bank.
+18. The bank branch will be responsible for filling up the complete application of the farmer. If a farmer is not able to fill the application, then it will be the responsibility of the bank branch to fill the application on behalf of the farmers, so that no farmer who wants to participate in the crop insurance scheme is deprived of crop insurance coverage.
+In case of factors such as failure of sowing/ transplanting due to adverse weather conditions (not applicable for Rabi season), mid-season assistance in adverse conditions and local calamities, only those farmers whose insurance premium has been credited/ transferred from their bank account within the date of notification of the concerned department shall be considered eligible. Therefore, it is mandatory for the banks to pay the insurance premium of the loanee farmer who wants to participate in the scheme to the insurance company within 15 days from the date of sanction of crop loan/ renewal of Kisan Credit Card, otherwise the entire responsibility of possible compensation in the case of such farmers will be of the concerned bank. In order to avoid such a situation, banks should deposit the insurance premium of the loanee farmers with the insurance company at least one month before the last date of insurance registration and thereafter, in the case of approved loan accounts, the insurance premium should be deposited on a daily basis.
+Banks are charged a service fee of 4% of the deposit insurance premium. For this, banks should provide all necessary support to non-loanee farmers in submitting insurance proposals.
+Banks are required to link the bank account of the farmer with the Aadhaar card while submitting the insurance proposal of the loanee and non-loanee farmers. The concerned bank should check the documents in this regard.
+Page 46 of 33
+# Page 34
+GOVERNMENT DECISION NO.: PROPEVIO-2022/ P.S. 72/11-A
+In case of delay in sending the declarations of insurance by the bank/ nodal bank to the concerned insurance company, the service charge payable to the bank shall be deducted.
+The option of joining/ not joining the scheme is being worked out for the loanee farmers.
+Banks while finalizing the list of participating loanee farmers must include the eligible loanee farmers who wish to participate, excluding the farmers who do not wish to participate. The other procedures of the banks regarding the eligible loanee farmers will continue as before.
+25. For the loanee farmers to join the scheme and not to join, the bank is required to prepare their bank forms and make them available to the farmers.
+Banks are obliged to include in the scheme all those farmers who do not give a declaration of non-participation in the scheme with their own signature. If the banks do not involve these farmers, the entire responsibility of the compensation to be paid to them will remain with the concerned bank branch.
+Banks should help the loanee farmers in filling the application.
+28. After the declaration of non-participation in the scheme by the loanee farmers, the receipt in the relevant application form must be given to the farmers with the signature of the responsible officer of the branch.
+29.The declarations given by the depositors are required to be preserved by the banks in physical and digital form.
+The concerned forms submitted by the farmers can be used as evidence in case of any complaint by the farmers in the scheme in future.
+If a farmer had given a declaration about not joining the scheme in the previous season, but has given a declaration about joining the scheme in the current season, then the concerned farmer needs to be registered. In case any error is noticed by the bank in this regard, the bank branch will be responsible for the same.
+If there is any change in the Kisan Credit Card account of the farmer, the banks will have to take consent from the farmers if they are not interested in registering their participation in the Pradhan Mantri Crop Insurance Scheme. In this regard, the banks can include an issue in the application for renewal of Kisan Credit Card, along with a declaration of non-participation in the scheme to be given to the concerned farmer. It will be mandatory for the concerned bank to include the farmer in the scheme until the farmer gives a declaration about not participating in the scheme with his own signature.
+Banks will be required to mention on the Pradhan Mantri Fasal Bima Yojana Portal Kisan Credit Card Portal that the farmers have given a declaration about joining or not joining the scheme.
+33. If it is found that the farmer has not joined the scheme but the bank has deliberately deducted the insurance premium of the farmer and sent it to the insurance company, then the bank is required to credit the amount of the insurance premium back to the bank account of the farmer. In such cases, if the insurance company has received the compensation amount from the insured, then the amount of compensation has to be returned to the insurer within 30 days.
+34. From the point of view of banks, it is beneficial for banks to inform farmers about the scheme and motivate them to register their participation. Banks can take up campaigns in this regard, in which they will try to reach out to as many farmers as possible with the help of the concerned insurance company and the agriculture department of the state government.
+Banks are required to provide necessary assistance to non-loanee farmers from the bank level in connection with their participation in the scheme or withdrawal of Kisan Credit Card account.
+Page 46 of 34
+# Page 35
+GOVERNMENT DECISION NO.: PROPEVIO-2022/ P.S. 72/11-A
+(e) Banks/ Financial Institutions providing credit 1. Guiding farmers on Pradhan Mantri Fasal Bima Yojana 2. Helping farmers prepare insurance proposals in prescribed format and compiling various documents of non-loanee farmers.
+3) Obtain Aadhaar and mobile number of all the loanee farmers before the commencement of insurance registration.
+4. Collect the information of the loanee and non-loanee farmers in separate forms and submit it to the insurance company in time along with the insurance premium.
+Preserve the insurance policy proposal and other necessary documents for scrutiny/ verification to be done by the insurance company or its authorized representatives and district level coordination committee.
+The relevant records and records in the office of the Nodal Bank and other banks providing services under it in its jurisdiction should be made available to the insurance company.
+7. Keeping records of area and crops of creditworthy and non-creditworthy farmers taking insurance cover.
+8.Collect and validate the information of the insurance proposals within 15 days from the last date of uploading the insurance proposals on the portal and within 7 days from the date of requisition by the insurance company.
+9. List of farmers who have paid insurance premium in the notified area where sowing/ sowing has not been done, adverse weather conditions or local calamities have been observed, but whose proposals have not been uploaded on the portal.
+To deduct the premium of the farmers before the expiry of the insurance registration period and transfer the amount directly to the concerned insurance company through electronic system.
+11.Fill the insurance compensation amount received from the insurance company in the account of the farmer within 7 days and return the amount which could not be paid to the concerned insurance company within 10 working days from the date of receipt of the amount and inform the Central and State Government about it.
+If a notification has been issued that sowing/ sowing could not be done due to adverse weather conditions in the district, the farmer should not be re-registered for that crop.
+In the administrative system, the bank branches are considered as the last service centers. Therefore, it is the responsibility of all the bank branches to register the crop insurance of all the loanee farmers and willing non-loanee farmers. The concerned bank/ bank branch/ primary service institution will be responsible for any inaccurate or incorrect information.
+e) Jan Suvidha Kendras- Apni Sarkar Kendras (CSC-SPV) 1. Ensure registration of non-loanee farmers through Jan Suvidha Kendras.
+Training of village level staff on crop insurance through portals or respective crop insurance companies working at district level to increase crop insurance participation.
+3. Online payment of insurance premium collected from farmers through Jan Suvidha Kendras to the concerned insurance company within three days from the date of receipt from the farmers.
+4. Reporting of insurance premiums collected at the Janaushadhi Kendras and the details of farmer participation to the respective insurance companies on a daily basis.
+Verification of the details of farmer's participation on the National Crop Insurance Portal and the premium paid to the concerned insurance company within 7 days of the expiry of the insurance registration deadline.
+Payment of service charge as per the rate of service charge per farmer fixed for the season to be submitted to the concerned insurance company on or before 10th of the next month.
+7. To redress grievances of insured farmers and to ensure post-insurance services.
+Page 46 of 35.
+# Page 36
+GOVERNMENT DECISION NO.: PROPEVIO-2022/ P.S. 72/11-A
+8. The concerned Seva Kendra will be responsible for errors or omissions in the information of individual farmers filled on the National Crop Insurance Portal and the documents submitted and will be liable for the crop insurance claims due to such errors.
+9. The Village Level Helpers (VLEs) at the Common Facility Centres shall ensure that the farmers enrolled for insurance shall not be deprived of the benefit of the scheme due to any error, mistake or vice versa.
+If the farmers are deprived of the benefits of the scheme due to errors in the service of Village Level Servitors (VLEs) at the Public Facilitation Center, then they should submit their report and take administrative and legal action against them.
+10. Fake registration receipts are detected in some districts in the implementation of the scheme. Technical measures have been taken to prevent this. Nevertheless, compensation claims are received to some extent through forged invoices. In this regard, complaints are also received about cheating from your government center driver. The cases regarding registration arise due to the filling of incorrect information by the driver of your government center. Thus, it was very difficult to determine the wrongful liability, to consider the compensation and in such cases to determine the liability for compensation. Accordingly, at the time of registration, it is mandatory for your government center operator to keep the registration form submitted by the farmer along with the necessary documents with him for payment of compensation or for two years, whichever is later. If there is a complaint regarding a fake receipt, the responsibility of paying the compensation subsidy will be fixed on the concerned government agency based on the police investigation. The State Government will not be responsible for any loss in such cases.
+Village Level Workers (VLEs) at the Common Facility Centres (CSCs) 1. Educate farmers, especially non-loanee farmers, about the scheme and explain the features of the scheme.
+Advertisements, publicity materials, banners, posters, leaflets etc. given by the insurance company/ state government for the promotion and publicity of the scheme should be prominently published in the field to reach the farmers.
+Accepting insurance proposals of non-loanee farmers only in the prescribed form with necessary documents and filling it online.
+4. Deposit of Farmers Insurance premium as per the provisions of the guidelines by the implementing insurance company.
+5. On the National Crop Insurance Portal, the information of the non-loanee farmers along with the mobile number and the correct details along with the necessary documents should be updated and the insurance premium amount should be deposited through the public convenience center within a certain period. Take due care while filing crop insurance proposals of non-loanee farmers and match the attached documents with the proposal.
+6. The Village Level Servitors (VLEs) at the Common Facility Centres shall ensure that the farmers enrolled in insurance do not lose out on the benefits of the scheme due to any errors, mistakes or contraindications.
+If the farmers are deprived of the benefits of the scheme due to the errors and malpractices in the service of Village Level Servitors (VLEs) at the Public Facilitation Center, their report will be submitted and administrative and legal action will be taken against them. Accordingly, at the time of registration, it is mandatory for your government center operator to keep the registration form submitted by the farmer along with the necessary documents with him for payment of compensation or for two years, whichever is later. If there is a complaint regarding a fake receipt, the responsibility of paying the compensation subsidy will be fixed on the concerned government agency based on the police investigation. The State Government will not be responsible for any loss in such cases.
+Page 46 of 36.
+# Page 37
+GOVERNMENT DECISION NO.: PROPEVIO-2022/ P.S. 72/11-A
+7. Providing post-insurance services to the insured farmers and creation of facilities for crop insurance claims or grievances, if any.
+8. Janaushadhi Kendras will upload all the documents required for the insurance proposal at the time of filing the insurance application on behalf of the farmers. It is the primary responsibility of the village level sevak to fill up the complete and all the necessary information on the National Crop Insurance Portal without fail. Applications without the required documents will not be considered for insurance compensation and the driver of the public convenience center will be responsible for the errors in the documents.
+The farmers are not required to pay any fee/ charges to the concerned Public Facilitation Centre/ Special Purpose Vehicle for filing the insurance application through the Jan Suvidha Kendra.
+Role and Responsibilities of Insurance Company Representatives 1. To guide the farmers on Pradhan Mantri Fasal Bima Yojana.
+2. Assisting farmers in preparing insurance proposals in prescribed format and compiling various documents including Aadhaar number and mobile number of non-loanee farmers.
+3. Collect insurance premium as per guidelines of Pradhan Mantri Fasal Bima Yojana and give receipt thereof as representative of insurance company.
+4. Collect the information of non-loanee farmers in the form and submit it to the insurance company along with the insurance premium on time. In this way, only those applications which are submitted in time and the insurance premium amount is deposited electronically on the National Crop Insurance Portal within the prescribed time will be eligible for insurance coverage.
+The concerned insurance representatives should ensure that the farmer participating in the scheme is not deprived of the benefits of the scheme. In case the beneficiary farmer is deprived of the benefit of this scheme due to the errors/ delay/ negligence of the insurance agent, then the concerned insurance company will be responsible for paying any compensation in this regard. If any errors/ omissions are found in the service of the insurance representative, administrative/ legal action will be taken.
+Duties and Responsibilities of the Insured Farmers Duties and Responsibilities of the Loanee Farmers 1. Loanee farmers have the option to join/ not join the scheme.
+Borrower farmers can decide whether to join the scheme or not. Announcement regarding non-participation of farmers in the scheme before the season or the last day of participation in the scheme.
+It is expected to be delivered 7 days in advance. If the farmers' declaration is received seven days before the deadline for joining the scheme, the loanee farmers will be excluded from the scheme for the next season.
+Farmers can deduct the amount from the bank account from seven days before joining the scheme till the last day. After this, the banks will decide the final list of farmers' participation.
+Eligible loanee farmers who wish to participate must be included, excluding those farmers who do not wish to participate. The other procedures of the banks regarding the eligible loanee farmers will continue as before.
+4.Kisan Credit in the bank in which the farmers have declared whether to participate in the scheme or not
+The card is expected to be deposited in the branch of the bank from which the account is held or from which the crop loan is taken.
+5. Loanee farmers should have separate applications for joining and not joining the scheme.
+Page 46 of 37.
+# Page 38
+GOVERNMENT DECISION NO.: PROPEVIO-2022/ P.S. 72/11-A
+6) All those farmers who do not give a declaration of not joining the scheme with their own signature will be considered to be a participant in the scheme.
+7. After the declaration of non-participation of the farmers in the scheme, the farmers are required to get the receipt of the concerned application along with the signature of the responsible officer of the branch.
+If a farmer had given a declaration about not joining the scheme in the last season, but has given a declaration about joining the scheme in the current season, then the concerned farmer needs to be registered.
+If there is any change in the farmer's Kisan Credit Card account, if the concerned farmers are not willing to register their participation in the Pradhan Mantri Crop Insurance Scheme, then the banks will have to give such consent.
+10. It is a prerequisite for a farmer to have a bank account to participate in the Pradhan Mantri Fasal Bima Yojana, Kisan Credit Card.
+11.The scheme has been made optional for the loanee farmers as per the revised guidelines of the Central Government for the farmers who have been sanctioned loans for notified crops and notified areas.
+The farmer will be required to inform the concerned bank about the non-reduction of insurance premium for the notified crops for which he has taken a loan to opt out of the scheme, up to seven days before the deadline for registration. The farmers who do not inform the banks about their non-participation in the stipulated time will be considered as participating in the scheme and the insurance premium of these farmers will be deducted from the loan account in the prescribed manner. As per the scheme schedule, the bank branch/ primary agricultural credit supply cooperative society sanctioning the loan (through the nodal bank) shall prepare the information in the prescribed form of monthly crop-wise, insurance area-wise, insurance premium rate as per the sum insured and submit it to the concerned insurance company. The loan disbursing bank/ Primary Agricultural Credit Supply Co-operative Society will sanction the insurance premium to be paid by the farmers as additional loan amount.
+The insurance proposals of the loanee farmers will also be accepted before the last date of joining the scheme.
+In case of any change in the crop plan, the loanee farmers should inform the concerned bank at least two days before the expiry of the crop insurance registration immediately after sowing and submit the sowing certificate.
+All loanee farmers are required to submit their Aadhaar card and mobile number to the concerned bank or e-KYC directly within the deadline of insurance registration. As per the Aadhaar Act, it is mandatory for all banks to obtain the Aadhaar number of the farmer concerned for every loan account.
+15.Will accept proposals only till the date specified. Therefore, it is necessary for all the loanee farmers to check with their bank and ensure that the insurance proposal is submitted.
+16. In case of crop loss due to local natural calamities and damage to crops kept for drying in the field after harvesting due to cyclone, thunderstorm and untimely rain, the same should be reported to the concerned bank/ financial institution/ insurance company within 48 hours.
+The loanee farmers should not take loans from different banks on the same land, file insurance proposals from more than one bank or pay the insurance premium of the same crop even as a non-loanee. If this is found, the insurance cover will be denied and the insurance premium will be forfeited as well as appropriate administrative action will be taken.
+Page 46 of 38
+# Page 39
+GOVERNMENT DECISION NO.: PROPEVIO-2022/ P.S. 72/11-A
+Duties and responsibilities of non-loanee farmers: 1. Non-loanee farmers desirous of joining the scheme should contact the nearest authorized banks/ Primary Agricultural Credit Supply Cooperative Societies/ offices of the concerned insurance company or insurance representatives and submit the insurance proposal in the prescribed form along with the due premium and necessary documents in due course.
+The applicant is required to submit a physical electronic verification along with his application by submitting a copy of Aadhaar card/ Aadhaar registration, 7/12 extract, agreement/ consent letter of the farmers having lease agreement, sowing declaration and bank passbook. Once the integration of Mahabhukalesh website with the National Crop Insurance Portal becomes operational, there will be no need to upload extract 7/12 along with the application again as the land holding of the concerned farmers will be verified on the insurance portal.
+3. Farmers registering through their Government Seva Kendras are required to self-attest their Aadhaar number by entering their mobile number along with the proposal.
+Non-loanee farmers are required to open an account in their own name in the concerned bank.
+5. Farmers should not survey their land in the insurance proposal. to be mentioned.
+6. The farmers are required to submit 7/12 extract as proof of land holding and self-declaration form of sowing of notified crop in the field along with the insurance proposal. Once the integration of Mahabhukalesh website with the National Crop Insurance Portal becomes operational, there will be no need to upload extract 7/12 along with the application again as the land holding of the concerned farmers will be verified on the insurance portal.
+It is mandatory for farmers to take insurance cover for a notified crop for one area, simultaneously and from the same insurance company. If he takes 2 or more insurance cover for the same area from the same or different insurance company, he will be prosecuted by confiscating his deposit insurance premium.
+8. In case of crop loss due to local natural calamities and damage to crops kept for drying in the field after harvesting due to cyclone, thunderstorm and untimely rain, the same shall be reported to the concerned bank/ financial institution/ insurance company within 72 hours.
+Non-loanee farmers will be able to apply for insurance cover directly through the web portal. For this, farmers can apply online on the website www. pmfby. gov. in. The payment of the premium has to be done online through the payment gateway. After filling the application form, you will receive a confirmation number. The farmers will also be informed through SMS on their registered mobile numbers.
+However, when the non-loanee farmers submit their applications to the concerned insurance company or crop insurance portal, they must have the area covered by the respective insurance cover, and submit documentary evidence and Aadhaar number/ Aadhaar enrolment number as prescribed by the State Level Committee in this regard. The farmers concerned will lose the right to claim (if applicable) and the premium amount if the information mentioned in the insurance proposal is found to be incorrect or inaccurate at any later stage.
+11. Cases in respect of registration arise due to filing of wrong information while filling up the application. Thus, it was very difficult to determine the wrongful liability, to consider the compensation and in such cases to determine the liability for compensation. After registering the application, the farmers will have to verify their participation by going to the Crop Insurance Scheme portal from the receipt of the proposal form (registration application) submitted. For this, the Central Government will provide a bar code or Farmers ID on the receipt of farmers.
+Page 46 of 39.
+# Page 40
+GOVERNMENT DECISION NO.: PROPEVIO-2022/ P.S. 72/11-A
+facility is provided. In case any error is found in this verification, the farmer is required to file a written objection with the concerned government service center/ insurance company/ agriculture department within 30 days.
+In order to avoid the rush of farmers in the bank and to make it easier for the farmers to apply, the applications/ insurance premium of the farmers in the Pradhan Mantri Fasal Bima Yojana are being accepted online through the Common Service Center (CSC).
+For this, the" Apni Sarkar Seva Kendra" (Digital Service Center) facility, operated by CSCE Governance Services India Limited in the state, has been made available to the farmers for filing applications under the Pradhan Mantri Fasal Bima Yojana. Our government authorized service centers operating in the state will help the farmers in filling the crop insurance applications on behalf of the insurance company appointed by the Department of Agriculture and will accept the insurance premiums. Documents required for insurance application such as 7/12 extract, Aadhaar card, bank account details, etc. will be linked to the application form online. The farmers will be provided with insurance cover. Accordingly, it is mandatory for the respective insurance companies to enter into an agreement through the CSC. In this regard, the instructions issued by the Ministry of Agriculture and Farmers Welfare, Government of India, will remain binding.
+Insurance companies can use the following resources to obtain weather data and digital information needed to determine the amount of compensation and compensation due, on-account claims, and claims for prohibited sowing.
+Remote sensing information available through unmanned aerial vehicles (drones)/ satellites.
+Automatic Weather Stations (AWS)/ Automatic Rainfall Gauges (ARG) Reports of Mahalanobis National Crop Forecast Centre (MNCFC)/ Drought Assessment Reports Automatic Rainfall Gauges (ARG) shall be as per the prevailing standards of the respective regulatory body.
+The state government is implementing a mega project to set up automatic weather stations at every revenue circle level in the state. Under this project, weather data will be available and it will help in determining the compensation. Accordingly, weather information under the Pradhan Mantri Fasal Bima Yojana will be shared by the State Government and Skymet Weather Services Ltd. under the MahaVedh project. They will be bound by the terms and conditions of the agreement.
+27. In order to bring in ease, transparency, accountability and ease in the process of delivery of services, facilities, benefits and payments to the beneficiaries through the use of Aadhaar, the Gazette of India dated 08.02.2017 has made it mandatory for all the borrower and non-borrower farmers participating in the scheme to get their Aadhaar card authenticated from Kharif season 2017 onwards.
+Since Aadhaar card of farmers has been made mandatory for participation in the scheme, all banks are required to obtain Aadhaar number of their farmers. This will be applicable to non-loanee farmers registered with banks as well as insurance companies and insurance intermediaries. If Aadhaar card is not available, then it is necessary to register Aadhaar and submit its proof for participation in the crop insurance scheme.
+As per the notification of Aadhaar Act, it is mandatory for all banks to obtain Aadhaar/ Aadhaar enrolment number while sanctioning crop loan/ Kisan Credit Card under the interest subvention scheme. Therefore, there is no question of loanee farmers joining the Pradhan Mantri Fasal Bima Yojana without Aadhaar. The concerned bank branches are required to review such account holders from time to time.
+page 46 of 40.
+# Page 41
+GOVERNMENT DECISION NO.: PROPEVIO-2022/ P.S. 72/11-A
+Use of computer system for distribution of funds.
+The State Government will try to use Public Financial Management System (PFMS)/ PFMS Linked System as far as possible to disburse the State share of insurance premium to the companies.
+Banks, CSCs and insurance agents are required to pay the premium to the insurer through the payment-gateway (PayGov) of the National Crop Insurance Portal or through RTGS/ NEFT. After this, it will be mandatory to upload the details of this payment on the National Crop Insurance Portal within the prescribed time frame. The bank details of the insurance companies will be made available on the National Crop Insurance Portal. Accordingly, all stakeholders including insurance companies, bank branches, CSCs and insurance agents must mandatorily maintain dedicated bank accounts for this purpose. No remittances/ financial transactions in the form of bank cheques/ demand drafts are allowed.
+The service charge:
+4% of the premiums deposited by the borrower and the non-borrower farmers will be mutually paid to the banks as bank service charge by the respective insurance company. The insurance company has to pay the amount within 15 days after the data is confirmed on the portal.
+In case of delay in payment of service charge by the insurance company, interest at the rate of 12% per annum will be payable.
+Service charges will not be payable in respect of insurance proposals where incompleteness/ errors/ discrepancies are found.
+4. The insurance companies shall pay service charges to their service centres as per the rates fixed by the Central Government.
+Goods and Services Tax (GST): Pradhan Mantri Fasal Bima Yojana has been exempted from the Goods and Services Tax.
+Controlling Officer and Drawing and Disbursing Officer: The Commissioner (Agriculture), Commissionerate of Agriculture, Maharashtra State, Pune will be the controlling officer for this scheme. The Assistant Director (Accounts-1), Agriculture Commissionerate, Maharashtra State, Pune-1 is being declared as the Drawing and Disbursing Officer. Apart from this, all the terms and conditions prescribed by the Central Government from time to time for this scheme will be applicable to all the participants of the scheme.
+32. The said Government Decision. This is being issued as per the approval given in the meeting of State Level Crop Insurance Coordination Committee held on 08.06.2022 and 30.06.2022 under the chairmanship of Chief Secretary, Maharashtra State and as per the guidelines of the Central Government.
+(3) The instructions received from the Central Government from time to time in respect of the scheme shall continue to be applicable for implementation of the scheme.
+# Page 42
+# Page 43
+# Page 44
+# Page 45
+# Page 46
+# Page 47
+# Page 48
+# Page 49
+# Page 50
+# Page 51
+# Page 52
+# Page 53
+# Page 54
+# Page 55
+# Page 56
+# Page 57
+# Page 58
+# Page 59
+# Page 60
+# Page 61
+# Page 62
+# Page 63
+# Page 64
+# Page 65
+# Page 66
+# Page 67
+# Page 68
+# Page 69
+# Page 70
+# Page 71
+# Page 72
+# Page 73
+# Page 74
+# Page 75
+# Page 76
+# Page 77
+# Page 78
+# Page 79
+# Page 80
+# Page 81
+# Page 82
+# Page 83
+# Page 84
+# Page 85
+# Page 86
+# Page 87
+# Page 88
+# Page 89
+# Page 90
+# Page 91
+# Page 92
+# Page 93
+# Page 94
+# Page 95
+# Page 96
+# Page 97
+# Page 98
+# Page 99
+# Page 100
+# Page 101
+# Page 102
+# Page 103
+# Page 104
+# Page 105
+# Page 106
+# Page 107
+# Page 108
+# Page 109
+# Page 110
+# Page 111
+# Page 112
+# Page 113
+# Page 114
+# Page 115
+# Page 116
+# Page 117
+# Page 118
+# Page 119
+# Page 120
+# Page 121
+# Page 122
+# Page 123
+# Page 124
+# Page 125
+# Page 126
+# Page 127
+# Page 128
+# Page 129
+# Page 130
+# Page 131
+# Page 132
+# Page 133
+# Page 134
+# Page 135
+# Page 136
+# Page 137
+# Page 138
+# Page 139
+# Page 140
+# Page 141
+# Page 142
+# Page 143
+# Page 144
+# Page 145
+# Page 146
+# Page 147
+# Page 148
+# Page 149
+# Page 150
+# Page 151
+# Page 152
+# Page 153
+# Page 154
+# Page 155
+# Page 156
+# Page 157
+# Page 158
+# Page 159
+# Page 160
+# Page 161
+# Page 162
+# Page 163
+# Page 164
+# Page 165
+# Page 166
+# Page 167
+# Page 168
+# Page 169
+# Page 170
+# Page 171
+# Page 172
+# Page 173
+# Page 174
+# Page 175
+# Page 176
+# Page 177
+# Page 178
+# Page 179
+# Page 180
+# Page 181
+# Page 182
+# Page 183
+# Page 184
+# Page 185
+# Page 186
+# Page 187
+# Page 188
+# Page 189
+# Page 190
+# Page 191
+# Page 192
+# Page 193
+# Page 194
+# Page 195
+# Page 196
+# Page 197
+# Page 198
+# Page 199
+# Page 200
+# Page 201
+# Page 202
+# Page 203
+# Page 204
+# Page 205
+# Page 206
+# Page 207
+# Page 208
+# Page 209
+# Page 210
+# Page 211
+# Page 212
+# Page 213
+# Page 214
+# Page 215
+# Page 216
+# Page 217
+# Page 218
+# Page 219
+# Page 220
+# Page 221
+# Page 222
+# Page 223
+# Page 224
+# Page 225
+# Page 226
+# Page 227
+# Page 228
+# Page 229
+# Page 230
+# Page 231
+# Page 232
+# Page 233
+# Page 234
+# Page 235
+# Page 236
+# Page 237
+# Page 238
+# Page 239
+# Page 240
+# Page 241
+# Page 242
+# Page 243
+# Page 244
+# Page 245
+# Page 246
+# Page 247
+# Page 248
+# Page 249
+# Page 250
+# Page 251
+# Page 252
+# Page 253
+# Page 254
+# Page 255
+# Page 256
+# Page 257
+# Page 258
+# Page 259
+# Page 260
+# Page 261
+# Page 262
+# Page 263
+# Page 264
+# Page 265
+# Page 266
+# Page 267
+# Page 268
+# Page 269
+# Page 270
+# Page 271
+# Page 272
+# Page 273
+# Page 274
+# Page 275
+# Page 276
+# Page 277
+# Page 278
+# Page 279
+# Page 280
+# Page 281
+# Page 282
+# Page 283
+# Page 284
+# Page 285
+# Page 286
+# Page 287
+# Page 288
+# Page 289
+# Page 290
+# Page 291
+# Page 292
+# Page 293
+# Page 294
+# Page 295
+# Page 296
+# Page 297
+# Page 298
+# Page 299
+# Page 300
+# Page 301
+# Page 302
+# Page 303
+# Page 304
+# Page 305
+# Page 306
+# Page 307
+# Page 308
+# Page 309
+# Page 310
+# Page 311
+# Page 312
+# Page 313
+# Page 314
+# Page 315
+# Page 316
+# Page 317
+# Page 318
+# Page 319
+# Page 320
+# Page 321
+# Page 322
+# Page 323
+# Page 324
+# Page 325
+# Page 326
+# Page 327
+# Page 328
+# Page 329
+# Page 330
+# Page 331
+# Page 332
+# Page 333
+# Page 334
+# Page 335
+# Page 336
+# Page 337
+# Page 338
+# Page 339
+# Page 340
+# Page 341
+# Page 342
+# Page 343
+# Page 344
+# Page 345
+# Page 346
+# Page 347
+# Page 348
+# Page 349
+# Page 350
+# Page 351
+# Page 352
+# Page 353
+# Page 354
+# Page 355
+# Page 356
+# Page 357
+# Page 358
+# Page 359
+# Page 360
+# Page 361
+# Page 362
+# Page 363
+# Page 364
+# Page 365
+# Page 366
+# Page 367
+# Page 368
+# Page 369
+# Page 370
+# Page 371
+# Page 372
+# Page 373
+# Page 374
+# Page 375
+# Page 376
+# Page 377
+# Page 378
+# Page 379
+# Page 380
+# Page 381
+# Page 382
+# Page 383
+# Page 384
+# Page 385
+# Page 386
+# Page 387
+# Page 388
+# Page 389
+# Page 390
+# Page 391
+# Page 392
+# Page 393
+# Page 394
+# Page 395
+# Page 396
+# Page 397
+# Page 398
+# Page 399
+# Page 400
+# Page 401
+# Page 402
+# Page 403
+# Page 404
+# Page 405
+# Page 406
+# Page 407
+# Page 408
+# Page 409
+# Page 410
+# Page 411
+# Page 412
+# Page 413
+# Page 414
+# Page 415
+# Page 416
+# Page 417
+# Page 418
+# Page 419
+# Page 420
+# Page 421
+# Page 422
+# Page 423
+# Page 424
+# Page 425
+# Page 426
+# Page 427
+# Page 428
+# Page 429
+# Page 430
+# Page 431
+# Page 432
+# Page 433
+# Page 434
+# Page 435
+# Page 436
+# Page 437
+# Page 438
+# Page 439
+# Page 440
+# Page 441
+# Page 442
+# Page 443
+# Page 444
+# Page 445
+# Page 446
+# Page 447
+# Page 448
+# Page 449
+# Page 450
+# Page 451

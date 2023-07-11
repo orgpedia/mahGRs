@@ -1,0 +1,103 @@
+# Page 1
+Regarding setting up of the Governance Structure and Domain groups for effective implementation of the Integrated University Management System (IUMS) Project.
+Government of Maharashtra
+Government Circular No: - GAD-/061/1/2017/DIT (MH)
+Hutatma Rajguru Chowk, Madam Cama Marg,
+Mantralaya (Annexe), Mumbai-400032
+Date: 3rd April 2018
+Introduction:
+Government of Maharashtra has envisaged the implementation of the Integrated University Management System (IUMS) project for providing a web-enabled online platform for all the State
+Universities in Maharashtra. Under the IUMS project, the universities will be equipped with
+strong ICT backbone for providing a seamless experience for students, faculty, University
+officials, employees, affiliated colleges and other stakeholders etc. over the coming years.
+The High Powered Committee chaired by Chief Secretary has granted approval to the
+Detailed Project Report (DPR) of the IUMS project in its 119th meeting held on 18th January
+2018. The project is being implemented by the Maharashtra Information Technology
+Corporation (MahalT). The RFP for selection of system integrator has already been floated
+by MahalT and the bid process is under way. The IUMS project is an integrated project
+involving a wide ranging set of stakeholders ranging from students, faculty, Universities,
+Higher and Technical Education Department and the IT Department. To ensure effective and
+time bound implementation of the project, it is necessary to put in place a robust
+governance structure for overall planning, co-ordination and project monitoring.
+Accordingly, the Government has decided to set up a governance structure for the IUMS project.
+Government Resolution:
+For the governance and monitoring of the entire project of IUMS project, the following governance structure is being constituted:
+A) IUMS Project Steering Committee (PSC):
+There shall be a Project Steering Committee (PSC) which shall provide strategic directions to the project in terms of its vision, objectives and strategic decisions. Project Steering Committee shall be headed by Additional Chief Secretary, Higher and Technical Education Department, Government of Maharashtra.
+The broad functions of the PSC include the following, but not limited to
+Provide overall leadership, vision and direction for the implementation the Project
+# Page 2
+Government Circular No.: - GAD-061/1/2017/DIT (MH)
+Overall strategic control and decision making on policy matters and provide guidance for successful execution of the project
+Providing sign-offs for various project milestones like SRS, UAT, Go-live etc based on the recommendations of the Project Monitoring Committee
+Consideration of matters proposed as change requests/ improvements by various stakeholders and approval of the same
+Review budgetary requirements and financial monitoring of the allocated funds
+Creating a supporting environment for the success of the project with focus on change management and capacity building plans of various stakeholders.
+The composition of Project Steering Committee will be as follows:
+---------------------------------------------------------------------------------------------------------
+| COMPOSITION |
+| Additional Chief Secretary, Higher & Technical Education Department, Government of Maharashtra | Chairman |
+| Principal Secretary IT & Chairman of Maharashtra IT Corporation | Vice-Chairman |
+| Vice Chancellor, SNDT University | Member |
+| Registrar, Dr. Babasaheb Ambedkar Technological University, Lonere | Member |
+| Registrar, YCMOU, Nashik | Member |
+| Director, Higher Education | Member |
+| Director, Technical Education | Member |
+| Controller of Examinations, Mumbai University | Member |
+| Managing Director, MahalT | Member |
+| Director IT | Member |
+| Representative of System Integrator | Member |
+| Under Secretary, DIT | Member-Secretary |
+---------------------------------------------------------------------------------------------------------
+The Committee will meet at least once a month.
+B) PROJECT MONITORING COMMITTEE (PMC):
+A Project Monitoring Committee (PMC) shall be responsible for providing operational directions for day to day operations of the project. The broad functions of the PMC include the following, but not limited to
+Reviewing the overall progress of the project
+Resolve and provide directions on the technical and operational matters
+Review Sl milestone/deliverable sign off report and provide its recommendations to Project Steering Committee
+Ensure proper training and capacity building of concerned stakeholders
+Conducting regular meetings with project key stakeholders for issue resolution
+● Coordination between different stakeholders
+Page 2 of 4
+# Page 3
+Government Circular No.: - GAD-061/1/2017/DIT (MH)
+-------------------------------------------------------------------
+| COMPOSITION |
+| Principal Secretary IT | Chairman |
+| Joint Secretary, Higher and Technical Education Department | Member |
+| Managing Director, MahalT | Member |
+| Nodal officers from each of the Universities | Member |
+| Director - IT | Member |
+| Under Secretary DIT | Member-Secretary |
+| Project Manager, PMU MahalT | Member |
+| Project Manager, Sl | Member |
+| Other invitees, as per approval of Chairman | Member |
+-------------------------------------------------------------------
+The Committee will meet once in 15 days. Since representatives of all Universities are members of this Committee, meetings may be conducted over video conference.
+C) DOMAIN GROUPS
+Domain groups will be constituted for each of the 5 verticals of the IUMS project- Students,
+Faculty, College, Academic and Administration. Each of the domain groups will be headed by a
+senior functionary nominated by MahalT. Each of the domain groups will have 5 domain experts/
+representatives of concerned stakeholders nominated by Higher and Technical Education
+Department. These members will continue to function on the domain groups from date of their
+appointment till 6 months after "Go-Live" of the IUMS project even they move to new
+assignments.
+The broad functions of the Domain groups will include the following, but not limited to
+● Provide detailed information regarding the “As-is" position, processes and workflows to the onboarded SI and representatives of MahalT regarding their domain areas
+Recommend Business Process Re-engineering steps for consideration of Project Monitoring and Project Steering Committees.
+Assist the SI in preparing test cases for User Acceptance Test (UAT) after envisaging all scenarios
+Closely monitor conduct of User Acceptance Testing (UAT) for the respective modules of the IUMS application
+Submit reports regarding User Acceptance Test (UAT) to the Project Monitoring Committee
+D) Since the Integrated University Management System (IUMS) is being developed as a pan
+State portal, all State Universities should use the portal. Individual Universities should not take up
+development of any new portal at University level for any of the modules (student, faculty, colleges,
+academics, and administration) envisaged as part of the IUMS project without the approval of the
+State Government. After the completion of the bid process and on boarding of system integrator,
+Page 3 of 4
+# Page 4
+Government Circular No.: - GAD-061/1/2017/DIT (MH)
+the detailed implementation schedule for the IUMS project and details of the annual student
+convenience fee, annual student examination fee and annual college convenience fee will be
+communicated to all Universities. The Higher and Technical Education Department (HTED) should
+bring this to the notice of all universities and stakeholders.
+This Government Circular of Maharashtra Government is available at the website

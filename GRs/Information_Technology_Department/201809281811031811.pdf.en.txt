@@ -1,0 +1,109 @@
+# Page 1
+Implementation of Urban Mahanet Project and Delivery of e-Governance Services
+The Government of Maharashtra
+the General Administration Department
+Government Resolution No.Mattsam2018/ S.No.25/ S- 3/39
+Mantralaya, Mumbai 400032
+Date: 28/09/2018
+The Proposal:
+The implementation of the prestigious MahNet (Bharat Net- Phase 2) project is being provided to about 13000 Gram Panchayats in the State through High Speed Internet Connectivity State Lead Model. The project will be implemented by the Maharashtra Information Technology Corporation (MahaIT), a 100% state-owned company. MahaIT will continue to function as a Special Purpose Vehicle (SPV) and Project Implementing Agency (SIA). For this project, air routes will be used using fibre cable (for about 70% of Gram Panchayats) and power storage and distribution network for the remaining Gram Panchayats. As part of the project, 12,740 gram panchayats in 172 talukas in 26 districts will be connected. More than 50,000 km of fibre cable will be laid for this. A robust ICT backbone will be established in a time-bound manner with a scalable future (IP-MPLS based) network with telecom carrier-grade capacity and reliability along with state-of-the-art optical fiber. The project will ensure parallel connectivity to government offices and point-of-presence (POPs) from Gram Panchayats to respective taluks as per availability. MahNet is an" important public purpose project" which will help in enabling delivery capacity of e-governance services for public purpose projects like e-health, e-education, e-agriculture, etc.
+Along with the rural Mahanets, the urban Mahanets will be an" important public purpose scheme."
+It aims to provide high-speed connectivity through bandwidth connectivity to provide services at the lowest cost, point-to-point and internet bandwidth along with broadband connectivity to various departments of the government, urban local bodies, municipal corporations, all municipalities at the lowest cost, so that governance services such as G2C services (e-health, e-education, etc.), as well as G2G services (e.g. It will be possible to provide e-data administration and access, collection of payments). It will leverage the network advantage of existing telecom service providers in a faster, easier and less expensive manner and support government connectivity to all current and future requirements to enhance their reach across cities and villages.
+# Page 2
+GOVERNMENT DECISION NO.: MATSAM2018/ P.S. NO.25/ SE- 3/39
+India (. and Under the Urban Mahanet Programme, the Government was considering to provide digital/ e-governance services (e.g. e-health, e-education, e-agriculture etc.) in rural and urban areas.
+GOVERNMENT DECISION: 1. Urban Mahanet Scheme to be declared as an Important Public Purpose Project
+------------------------------------------------------------------------
+| Urban Mahanet Scheme declared as an Important Public Purpose Project |
+| The proposed programme is being implemented.                         |
+------------------------------------------------------------------------
+Implementation of the scheme by Information Technology Corporation (ITI).
+---------------------------------------------------------------------------------------------
+| The project is being implemented by the Information Technology (IT) Department.           |
+| Approval is being given for implementation. and as per requirement, the proposed plan and |
+| Telecom Service Provider (TSP) tender process begins                                      |
+| MahaIT is being allowed to do so.                                                         |
+---------------------------------------------------------------------------------------------
+Right of way (ROW) required for project implementation
+-----------------------------------------------------------------------------------------------------------
+| Right of way (ROW) required for project implementation                                                  |
+| Approval is being given so that no fee is charged on TSP for the license.                               |
+| The cost of recharge will be borne by the TSP.                                                          |
+| Optical fiber (both underground and aerial), poles to provide bandwidth to offices                      |
+| Local bodies, schools, public health hospitals and colleges,                                            |
+| Access to all roads and government buildings, including statutory corporations of the state government. |
+| are being approved.                                                                                     |
+-----------------------------------------------------------------------------------------------------------
+(4) Any office of the Government other than the TSP institution for the right of way, or
+--------------------------------------------------------------------------------------------------------------
+| TSP organization has the right of way separately from any government office or                             |
+| No permission from the local body is required.                                                             |
+| connection, installation of equipment, etc.) including roads for both (including bridges and flyovers) and |
+| The building is only notified to the relevant agencies 7 days before the start of work                     |
+| will need to do.                                                                                           |
+--------------------------------------------------------------------------------------------------------------
+5.Will fully cooperate with MahaIT and their organization for Right of Way (RoW).
+-----------------------------------------------------------------------------------
+| Will fully cooperate with MahaIT and their organization for Right of Way (RoW). |
+| Urban Development Department to Local Bodies for installation of Smart Poles    |
+| They will give directions.                                                      |
+-----------------------------------------------------------------------------------
+6. Approval for providing option to TSPs for installation of Smart Poles
+----------------------------------------------------------------------------------------------
+| Approval for providing option to TSPs for installation of Smart Poles                      |
+| Smart Poles, which can be used for digital signature installation, 4G/ 5G,                 |
+| Use for Wi-Fi provisioning for IoT based sensors, microcells, etc.                         |
+| Setting up of access points in the concerned government departments/ offices through TSPs. |
+| will do.                                                                                   |
+----------------------------------------------------------------------------------------------
+The contract with TSP shall be for a minimum period of 3 years with an option to extend for a further period of 2 years.
+---------------------------------------------------------------------------------------------------------------
+| The contract with TSP will be for a minimum period of 3 years with an option to extend for further 2 years. |
+| It's approved.                                                                                              |
+---------------------------------------------------------------------------------------------------------------
+Page 2 of 4
+# Page 3
+GOVERNMENT DECISION NO.: MATSAM2018/ P.S. NO.25/ SE- 3/39
+8) To implement the project. A Steering Committee under the Chairmanship of Chief Secretary has been constituted.
+------------------------------------------------------------------------------------------------------------------------------
+| A committee under the chairmanship of the Chief Secretary has been constituted for the implementation of the project.      |
+| The committee will consist of Principal Secretary- Information Technology; Principal Secretary- Home Department; Principal |
+| Secretary-Urban Development Department (1) and Director General of Police will be the members.                             |
+| Challenges in monitoring the progress of the right of way to implement                                                     |
+| A review meeting will be held from time to time.                                                                           |
+------------------------------------------------------------------------------------------------------------------------------
+----------------------------------
+| e-Governance service delivery: |
+|                                |
+----------------------------------
+The proposed programme for implementation of the scheme was approved.
+The scheme will be implemented through MahaIT.
+The three departments (Public Health Department, School Education Department, Agriculture Department) will make the necessary proposed budgetary provisions for the implementation of the project.
+-------------------------------------------------------------------------------------
+| The concerned departments can procure the hardware themselves or do it to MahaIT  |
+| Funds can be provided.                                                            |
+| The software and services for this project will be provided by MahaIT and related |
+| MahaIT will be funded by the departments                                          |
+-------------------------------------------------------------------------------------
+All other departments to digitally outline the MAHANET programme over the next three years.
+-----------------------------------------------------------------------------------------------
+| All other departments to digitally outline the MAHANET programme over the next three years. |
+| Will try.                                                                                   |
+-----------------------------------------------------------------------------------------------
+At least Rs 100 crore each for health, agriculture and education departments for the current financial year
+--------------------------------------------------------------------------------------------------------------
+| Minimum Rs 100 crore each for Health, Agriculture and Education Departments for the current financial year |
+| They will allocate rupees in which 10-15% of the funds will be used for software.                          |
+--------------------------------------------------------------------------------------------------------------
+The government has taken the decision. It is being issued as per the approval given in the Cabinet meeting on 18/9/2018.
+------------------------------------------------------------------------------------------------------------
+| The decision was announced on the official website of the Maharashtra government www.maharashtra.gov.in. |
+| The code is 201809281811031811.                                                                          |
+| A digital signature is required.                                                                         |
+------------------------------------------------------------------------------------------------------------
+By order and in the name of the Governor of Maharashtra, SVR Srinivas
+(S.V.R.Srinivas) Principal Secretary, Information Technology, Government of Maharashtra. Secretary to the Governor, Page 3 of 4
+# Page 4
+GOVERNMENT DECISION NO.: MATSAM2018/ P.S. NO.25/ SE- 3/39
+2. m. Principal Secretary to the Chief Minister, 3. All Members of Legislative Assembly, Vidhan Bhavan, Mumbai 5. Personal Assistant to all Ministers and Ministers of State 6. All Amus/ Pras/ Secretaries of Ministries, Mumbai 7. All Divisional Commissioners 8. All Collectors 9. All CEOs, Zilla Parishad 10. Accountant General-1 (Accounts and Examination), Maharashtra, Mumbai 11. Accountant General-1 (Accounts and Licensure), Maharashtra, Mumbai 12. Accountant General-2 (Accounts and Licensure), Maharashtra, Nagpur 13. Accountant General-2 (Accounts and Examination), Maharashtra, Nagpur
+Page 4 of 4

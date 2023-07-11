@@ -1,0 +1,1032 @@
+# Page 1
+Maharashtra Telecom Infrastructure
+Guidelines for Urban Local Bodies 2022
+Government of Maharashtra
+Urban Development Department
+Government Resolution No. Sankirna-2021/C.R. 242/UD-20
+Mantralaya, Mumbai - 400 032
+Date 19th December, 2022
+Read :- (1) State Broadband Committee Meeting Dated 01.06.2021 (2) Urban Development Department GR No.Sankirna-2021/C.R.242/UD-20, Dated 23.12.2021 (3) General Administrative Department GR No. DIT 065/CR 7/2022/S.4/39, Date-04.11.2022
+1. Introduction :
+As telecom service providers with the mandate of the Department of
+Telecommunications Government of India, the operators are committed to provide coverage,
+and increase teledensity in urban areas. The Government of Maharashtra proposed to lay
+down a policy dated 4th November, 2022 that would be clear and useful to industry in this
+regard.
+Government of Maharashtra after examining the issues and problems faced by the
+telecom operators and after deliberating on the merits of the same deems it fit to issue these
+instructions under the "Telecom Infrastructure Policy 2022" for filing in objections and
+suggestions for setting of Telecommunication Cell Site/Base station for provisioning of
+telecommunication network in State of Maharashtra.
+The Government of Maharashtra has been taking pro-active steps to realize the vision
+of the Digital India program in the State. Industry associations & telecom service providers
+from time to time have highlighted the various issues which need to be resolved to ensure
+speedy augmentation of the telecom infrastructure in the State.
+At present, there is no uniformity of rates, procedure and documents required for
+granting for Right of Way permission & mobile tower infrastructure permissions within urban
+local bodies. There are different sets of regulations are being used by different Urban Local
+Bodies. Multiplicity of different local rules, resolutions and agencies and Departments
+dealing with permissions is resulting in an avoidable overlap and delays. Yet there is Telecom
+Infrastructure Policy in force then applicants have to go to different agencies for NOCs,
+payments, permissions even for a single application.
+It would be desirable to eliminate this ambiguity and multiplicity of agencies and
+designate Directorate of Municipal Administration of Urban Development Department as the
+appropriate authority for the implementation of Telecom Infrastructure guidelines within
+Urban Local Bodies.
+# Page 2
+Government Resolution No.: Sankirna-2021/C.R. 242/UD-20
+Government of India issued notification dated 15.11.2016 for installation of Telecom
+infrastructure. The rules are called as Indian Telegraph Right of Way Rules, 2016 and Indian
+Telegraph Right of Way (Amendment) Rules, 2022. These rules inter alia specify the method
+of application of by a licensee, points of scrutiny by the appropriate authority before grant of
+permission, obligations of licensee in undertaking the work and powers of the appropriate
+authority to supervise the work for underground and overhead telegraph infrastructure. It is
+proposed to prepare an integrated framework of the State Government for handling issues
+related to setting up of telecom infrastructure in the State which is aligned with the rules of
+the Government of India referred to above. Hence, the issue of comprehensive guidelines
+regarding setting up of telecom infrastructure in the State was under the consideration of the
+Government.
+2. Government Resolution :
+Whereas the Telecom Infrastructure Policy GAD GR No. DIT065/CR7/2022/S4/39,
+Date-04.11.2022 in exercise of the powers conferred by the Indian Telegraph Right of Way
+Rules, 2016 read with section 520 C of The Mumbai Municipal Corporation act, 1888
+(Bombay Act 3 of 1888), sections 450 A of The Maharashtra Municipal Corporations
+Act, 1949 (Maharashtra Act no. LIX of 1949) and section 312 A of The Maharashtra
+Municipal Councils, Nagarpanchayats and Industrial Townships Act, 1965 (Maharashtra
+Act no. XL of 1965) and in order to bring uniformity in disposal of permission amount in
+Urban Local Authorities has been published in the Telecom Infrastructure Policy.
+Now therefore in exercise of powers conferred under the Indian Telegraph Right of
+Way Rules, 2016 read with above mentioned sections, the State Government of Maharashtra
+is hereby pleased to make the following guidelines to bring uniformity, clarity and
+simplification in the process of mobile tower installation permission and Right of Way
+(RoW) permission to install telecom infrastructure such as Ground Based Tower (GBT),
+Ground Based Mast/Monopole, Roof Top Tower (RTT) and Roof Top Pole (RTP)
+establishment of poles for 5G, and laying of underground optical fiber cable to licensed
+telecom operators and registered infrastructure providers in urban areas of Maharashtra.
+3. Objectives :
+These guidelines are aimed at creation of robust telecommunication infrastructure with
+adequate band width to promote information technology, E-governance, E-commerce,
+Convergence of information, Communication and Entertainment sectors, which shall improve
+the economy of the state and enhance the quality of life of citizens and ensure development of
+urban areas with equity towards the state. The state government intends to use this
+Page 2 of 41
+# Page 3
+Government Resolution No.: Sankirna-2021/C.R. 242/UD-20
+telecommunication infrastructure to deliver citizen centric services to the citizens so that
+she/he can access services in the comfort of their homes without having to access government
+office.
+4. Title, commencement and application :
+(1) These guidelines may be called the Maharashtra Telecom Infrastructure Guidelines for
+Urban Local Bodies 2022
+(2) They shall come into force from the date of publication.
+(3) Directorate of Municipal Administration of Urban Development Department is designated
+as the Appropriate Authority to implement and work as Nodal Officer for the activities
+involving setting up and maintenance of telecom infrastructure in the Urban Local Body
+areas.
+5. Definitions :
+For the purposes of guidelines, unless the context otherwise requires, -
+(a) "Act" means the Indian Telegraph Act, 1885 (Central Act 13 of 1885);
+(b) "Applicant" shall mean an agency who is a telecom or cable infrastructure provider,
+registered with the Department of Telecommunication to install new
+Telecommunication Infrastructure Towers (TIT) or to lay cable wires either below the
+surface of the earth or above the surface of the earth for any communication purposes
+recognized under the appropriate law.
+(c) "Appropriate Authority" means the authority as defined under clause (b) of rule 2 of
+the Indian Telegraph Right of Way Rules, 2016;
+(d) "Cable" shall mean an assembly of one or more insulated conductors or optical fibres
+or a combination of both within an enveloping jacket which may be above the surface
+of the Earth or below the surface of the Earth and shall be a high-speed physical
+medium for transmitting data or information and shall not include those cables
+utilized for broadcasting or provision of programming services under the Cable
+Television Networks Regulations Act, 1995 (Central Act 7 of 1995)
+(e) "Cable duct" shall mean a pipe or tubular hollow structure designed to accommodate
+the running of one or more cables within it.
+(f) "Government" means the Government of Maharashtra.
+(g) "Nodal Officer" for the purpose of these guidelines means,- the Commissioner,
+Directorate of Municipal Administration, Mumbai Commissioner or officer
+authorized by him.
+Page 3 of 41
+# Page 4
+Government Resolution No.: Sankirna-2021/C.R. 242/UD-20
+(h) "Permission holder” means any person holding a permission/ licence issued under
+these guidelines ;
+(i) “Over ground cable infrastructure” means a cable over the ground and includes posts
+or other above ground contrivances appliances and apparatus for the purpose of
+establishment or maintenance of the cable;
+(j) "Permission" means the permission granted by the urban local bodies to an applicant
+for the purpose of installing telecommunication infrastructure tower or laying down
+optical fibre cables above the surface of the earth or below the surface of the earth in
+accordance with the Telecom Infrastructure Policy/guidelines;
+(k) "Schedule" means the schedule appended to these Telecom Infrastructure guidelines;
+(1) "Telecommunication Infrastructure Tower (TIT)" shall include Ground Based Tower
+(GBT), Roof Top Tower (RTT), Roof Top Poles (RTP), Cell Phone Tower (CPT),
+Antenna fixtures, fabricated antenna, Tower to install the telephone lines,
+Transmission Towers, Cell On Wheels, In-Building Solutions and Micro Sites. But it
+shall not include the Antennas installed for domestic purpose, namely Television
+Antennas or Dish Antennas;
+(m) "Underground cable infrastructure" includes manholes, marker stones, appliances
+and apparatus for the purposes of establishment or maintenance of the cables,
+(n) “Registered Telecom Infrastructure Provider" are the one who hold valid licence
+issued by DoT, Gol.
+(0) "Rule" means the Indian Telegraph Right of Way Rules, 2016; and “Urban Areas”
+means areas within the limits of Urban Local Bodies.
+(p) Words and expressions used and not defined herein but defined in the Act shall have
+the meaning assigned to them in the Act.
+6. Applicability /Eligibility :
+1) These instructions shall apply to the whole of the State of Maharashtra and shall be
+implemented by all Municipal Corporations, Municipal Councils, the appropriate
+authorities mentioned in the Telecom Infrastructure Policy 2022.
+2) The Guidelines shall be applicable to all telecom licensees and Registered Telecom
+Infrastructure Providers (Registered with DOT) within the State.
+3) Either by content or by intent, the purpose of extending Right of Way facility is not to
+enhance the scope of license of a licensee and such Right of Way permissions shall be
+only enabling in nature.
+Page 4 of 41
+# Page 5
+Government Resolution No.: Sankirna-2021/C.R. 242/UD-20
+4) The concerned Commissioner of Municipal Corporation/ Chief Officers of Municipal
+Council/ Nagar Panchayat/Local self-governing bodies shall be the Appropriate
+Authority in the areas under its jurisdiction.
+7. Survey of the existing underground and overground telecom infrastructure i.e.,
+OFC, Cables below the surface of the earth and above the surface of the earth,
+mobile towers etc. :
+1) In urban areas Commissioner/ Chief Officer/ Appropriate Authority shall undertake a
+survey as mentioned Point 8 in General Section of State Telecom Infrastructure
+Policy 2022.
+2) The survey shall identify areas where cables or cable ducts have been laid below and
+above the surface of the earth and the agencies responsible for laying such cables or
+cable ducts and such a survey shall ordinarily be completed before 31st March 2023
+and for telecom infrastructure tower, the survey shall ordinarily be completed before
+31st March 2023.
+3) The Commissioner/ Chief Officer/ Appropriate Authority shall co-ordinate with
+telecom infrastructure providers whereas if necessary for survey purposes.
+4) The telecommunication infrastructure towers that have previously registered with the
+urban local bodies or have remained unregistered shall register themselves with The
+Commissioner/ Chief Officer/ Appropriate Authority in accordance with the
+procedure laid down under these guidelines :
+(1) Upon undertaking the survey of cables and cable ducts laid below and
+above the surface of the earth, the Commissioner/ Chief Officer/
+Appropriate Authority shall identify such empty cable ducts within which
+new cables may be accommodated and record such details for the
+purposes of scrutinizing any application received under these guidelines.
+(2) Based on the survey undertaken, the appropriate authority shall direct
+such agencies who have laid down cables or cable ducts prior to the
+publication of these guidelines to register themselves, afresh, with the
+Commissioner/ Chief Officer/ Appropriate Authority in accordance with
+the procedure laid down under these guidelines.
+(3) Based on the survey undertaken, the Commissioner/ Chief Officer/
+Appropriate Authority shall direct such agencies who have installed
+telecommunication infrastructure towers prior to the publication of these
+guidelines to register themselves, afresh, with the Commissioner/ Chief
+Officer/ Appropriate Authority in accordance with the procedure laid Page 5 of 41
+# Page 6
+Government Resolution No.: Sankirna-2021/C.R. 242/UD-20
+down under these guidelines. The details of the survey undertaken by the
+local bodies for the installation of telecom infrastructure tower and cables
+shall be recorded by the local body in such manner as may be appropriate
+and the particulars of the survey shall be communicated to the State
+Government.
+8. Essentiality of Permit :
+No person shall erect or re-erect any non- Governmental telecom
+infrastructure tower or telecommunication pole structures or accessory rooms or lay
+underground cables or overground cables or make alteration or cause the same to be
+done without obtaining a separate permission for each such erection or laying from
+the Commissioner/ Chief Officer/ Appropriate Authority.
+Provided, if any person erects a telecommunication tower or lays down cables
+(either underground or overground) in the absence of permission under these
+guidelines, the Commissioner/ Chief Officer/ Appropriate Authority shall initiate
+action, after giving notice, for removal of the telecom tower or cables as per law.
+9. Application for Installation of Telecommunication Cell Site/Base Station :
+I) All applications shall be made to the concern Local Body or Appropriate
+Authority by the Telecom Service Provider through GatiShakti/MahaSanchar
+only.
+II) All applications seeking permission of any appropriate authority to lay the
+communication infrastructure shall be submitted by the applicant infrastructure
+provider/ Telecom Licensee along with all the particulars and documents specified
+below to the concerned Commissioner/Chief Officer/Designated Officer through
+Gatishakti/MahaSanchar Portal.
+III) The concerned Commissioner/Chief Officer/Designated Officer of the Urban Local
+Body shall be single contact person for all clearances.
+IV) In order to provide time bound clearances and to address public grievances relating
+to installation of Telecom infrastructure and other issues, and also to give
+clearances for establishing Telecom Infrastructure over government/semi
+government/local body land and buildings, the concerned Chairman of District
+Level Telecom Committee (DLTC) is hereby declared the grievance redressal
+officer for the Urban Local Bodies. Principal Secretary Information Technology
+Page 6 of 41
+# Page 7
+Government Resolution No.: Sankirna-2021/C.R. 242/UD-20
+will be the appellate authority for any appeals against the decision of the Chairman
+of DLTC.
+10. Establishment of Over-ground Telecom Infrastructure Tower or overground
+cable infrastructure :
+(A) Application :
+(1) An applicant shall, for the purposes of establishing overground telecommunication
+infrastructure tower or overground cable infrastructure, upon any immoveable
+property vested in or under the control or management of any appropriate authority,
+make an application, supported by such documents, to that appropriate authority in
+such form and manner as may be specified by the said authority.
+(2) The applicant shall provide documents for the permission as per SCHEDULE I.
+(3) In addition to the documents specified as above, the permission holder shall, while
+making the application, give a specific commitment on whether he undertakes to
+discharge the responsibility for restoration, to the extent reasonable and prudent, of
+the damage that the concerned appropriate authority shall necessarily be put in
+consequence of the work proposed to be undertaken.
+(4) If the applicant commits to undertake the responsibility of restoration, he shall
+submit an estimate of the cost of such restoration which shall be approved by the
+authority. Else, the applicant shall deposit the amount equivalent to the cost of
+restoration, as specified by the Indian Telegraph Right of Way (Amendment) Rules
+2022 specified in Part II of the schedule.
+(5) All existing telecom infrastructure towers or overground cable infrastructure shall
+register before 31st March 2023 as per the State Telecom Infrastructure policy
+2022. By paying fees mentioned in these guidelines. and by submitting structural
+safety/ stability certificate from a structural engineer empanelled with the local
+authority or any other agency of the State or Central Government. Upon the failure
+of the existing telecom infrastructure tower or overground cable infrastructure
+provider to pay the fees and register within the stipulated time, the concerned local
+authority shall initiate action, after giving notice, for removal of the telecom
+infrastructure tower or overground cable infrastructure as per law.
+(6) Operation & Maintenance activities in respect of overground telecom infrastructure
+tower or overground cable infrastructure shall be undertaken with prior intimation
+to Commissioner/ Chief Officer/ appropriate authority. No fresh permissions are
+necessary for purely operation & maintenance activities.
+Page 7 of 41
+# Page 8
+Government Resolution No.: Sankirna-2021/C.R. 242/UD-20
+(7) Provided that any activities that causes change in location of overground telecom
+infrastructure tower or overground cable infrastructure will necessitate permission
+under guidelines.
+(B) Grant of permission by the Appropriate Authority :
+(1) The appropriate authority shall examine the application with respect to the following
+parameters, namely :
+i. the extent of land required for the telecom infrastructure tower or overground
+cable infrastructure ;
+ii. the location proposed;
+iii. the approval issued by the duly authorized officer of the Central Government for
+location of the above ground contrivances proposed to be used for transmission
+of Radio waves or Hertzian waves ;
+iv. the mode of and time duration for execution of the work;
+the estimation of expenses that the appropriate authority shall necessarily be put
+in consequence of the work proposed to be undertaken;
+vi. assessment of the inconvenience that the public is likely to be put to in
+consequence of the establishment or maintenance of the telecom infrastructure
+tower or overground cable infrastructure, and the measures to mitigate such
+inconvenience indicated by the permission holder
+vii. certification of the technical design by a structural engineer attesting to the
+structural safety of the telecom infrastructure tower or overground cable
+infrastructure;
+viii. Certification by a structural engineer, of the structural safety of the building, on
+which the post or other above ground contrivances is proposed to be established;
+Aerial cables which are permitted only for last mile connectivity, do not require
+structure certificates for installation.
+ix. any other matter, consistent with the provision of these guidelines, connected
+with or related to the laying of telecommunication infrastructure tower or
+overground cable infrastructure, through a general or special order or guidelines
+by the Central Government, State Government or the concerned local authority;
+(2) Where the establishment of the overground telecom/ cable infrastructure is over the
+immoveable property, vested in the control or management of any local authority which is,
+unlikely to be used for any other purpose, the local authority shall be entitled to
+compensation for the value of the immoveable property, either once or annually, assessed
+Page 8 of 41
+# Page 9
+Government Resolution No.: Sankirna-2021/C.R. 242/UD-20
+on such rates as that appropriate authority may, by general order, specify as mentioned in
+Indian Telegraph Right of Way (Amendment) Rules 2022 specified in Part III of the
+schedule.
+(3) The appropriate authority shall within a period not exceeding 60 days from the date of
+application :
+(a) grant permission on such conditions including, but not limited to, the time, mode of
+execution, measures to mitigate public inconvenience or enhance public safety or
+structural safety and payment of restoration charge or compensation, subject to the
+provisions of the Act and these guidelines; or
+(b) reject the application for reasons to be recorded in writing:
+Provided that no application shall be rejected unless the applicant has been given
+an opportunity of being heard on the reasons for such rejection:
+Provided further that the permission shall be deemed to have been granted if the
+concerned appropriate authority fails to either grant permission under clause (a) or
+reject the application under clause (b) and the same shall be communicated in writing
+to the applicant not later than five working days after the time specified as above.
+(4) Where the concerned appropriate authority accepts the undertaking by the permission
+holder to discharge the responsibility to restore the damage that such authority shall
+necessarily be put in consequence of the work, the concerned appropriate authority while
+granting permission shall seek a bank guarantee for an amount in lieu of expenses for
+restoration of such damage, as security for performance in the discharge of the
+responsibility.
+(5) Formal clearance or permit will not be requires for installation of cell on wheels, The
+Cell on Wheel can maximum placed for 30 day with prior intimation to
+commissioner/chief officer/ appropriate officer, along with fees depending upon the
+location provided all other provisions of concerned department are followed. Where the
+deployment is more than 30 days due to any reason, permission from concerned local
+authority is required for a period not exceeding 90 days.
+11. Fees Structure for installation of Mobile Tower :
+The concerned appropriate authority shall charge fees as per SCHEDULE II :
+i. In cases, where the land/site utilized for the infrastructure such as tower, mast, pole,
+T.V. cable network, OFC, etc. is to be provided by a Government
+Department/Agency/Local Authority etc, the annual lease charges for each such site Page 9 of 41
+# Page 10
+Government Resolution No.: Sankirna-2021/C.R. 242/UD-20
+shall be as per current Market Rate, or as per relevant government notification or
+resolution. Lease charges for a Pit/Manhole shall be Rs.100/- per annum in addition to
+annual lease charges. The actual area below the tower / support system shall be
+considered for lease charges.
+ii. Property Tax shall be independently paid as per respective provisions of Municipal
+Corporation Act / Municipal Council Act by concerned TSP in each financial year to
+respective Municipal corporations / Municipal Councils.
+iii. Validity of the permission for installation of mobile towers shall be coterminous with
+the Telecom License period.
+iv. For cell on Wheels the fees to be paid shall be maximum of 50% of regular mobile
+towers.
+v. Other than these fees, no other hidden charges of any nature should be charged for the
+cellular sites except property taxes for the tower and appurtenant uses.
+vi. The approvals shall be granted by designated Additional Commissioner/Additional
+Chief Officer or appropriate officer of concern local body.
+vii. If the local body does not give any response to the applications within a period of 60
+days from the date of submission, the said applications by the Telecom Operators
+shall be deemed to have been approved.
+viii. The maximum time limit for giving permission for setting up Telecom Infrastructure
+will be 60 days from the date of submission of application along with necessary
+permission fees under the regulations, the authority fails to intimate in writing to the
+person/ applicant, who has submitted the application; of its refusal or sanction or
+sanction with such modifications or directions, the application with its plan and
+statements shall be deemed to have been sanctioned, provided nothing shall be
+construed to authorise any person to do anything on the site of work in contravention
+or against the terms of lease or titles of the land.
+ix. Provided that, the permission proposal, for which the permission was applied, is
+strictly in the conformity with the requirements of these regulation or regulations
+framed in this behalf.
+x. If no decision is communicated within 60 days, it will be considered as deemed
+permission.
+xi. No permission for installation of Telecommunication Cell Site/ Base station shall be
+granted on buildings, which are structurally unsafe. If permission for installation of
+such structures are granted on buildings, which may be declared as unauthorised at a
+later point of time, the Local Authority shall have every right to demolish the said
+building through the due process of law. While undertaking such a demolition, the Page 10 of 41
+# Page 11
+Government Resolution No.: Sankirna-2021/C.R. 242/UD-20
+local authority will not remove or demolish the same without prior intimation to the
+owner of the tower, and the local authority will not be liable for loss of the tower as a
+consequence of demolition of the unauthorised building. The operators shall
+indemnify Local Authority to this effect.
+xii. Notwithstanding anything, Local Authority may require demolition/ removal of
+Telecommunication Cell Site put on such illegal buildings and structures after issuing
+an advance notice of 30 days to the concerned Telecom Service Provider.
+xiii. Any complaint concerning ILLEGAL USE OR CONSTRUCTION of the building,
+location of the tower or other complaints/queries of any nature regarding the
+installation of telecommunication equipment, the Local body shall intimate the
+concerned Telecom Operator of the same with a direction to resolve the matter under
+intimation to the Local body.
+xiv. The Licensees shall try to share the towers for fixing their respective antennas
+provided that the prescribed conditions are duly fulfilled so as to ensure curtailing of
+multiple towers and optimizing the use of the existing ones.
+xv. The conditions for DG sets used for mobile towers shall be as per the provisions under
+Environment (Protection) Act, 1986 and the Noise Pollution (Regulation and control)
+Rules, 2000 as amended from time to time.
+12. Obligations of permission holder in undertaking work :
+The permission holder shall ensure that –
+1) Prior to the commencement of establishment and maintenance of telecom
+infrastructure tower or over ground cable infrastructure and at all times, the measures
+to mitigate public inconvenience and ensure public safety, including structural safety
+of such telecommunication infrastructure tower or overground cable infrastructure
+are implemented;
+2) Th work of establishment and maintenance of over ground telecom/cabl
+infrastructure is carried out in accordance with the conditions specified in the grant
+of permission by the appropriate authority.
+13. Guidelines for installation of Roof top based Infrastructure :
+1) Express permission from the building owner shall be obtained. The pre-fabricated
+structure shall be temporary in nature and shall not be an inseparable part of the roof
+top.
+Page 11 of 41
+# Page 12
+Government Resolution No.: Sankirna-2021/C.R. 242/UD-20
+2) The height of the antenna (i.e. height of building plus height of tower should be as per
+submitted specifications and should not violate the directions and the limit prescribed
+by Appropriate Authority in this regard).
+3) The structural safety has to be ensured by each private operator individual who should
+obtain the certificate from a certified structural engineer. It shall be the responsibility
+of the operator to ensure that the buildings are structurally safe and sound and are
+capable of taking the load of antenna and pre-fabricated structures.
+14. Guidelines for installation of mobile towers by private telecom service
+providers in the premises of government offices or government land :
+1) The Commissioner/ Chief Officer/ Competent Officer of the concerned Government/
+Semi-government Office where the Government land/building is located would be the
+Appropriate Authority concurrently for according permissive sanctions for allowing
+annual lease of Government land/building in consultation with head of the concerned
+Department, Board, Corporation, Societies, Schools, Colleges, Hospitals, Anganwadi
+Centres etc.. The below mentioned guidelines govern the matters relating to the
+installation of mobile/telecommunication towers in Government/PSU land and
+buildings by Telecom Infrastructure Providers.
+2) All applications for seeking permission of any Appropriate Authority for the
+installation of mobile/telecommunication towers in Government/PSU Local Body
+land and buildings shall be submitted by the applicant, along with the prior written
+consent from the Appropriate Authority having legitimate right over the land, and
+with (i) one time Charges for right of use, and (ii) furnish the Performance Bank
+Guarantee as a refundable security for restoration of sites and (iii) annual lease
+charges on the online portal to the concerned Commissioner/ Chief Officer/
+Competent Officer. The above said Officer will meet with inputs from all concerned
+and decide the applications and convey the decision within a maximum time period of
+30 days.
+3) The tower being constructed at Government/ semi- Government/ local body
+land/Building if is to be shared with and other Telecom Infrastructure
+Providers/Service Providers in future as per Technical feasibility. The Telecom
+Infrastructure Providers/Service Providers should seek permission from the concerned
+Authority before sharing infrastructure.
+4) Annual Lease Charges shall be payable to the department who owns the land and
+buildings as per charges defined under relevant rules.
+Page 12 of 41
+# Page 13
+Government Resolution No.: Sankirna-2021/C.R. 242/UD-20
+5) Permit for installation of Ground Based Mast (Tower)/Roof Top tower on the
+land/buildings belonging to the State Government offices/ semi- Government/ local
+body / PSU will be issued by Concerned Officers in accordance as per the provisions
+of this guidelines. The guidelines in the matter issued by Government of
+India/Government of Maharashtra from time to time shall also be applicable.
+6) Telecom Infrastructure Provider/ Service Providers shall have no right or claim over
+any Government Building/premises, in the light of this guidelines for granting
+permission for installing Ground Based Mast (Tower)/Roof Top Tower. It shall be the
+discretion of Commissioners / Chief Officer/ Competent Officer to take appropriate
+decision for allowing the installation of Ground Based Mast (Tower)/Roof Top Tower
+on lease rent basis. This permissive sanction does not force any department to grant
+permission.
+7) Technical feasibility and structural stability should be taken in to account head of
+office before leasing out the building roof tops. Future expansion/extension of
+building/premises should be kept in mind.
+8) All such installations should be incompliance to DoT. Gol norms and related
+instructions issued by Gol and State Govt. from time to time.
+9) Head of Office shall enter into an agreement with Telecom Infrastructure Provider/
+Service Providers before leasing out land or roof top space of the building.
+10) Damage cause to the building/assets/land if any, shall be rectified by the Telecom
+Infrastructure Provider/ Service Providers to bring back to the original condition and
+to the satisfaction of the authorities concerned. The Telecom Infrastructure Provider/
+Service Providers will be solely responsible for any damage/losses to the
+property/people due to any accidents occurring due to the Tower.
+11) Leasing of premises or buildings to Telecom Infrastructure Provider/ Service
+Providers should not be detrimental to the daily routine activities of the office or
+officers concerned.
+12) The Fee collected by the Appropriate Authority on a/c of administrative expenses for
+examination of application as also the lease charges levied collected on a/c of usage of
+land/site of Government Department shall be deposited in the State Treasury/
+concerned departments treasury.
+15. Guidelines for installations of in-building solutions (IBS)/ microcell in
+government building :
+1) The in-building systems may be set-up in buildings to obtain good coverage and
+capacity to the mobile network inside the building by ensuring that the signals don't
+Page 13 of 41
+# Page 14
+Government Resolution No.: Sankirna-2021/C.R. 242/UD-20
+have to penetrate thick walls. The infrastructure required to being installed requires
+extensive wiring in building which could be internal or external based on the
+aesthetical requirement of the owner. This solution is beneficial to the mobile users as
+well as mobile operators as it reduces the load of the mobile towers and gives
+coverage to the mobile users. In this regard, the following guidelines shall be
+followed.
+2) Identification selection of Government buildings for in-building solution/microcell
+would be done by the concerned department and request for installing IBS can be
+communicated to the Telecom Service Provider who in-turn shall conduct a survey to
+see the possibility of installing IBS in the said premises/building.
+3) The permission for setting such a facility would be given by the concerned Head of
+department of the building and issue enabling order to allow such installations. In
+view of requirement of exterior/ interior wiring for in-building solution, the line plan
+should be got approved by the maintenance agency for electrical services for the said
+building. The service provider would also look into the security considerations of the
+Government offices.
+16. Utility Structures of the Government for Aerial Optical Fibre Cable laying :
+1) Right of Way (ROW) for Aerial OFC (Overhead Telegraph line) laying will be
+encouraged and promoted in the areas where underground fibre is difficult such as in
+the hill areas, congested localities, dense population, slum areas etc.
+2) In case Aerial OFC (Overhead Telegraph line) is established over the immovable
+property, vested in the control or management of any appropriate authority, then in
+such cases, one-time compensation shall be payable for the value of the immovable
+property, not exceeding one thousand rupees per Kilometre (One Time Charge) of the
+over ground telegraph line established.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| For establishment of overground telegraph infrastructure | (i) One thousand rupees per kilometre for establishment of overground telegraph line. (ii) Nil for establishment of poles, for installation of small cells and telegraph line, on the immovable property vested in, or under control or management of appropriate central authority. (iii) One thousand rupees per pole for establishment of poles, for installation of small cells and telegraph line, on the immovable property vested in, or under control or management of appropriate authority, other than appropriate central authority. |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Page 14 of 41
+# Page 15
+Government Resolution No.: Sankirna-2021/C.R. 242/UD-20
+3) Use of Street Furniture for the deployment of the Telecom Infrastructure i.e. aerial fibre, T.V. Cables, Small cells etc will be made available across the State by Appropriate Authority as per prescribed conditions at places such as bus stop shelters, lampposts, or traffic lights, owned by municipalities, to help small cell site deployment for 5G rollout.
+17. Powers of the Appropriate Authority to supervise the work :
+1) The concerned appropriate authority may supervise the establishment and
+maintenance of telecommunication infrastructure tower or over ground cable
+infrastructure to ascertain if the conditions imposed in the grant of permission are
+observed by the permission holder.
+2) The concerned appropriate authority may, on the basis of such supervision, impose
+such other reasonable conditions, as it may think fit.
+3) If the concerned appropriate authority comes to the conclusion that the permission
+holder has wilfully violated any of the conditions for grant of permission, it may
+withdraw, for reasons to be recorded in writing, the permission granted to the
+permission holder:
+Provided no action shall be taken under sub-rule unless the permission holder
+has been given notice, and an opportunity of being heard. The permission holder
+shall be given a period of 30 days to remedy violations identified by the Authority.
+18. Maintenance of telecommunication infrastructure tower or over ground cable infrastructure :
+1) The permission holder shall inform the Appropriate Authority in case of removal
+or translocation the telecommunication infrastructure tower or over ground cable
+infrastructure.
+2) In the event the Local Authority/ Urban Local Body or any other agency of the
+State Government or Central Government seeks to widen or modify the roads
+abutting which the telecommunication infrastructure tower or over ground cable
+infrastructure of the permission holder exists, such permission holder shall
+coordinate with such agency for removal or shifting of the telecom infrastructure
+tower or over ground cable infrastructure.
+19. Penalties:
+Any other violation apart from Electromagnetic Field (EMF) radiation being
+deemed by the appropriate authority as a violation on part of the licensee, the same
+shall be dealt with by issuing a notice to the licensee. The duration to respond to the
+notice shall not be less than 7 working days. In case the appropriate authority is not
+Page 15 of 41
+# Page 16
+Government Resolution No.: Sankirna-2021/C.R. 242/UD-20
+satisfied with the response, the licensee shall have an opportunity to be heard by the
+District Level Telecom Committee. In case the District Level Telecom Committee
+concurs with the appropriate authority's decision then appropriate action shall be
+initiated by the appropriate authority against the licensee.
+1) The permission holder shall be responsible for restoration of any damages caused to
+any public or private property during the course of erection of telecommunication
+infrastructure tower or over ground cable infrastructure. In addition, the
+commissioner/ chief officer/ appropriate authority may levy penalty of 2 times of
+regular charges per meter per year or per unit as applicable.
+2) In case of any untoward incidences or accidents arising due to negligence on the part
+of permission holder during erection of telecom infrastructure tower or over ground
+cable infrastructure or due to failure in structural stability of the building on which the
+telecom infrastructure tower is erected, the commissioner/chief officer/ appropriate
+authority shall initiate criminal proceedings against the permission holder and take
+necessary action as per law, in addition to levy of penalty.
+3) Punitive Action in case of Violation of EMF radiation limits set by Central Govt. shall
+be addressed to Central Govt. or DoT as per provisions of Central Govt. Guidelines.
+4) Principal Secretary (IT) will be the Final Authority for dispute resolution.
+20. Regularization/Compounding :
+Application for obtaining clearance for the existing unauthorised mobile towers
+shall be submitted till 31/03/2023, after which the matter would be taken as per laid
+down procedure. Once the application is submitted within due time, the operation of the
+Mobile Tower shall not be discontinued till disposal of the application by the concerned
+local Authority. We direct all Urban Local Bodies not to take coercive steps and not to
+seal the Towers sites and not to disconnect the electricity without the concurrence of
+Principal Secretary (IT). In case the local authority declines clearance for any existing
+unauthorised mobile towers an appeal can be filed before the concerned Chairman of
+District Level Telecom Committee (DLTC) Principal Secretary Information Technology
+will be the appellate authority for any appeals against the decision of the Chairman of
+DLTC.
+For the regularisation of unauthorised Mobile/Telecom Towers which were
+installed before implementation of these guidelines subject to the fulfilment of
+conditions applied for authorised tower thereof and payment by following formula. This
+is one time relaxation, which will be valid till 31/03/2023 from the implementation date
+Page 16 of 41
+# Page 17
+Government Resolution No.: Sankirna-2021/C.R. 242/UD-20
+of these guidelines. For this purpose the application for regularisation shall be made and
+processed on MahaSanchar Portal only.
+Formula : -
+No. of Years existing period of Mobile Towers × [Applicable Fee for Permission + Basic Property Tax (excluding penalty* and interest)]
+* For the purpose of above Penalty formula rebate shall be granted as per section
+152-1A of The Maharashtra Municipal Corporations and section 216 A of The Mumbai
+Municipal Corporation, section 167 A of The Maharashtra Municipal Councils, Nagar
+Panchayats and Industrial Townships (Second Amendment) Act, 2018 (Mah. Act No.
+LIII of 2018) for this purpose to avail benefit of this scheme the applicant Telecom
+Infrastructure Service Provider must withdraw any pending suit unconditionally. For
+this purpose take proper approval of concern Local Body's administrator or general
+body if there is necessary.
+All ULB's shall rationalise Property Tax and it should be not more than 15% of
+annual rateable value. This will be applicable from 01.04.2023.
+For the purpose of Mobile Tower erection previously Security Deposit has been
+collected, there is no provision of security deposit in ROW Rules, so security deposit
+shall be refunded or will be adjusted in property tax before 31.03.2023.
+21. Establishment and Maintenance of Underground cable infrastructure (OFC) :
+(A) Application :
+1) An applicant shall, for the purposes of installation of cable infrastructure/ laying of
+cables under any immovable property vested in or under the control or management
+of the appropriate authority make an online application, supported by documents as
+per SCHEDULE III.
+2) An applicant shall provide Indicative Action Plan and layout of the OFC /ducts to be
+laid down in a year on or before to 1st of April each year, at least 6 months in
+advance and get it approved from the appropriate authority. Once such layout/plan is
+received by the authority, the authority will call a meeting of all the
+operators/applicants and after mutual understanding will fix the route, distance etc. to
+be allotted to which operator in order to avoid repetition of grant of permission and
+frequent damages to the roads and to avoid the inconvenience to the public. In this
+case the operators who got the approval will be entitled for the payment of
+ROW/Restoration and other charges as mentioned in SCHEDULE IV.
+3) That, while newly constructing and repairing of the roads foot Paths etc in the Page 17 of 41
+# Page 18
+Government Resolution No.: Sankirna-2021/C.R. 242/UD-20
+jurisdiction of local bodies all utility holders including telecom operators shall be
+called for doing the RoW/Ducting work who is interested to do so for himself and for
+others also so that frequently granting permission and frequently digging, excavating
+the roads and putting public in trouble etc would be avoided.
+4) In this case all interested utility holders will prepare their annual plan of ducts to be
+laid down every year and will submit it to the concerned authority before 31stJuly of
+every year and the Appropriate Authority will call a joint meeting of all such
+operators, utility holders and will obtain their expression of interest till the end of
+first week of August. Out of all these applicants one operators/utility holders should
+be selected for doing this work at the rate of one third of the amount as defined after
+analysing the expression of interest by the end of 15th August every year.
+5) In this case the selected applicant will lay down all the ducts one for their
+organisation and other for the use of other applicant from which the local bodies will
+be entitled to recover per kilometre or per meter annual rent on prorata basis
+depending upon the rates as defined.
+6) In any case the local bodies must give all permissions to the selected applicant on or
+before 31stof August of that year. If such permissions are not given within this
+stipulated time the same will be deemed to be granted provided it is not otherwise
+rejected by the authority with proper reason of rejection and that too within five days
+from the last date of granting permissions i.e. 31st of Aug every year.
+7) Provided any applicant seeking permission to lay cables under these guidelines may
+submit an affidavit to the commissioner/ chief officer/ appropriate authority declaring
+compliance with these guidelines and acknowledgement of payment of the
+application fees to the Appropriate Authority / urban local body. The commissioner/
+chief officer/ appropriate authority shall permit the applicant to lay cables provided
+that all the documents required are submitted within 60 days from the date of
+submission of the affidavit.
+8) Provided further that the applicant is exempted from fee under these guidelines if he
+has paid fees to the Urban Local Body/Appropriate Authority for establishment of
+cable infrastructure or laying of cable through MoU or other instruments with the
+respective Urban Local Body/ Appropriate Authority, prior to the commencement of
+these guidelines.
+9) Once the "Call Before u Dig" (CBuD) Mobile Application is activated, all digging
+agencies to mandated by State Govt. to do any type of digging only after prior
+intimation through "Call Before u Dig" (CBuD) App and as per its terms and
+conditions.
+Page 18 of 41
+# Page 19
+Government Resolution No.: Sankirna-2021/C.R. 242/UD-20
+(1) All underground utility/asset owner agencies viz. Electricity Cables, Water-pipe.
+Gas-pipe, Sewerage etc. to be directed by State Govt :
+To register contact details/ escalation matrix of their local/zonal/district officers in charge in the "Call Before u Dig" App for receiving SMS/email notifications.
+To direct owners of excavators, public works contractors to download and register themselves on CBUD app and educate the drivers of these machines To be mandated to respond to excavation requests/messages received on "Call Before u Dig" App and take actions accordingly, even if they have mapped or not mapped their assets.
+To GIS map their assets on PM GatiShakti NMP as a layer (https://nad.ncog.gov.in/gatishakti/login)
+(2) All agencies carrying out excavation in public lands to be mandated by State Govt:
+To do any type of digging only after prior intimation through "Call Before u Dig" App and as per its terms and conditions.
+To use the App before commencing any type of digging anywhere in the State.
+(3) All ULBS to be directed to include Point 2 in the approval letter format, while
+granting approval for any type of digging anywhere in the ULB area.
+Every applicant shall pay following fees :
+In cases where telecom cable such as optical fibre cables etc. have to be laid
+underground by any method such as duct & conduits, tunnelling core etc. the service
+provider will be expected to conduct the entire operation of laying the cable fibre
+and restoring the site & all related infrastructure to its original & useable condition
+at their own cost and within a period of 30 days. In case, the service provider/
+infrastructure provider chooses not to rehabilitate the site/ infrastructure or is unable
+to do so within a period of 30 days after laying the infrastructure the concerned
+Government Department/ Agency/Local Authority shall execute the rehabilitation of
+the site/road by levying the charges as per SCHEDULE IV:
+Administrative and Reinstatement charges including other charges are to be
+paid online by applicants before granting permission. Reinstatement charges will be
+decided as per type of the road mentioned in SCHEDULE IV
+1) All existing underground cable infrastructure shall register till 31/03/2023 from the
+date of publication of these guidelines, by paying fees prescribed as above and
+completion of compliances under this section. Provided the applicant is exempted
+from fees under this section if he has paid fees under existing MoU/agreement with
+respective Urban Local Body/Appropriate Authority. Prior to the commencement of
+these Guidelines.
+Page 19 of 41
+# Page 20
+Government Resolution No.: Sankirna-2021/C.R. 242/UD-20
+2) In the event an applicant seeks permission to lay cables below the surface of the earth
+on those roads whose ownership cuts across two or more local bodies, the applicant
+shall make two separate applications in accordance with these guidelines.
+3) Permission and bank guarantee are necessary for operation and maintenance
+activities in respect of underground cable infrastructure that are likely to damage to
+public property.
+(B) Grant of permission by Appropriate Authority / urban local body :
+1) The concerned commissioner/ chief officer/ appropriate authority shall examine the
+application with respect to the following parameter, namely :
+a) The route planned for the proposed underground cable infrastructure and the possible
+interference, either in the establishment or maintenance of such cable infrastructure
+with any other public infrastructure that may have been laid along the proposed route;
+b) The mode of execution ;
+c) The time duration for execution of the work and the time of the day that the work is
+proposed to be executed ;
+d) The estimation of expenses that the Appropriate Authority / urban local body shall
+necessarily be put in consequence of the work proposed to be undertaken;
+e) The responsibility for restoration of any damage that the local authority/ urban local
+body may necessarily be put in consequence of the work proposed to be undertaken;
+f) Assessment of measures to ensure public safety and inconvenience that the public is
+likely to be put to in consequence of the work proposed and the measures to mitigate
+such inconvenience indicated by the permission holder; and
+g) Any other matter, consistent with the provisions of the Act and these guidelines,
+connected with or relative to the establishment or maintenance of underground cable
+infrastructure, through a general or special order, by the Central Government, State
+Government or the Appropriate Authority / urban local body.
+2) The Appropriate Authority shall, within a period not exceeding 60 days from the
+date of application made.
+(i) grant permission on such conditions including but not limited to, the time, mode of
+execution, measures to mitigate public inconvenience or enhance public safety and
+payment of restoration charge as may be specified, subject to the provisions of the
+Act and Rules made there under and these guidelines; or
+(ii) reject the application for reasons to be recorded in writing ;
+Page 20 of 41
+# Page 21
+Government Resolution No.: Sankirna-2021/C.R. 242/UD-20
+Provided that no application shall be rejected unless the applicant has been
+given an opportunity of being heard on the reasons for such rejection;
+Provided further that the permission shall be deemed to have been granted if
+the Appropriate Authority fails to either grant permission under (i) or reject the
+application under (ii); and the same shall be communicated in writing to the applicant
+not later than five working days after the period specified above.
+3) Where the Appropriate Authority accepts the undertaking by the applicant to
+discharge the responsibility to restore the damage that such authority shall
+necessarily be put in consequence of the work, the Appropriate Authority while
+granting permission under clause (i) of sub clause (2) shall seek a bank guarantee
+for an amount in lieu of expenses or restoration of such damage, as security for
+performance in the discharge of the responsibility.
+4) Upon the grant of permission, the commissioner/chief officer/ appropriate authority
+shall within fifteen days from the date of grant of such permission publish the order
+granting permission, the route where the cables has been permitted to be laid and
+any other information on the website of the respective urban local body.
+5) The Appropriate Authority shall not charge any fee other that those prescribed
+above from the permission holder for establishment of underground cable
+infrastructure.
+(C) Duration of permission :
+1) It shall be contingent on the extent of land or road sought to be dug but shall not
+exceed 9 months from the date of grant of permission.
+2) If the applicant is unable to lay down cables within the duration determined by the
+concerned appropriate authority under sub-clause (i), he/she shall be required to
+make an application for renewal on the single window platform and shall specify the
+reasons for non-completion of works under the previous permission.
+3) No permission for renewal shall be granted by the concerned urban local body for a
+period exceeding 60 days and an application for renewal shall be accompanied by the
+fee. Provided that the applicant may be granted renewal for an additional period of
+three months if laying of cables was delayed due to force majeure events.
+(D) Obligations of permission holder in undertaking work :
+(1) The permission holder shall ensure that
+a. Prior to the commencement of work of laying the underground cable infrastructure
+and at all times during the execution of work, the measures to mitigate public
+inconvenience and provide for public safety are implemented,; and
+Page 21 of 41
+# Page 22
+Government Resolution No.: Sankirna-2021/C.R. 242/UD-20
+b. The work of laying underground cable infrastructure is carried out in accordance
+with the conditions specified in the grant of permission by the appropriate
+authority.
+(2) The permission holder shall ensure provision of positional intelligence, through
+appropriate technology, of all underground cable infrastructures to enable the
+Appropriate Authority to obtain real time information on its location.
+(3) The permission holder shall comply with the technical guidelines provided as
+below
+(4) Licensee will carry out Ground Penetrating Radar (GPR) survey along the route
+where the duct has to be laid for detection of existing utility. The data of utility
+collected through GPR survey would be unconditionally shared with relevant
+Authority free of cost.
+(5) Permission granted to the applicant licensee will not be transferable and will be
+applicable only for the period for which it has been granted.
+(6) If required the concerned Department/Authority can direct the applicant
+licensee to change the optical fibre cable in stipulated time period or shift the cable
+to other area and the applicant licensee shall be bound to do the same for which all
+the expenses would be borne by the applicant company.
+(7) The State Government shall not be responsible for any damage to Optical Fibre
+Cable and resultant losses, if any, during the course of official duty by any of their
+employees.
+(8) If the applicant licensee wants to utilize the existing electric poles or street light
+poles, the same can be allowed by the concerned Corporations/Municipalities/
+Department subject to the payment of fees/usage charges prescribed from time to
+time and fulfilment of terms & conditions.
+(9) Responsibility of public safety will lie with licensee during establishment or
+post establishment of Ground Based/Roof Top Tower/ Mast/ Pole and laying of
+cable, during its maintenance or other related activities. The licensee shall take
+all necessary safety steps & measures while executing the work and licensee will
+indemnify the local Authority against any accident and damage caused to life or
+property during execution and post execution.
+(10) Licensee or any 3rd party will not be allowed to display any advertisement on the
+Mast and Pole without permission of the relevant local authority.
+(11) The pits /trenches shall be reinstated within 72 hours after completion of the work
+up-to satisfaction of relevant local Authority failing which the concerned Local
+Authority will invoke the bank guarantee and will get the restoration work done.
+Page 22 of 41
+# Page 23
+Government Resolution No.: Sankirna-2021/C.R. 242/UD-20
+(12) In case of any damage to the essential services i.e. water supply, sewerage system
+and telecommunication lines, electricity supply etc., it will be the responsibility of
+the licensee to get the services restored from the concerned Local Authority within
+24 hours and the cost so incurred would be borne by the applicant licensee.
+(13) The area required for laying of Optical Fibre Cable etc., installing a Ground Based
+Mast and a ground Based Towers/ Poles, will be allotted subject to the conditions
+that it will not obstruct the movement of the traffic (vehicular & pedestrian), roads
+and services.
+(14) Ground Based Towers/ Mast/ Poles installed by the licensee can be used by Local
+Authority for lighting the road and licensee will not be paid any fee for the same.
+All the related equipment for the purpose will be provided by the concerned
+appropriate Authority and the electricity bill for the same will be borne by the
+concerned local Authority. However, the licensee will be responsible for the
+installation and maintenance of street light points on Ground Based
+Mast/Pole/Tower.
+(E) Technical Standards and parameters :
+1. Technical Parameters to be followed by the infrastructure service providers while laying the cables below the surface of the earth.
+Laying down of underground cables/OFC
+a. The applicant shall carry out the work by using Horizontal Directional Drilling
+method only so as to minimize the damage and to cause minimum inconvenience to
+the public.
+b. The cable shall ordinarily be laid below the footpath or berm or the shoulder of
+the road.
+c. The top of the casing or conduit pipe containing the cables shall be at least 1.6
+meter below the top surface subject to at least 0.3 meter below the drains inverts and
+other utility supplies.
+d. Pits of 2 meter x 1 meter and 1.5 meter deep, or of lower size shall be made at a
+convenient distance but not less than 80 meter, centre-to- centre, for laying cables.
+However, in case of special site condition variable depth or dimensions may be
+permitted by the Nodal officer depending on the site conditions
+e. The name of the permission holder shall be indicated on the cables boldly.
+Page 23 of 41
+# Page 24
+Government Resolution No.: Sankirna-2021/C.R. 242/UD-20
+2. For Construction of RCC Manhole :
+1. The structure of the manhole will be designed as per the norms of Indian Road
+Congress (IRC). The top level of the manhole will be as per existing road level and
+whenever the road level is changed the changed, the agency will be bound to finish it to
+the road level at its own expenses.
+2. The agency will be responsible for maintenance and upkeep of the manholes from time
+to time and will be responsible for obstruction free flow of traffic and loss of any
+Government or Private property during and after the construction of manhole.
+3. If any manhole comes in the way of approved alignment of any proposed water supply,
+sewerage or any other service the agency will be bound to shift or remove the
+manhole/cable. The agency will make changes in the location/alignment of manhole at
+its own cost wherever required by the Government/Local Authority and will be bound
+to obey any directions of the Government/Local Authority issued from time to time.
+Installation of telecom tower shall be allowed as per advisory guidelines issued by
+Department of Telecommunications, Government of India of State Governments from
+time to time.
+(F) Powers of Appropriate Authority to supervise the work :
+(1) The appropriate authority may supervise the execution of work to ascertain if the
+co ons imposed in the grant of permission are observed by the permission lder.
+(2) The concerned appropriate authority may, on the basis of such supervision, impose
+such other reasonable conditions as it may think fit.
+(3) If the concerned appropriate authority comes to the conclusion that the permission
+holder has wilfully violated any of the conditions for grant of permission, it may
+forfeit, in full or in part, the bank guarantee submitted by the permission holder and
+withdraw the permission granted to the permission holder, for reasons to be recorded
+in iting ;
+Provided that no action shall be taken under this sub-rule unless the permission
+holder has been given an opportunity of being heard.
+(G) Maintenance of Cables :
+(1) The permission holder shall not remove or translocate the cables without the
+prior approval of the concerned local authority.
+(2) In the event the Local Authority/ Urban Local Body or any other agency of the
+State Government or Central Government seeks to widen or modify the roads
+below which the cables of the permission holder exist, such permission holder
+Page 24 of 41
+# Page 25
+Government Resolution No.: Sankirna-2021/C.R. 242/UD-20
+shall coordinate with such agency for removal or shifting of the cable ducts.
+(3) The permission holder shall be notified by Appropriate Authority / Urban Local
+Body or any other agency of the State Government or Central Government, 30
+days prior, if any coordination is required to reposition the under-ground assets
+to accommodate the requirements of government projects and developmental
+works.
+(4) In the event the cable ducts laid down by the permission holder is required to be
+removed for the purposes provided for under sub- clause (ii), he shall apply for
+permission, afresh under these guidelines for laying cables in another location
+but shall be exempted from payment of fees or furnishing bank guarantee.
+(H) Penalties :
+(1) The permission holder shall be responsible for restoration of any damages
+caused to any public or private property during the course of laying cables. In
+addition, the commissioner/chief officer/ appropriate authority may levy
+minimum penalty of2 times of regular charges per meter per year for causing
+such damage.
+(2) In case of any untoward incidences or accidents arising due to negligence on the
+part of permission holder during laying of underground cable infrastructure, the
+commissioner/chief officer/appropriate authority shall initiate criminal
+proceedings against the permission holder and take necessary action as per law,
+in addition to levy of penalty.
+22. Right of Way (ROW) using Street Light or Electricity Poles or Street furniture :
+1. The Applicant will make the agreement with the concerned local body or electricity
+Distribution Company (DISCOM) for the utilization of the electric poles/ distributed
+network system.
+2. Energy Department / DISCOMs shall not be held responsible for any loss to the cable or
+the commercial operation loss to the Applicant due to theft or for any other reason
+whatsoever. The safety of the cable shall be entirely with the Applicant.
+3. The Applicant will submit application with the right of usage of the utility pole in the
+offices of local authority. If the local authority finds the application in compliance with
+the entire requirement, then will issue the permit to the applicant within the prescribed
+time.
+4. If the route of aerial cabling is covering more than one jurisdiction, the Applicant will
+apply separately to the local authorities of the respective jurisdiction for issue of permit.
+Page 25 of 41
+# Page 26
+Government Resolution No.: Sankirna-2021/C.R. 242/UD-20
+Aerial (Over-Ground) OFC Laying :
+---------------------------------------------------------
+| Sr. No. | Particulars | Administrative Fees (Rs.) |
+|  | Compensation one Time | Rs.1000 per km (One Time Charge) |
+|  | Rental per Pole per year | Rs 100 |
+---------------------------------------------------------
+Compensation :
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Item | Amount |
+| Establishment of underground telegraph infrastructure | Nil |
+| Establishment of poles for installation of small cells and telegraph line | Nil |
+| Usage of street furniture for installation of small cells and telegraph line. | (i) For installation of small cells : Three hundred rupees per annum for urban area and one hundred and fifty rupees per annum for rural areas per street furniture. (ii) For installation of telegraph line : One hundred rupees per annum per street furniture. |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Above rates shall be applicable to private cable T.V./network also.
+Competent/appropriate Authority of Local Urban Body shall decide fees for cable T.V.
+overground infrastructure who are using street furniture. Competent/appropriate Authority
+shall remove illegal cables/wires which deface city. For regularization of cables/wires
+competent/appropriate Authority may charge fees and penalties in the line of (ROW) rules or
+frame local policy for cable T.V. network in specific.
+23. Implementation :
+1. Charges for restoration shall be applied as per Telegraph Right of Way (Amendment)
+Rules, 2022 of part II.
+2. The site or surface of road/streets will be restored to its original position by the licensee
+within 30 days.
+3. In order to avoid repeated digging on the same routes, if possible the 1st incumbent
+TSPS/IPs is free to lay voluntarily extra ducts/conduits with extra capacity so as to take
+Page 26 of 41
+# Page 27
+Government Resolution No.: Sankirna-2021/C.R. 242/UD-20
+care of future needs. The capacity / excess capacity can be commercialized by the
+incumbent TSPS/IPs with suitable mutual agreements with the respective local
+Authority. However, creation of the excess capacity by the 1st incumbent TSPS/IPs shall
+not be a precondition for giving Right to Way clearances. The Local Authority may
+consider laying ducts/conduits at the time of construction of roads to facilitate laying
+OFCs Cables for which suitable charges could be imposed.
+4. Applicant will give a notice of 15 days with route details prior to trenching for fresh or
+maintenance / repair works. A separate Performance Bank Guarantee for maintenance /
+repair work will be furnished by the licensee.
+5. Operator shall be responsible for any accident or damage due to his act, omissions or
+negligence.
+24. General Restrictions :
+1. Permission for Right of Way for Laying of Optical Fibre Cable etc., installation of
+Ground Based Mast/Poles/Tower will not be granted at location where it will cause
+disruptions in services and facilities.
+2. Permission for installation of Ground Based Mast/Poles/Tower will not be granted for a
+location where Mast/Pole/Tower can cause obstruction /hindrance to vehicular as well as
+pedestrian traffic.
+3. Permission will also be subjected to all statutory restrictions by any Act or Law in force
+with respect to Telecom infrastructure.
+4. The agreement shall be done between the licensee and concerned local Authority
+regarding compliance of all the terms & conditions.
+5. In case of any dispute between the licensee and the Urban Local Authority the concerned
+Chairman of District Level Telecom Committee (DLTC) is hereby declared the grievance
+redressal officer. Principal Secretary Information Technology will be the appellate
+authority for any appeals against the decision of the Chairman of DLTC.
+6. The permission shall be coterminous with the validity of the Telecom License of the
+Telecom Operator.
+7. Telecom installation is lifeline installation & a critical infrastructure in mobile
+communication. It is treated as an essential service & therefore sealing of mobile towers/
+disconnection of electricity may not be restored to without the consent of respective
+TERM Cell of DoT in respect of the EMF related issues. However, if the matter is related
+to structural safety of mobile tower, the Commissioner/ Chief Officer/ Designated Officer
+may take suitable action as it deems fit on receipt of a report from Deputy Engineer /
+Junior Engineer/Any Competent Officer of Municipal Corporation/ Municipal Council.
+Page 27 of 41
+# Page 28
+Government Resolution No.: Sankirna-2021/C.R. 242/UD-20
+8. The permission holder intimate the Appropriate Authority issuing return notice of his
+intention of dismantling mobile tower. The Appropriate Authority after receipt of such
+notice shall grant permission within period of 30 days, failing within permission holder
+shall dismantle the same and observe all local applicable rules and regulations for
+dismantling mobile tower.
+10. If the installed Telecom Infrastructure is found to be without appropriate approvals or the
+infrastructure providers has not deposited the requisite fee to the appropriate authority,
+the appropriate authority shall have the power to direct the licensee/ TSPs/ IPs for
+removal of the said Telecom infrastructure giving prior notice.
+11. These guidelines shall be applicable to all appropriate Authorities within the state of
+Maharashtra including the various development Special planning authorities, Industrial
+development Corporations/ authorities, Other statutory Authorities & also the Local
+Bodies including Municipal corporations, Municipal Councils, Nagar panchayats etc.
+constituted by the state legislature. The appropriate authority shall exercise the powers
+under these guidelines on an application for laying of cables & installation of Telecom
+infrastructure.
+12. If there is a conflict between the Act and the Rules & Regulations; the Act will prevail,
+and if there is a conflict between the Act, Rules and Regulations on the one hand, and the
+Guidelines on the other, the former will prevail and the latter becomes ultra vires.
+25. State Level Telecom Committee & District Level Telecom Committee State Level Telecom Committee (SLTC) :
+Under the Chairmanship of Principal Secretary IT, a State Level Telecom Committee
+shall be formed to resolve the issues arising due to escalation by the Telecom
+Infrastructure Company against the decision of District Level Committee. The Committee
+shall also be responsible to issue advisories and amendments from time to time
+considering the changing business scenario and considering the provisions of the related
+act and rules of GoI. The composition of the Committee is as follows:
+Additional Chief / Principal Secretary IT Chairman
+Additional Chief / Principal Secretary UD-2 Member
+Additional Chief/ Principal Secretary Revenue Member
+Additional Chief/ Principal Secretary RDD Member
+Principal Secretary Forests Department Member
+Director IT Member
+Commissioner/Director, DMA Member-Convener
+Page 28 of 41
+# Page 29
+Government Resolution No.: Sankirna-2021/C.R. 242/UD-20
+Additional members from other Stakeholder ULB's/Departments/Technical
+Organizations / Telecom Service Providers (TSPs) / Infrastructure Providers (IPs) will be
+co-opted on need basis.
+District Level Telecom Committee (DLTC) :
+Under the Chairmanship of District Collector a District Level Telecom Committee
+shall resolve all issues within a period of thirty calendar days of initial receipt of reference
+from Dispute Resolution Officers/LSB/TSPs/IPs as the case may be. This Committee shall
+meet at least once a quarter. This Committee shall report the unresolved issues to the State
+Level Telecom Committee not later than thirty calendar days from the date of decision by
+the District Level Telecom Committee. The members of the Committee shall be
+representatives from Local Bodies (Municipal Corporation/Municipality/Nagar Panchayat /
+Development Authority), District Joint Commissioner UDD, Law Enforcement Authorities,
+Infrastructure Providers & Telecom Service Providers.
+This Government resolution of Maharashtra Government is available at the website
+# Page 30
+# Page 31
+# Page 32
+# Page 33
+# Page 34
+# Page 35
+# Page 36
+# Page 37
+# Page 38
+# Page 39
+# Page 40
+# Page 41

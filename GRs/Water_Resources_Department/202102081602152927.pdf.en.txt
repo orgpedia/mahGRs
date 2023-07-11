@@ -1,0 +1,52 @@
+# Page 1
+Formation of a Control Committee for developing a system of irrigation management for the Water Resources Department.
+The Government of Maharashtra
+The Department of Water Resources
+Government Circular No: EPRSA 2020/ (404/2020)/ LAPA
+Hutatma Rajguru Chowk, Madam Cama Marg,
+Mantralaya, Mumbai- 400 032
+Dt. 08.02.2021
+Read-
+(i) The 10th meeting of the Project Implementation Committee. 29/08/2019 2) E-Governance Tenth Meeting of the Project Implementation Committee 09/01/2020
+the prelude
+Various e-governance systems for the Water Resources Department are developed under this office. Reservoir status application
+The water storage of all the dams in the state, the discharge from the dam, the rainfall, etc. are available for filling information to the regional offices, through which the daily water storage is updated and is available on the department's website.
+For different types of irrigation management, e.g. Primary Irrigation Programme (PIP)
+Integrated Irrigation Management Application for RWS, Counting, Collection and Assessment. The development of both these systems requires constant guidance from the field offices concerned as well as experts in the subject. as well as the system
+Provide appropriate guidelines while filling accurate and up-to-date information even after it is developed and
+The system must be used effectively. The Government shall constitute a Committee for the purpose of regulating and supervising the activities of the Irrigation Department.
+was under consideration. The government is taking the following steps in this regard:
+Government circular
+The Central Control Committee related to irrigation management activities is being constituted as follows.
+-------------------------------------------------------------------------------------------------------------------
+| A. No. | designation                                                                   | Names of the committee |
+| 1.     | M.A. (J.S.) Water Resources Department, Pune                                  | Chairman               |
+| 2.     | Superintending Engineer, Base Material Planning and Hydrology Project, Nashik | the members            |
+-------------------------------------------------------------------------------------------------------------------
+# Page 2
+Government Circular No: EPRSA 2020/ (404/2020)/ LAPA
+------------------------------------------------------------------------------------------------------------
+| 3.  | Superintending Engineer, Dam Safety Organization. Nashik                    | the members          |
+| 4.  | the Superintending Engineer, Pune Irrigation Board, Pune                    | the members          |
+| 5.  | the Superintending Engineer, Water Resources E Administration Board, Pune   | the members          |
+| 6.  | Shri Rajesh More, Superintending Engineer, Dam Conceptual Board, Nashik     | the members          |
+| 7.  | the Superintendent Engineer, Thane Irrigation Board, Thane                  | the members          |
+| 8.  | Rajesh Govardhan, Executive Engineer, Palkhed Irrigation Department, Nashik | the members          |
+| 9.  | Mr. Pravin Zod, Executive Engineer, Pench Irrigation Department, Nagpur     | the members          |
+| 10. | Executive Engineer Irrigation Management Computerization Department, Pune   | The Member Secretary |
+------------------------------------------------------------------------------------------------------------
+The committee's mandate is as follows:
+To suggest necessary changes in the present system and submit it to the government for computerization to make the field work related to irrigation management easy, smooth and transparent.
+2. Approval of System Requirement Gathering Templates (RGT), Software Requirement Specifications (SRS) in consultation with all stakeholders for developing the system.
+3. Finalize the module wise required master data for the system.
+4. Approval of documents created by the developer at the stage of testing and acceptance of user acceptance of the system (operational/ final acceptance).
+To examine the need and feasibility of change in the scope of work in the approved RGT/ SRS or in case of new demand from the field offices, to guide and develop the system accordingly and to conduct a thorough inspection of the system developed.
+Page 2 of 4
+# Page 3
+Government Circular No: EPRSA 2020/ (404/2020)/ LAPA
+Materials required for training e.g. To examine and finalize the user manuals, training videos, etc. and to guide the implementation of the training method.
+Committee Meetings and Meetings:
+The Committee shall be appointed by the President on the recommendation of the Committee.
+Committee meetings shall be held at the direction of the President. Officials of the Water Resources Department and other departments and private individuals can be invited to attend the meetings of the committee. There will be no prerequisites for a committee meeting. The Chairman of the Committee shall ensure that the proceedings are carried out in accordance with the time limit fixed by the Committee.
+The tenure of the said Committee shall be for a period of 6 months from the date of the order of constitution of the Committee till the date of implementation of the said system.
+# Page 4

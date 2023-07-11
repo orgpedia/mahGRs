@@ -1,0 +1,84 @@
+# Page 1
+Guidelines for fixing contracts for transportation and warehousing of foodgrains and other essential commodities to fair price shops under the revised grain distribution system.
+The Government of Maharashtra
+Department of Food, Civil Supplies and Consumer Protection
+Government Corrigendum No: Contract 1118/ No. 52/ No. 16-A,
+Hutatma Rajguru Chowk, Madam Cama Marg,
+Mantralaya Extension, Mumbai- 400 032
+Date: January 28th, 2019
+Read:- 1) Government Resolution No. Contract 1118/ No.52/ No.16-A, D. November 1, 2018.
+2) Government Circular No.Visus/ K.A.- 2/2017 to 2019/ D.T.T./ Transport Rate, D. October 22, 2018.
+Government Corrigendum: Reference No. 1 Under the Targeted Public Distribution System, under the decision of the Government here, the revised grain distribution system, the terms and conditions of the tender process and guidelines have been issued to determine the combined contracts of transportation and handling of wheat, rice, pulses, sugar (other ration items as decided by the Government from time to time) etc. to be transported and distributed to fair price shops according to the new transportation method.
+Reference No. In a circular issued here, the Office of the Financial Adviser and Deputy Secretary has fixed the rates of paddy and CMR transportation for the 2018-19 season. To ensure smooth flow of rice and coarse cereals from other districts and regular transportation in the district, a single contractor will be appointed for this transportation at the district level. The following amendments are being made to the Government Resolution dated 1st November, 2018:
+Section No. (1) (1.1) (1) Modified Transport and Handling System: 1.1 1st Stage Transport: The first stage of transportation of food grains from the base depot of the Food Corporation of India to the government grain warehouse by unloading and standardizing the food grains in the government warehouse (making each gunny bag 50 kg).
+Under the first phase, in the district headquarters towns, where the base depot of the Food Corporation of India and the government grain godown are located in the same city, the food grains should be delivered to the ration shops from the base depot of the Food Corporation of India (from the designated godown in the case of sugar) and the food grains should be packed in the shop.
+# Page 2
+Government Corrigendum No: Contract 1118/ No. 52/ No. 16-A
+instead of
+(1) Improved Transport and Handling System: 1.1 1st Phase Transport: The first phase of transportation of foodgrains from the base depot of Food Corporation of India to the government grain godown, unloading the foodgrains in the government godown and standardizing them (making each gunny bag of 50 kg).
+Under the first phase, in the district headquarters towns, where the base depot of the Food Corporation of India and the government grain godown are located in the same city, the food grains should be delivered to the ration shops from the base depot of the Food Corporation of India (from the designated godown in the case of sugar) and the food grains should be packed in the shop.
+As per the instructions issued from time to time, transportation of rice (CMR), coarse grains from other districts or in case of unavoidable circumstances from other base depots other than the regular base depots should be unloaded in the government godowns in the district and stored with or without certification.
+Section No. (3) (3.4) (3) Responsibilities of the Authority Inviting Tenders: 3.4 The Collector shall make available to the tenderer, in the tender documents, information about the prescribed base depot of the Food Corporation of India for the district and the distance, average distance of the government warehouses in the district from these base depots, the monthly allocation of the district and the capacity of the vehicles required for it, etc.
+instead of
+The Collector should provide information in the tender documents about the distance of the government godowns in the district from the base depots of the Food Corporation of India prescribed base depots, the average distance and in case of unavoidable circumstances, the distance from the possible base depots other than the regular base depots, the distance from the CMR or coarse cereals to the government grain godown if they have to be brought from the adjacent or prospective district, the monthly allocation of the district and the number of vehicles required for the first phase of transportation and the number of vehicles required for the second phase of transportation, etc.
+Section No. (4) (4.1) (4) Base Rates for Tendering Process: 4.1 The stage-wise base rates of transportation fixed for tendering process as per the procedure of transportation and handling shall be as follows:
+Page 2 of 6
+# Page 3
+Government Corrigendum No: Contract 1118/ No. 52/ No. 16-A
+-------------------------------------------------------------------------------
+| Mode of transport             | Base Rate (Rupee per quintal) for whole gap |
+| The first stage of transport* | 50.88                                       |
+| The second phase of transport | 42.40                                       |
+-------------------------------------------------------------------------------
+instead of
+4.1 The base rates of traffic determined for the tender process as per the mode of transportation and handling shall be as follows:
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Mode of transport                                                                     | Base Rate (Rs. per quintal)    | Percentage of the tenderer's rates (combined for all stages of transportation) |
+| 1                                                                                     | 2                              | 3                                                                              |
+| (1) Regular transport under the district in the public distribution system            |                                | (+/-) percent                                                                  |
+| The first stage of transport*                                                         | 50.88 Full Intersectionality   |
+| The second phase of transport                                                         | 42.40 Full Intersectionality   |
+| (2) Inter-district transport for decentralized procurement schemes and other schemes. |
+| 0.1 to 5 km.                                                                          | Rs. 5.75/- (for full distance) |
+| 5.1 km to 10 km                                                                       | Rs. 1.15.                      |
+| 10.1 km to 20km                                                                       | Rs. 0.80.                      |
+| 20.1 km to 40km                                                                       | Rs. 0.69.                      |
+| 40.1 km to 60 km                                                                      | Rs. 0.57.                      |
+| More than 60.1 km                                                                     | Rs. 0.46 per km                |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Section No. (4.2) 4.2 The base rates for tendering shall be the base rates for transportation mentioned in paragraph 4.1 above. The tenderer has to pay separate rates for each stage of transportation.
+instead of
+Page 3 of 6
+# Page 4
+Government Corrigendum No: Contract 1118/ No. 52/ No. 16-A
+4.2 The bidders shall pay the same rate in percentage for all stages without different rates for the stage-wise base rates of distance travelled in paragraph 4.1 above.
+4.2.1 Single distance between the dispatch warehouse and the receiving warehouse should be considered for the consideration of any transportation charges. Even if there is a change in the location of the base warehouse due to any reason, the single distance between the new base warehouse to the receiving warehouse should be considered for consideration of payments.
+4.2.2 In respect of the total shortfall during transportation, the shortfall shall be recovered as per the rates fixed in the Government Decision on procurement of foodgrains for that year, subject to acceptance of the shortfall as per the directions issued for the Central Government's Decentralized Procurement Scheme.
+4.2.3 The payment of carriage charges for the decentralized procurement scheme should be processed as per the prevailing procedure.
+Section No. 4 (4.4) 4.4 The re-tendering process shall be carried out in cases where bids of 20% or less than the base price shall not be accepted.
+instead of
+4.4 Bids will be accepted at rates lower than the base price but the bidder will be required to submit a justification as to how the bidder can afford to work at lower rates.
+Section No. (4.6) 4.6 In the event of the Food Corporation of India's inability to make the allocation available from the prescribed base depot on account of unavoidable reasons, the additional cost of such transportation should be approved as follows, in case the transportation has to be made from the alternate depot. The higher percentage of transportation charges shall be provided for the distance covered as compared to the average distance covered for that phase at the time of tendering. Under no circumstances should the payments of the transporter be kept pending for this reason. The additional expenditure in this regard will be borne by the Food Corporation of India.
+For example:- Assuming the average distance between the base depot of the Food Corporation of India and the concerned government warehouse to be 65 km, Rs. The base rate has been fixed at 50.88 per cent. If the transportation is beyond 100 km due to unavoidable reasons, the payment of transportation will be considered as follows.
+Page 4 of 6
+# Page 5
+Government Corrigendum No: Contract 1118/ No. 52/ No. 16-A
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Average Distance Between FCI Base Depot And Related |  Government Warehouse (In Km) | Fixed Base Rate (Rs. | Average traffic in unavoidable circumstances (in km) | Average increase in distance traveled (in percentage) | Accordingly, the increase in transportation charges (Rs.) | Rate per quintal for average transportation of 100 km (Rs.) |
+| 65                                                  | 50.88                         | 100                  | 53.85                                                | 27.40                                                 | 78.28                                                     |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+While publishing the tender for this, the District Supply Office should determine the average distance between the base depot of the district and the government godowns and accordingly consider the above.
+instead of
+4.6 In case of unavoidable circumstances, if the allocation is made from a base depot other than the regular base depot and therefore the transportation is carried for a distance more than the average distance of the district, the rates of additional transportation should be calculated as per the approved rates of inter-district transportation.
+Section No. (6.6) Paragraph No.6 of the Statement at 6.6
+----------------------------------------------------------------------------------------------------------------------------------------------
+| 6 | Attested copies of RC book and fitness certificates (issued by the concerned competent authority) of the vehicle owned and controlled. |
+----------------------------------------------------------------------------------------------------------------------------------------------
+instead of
+Paragraph No.6 of the prospectus 6.6
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| 6. | Attested copies of RC book and fitness certificates of the vehicle owned and controlled/ Vehicle Perticulars from Regional Transport Department (issued by the concerned competent authority). |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Page 6 of 5
+# Page 6
+Government Corrigendum No: Contract 1118/ No. 52/ No. 16-A

@@ -1,0 +1,22 @@
+# Page 1
+The Maharashtra Information Technology Corporation Limited has received the government's approval to implement the Data Standardization and Interoperability Digital Services Delivery Project.
+The Government of Maharashtra
+the General Administration (Information Technology) Department
+Government Resolution No: GAD-Month 2018/ S.No.21/ S- 2/39
+Hutatma Rajguru Chowk, Madam Cama Road
+Mantralaya, Mumbai- 400032
+Date: 16th of August 2019
+Reference: Minutes of the meeting of the High Level Committee dated 5th August, 2019.
+The Proposal:
+At present, several computerization programmes/ projects are underway in the State Governments and local bodies for the past several years. All these projects were undertaken in silos over a period of time and they are all on different platforms written in different coding methods in different computational languages. As a result, different platforms have different data structures. And the information in the different sections is not interconnected. As a result, it has not been possible to provide information of all the departments together to the citizens, due to which they are facing a lot of trouble. Secondly, in the absence of collation of information of various departments, a lot of time is wasted in getting information that is already available with the government but is scattered across various departments. Therefore, the government was considering to implement the Data Standardization and Interoperability and Digital Services Delivery Project in order to provide better and quick service to the citizens by providing this information on a single platform by authenticating the information available with various departments of the government.
+Accordingly, the High Level Committee for implementation of the project in its meeting held on 5th August, 2019 has sanctioned Rs. A sum of Rs 113.06 crore has been sanctioned. The General Administration Department (Information Technology), Office-39 will provide all the necessary expenses for the development of this project. The high-level committee has approved the Detailed Project Report (DPR) of the Data Standardization and Interoperability and Digital Services Delivery project.
+The project is being implemented by the Maharashtra Information Technology Corporation (MahaIT). MahaIT will function as a Project Implementation Agency.
+In line with the above proposal, the Data Standardization and Interoperability and Digital Services Delivery project will be implemented.
+# Page 2
+Government Resolution No: GAD-Month 2018/ S.No.21/ S- 2/39
+Government's decision:
+The High Level Committee in its meeting held on 5th August, 2019 approved the Data Standardization and Interoperability and Digital Services Delivery project. The project worth Rs. An amount of Rs. 113.06 crore has been sanctioned.
+Administrative approval is being granted to the Data Standardization and Interoperability and Digital Services Delivery project in accordance with the approval of the High Level Committee dated 5 August 2019. The project is being transferred to the Maharashtra Information Technology Corporation. The Maharashtra Information Technology Corporation will have to spend Rs. 113.06 crore, plus 10% of the cost of MAHAIT (as decided by the respective Governments) and applicable Goods and Services Tax, will be provided by the General Administration Department (IT), Office- 39 from time to time. If required, manpower such as Chief Technology Officer, Data Scientists, Software Professionals, etc. can be appointed by MahaIT to develop the project.
+# Page 3
+# Page 4
+# Page 5

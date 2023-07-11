@@ -1,0 +1,39 @@
+# Page 1
+Centralised payment from departments/offices for the implementation of Urban MahaNet project
+Government of Maharashtra
+Directorate of Information Technology,
+General Administrative Department
+Government Resolution No. GAD--2018/CR 25/Sect3/39
+Mantralaya, Mumbai 400 032
+Dated: 24/12/2018
+Introduction:
+Urban MahaNet is a "Vital Public Purpose Project” of the state aimed at providing MPLS and internet connectivity for delivery of e-Governance services across all Government establishments e.g. local bodies, municipality corporations, public hospitals, schools, colleges, state statuary bodies etc. in urban areas in the State, so as to enable them to provide e Governance services such as G2C services (e-Health, e-Education, etc.), as well as G2G services (e.g., e-data governance and access, payments consolidation).
+Government establishments will get connected to a faster, convenient, and cost effective network leveraging the existing Telecom Service Provider (TSP) network. Further, departments will be networked to a futuristic, resilient and strong ICT backbone in the State to provide integrated services to its citizens and businesses. It also aims to maintain these services satisfactorily along with their SLAs in a robust and redundant network architecture. The acceptability and sustainability of such infrastructure shall be critical with 24x7 assured availability of the last mile connectivity to the Government agencies etc.
+Cabinet, in its meeting dated 18.09.2018 had approved the implementation of Urban
+MahaNet project. Subsequently, a Government Resolution (Resolution No.: GAD-HI2018/CR
+25/Sect3/39 dated 28.09.2018). Based on approval given by the cabinet, Maharashtra IT Corporation Itd (MahalT) has published the Tender document for the selection of potential TSP). Initially, the total number of connections to these government establishments will be 18,368, which can be extended further as per the requirements.
+It was under consideration of the Government to make advanced Centralized payment to Maharashtra IT Corporation Itd. om the various departments to process the connectivity requirements. MahalT will make payment to selected TSP for installation and periodic rentals of the bandwidth based on terms and conditions with the following benefits,
+a. Department will have ease of dealing with the TSP.
+b. MahalT will consolidate all the requirements from departments and share with the TSP.
+MahalT will act a single point of contact to departments.
+c. MahalT will be responsible for all kind of follow ups with the TSP related to the RoW, service provisioning, implementation milestones tracking, uptime SLA monitoring and calculation, Penalty imposition, invoice verification and payment processing. This will help reducing the complexity of follow-up, monitoring and invoicing process for the departments.
+# Page 2
+Government Resolution No.: GAD--2018/CR 25/Sect3/39
+Government resolution:
+a) MahalT will share bandwidth rates for internet (2/4/8/12/15/20/25/30/.. further in the interval of 5 Mbps) and MPLS (4/6/8/10/15.. further in the interval of 5 Mbps) connectivity rates with departments.
+b) Departments and offices will specify the bandwidth requirements to MahalT for each of the office locations within 10 days of the receipt of rates. In case department/office does not specify, MahalT will fixed bandwidth according to the requirement.
+Department/office can change the bandwidth if required in future. Based on this bandwidth requirements, the departments need to make budget provision for Internet / MPLS connectivity, including the onetime installation cost for each location.
+c) All departments and offices would be required to allocate the yearly budget for bandwidth connectivity and will transfer the fund to MahalT at the beginning of every financial year. As per the requirement, department/office to initially release payments to MahalT for sites to be provisioned by March 2019 and subsequently from the next financial year on six month/next cycle/yearly basis. Payments will include onetime installation charges along with the bandwidth charges.
+d) MahalT will issue Demand Note/invoice (including MahalT service charge) to the departments for transfer of funds. Considering the GST timelines, department/office to ensure that payment is made to MahalT within 15 days from date of invoice issuance.
+e) Work Order to TSP will be issued after receipt of fund/confirmation in writing from the department/office for the specified connectivity.
+f) Department/Office shall make payment to MahalT centrally for their entire connectivity requirement through head of the department/organization. Departments in Mantralaya can pay to MahalT through the respective Secretaries for total departmental requirement.
+g) TSP needs to issue consolidated invoice for the commissioned sites and provisioned
+bandwidths on quarterly basis to MahalT.
+h) MahalT to verify and process the invoices considering SLA conditions, rewards and penalties (if applicable), and release payment to TSP.
+i) Available/ receivable amount from the department against earlier payment made will be adjusted in next demand note/billing cycle.
+j) MahalTwill share KPI/SLA/Utilization and fund position reports to the department/office on quarterly basis.
+k) For any additional sites, similar process will needs to be followed as mentioned above.
+Page 2 of 3
+# Page 3
+Government Resolution No.: GAD--2018/CR 25/Sect3/39
+This Government resolution of Maharashtra Government is available at the

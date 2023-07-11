@@ -1,0 +1,34 @@
+# Page 1
+Creation of new head of accounts for the Centrally Sponsored Scheme of Computerization of Primary Agricultural Credit Co-operative Societies.
+The Government of Maharashtra
+Department of Co-operation, Marketing and Textiles
+Government Resolution No.:- Narrow- 0223/ PR No. 40/18-C
+Hutatma Rajguru Chowk, Madam Cama Marg,
+Mantralaya, Mumbai- 400 032
+Date: May 9, 2023
+Reference:- Government Resolution, Cooperation Marketing and Textile Department, No.Meeting-0722/ PR No. 112/18-S, dated 07/10/2022.
+Preamble: Primary Agricultural Credit Co-operative Societies (PACS) are primarily comprised of farmers and rural artisans with the primary objective of promoting savings and mutual assistance among the members, meeting their credit needs, providing credit linked inputs, storage and marketing facilities. The need has arisen for these institutions to provide a wide range of computer technology services to their members and make them viable business ventures. Keeping this in mind, the Central Government has approved the scheme" Computerization of Centrally Sponsored Primary Agricultural Credit Cooperative Societies" on 29 th June, 2022 to make Primary Agricultural Credit Cooperative Societies in the country self-reliant on the lines of" Atmanirbhar Bharat" mission. The scheme for computerization of Centrally Sponsored Primary Agricultural Credit Co-operative Societies (CACS). The Cabinet in its meeting held on 12/09/2022 has approved and accordingly the Government Resolution dated 07/10/2022 has been issued.
+Under this scheme, a total of 12,000 Primary Agricultural Credit Cooperative Societies (PACS) will be computerized, with a target of 4,000 units per year over a period of 3 years from 2022-23 to 2024-25. Under the scheme, the Centre will bear 60% of the component cost for hardware, digitisation and supporting systems and the state will bear 40%. Accordingly, a total amount of Rs. 153.25 crore. This amount is proposed to be provided over a period of three years from 2022-23 to 2024-25, out of which Rs. 51.08 crore has been approved.
+The matter of creating a new head of account for the deposits on the scheme was under consideration of the government as follows.
+Government Decision: The Government is approving the creation of new head of accounts for the Central Government sponsored Primary Agricultural Credit Co-operative Societies to be incorporated on the scheme.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| 1601, Subsidiary Grants by the Central Government  | 1601, Grants-in-aid from Central Government |
+| 6, Centrally Sponsored Scheme                      | 06, Centrally Sponsored Schemes             |
+| 101, Central Assistance/ Share                     | 101, Central Assistance / Share             |
+| 33, co-operation                                   | 33, Co-operation                            |
+| (33) (02) Primary Agricultural Credit Co-operative |  Computerization of Institutions            | (33) (02) Computerization of Primary Agriculture Credit Cooperative Societies |
+| (1601649301)                                       | (1601649301)                                |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Page 2
+GOVERNMENT DECISION NO. 0722/ PR No. 112/18-C
+The Government is also giving approval to create the following consolidated head of accounts for other Centrally Sponsored Schemes to be implemented by the Department of Cooperation in future.
+---------------------------------------------------------------------------------------------------
+| 1601, Subsidiary Grants by the Central Government | 1601, Grants-in-aid from Central Government |
+| 6, Centrally Sponsored Scheme                     | 06, Centrally Sponsored Schemes             |
+| 101, Central Assistance/ Share                    | 101, Central Assistance / Share             |
+| 33, co-operation                                  | 33, Co-operation                            |
+| (1) Other Schemes                                 | (33)(01) Other Schemes                      |
+| (1601648401)                                      | (1601648401)                                |
+---------------------------------------------------------------------------------------------------
+The Assistant Registrar (Estimates and Planning), Office of the Commissioner of Cooperation, Maharashtra State, Pune, under the Commissioner of Cooperation and Registrar of Cooperative Societies, Maharashtra State, Pune, is being authorized as the Controlling Officer for the expenditure on the said scheme (V0004). Also, the Accountant, Under Cooperation Commissioner and Registrar, Cooperative Societies, Maharashtra State, Pune are being declared as Drawing and Disbursing Officers.
+This Government Resolution is being issued as agreed under the Finance Department Non-official Reference No. 219/2023/ Expenditure-2, dated 15/03/2023 and as agreed under the Non-official Reference No. KV/ C-1/ Co-operative Marketing and Textiles Department/ UOR- 185/2022-23/ 1062, dated 03/03/2023 of the Accountant General (Accounts and Accounts) Maharashtra-1, Mumbai.

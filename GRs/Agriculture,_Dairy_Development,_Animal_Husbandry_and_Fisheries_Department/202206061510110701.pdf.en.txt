@@ -1,0 +1,55 @@
+# Page 1
+Extension of time period of Maha-Agritech projects sanctioned under e-Governance Scheme of Department of Agriculture from 2022-23 to 2024-25
+The Government of Maharashtra
+Department of Agriculture, Animal Husbandry, Dairying Development and Fisheries
+GOVERNMENT DECISION NO. EVE 2022/ P. NO. 88/14 A
+Hutatma Rajguru Chowk, Madam Cama Road
+Mantralaya Extension, Mumbai- 400 032
+Date: 6th of June 2022.
+Reference:
+General Administration Department No. 1. Month 2018/ Q. No.25/ Room- 3/39, Dy. September 28, 2018.
+Government Decision Department of Agriculture and Padum No. 250/11-O, 2018/ PR No. 250/11-O, D. November 16, 2018.
+Government Decision Department of Agriculture and Padum No. 2018/ No. 169/ Part- 1/14-O, D. 2nd March, 2019.
+(iv) The 140th meeting of the High Powered Committee on e-Governance. October 19, 2020
+5. Minutes of the meeting of the Project Implementation Committee on e-Governance. on the 9th November 2020.
+6. Brief of the review meeting of Maha-Agritech Project. September 28, 2021.
+Proposal No.7/ MahaAgritech/ 11041/2022 of the Commissionerate of Agriculture. 22nd March, 2022.
+8. Minutes of the 151st meeting of the High Powered Committee on e-Governance. 26th April, 2022
+The Proposal:
+The Maharashtra Remote Sensing Solutions Centre (MRSAC), Nagpur, with the help of National Remote Sensing Centre (NRSC-ISRO), Hyderabad and Commissioner (Agriculture), has been implementing the 3-year MahaAgritech project in the State from Kharif and Rabi season 2019-20 onwards to accurately calculate the crop-wise area in the State using satellite and drone technology and to estimate the yield after harvesting of the respective crops by conducting regular health surveys of the cultivated crops. The approval was granted under the Government Decision dated 02/03/2019. The government has decided to spend Rs. The project cost was Rs. 95.33 crore. Under this project, initially the satellite images were proposed to be purchased from the private company at the market price but instead the open source data available in the form of free of cost was used for the project. A sum of Rs. 10.04 crore has been spent. In this backdrop, the High Powered Committee on e-Governance, In the meeting held on 19th October, 2020, a proposal was submitted to revise the cost of the Maha-Agritech project
+# Page 2
+GOVERNMENT DECISION NO. EVE 2022/ P. NO. 88/14 A
+In the meeting, the committee had directed to form a new Agri-Tech Cell for the Agriculture Department at Maha-IT, Mumbai and transfer the development and management of Maha-IT Mumbai along with various schemes and projects of the Agriculture Department and to allocate 50 crore for the said Agri-Tech Cell from the unallocated funds of Maha-AgriTech Project and submit a proposal for the revised cost of the project accordingly to the High Power Committee. In pursuance of the said direction, the Commissioner (Agriculture) has issued a revised proposal for extension of time period of Maha Agritech Project by MRSAC, Nagpur and MahaIT, Mumbai for next 3 years from 2022-23 to 2024-25 at revised cost. The letter of 7 was submitted to the government for approval. The proposal for the extension was given by the High Powered Committee (HPC) on e-Governance. In the 151st meeting held on 26 th April, 2022, the following decisions have been taken:
+Government's decision:
+The MahaAgritech project will be funded for a period of three years from 2022-23 to 2024-25. 30,38,35, 254/ (Rupees Thirty Crores Thirty Eight Lakhs Thirty Five Thousand Two Hundred and Forty Four only) including the budgeted project cost. The details of the Subject-wise budget sanctioned for the project in 2019-20 and the Subject-wise budget sanctioned for the next 3 years are at Annexure-A. The item-wise details of the approved budget for the period 2022-23 to 2024-25 is at Annexure-B.
+The MahaAgritech project will be implemented by the Commissioner (Agriculture) in collaboration with the Department of Agriculture, Maharashtra Sudur Sansthan Application Centre (MRSAC), Nagpur, National Sudur Sansthan Centre (NRSC), Hyderabad and Maha-IT, Mumbai.
+MRSAC, Nagpur and NRSC, Hyderabad will be jointly responsible for analysing the satellite imagery data and Maha-IT, Mumbai will be the system integrator for the project and will be responsible for software development, hosting and maintenance. The major responsibilities of the agencies involved in the project will be as per Annexure-C, however, the Commissioner (Agriculture) will be free to modify the same as per the requirement of the project.
+The various modules to be undertaken under the project and their details shall be as per Annexure D.
+The Commissioner (Agriculture) should develop a Geo-Portal for the modules from Maha-IT, Mumbai. Further, using this system, all the various schemes, especially crop-wise cultivation area and crop conditions, should be accurately reported, crop cutting experiments should be effectively planned, verification of the area insured by the farmers, determination of area improvement coefficient for all major kharif and rabi crops up to the level of Minimum Revenue Board, crop optimization, etc.
+Page 2 of 12
+# Page 3
+GOVERNMENT DECISION NO. EVE 2022/ P. NO. 88/14 A
+The Commissioner (Agriculture) shall ensure that all the desired objectives are met from time to time by taking immediate action in terms of planning and proper planning of post-harvest production, providing accurate advice and guidance to the farmers, etc.
+In order to ensure that the MAHA-Agritech project progresses in line with the stated objectives and to maintain proper coordination among the participating institutions, the participating institutions should appoint coordinating officers and plan the day-to-day activities to be carried out by the participating institutions under the MAHA-Agritech project in line with the objectives under the project.
+The Commissioner (Agriculture) should use the Project Management Tool to facilitate the control of activities.
+To periodically review the progress made towards the stated objectives of the participating institutions and
+A Project Control Committee under the Chairmanship of Commissioner (Agriculture) is being constituted to monitor the progress of the project. The members of the Committee and the functions of the Committee are set out in Annexure-I. The Chairman, Project Controller Committee and Commissioner (Agriculture) may hold meetings with the members of the Committee as per requirement to maintain the pace of the project.
+Under the project, the participating organizations should determine the educational qualification, experience and necessary skills etc. of the technical manpower required by them and get it approved by the Project Controlling Committee, after this approval, the technical manpower should be provided by Maha-IT, Mumbai as per the requirements of the concerned organizations.
+For the success of the project, the Director, MRSAC, MAHA-IT and NRSC, as per the directions given by the Commissioner (Agriculture) from time to time, shall regularly supervise the work of their subordinates and ensure that the work is completed within the stipulated time.
+The Director of Human Resource Operations, MRSAC at Digital Lab, Vanamati, Nagpur shall supervise the work on a regular basis and ensure that the expected pace of work is maintained.
+10.Digital Lab for Maha-Agritech project has been commissioned at Amati, Nagpur and the manpower employed there should be given access to the community facilities (parking, guest house, auditorium, canteen etc.) of the Forest Institute.
+11.Since 2022-23, the expenditure on Maha-Agritech project should be met from the budgetary provision sanctioned per year under the head:
+Demand No.D.7 3451- Secretariat Financial Services
+Page 3 of 12
+# Page 4
+GOVERNMENT DECISION NO. EVE 2022/ P. NO. 88/14 A
+090, Secretariat (02) e-Governance Programme (02) (04) e-Governance Programme Implementation (Agriculture) (Programme) (34512782) 17, Computer Costs
+12.Mah.- The Commissioner (Agriculture) should submit proposals to the Government from time to time so that the participating institutions of the Agritech project can get the funds as per their demand and after the said funds are spent, the Commissioner (Agriculture) should submit the Consolidated Utilization Certificate.
+# Page 5
+# Page 6
+# Page 7
+# Page 8
+# Page 9
+# Page 10
+# Page 11
+# Page 12

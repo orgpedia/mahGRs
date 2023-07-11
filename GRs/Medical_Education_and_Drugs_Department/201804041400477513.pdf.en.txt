@@ -1,0 +1,23 @@
+# Page 1
+Opening of new Head of Accounts for Kasturba Health Society, Wardha for Central and State accounts.
+The Government of Maharashtra
+Department of Medical Education and Drugs
+Government Resolution No: GIA 2016/ P.No. 232/16/ Education 1
+9th Floor, Go to Hospital Complex, Lokmanya Tilak Marg, Mumbai 400 001
+Date: 4th of April 2018
+Introduction: Every year since 1969, the Government of India has been providing a grant of 25% of the recurring expenditure of the Kasturba Health Society, Sevagram, Wardha for the establishment of a Medical College and Hospital.
+The remaining 50 per cent is provided by the Centre and the remaining 25 per cent by the State.
+The implementation of PFMS (Public Finance Management System) by the Central Government and the allocation and tracking of funds through it is being given priority. For this, it is necessary to link the Central Account Head and State Budget Head/ CRC Code of the respective schemes with each other. Centrally Sponsored Schemes are being mapped through PFMS. It was under consideration of the government to open an account head for mapping the central government grant and state share grant for Kasturba Health Society, Wardha.
+Government Decision: The Government has approved the opening of the following accounts for the provision of Central and State funds to the Kasturba Health Society Sevagram, Wardha.
+Subsidiary Grant to Kasturba Health Institute (Central Share- 50%) Principal Accountant Demand No.S-1
+2210 Medical Services and Public Health 05 Medical Education Training and Research 199 Assistance to Non-Governmental Organizations 01 Assistance to Teaching Hospitals and Medical Institutions Grants, Grants, Donations, etc.
+Subsidiary Grant to Kasturba Health Institute (Central Share- 50%)
+Syntax- 2210 G 402
+Subsidiary Grant to Kasturba Health Institute (State Share- 25%)
+Principal Accountant Demand Number- S-1
+2210 Medical Services and Public Health 05 Medical Education, Training and Research 199 Assistance to Non-Governmental Organizations
+# Page 2
+Government Resolution No: GIA 2016/ P.No. 232/16/ Education 1
+Subsidies, grants, donations etc. to teaching hospitals and medical institutions.
+(01) (02) Subsidiary Grant to Kasturba Health Institute (State Share- 25%) Figure- 2210 G 411
+2. This Government decision is based on an informal reference of the Office of the Principal Accountant General to the Department of Medical Education and Pharmaceuticals/ UOR- 63/2017-18/ 625, No. 29.09.2017, Informal Reference No. 288/ Meaning- 9/18, d. being issued vide approval dated 17.02.2018.

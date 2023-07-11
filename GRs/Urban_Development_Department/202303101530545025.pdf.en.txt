@@ -1,0 +1,26 @@
+# Page 1
+Central Government sponsored AMRUT 2.0 campaign on administrative approval to water supply project of Thane Municipal Corporation.
+(The clean-up)
+The Government of Maharashtra
+the Urban Development Department
+Government Resolution No.Amrit-2023/ P.S. No.82/ NV-33
+Mantralaya, Mumbai- 400 032
+Date: 10th of March, 2023
+Reference:- Department of Urban Development, Synchronized Governance Decision, dated 03rd March, 2023.
+the Government Cleaning Paper
+In the above referenced Government Decision, on page No. 2, in paragraph No. In the first line in 01, Thane Municipal Corporation's" Rs. Instead of' Rs. 450.00 crore', it should be read as' Rs. 323.72 crore' and the table on page 2 should read as under:
+(Rs. in crore)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Name of the local body          | The price of the project | Grant-in-Aid from the Central Government (25% of the project cost) | Permissible subsidy from State Government (45% of the project cost) | Share of Urban Local Bodies (30% of the project cost) |
+| 1                               | 2                        | 3                                                                  | 4                                                                   | 5                                                     |
+| the Thane Municipal Corporation | 323.72                   | 80.93                                                              | 145.674                                                             | 97.116                                                |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+instead of
+(Rs. in crore)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Name of the local body          | The price of the project | Grant-in-Aid from the Central Government (25% of the project cost) | Permissible subsidy from the State Government (25% of the project cost) | Share of Urban Local Bodies (50% of the project cost) |
+| 1                               | 2                        | 3                                                                  | 4                                                                       | 5                                                     |
+| the Thane Municipal Corporation | 323.72                   | 80.93                                                              | 80.93                                                                   | 161.86                                                |
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Page 2
+Government Resolution No: AMRUT-2023/ PR No.82/ NAVI-33

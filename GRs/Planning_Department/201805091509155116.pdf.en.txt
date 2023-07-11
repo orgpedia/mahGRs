@@ -1,0 +1,36 @@
+# Page 1
+The Mahapara
+Appointment of Primary Custodian, Alternate Custodian and Parmanager for writing online performance appraisal reports of Group-A and Group-B (Gazetted) officers in the Directorate of Finance and Statistics and guidelines.
+The Government of Maharashtra
+the Department of Planning
+Government Resolution No. Parivartan-1017/ PR No.109/ K. 1427
+Madam Cama Road, Hutatma Rajguru Chowk,
+Extension Building, Mantralaya, Mumbai 400 032.
+The date: May 9, 2018.
+Read:- General Administration Department, Government Circular No. CFR-1217/ Q.No.131/ 13 dated 15th December, 2017.
+Government's decision
+The Government Circular dated 15/12/2017 of the General Administration Department has detailed the procedure for online submission of performance appraisal reports of Group-A and Group-B (Gazetted) cadre officers using MahaPAR system from the year 2017-18. For Group-A and Group-B (Gazetted) officers of the concerned service, the Joint Secretary/ Deputy Secretary controlling that service has been declared as" Co-ordinating Officer" and" Cadre Controlling Officer" for recording performance appraisal report in MahaPAR system.
+Further, the Under Secretary/ Office Officer of the concerned office who controls the concerned service has been declared as" EMD Manager." Accordingly, Deputy Secretary (Office Post-1427) and Office Officer (Office Post-1427) have been declared as" Co-ordinating Officer" and" EMD Manager" respectively.
+As mentioned in the Government Circular No.CFR-1217/ PR No. 131/ XIII of the General Administration Department, dated 15th December, 2017, the following officers are required to be declared for the office of the Directorate of Economics and Statistics under the Department of Planning for the implementation of the MahaPAR system and to be delegated/ entrusted with the powers in the said system: 1) Primary Custodian:- O. U.
+The officers in the department will have the right to see the performance appraisal report and remove the wrong performance appraisal report before it is self-appraised.
+2) Alternate Custodian:- Preparation of performance appraisal report of the officers after preparing the work-flow of the officers and the information in Part-1 thereof.
+# Page 2
+Government Resolution No: Narikas-1017/ PR No.109/ KA.1427
+To make available to the concerned officers for self-assessment and processing of performance appraisal report.
+3) EMD Manager:- The employer will have the power to make changes in the data of the officers in the system as well as to add new officers to the cadre. The information manager will have to login to the website pims. eoffice. gov. in with his/ her email ID and password.
+PAR Manager:- Preparation of work-flow of the concerned officers before preparing the performance appraisal report (including the reporting period of the concerned officer, the information of the reporting/ reviewing officer of that period).
+The OU is issued to the Directorate of Economics and Statistics as mentioned in the Government Circular No. CFR-1217/ PR No. 131/ XIII of the General Administration Department, dated 15th December, 2017. The Organization Unit is being set up as follows: 1) Headquarters level (Service-MH-Statistics, O.U.-H.O., Mumbai) 2) Regional Office (Service-MH-Statistics, O. U.- Region, Kokan/ Pune/ Nasik/ Aurangabad/ Amravati/ Nagpur)" O. The Organization Unit (OU) will register the performance appraisal reports of all Group-A and Group-B (Gazetted) officers at the head office in Mumbai at the headquarters level and at the regional level in Konkan/ Pune/ Nashik/ Aurangabad/ Nagpur/ Amravati under their respective regional offices (including District Planning Officer and District Statistics Office).
+The following officers of the Directorate of Economics and Statistics are being declared as Primary Custodian, Alternate Custodian and PAR Manager as mentioned in the Government Circular No. CFR-1217/ PR No. 131/ 13 of the General Administration Department, dated 15th December, 2017.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+| A. No. | Organization Unit (O.U.)      | The Primary Custodian              | Additional Custodian              | the PAR manager                             |
+| 1.     | 2.                            | 4.                                 | 5.                                | 6.                                          |
+| 1      | The level of the headquarters | Additional Director (Coordination) | Deputy Director (Administration). | Statistical Assistant (Confidential Branch) |
+| 2      | the Regional Office           | the Regional Co-ordinator          | Deputy Director                   | Research Assistant (Establishment)          |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+5. Update in Form Annexure-D with the Government Circular dated 15/12/2017 of the General Administration Department in respect of all Group-A and Group-B (Gazetted) officers in the office under their command by the concerned" Alternate Custodian" of the Directorate of Economics and Statistics
+Page 2 of 3
+# Page 3
+Government Resolution No: Narikas-1017/ PR No.109/ KA.1427
+(Employee Master Data) should be created in Excel format. The mobile number mentioned in the EMD should be linked to the Aadhaar number of the concerned officer so that the facility of e-sign can be easily used in the system. This information mentioned in the EMD should be sent by the additional conservator to the primary conservator, and its advance copy should be sent to the government. The additional custodians may declare one or more employees under their control as Par Managers as per requirement.
+The concerned" Primary Custodian" of the Directorate of Economics and Statistics has collected the information received from the" Alternate Custodian" and forwarded the same to the NIC in Annexure-E along with the Government Circular dated 15/12/2017 of the Department of Information and General Administration (DGGA) at support mahapar@nic.in. e-mail address and send a copy to the Government.
+The duties and responsibilities of the officers working at various levels in the MahaPAR system shall be as indicated in Annexure-F of the Government Circular dated 15/12/2017 of the General Administration Department.

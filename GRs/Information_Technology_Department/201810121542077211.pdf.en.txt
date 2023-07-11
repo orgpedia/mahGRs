@@ -1,0 +1,147 @@
+# Page 1
+Disbursement process of Maharashtra Direct Benefit Transfer and Services
+(Maha DBT) Portal as the single Pan State portal for delivery of benefits, subsidies and services in Maharashtra
+Government of Maharashtra
+General Administration Department
+Government Resolution No: GAD--2018/C.R. 138/S.1/39
+Mantralaya, Mumbai - 400 032
+Date: 12 October, 2018
+Background
+The Government of Maharashtra have a number of welfare schemes
+which provide benefits, subsidies and services to the citizens of the State.
+Many of these schemes include financial benefits to the eligible applicants.
+Direct Benefits Transfer has been adopted by the Government to ensure that
+benefits are transferred to the beneficiary's bank account electronically,
+thereby, minimising the various tiers involved in fund flow and ensuring timely
+and quick payment, accurate targeting of the beneficiary and curbing pilferage
+and duplication.
+Maharashtra State Direct Benefit Transfer (DBT) and Services portal has been
+envisaged as an integrated state vide portal with the primary objective of
+disbursing benefits and subsidies and delivering services to the intended and
+eligible beneficiaries of various departments of the State. The benefits or
+subsidies will be electronically transferred to the beneficiaries' Aadhaar
+(Unique ID) Linked Bank Accounts.
+1. In Phase I, 39 scholarship schemes across 6 Departments have been on
+boarded on the State DBT and Services Portal, enabling registration,
+eligibility check, application submission, application scrutiny and
+approval, Treasury bill generation and disbursement of funds to
+beneficiary accounts.
+The 6 Departments are:
+Social Justice and Special Assistance
+VJNT,OBC and SBC Welfare
+# Page 2
+Government Resolution No.: GAD-H-2018/C.R.138/S.1/39
+Higher and Technical Education
+Tribal Development
+School Education and Sports
+Minorities Development
+Other schemes/benefits/subsidies implemented by other Departments of the
+State will get on-boarded in the upcoming days and would follow a similar
+process as detailed here.
+2. As per the approval of the High Powered Committee, Maharashtra IT
+Corporation Ltd. (Maha IT) has taken up the development of the
+Maharashtra State DBT & Services Portal (Maha DBT Portal).
+In the Maha DBT portal, there are multiple integrations with various
+agencies/authorities/bodies of the State and Centre, like UIDAI, SSC-HSC
+Board, Caste Validity committees, RTS Services, Fee Regulatory
+Authority, SARAL for fetching of citizen related data along with
+integration with State Treasury and PFMS for implementing the fund
+flow and final payment.
+The application is envisaged to be a single sign-on integrated application
+with live data sharing capabilities built on compatible technology
+platforms.
+The government's resolution-
+1. Any citizen/applicant desirous of availing any welfare benefit under
+Maharashtra State Direct Benefit Transfer (DBT) and Services portal, is
+required to be registered on the portal i.e. at
+www.mahadbtmahait.gov.in and create his profile. After registration
+and creation of a profile on the portal, the applicant will have a provision
+to check the eligibility criteria and his eligibility against the notified
+schemes on the Portal and can choose to apply to avail the best possible
+benefit(s).
+2. Once the application is submitted, it will go through multi-level scrutiny
+process at Institution/Agency/Authority and Department levels. The
+Portal also provides a "send back" option at scrutiny levels, where
+adequate information/documentation has not been received from the Page 2 of 6
+# Page 3
+Government Resolution No.: GAD-H-2018/C.R.138/S.1/39
+applicant. Post completion of all required approvals from each of the
+Institution/Agency/Authority and Department levels, the application
+shall be forwarded for Bill generation and subsequently for
+disbursements.
+3. Maharashtra DBT portal is integrated with Budget Estimation, Allocation
+& Monitoring System (BEAMS) which is the online Bill portal of Finance
+Department, Government of Maharashtra.
+In order to implement seamless integration with BEAMS and to ensure
+deduplication of work, all Departments are required to adhere to the
+following requirements to raise Treasury Bills for the approved
+applications, through the DBT Portal:
+a. Identify their schemes which would be getting on-boarded in the
+Maharashtra State DBT Portal,
+b. Obtain scheme codes against each of the schemes and map them
+with the Treasury Systems
+c. Identify scheme wise Drawing & Disbursement Officer (DDO) and
+register them with BEAMS
+d. Open Scheme wise/specific Bank accounts
+e. Register the scheme wise/specific account in BEAMS against the
+scheme with the help of Treasury Officers. This is required so that the
+DDO can choose the scheme specific account via a drop-down and
+funds can be transferred by Treasury to the required and chosen
+scheme specific account.
+4. As decided in the DBT Cell meeting, Treasury Bills shall be generated in
+Maharashtra DBT Portal for the on-boarded schemes, as per prescribed
+and applicable format of Maharashtra Treasury Rules.
+5. As per the Treasury rules, the Bill and the generated documents shall be
+submitted to the Treasury Offices for approval and obtaining payments
+in registered bank accounts.
+6. Once the Bill is received from the Departments, after required
+processing and approval, the Treasury officer shall transfer the approved
+amount of fund to the scheme specific Bank account, which is registered
+in BEAMS by the respective Department.
+Page 3 of 6
+# Page 4
+Government Resolution No.: GAD-H-2018/C.R.138/S.1/39
+7. Treasury officer shall not demand the list of Beneficiaries along with the
+Bill. It is to be noted in this context that the AG Mumbai and AG
+Nagpur offices shall be provided following features in the DBT portal, for
+the purpose of Audit process:
+a. Separate log in credentials of the DBT Portal, so that AG office can
+view the list of beneficiaries online (in the DBT Portal) against the
+particular bill number / voucher number
+b. "Download" facility of the reports / beneficiary lists based on their
+required bill number / voucher number
+c. Reports shall be made available as per AG office's required
+format, if required
+8. After the amount is received by DDO in their scheme specific Bank
+account from Treasury, the DDO shall transfer the said amount to the
+"Central Pool Account" at the earliest. Once the fund is credited to the
+"Central Pool Account", the applicant shall be getting a notification from
+the DBT portal so that the applicant can redeem the e-Voucher and avail
+Direct Benefit disbursements to either his/her Aadhaar linked Bank
+account or directly to the respective authorised Institution/Agency's
+account based on the nature of the application.
+9. Once applicant clicks on the Redeem button, disbursement is initiated
+and the benefit shall be transferred to the respective Beneficiary or
+authorised Institution/Agency's account through Public Financial
+Management System (PFMS). The payment file which is sent from the
+DBT portal to PFMS shall contain authorisation of Principal Secretary, IT
+in the form of his DSC authentication and the same file shall be sent to
+Central Pool Account Bank, so that the bank can finally cross check the
+authentication and can transfer the benefit to the beneficiary account.
+10. The approved applicants against whom the Treasury Bills are generated
+are validated and registered on PFMS, through a Beneficiary Registration
+Process. Applicant details are sent to PFMS in the prescribed format
+which are then validated and registered. Reconciliation and handling of
+unsuccessful/failure cases will be done by the Maharashtra DBT Portal.
+Students will be sent reasons for failure and on rectification, the
+Page 4 of 6
+# Page 5
+Government Resolution No.: GAD-HH-2018/C.R.138/S.1/39
+applicant details will be sent again to PFMS for validation and
+registration. The validation and registration is primarily done to make
+sure that the Banking details of the applicants (Aadhaar Linked
+Accounts) are valid and active and future payments can be made.
+This GR issues with concurrence of the Finance Department,
+Government of Maharashtra.
+This Government resolution of Maharashtra Government is available at
+# Page 6

@@ -1,0 +1,31 @@
+# Page 1
+Cloud Computing Policy Instructions to Departments regarding hosting of IT applications
+Government of Maharashtra
+Directorate of Information Technology
+Government Circular No. -060/3/2017
+Hutatma Rajguru Chowk, Madam Cama Road,
+Mantralaya, Mumbai - 400 032
+Dated - 29th January 2018
+Introduction
+Considering the growing adoption of online services by citizens of the State & use of IT within Government, there is a constantly increasing demand from Departments for infrastructure for hosting services including disaster recovery and backup for their various IT applications.
+Para 7.13 of the State's E-governance policy (DIT GR dated 23.09.2011), “The State shall explore the option of cloud computing as a preferred way for implementing all e Governance projects in the State." The Government had set up a Committee headed by Principal Secretary IT to prepare the Cloud Computing Policy of the State. The said policy has been approved by the Government on 17.1.2018. It is proposed to communicate the salient features of the State's Cloud Computing Policy to all Departments and issue operational instructions regarding the steps to be followed by Departments.
+The following instructions are issued in supersession of all earlier instructions issued in this regard.
+Government Resolution
+1. The following instructions will apply to all Government Departments, sub-ordinate offices, Public Sector Undertakings, Urban and Rural Local Bodies & any body/organization set up under any law of the State Government (henceforth collectively referred to as “Government organizations")
+2. All Government organizations must use cloud infrastructure services instead of using Government owned datacentres or data centres owned by the organization or co-locating their infrastructure in any Government owned/ privately owned data centre. Procurement of new hardware in existing data centres should be strictly avoided. In case of situations of failure of components of existing systems necessitating replacement, concurrence of DIT should be taken.
+3. In case of existing applications not hosted in a cloud environment, Government organizations must ensure that the applications are migrated to cloud on or before 30.10.2018. All Departments must review their existing software applications and ensure that the applications are cloud ready in time for the above migration.
+# Page 2
+Government Circular No.: -060/3/2017
+4. DIT will empanel cloud service providers from whom Departments can avail of cloud services before 30.04.2018. Departments will be free to avail of the services from any of the empanelled cloud service providers as per the rates to be notified by DIT.
+5. Options of private cloud, public cloud and hybrid cloud will be made available to the Departments. In each of these options, the facilities of Infrastructure-as-a-Service (IaaS), tform-as-a-service (PaaS), Software-as-a-Service (SaaS) will be made availabl for Departments to choose from as per their requirements.
+6. DIT will issue guidelines regarding a Cloud Assessment Framework that should be used by Departments for choosing the cloud service that would be suitable for the Department. While doing so, the Department should consider the following,
+a) Nature of demand, average and peak loads, elasticity and cyclical nature of demand b) Legacy Application Architecture including Database and platforms used by the department
+c) Nature and sensitivity of the data (in terms of data privacy, confidentiality, data concerning State & National security and requirements under the Right to Information Act) being handled by the application.
+7. To ensure that Departments get a hands-on experience, the Departments will be provided an option of free trial for a limited period before issue of formal work order.
+8. The billing for cloud services will be based on actual consumption of services (Pay-As-You Go model) with minimal or zero capital (one-time) cost. The expenditure on the same should be done by the Department from their budgetary resources. It is clarified that DIT will not bear the expenditure for availing cloud services.
+9. During the empanelment process, DIT will ensure that safeguards regarding data security, data sovereignty, portability and interoperability & compliance with information security standards regarding cloud computing are complied with. DIT will issue necessary operational guidelines and sample templates for entering into agreements with the empanelled cloud service providers. DIT will also ensure that third party audit of empanelled Cloud service providers (CSP) is carried out at least once a year.
+10. If Departments are issuing any RFP for a project which involves system integration, the Departments should ensure that the clauses of the RFP are in line with the cloud policy of the State & that hosting services should be engaged only from the cloud service providers empanelled by DIT.
+Page 2 of 3
+# Page 3
+Government Circular No.: -060/3/2017
+This Government Circular of Maharashtra Government is available at the website

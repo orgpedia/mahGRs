@@ -1,0 +1,97 @@
+# Page 1
+CCTV cameras to be installed in police stations.
+The Government of Maharashtra
+the Home Department
+Government Resolution No: CCT-3615/ PR No.130/ POL-3
+Madam Cama Marg, Hutatma Rajguru Chowk,
+Ministry, Mumbai- 400 032.
+The date: March 26, 2018.
+Read: 1. The High Court of Bombay, Criminal Writ Petition No. on 2110/2014. 13.8.2014, Dy. 21.10.2015, Dy. 24.02.2016, Dy. 21.09.2016 and D. Order dated 30.11.2016.
+2) Ma. The Supreme Court's Criminal Writ Petition No. 539/1986. Judgment dated 24.7.2015.
+3) Letter No. 2012/ No. 37/18, dated 01.02.2012 from Secretary, Directorate of Information Technology, Mumbai. 4.3.2013.
+4) Director General of Police, State of Maharashtra, Mumbai vide letter No. Poms/ 21/7272/ SCTV/ 203/2014, Dy. 27.01.2015.
+5) Home Department, Government Resolution No. CCT-3615/ No.130/ Pol-3, dated 23.11.2015.
+Government Resolution, Industry, Energy and Labour Department No. Bhankhas-2014/ No. 82/ Part III/ Udyog-4, D. 30.10.2015 and 01.12.2016.
+7) General Administration (Information and Technology) Department, Government Decision No. Mat 1716-3615/ PR No. 286/39 dated 09.08.2016 8) Home Department vide Government Resolution No. CCT-3615/ Q.No.130/ Part-1/ Pole-3, dated 06.01.2017.
+9) Under the chairmanship of the Additional Chief Secretary (Home), the state government has decided to install CCTV cameras in police stations. Minutes of the meeting of the High Powered Committee held on 27.2.2018.
+Introduction: Leonard Xavier Valdaris and others against the Government of Maharashtra and others. the High Court,
+Criminal Writ Petition No. 2110/2014 has been filed.
+In the petition dated 13.8.2014, 24.02.2016 and Orders have been passed on 30.11.2016.
+High Court to prevent custodial deaths in every police station in the state
+CCTV cameras have been installed in the corridors, rooms and lock-ups. D.K. Basu and
+The others m. Criminal Writ Petition Against the State of West Bengal and Others in the Supreme Court
+# Page 2
+Government Resolution No: CCT-3615/ PR No.130/ POL-3
+539/1986 in this case. Judgment was delivered on 24.07.2015.
+CCTV cameras have been installed in the police station. Considering this on an experimental basis
+Charge rooms, lock-ups, corridors, stations in 25 police stations under the Commissioner of Police, Brihanmumbai
+Installation of CCTV cameras at five places in the House etc. 5 The date of the
+The administrative approval was accorded vide Government Resolution dated 23.11.2015. all 25 police officers.
+The process of installing CCTV cameras in the stations has been completed.
+The court case In the hearing held on 30.11.2016, the Commissioner of Police,
+CCTV cameras to be installed in all 25 police stations under the Brihanmumbai Municipal Corporation
+The action The court 13.08.2014 and dt. In accordance with the order dated 24.02.2016
+Submission of compliance report. As per the court order,
+The office of Senior Police Inspectors in 25 Police Stations under the Commissioner of Police, Brihanmumbai,
+The total number of police stations (excluding women's cells and rest rooms) and their premises is 410.
+Administrative approval has been given to install CCTV cameras and further action will be taken.
+It is run by the Department of Information and Technology. However, Ma. In accordance with the above order of the court
+CCTV cameras have been installed in all police stations. 4 is listed here.
+vide letter dated 27.01.2015, the Director General of Police, Maharashtra State, Mumbai has sanctioned a total amount of Rs. Rs 88.90 crore
+A proposal has been submitted to the government to give administrative approval to the expenditure of Rs. The proposal also
+The high-powered committee considered. At the meeting held on 27.02.2018, Shri. the Court
+According to the order, Rs 1,100 crore will be spent for installing CCTV cameras in police stations. 72.60 crore
+It has been decided to recommend for administrative approval of such expenditure. According to
+1100 crore for installation of CCTV cameras in police stations. 72.60 crore
+Administrative approval of the expenditure was under consideration of the government. Accordingly, the Government
+A decision has been made.
+Page 2 of 5
+# Page 3
+Government Resolution No: CCT-3615/ PR No.130/ POL-3
+Government's decision:
+1100 police stations in the state. CCTV cameras as per the court's order
+To be installed Rs. 72,60,00, 000/- (Rupees Seventy Two Crores Sixty Lakhs)
+Administrative approval has been granted.
+The process of installing CCTV cameras in 1100 police stations in the state will be done in two phases.
+In the first phase, 500 smart police stations will be set up in the state.
+CCTV cameras should be installed in all police stations.
+CCTV cameras should be installed in all police stations.
+3. Ma. CCTV system to be made operational in every police station as per court order
+Action should take into account the following factors:
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Sr. No |                                                    |                                                                                                                                                                                                                                                                                                                                                                               | Design Consideration |   |   | Requirement |
+| 1      | Number and type/technology of                      | Number of cameras may vary from 7 cameras to 15 cameras per police station as per the size of police station. Type of cameras will be mix of following: Varifocal indoor dome cameras for indoor surveillance. Varifocal outdoor bullet for outdoor environment. Pan tilt zoom camera for main entry/exit. All cameras to be IP based and should have inbuilt IR illuminator. |
+| 2      | Type of locations where camera has to be installed | 1. Entry/Exit Gate 2. Police Station Entry 3. Passage 4. Station House 5. Officers Room 6. Charge Room 7. Lockup 8. Other Room if any                                                                                                                                                                                                                                         |
+| 3      | Location of viewing center and IT infrastructure   | Viewing center to be setup in the room of Police Station in charge 32" inch LED TV connected with NVR.                                                                                                                                                                                                                                                                        |
+| 4      | Days of storage                                    | 365 days for camera installed in Lockup 90 days for all other cameras. If any incident has been reported, the video footage for same has to be kept for longer duration i.e. more than year and same has to be written on DVD through External/Internal DVD writer.                                                                                                           |
+| 5      | UPS backup                                         | Minimum backup of 1 Hour.                                                                                                                                                                                                                                                                                                                                                     |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Page 3 of 5
+# Page 4
+Government Resolution No: CCT-3615/ PR No.130/ POL-3
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Sr. No |                  |                                                                                                                               | Design Consideration |   |   | Requirement |
+| 6      | Cyber Security   | In order to protect the video against any tampering, desired protection layer to be added on the recorded and exported video. |
+| 7      | Warranty and AMC | Minimum warranty for one year and AMC for additional 4 years.                                                                 |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+4. Secretary, Directorate of Information and Technology vide Reference No. Above the 03. As on 4.3.2013
+CCTVs should be installed in police stations.
+The Bombay High Court. In the directives passed on 13.8.2014, one year of filming
+It should be preserved for a certain period of time. Hence, the Department of Information Technology
+In the guidelines prescribed vide letter D. 4.3.2013," The duration of filming is one year.
+All the remaining guidelines should be followed with the only change being" Save for duration." the above
+Reference No. General Administration (IT) Department dated 09.08.2016
+Maharashtra to install CCTV cameras in police stations
+It should be done through the Information Technology Corporation.
+5. Procurement of equipment required for installation of CCTVs in police stations, industries, power and
+Labour Department No. 6 here. 30.10.2015 and D. the Government of 01.12.2016
+The decision should be made in accordance with the tender/ procurement policy laid down.
+6. In the present case the expenditure as aforesaid is" Demand No. B-10, 4055- On the police
+Capital expenditure, 800 other expenditure, (00) (09) Installation of CCTV system (4055 0223)
+The expenditure should be covered under the head' machinery and equipment' and it should be met from the available subsidy.
+Come.
+7. The decision of the High Powered Committee. Meeting held on 27.02.2018
+The decision is being implemented.
+Page 4 of 4
+# Page 5
+Government Resolution No: CCT-3615/ PR No.130/ POL-3

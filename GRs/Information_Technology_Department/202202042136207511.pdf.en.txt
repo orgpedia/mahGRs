@@ -1,0 +1,52 @@
+# Page 1
+Implementation of Maharashtra Unified Citizen Data Hub to digitize government services
+The Government of Maharashtra
+Department of General Administration (Information Technology)
+Government Resolution No: MATNS-11088/ P.S. 9/2021
+Ministry, Mumbai- 400032.
+Date: 04/02/2022
+Reference: 1) In-principle approval of the High Powered Committee in its meeting dated 27th September, 2021
+dated 23rd December 2021. The project was approved at a Cabinet meeting.
+The Proposal:
+At present, fresh surveys have to be conducted to create a database of beneficiaries every time for planning and implementation of schemes of the departments. Even though each department has a large database, it cannot be linked with the database of other departments.
+Various schemes are implemented by the government and help is announced for the citizens in the event of natural disasters. However, the implementation of these schemes faces major challenges such as identifying eligible beneficiaries, providing them assistance through DBT system.
+Considering the experience of various schemes successfully implemented by the Department of Information Technology for many departments and the difficulties faced in helping citizens during natural disasters, the government was considering to implement the scheme of Maharashtra Unified Citizen Data for Digital Delivery of Benefits and Services to create a centralized data hub containing all the details of the citizens of the state. According to the on the 23rd of December 2021. The proposal was approved at a Cabinet meeting. The objective of this scheme is to collect and validate the data of citizens from various departments and other government agencies so that a record of every citizen is created.
+Government's decision:
+The government has allocated Rs 294.02 crore (excluding GST) for the implementation of the Maharashtra Unified Citizen Data for Digital Delivery of Benefits and Services scheme.
+# Page 2
+Government Resolution No: MATNS-11088/ P.S. 9/2021
+Administrative approval is being accorded as well as the scope of implementation of the project, selection procedure and timelines.
+The project will be implemented by Maharashtra Information Technology Corporation Limited (MahaIT) under the supervision and control of the Department of Information Technology.
+------------------------------------------------------------------------------------------------------------------------
+| Information Technology (IT) Act, 2000 (as amended in 2008), Aadhaar (financial and other subsidies)                  |
+| Targeted Delivery, Benefits and Services, Benefits and Services) Act, 2016                                           |
+| Right to Services Act, 2015 and e-Governance Policy, 2011                                                            |
+| As per the provisions of the Act, the Department of Information Technology is the custodian of the data of citizens. |
+| In view of this, a common standard citizen database- Maharashtra Unified Citizen Data Hub                            |
+| Approval is being given to the Department of Information Technology to prepare.                                      |
+------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+| All the departments of the state to create a common standard data base of the entire state       |
+| and other government agencies the computerized information of citizens available to them         |
+| It will be immediately made available to the Department of Information Technology.               |
+| It will create a standard citizen database, as well as the Maharashtra Unified Citizen Data Hub. |
+| The custodian of the archive will be.                                                            |
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------
+| (4) The e-Governance Policy contains the necessary provisions for the implementation of the scheme.                       |
+| Right to make provisions in the law if required in future by the Information Technology                                   |
+| will remain in the department.                                                                                            |
+| After the creation of the Unified Citizen Data Hub, all the departments of the state will be included in this new system. |
+| It will be mandatory for their individual beneficiaries to on-board the scheme.                                           |
+| Unified of all individual beneficiary schemes after creation of Unified Citizen Data Hub.                                 |
+| Citizen Data Hub will be integrated with the departments/ other government agencies.                                      |
+| Changes in the data of citizens in the database Maharashtra Unified Citizen Data                                          |
+| Hubs will be automatically added. For this, the IT department will be different.                                          |
+| Work with departments.                                                                                                    |
+| A Steering Committee shall be constituted under the Chairmanship of the Chief Secretary.                                  |
+| Implementation of services through a system of monitoring and reviewing the progress of committee data access and         |
+| Benefits as well as the implementation of the project will solve the related problems etc.                                |
+-----------------------------------------------------------------------------------------------------------------------------
+Page 2 of 3
+# Page 3
+Government Resolution No: MATNS-11088/ P.S. 9/2021

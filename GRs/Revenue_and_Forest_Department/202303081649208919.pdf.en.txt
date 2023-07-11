@@ -1,0 +1,38 @@
+# Page 1
+Regarding the distribution of funds to the affected persons for the loss of property caused by the flood situation caused by heavy rains in the state from June to October, 2022.
+The Government of Maharashtra
+the Revenue and Forest Department
+Government Sanitation Number: CLS-2022/ P.No.258/ M-3
+Madam Cama Marg, Hutatma Rajguru Chowk,
+Mantralaya, Mumbai- 400 032
+Date: 8th of March, 2023
+Reference: Government Resolution, Revenue and Forest Department, No.CLS-2022/ Q.No.258/ M-3, Dy. 19.01.2023
+Corrigendum: Table No.1 of the Statement accompanying the Government Resolution dated 19.01.2023 under reference. 10 is as follows:
+--------------------------------------------------------------------------------------------------------------------------
+| A.A.         |            |     | the District |       |   | The number of families affected |   | Helping shoppers |
+| 1            |            |     | 2            |       |   | 3                               |   |                  | 10 |
+| Account Head |            |     |              |       |   |                                 |   | 22452381         |
+| 2            | Nagpur     | 129 |              | 0.00  |
+| 3            | Wardha     | 68  |              | 0.00  |
+| 4            | Bhandara   | 63  |              | 13.60 |
+| 5            | Gondia     | 56  |              | 17.16 |
+| 6            | Chandrapur | 172 |              | 0.00  |
+| 7            | Gadchiroli | 244 |
+| Total Nagpur |            | 732 |              | 30.76 |
+--------------------------------------------------------------------------------------------------------------------------
+Instead of
+--------------------------------------------------------------------------------------------------------------------------
+| A.A.         |            |     | the District |       |   | The number of families affected |   | Helping shoppers |
+| 1            |            |     | 2            |       |   | 3                               |   |                  | 10 |
+| Account Head |            |     |              |       |   |                                 |   | 22452381         |
+| 2            | Nagpur     | 129 |              | 0.00  |
+| 3            | Wardha     | 68  |              | 0.00  |
+| 4            | Bhandara   | 63  |              | 13.60 |
+| 5            | Gondia     | 56  |              | 0.00  |
+| 6            | Chandrapur | 172 |              | 17.16 |
+| 7            | Gadchiroli | 244 |              | 0.00  |
+| Total Nagpur |            | 732 |              | 30.76 |
+--------------------------------------------------------------------------------------------------------------------------
+Read this
+# Page 2
+Government Sanitation Number: CLS-2022/ P.No.258/ M-3

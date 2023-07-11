@@ -1,0 +1,44 @@
+# Page 1
+Direct Benefit Transfer (DBT) system is the only state-level system for distribution of benefits, financial assistance and services in the state.
+The Government of Maharashtra
+General Administration Department (MAT)
+Government Resolution No. Sapravi Matans-2018/ S.No. 138/ S- 1/39
+Mantralaya, Mumbai- 400 032
+The date is October 12, 2018.
+The Proposal:
+The Government of Maharashtra has a number of welfare schemes to provide benefits, financial assistance and services to the citizens of the state. Many of these plans offer financial benefits to eligible applicants. The Government has adopted the Maha DBT system for direct benefit transfer, electronic transfer of benefits to the bank accounts of the beneficiaries, distribution of funds in the shortest possible time frame, fast, accurate beneficiary, reducing the frequency of frauds.
+The primary objective and vision of Direct Benefit Transfer (DBT) system is to ensure that the benefits, financial assistance and services provided by various departments of the Government are delivered to the intended and eligible beneficiaries through an integrated system at the State level. The transfer of benefits or services will be electronically transferred to the Aadhaar seeded (Unique ID) bank account of the beneficiary.
+In the first phase, 39 scholarship schemes of 6 departments have been on-boarded on State DBT and SEWA system enabling registration, eligibility verification, submission of applications, scrutiny and approval, generation of payments in treasury and disbursal of funds, crediting in the bank accounts of beneficiaries.
+The six sections are as follows:
+Social Justice and Special Assistance Vijabhaj, Imav and Vimapar Welfare Higher and Technical Education Tribal Development School Education and Sports Minority Development
+Schemes/ benefits/ financial assistance being implemented by other departments will be taken up on the system in the near future and the modalities for the same will be as detailed here.
+# Page 2
+Government Resolution No: Sapravi-Matans-2018/ S.No. 138/ S- 1/39
+Maha DBT and Service System is being developed by Maharashtra Information Technology Corporation (Maha IT) as approved by the High Level Committee.
+The Maha DBT system has integrated several agencies/ authorities/ institutions of the State and Centre with the State Treasury and PFMS for providing citizen information and for disbursement and final disbursement of funds.
+This system has been built with the technical capability of live data sharing with the concept of single sign on.
+Citizens/ applicants who want to avail welfare benefits under Maha DBT and SEWA system should register and create their profile on www. mahadbtmahait. gov. in. After registering and creating the information on the system, the applicant will be able to check the eligibility and the scheme to which he is eligible and choose the benefit that will be best for him.
+Once the application is submitted, it will be subjected to multi-level scrutiny by the institution/ agency/ authority and the department. There is an option available on the system to send back the applicant's application to the scrutiny stage in case of insufficient information or lack of required documents. After all necessary approvals at the level of institution/ agency/ authority and department, the application will be forwarded for payment generation and subsequent disbursement.
+The Maharashtra DBT system has been integrated with the Budget Estimation, Allocation and Monitoring System (BEAMS) of the Finance Department of the Government of Maharashtra. In order to ensure smooth integration of BEAMS and to ensure that there is no duplication of work, all the departments are required to follow the following procedures while making payments through Maha DBT system:
+(a) Identification of schemes in Maharashtra State DBT system (b) Obtaining scheme code of each scheme and mapping with treasury system (c) Identification of scheme wise Drawing and Disbursing Officer and registering it on BEAMS.
+(d) Opening of scheme-wise/ specified bank accounts.
+(e) Scheme wise/ Specific bank account registration on BEAMS with the help of Treasury Officer.
+This needs to be done because, each Drawing and Disbursing Officer can select a particular account scheme wise through drop down and transfer the funds to the appropriate and selected scheme wise particular account.
+4. Formulation of treasury payments for schemes on the DBT portal as decided in the meeting of the DBT Cell in the prescribed and appropriate format as per the Treasury Rules.
+Page 2 of 4
+# Page 3
+Government Resolution No: Sapravi-Matans-2018/ S.No. 138/ S- 1/39
+Payments and paperwork generated as per Treasury rules should be submitted to the Treasury for approval and disbursement to the registered bank account.
+After receiving the payment from the department after the necessary process approval, the treasury officials should transfer the agreed amount to the scheme-specific bank account registered by the department on BEAMS.
+7. The treasury officer shall not demand the list of beneficiaries along with the payment. It may be noted that the following items have been made available on the DBT portal to the Accountants General, Mumbai and Nagpur for audit:
+Accountants General have a separate log in credentials, in which they can see the list of beneficiaries, payment numbers and voucher numbers.
+b) The facility to" Download" the list of beneficiaries as per the report/ payment order and voucher number is available on MahaDBT portal.
+(c) Reports shall be made available to the Accountant General in the prescribed format as required.
+8. The Drawing and Disbursing Officer shall deposit the funds in the" Central Pool Account" as soon as possible after the Drawing and Disbursing Officer receives the funds in the specified bank account as per the scheme. So that the applicant returns the e-Voucher and gets the benefit directly in his Aadhaar Enabled Bank Account as per the application, or directly in the account of the authorized agency/ institution.
+Once the applicant presses the Redeem button, the disbursement process will start and the benefit will be transferred through PFMS to the account of the concerned beneficiary or authorized agency/ agency. The amount of payment which has been sent to PFMS through DBT system must include the amount authorized by the Principal Secretary (Mother) through his DSC and this amount should be sent to the" Central Pool Account." So that the bank can re-verify that it has been finally authorized and the benefit is transferred to the beneficiary's account.
+10 The payment generated in the treasury belonging to the eligible applicant will be validated by the beneficiary registration process and registered on the PPFMS. After this, the beneficiary will be validated and registered with the details prescribed on PFMS. Failure/ failure cases will be reconciled and handled through Maha DBT portal. Students will be sent the reasons for failure and after correction, the applicant's details will be sent back to PFMS for validation and registration.
+Validation and registration are primarily to ensure that the applicant's bank details (Aadhaar linked account) are valid and functional and for future payments.
+The decision was taken by the Finance Ministry.
+Page 3 of 4
+# Page 4
+Government Resolution No: Sapravi-Matans-2018/ S.No. 138/ S- 1/39

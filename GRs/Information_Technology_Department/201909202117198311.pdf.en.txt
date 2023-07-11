@@ -1,0 +1,32 @@
+# Page 1
+Maharashtra Model RFP document For IT and e-Governance projects.
+Government of Maharashtra
+Directorate of Information Technology (GAD)
+Government Resolution No-DIT 2019/ CR NO.32/Sec-3/39 Hutatma Rajguru Chouk, Madam Cama road,
+Mantralaya, Mumbai - 400032.
+Date: 20 September, 2019
+Reference: Model RFP vide Do No.2 (35)/2010-EG- II (Vol - IV) issued by Ministry of Electronics & IT, Government of India on 16-06-2017.
+Preface: Digital India is a flagship program of Government of India and involves Procurement of Information Technology (IT) goods and Services by the various agencies of the government. Government of Maharashtra is leading Digital India by its various IT initiatives and e-governance projects & programs, such as Direct Benefit Transfer (DBT), Mahanet, CM Dashboard, Urban Mahanet, Smart City Project, etc. Other Projects such as Block chain implementation, Data Interoperability & Standardization and Digital Services Delivery are in the pipeline. All departments of the state government are procuring IT goods and Services through online tendering platform. To expedite the IT and e Governance projects, it is important that the procurement process is made simple, more transparent and designed in such way that it adheres to various government rules, notifications, regulations and latest e-governance standards.
+The Directorate of Information Technology, Government of Maharashtra decided to issue Maharashtra Model RFP document to streamline the IT procurement in the state and to sensitize the bid management teams of different departments in State Government on good practices and harmonize/standardize the RFP clauses and terms and conditions. In this regard the government has taken following decisions.
+Government Resolution:
+1. The Directorate of IT, Government of Maharashtra has developed Maharashtra Model RFP document to streamline IT & e-governance procurement after consultation with various stakeholders including NAASCOM (National Association of Software and Services Companies), IT-industry & consultants. The document is enrichment and updation to the Model RFP vide Do No.2 (35)/2010-EG- II (Vol- IV) issued by Ministry of Electronics & IT, Government of India on 16-06-2017.
+2. The Directorate of IT, Government of Maharashtra has developed Maharashtra Model RFP document, to help government organizations in preparation of request for proposals (RFP), for successful implementation of e-governance projects. The document would address concerns of Government and industry members in e-governance procurement. The Maharashtra Model RFP documents are being issued in three parts namely a) Guidance notes for selection of Implementation Agencies.
+# Page 2
+Government Resolution No.: DIT 2019/ CR NO.32/Sec-3/39
+b) Templates for selection of Implementation Agencies
+Contract Agreement for selection of System Integrators/
+Implementation Agencies.
+3. It may also be noted that the Maharashtra Model RFP is ready for cloud based procurement including Stand-alone Cloud (Saas, Paas, Iaas) and cloud implementation projects. This is in line with the Cloud First Strategy of the Government of Maharashtra (GoMH).
+4. All terms and conditions of the cloud computing policy issued by Government of Maharashtra prior or later than this document are binding and are to be treated and read in conjunction with Maharashtra Model RFP document.
+5. Implementation of Maharashtra Model RFP:
+Please be informed that all IT departments of Government of Maharashtra are mandated to adopt the Maharashtra Model RFP and issue their RFPs based upon the template document with immediate effect for procurement of IT Services/Products/Cloud (Saas, Paas, Iaas) from the date of its notification. It is proposed to notify the Model RFP document in next two months.
+The Model RFP document will be effective from the date of its notification and
+uploading of the Model RFP document on government portal by Directorate of Information Technology along with the said notification.
+6. Approval of Deviation: Any /all deviations from the recommendations made in Maharashtra Model RFP must be pre-approved prior to the issuance of the IT Services/Products/Cloud (Saas, Paas, Iaas) RFP by the respective department. These deviations can only be approved by the Directorate of Information Technology - Government of Maharashtra or a competent authority authorized by Directorate of Information Technology.
+7. Change Control:
+Any changes and/or any future versions to the Maharashtra Model RFP will only be accepted upon the ratifications and approval of the Directorate of Information Technology Government of Maharashtra or a competent authority authorized by Directorate of Information Technology.
+8. These documents aim to sensitize the bid management teams on good practices and harmonize / standardize the RFP clauses and terms and conditions. However, these documents do not substitute or overrule any approvals currently required by the concerned departments/State Government/Purchaser for finalization of the RFP.
+Page 2 of 3
+# Page 3
+Government Resolution No.: DIT 2019/ CR NO.32/Sec-3/39
+This Government resolution of Maharashtra Government is available at the

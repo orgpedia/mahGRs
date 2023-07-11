@@ -1,0 +1,58 @@
+# Page 1
+Guidelines to be issued to the Regional Offices regarding computerization of Public Distribution System.
+The Government of Maharashtra
+Department of Food, Civil Supplies and Consumer Protection
+Government Circular No.:- PARIONAL- 2020/ PR No. 194/ S.C.
+Madame Cama Road, Hutatma Rajguru Chowk, Mantralaya, Mumbai- 400 032.
+Date: December 29, 2020
+Read: 1) Semi-Government letter dated 29.07.2017 of this Department.
+2) Guidelines on Public Distribution System issued vide letter dated 02.02.2018 of this Department
+(iii) Guidelines on Public Distribution System issued under the Department's Semi-Government Letter dated 12.04.2018
+4) Guidelines on Public Distribution System issued vide letter dated 24.04.2018 of this Department
+5) Letter dated 26.07.2018 of this Department 6) Letter dated 29.10.2020 of this Department 7) Secretary, Department of Food, Civil Supplies and Consumer Protection headed by Dy. Review Circular taken through Video Conferencing on 06.11.2020: It has come to the notice of the Government that the facilities in Aadhaar Enabled Public Distribution System (AePDS) are being misused. Accordingly, vide letter No. Under Section 6, the card nominee facility and e-PoS device ID mapping facility were suspended. It was also informed that the list of fair price shops without network for route nominee facility should be submitted with the signature of the Collector. The Secretary, Department of Food, Civil Supplies and Consumer Affairs was also present on the occasion. Reviewed the following issues through Video Conferencing on 06.11.2020: 1) Card Nominee:- Facility for beneficiaries who are leprosy patients or facing difficulties in Aadhaar authentication
+Route Nominee:- Facility in Fair Price Shops where network is not available Device-FPS Mapping:- Facility to map the e-POS device given to Fair Price Shops
+Non-Rationing of Foodgrains: Ration card issued to the beneficiaries who have not received their foodgrains for 3 consecutive months.
+Scheme-wise Monthly Policy:- Amount of foodgrains to be paid to the ration card holders in the next month.
+The detailed guidelines on each of the above issues as per the instructions given through Video Conference held on 06.11.2020 are as follows:
+# Page 2
+Government Circular No.: PARIKH- 2020/ PR No. 194/ S.C.
+1) Card Nominee: This facility should be used only in cases of leprosy or frequent failure of Aadhaar authentication. This facility can be used only after the Aadhaar authentication of all the beneficiaries in the ration card has failed.
+2) In cases where Aadhaar authentication has failed or Aadhaar seeding of a beneficiary in the ration card has not been done, d. eKYC and Aadhaar seeding of all beneficiaries in the said ration card should be completed before 31.01.2021. After this date, this facility will be available only to leprosy patients and those who do not have fingers.
+(3) A Fair Price Shopkeeper or his nominee should not be appointed as a Card Nominee for any ration card.
+4) The consent of the District Collector will be required to take advantage of the Card Nominee facility for ration cards. The list approved by the District Collector should be sent to the department and then the Card Nominee should be attached to such ration cards through the DSO Login.
+5) The District Supply Officer should ask for the list of ration cards certified by the Tahsildar or Supply Inspector. The list should be reviewed every 3 months and the beneficiaries whose Aadhaar seeding through eKYC should be removed from the ration card nominee.
+The nominee should be a beneficiary of the National Food Security Scheme or APL (Keshari) Kisan Yojana and should be from the same shop.
+A card nominee can be appointed for a maximum of 2 ration cards. Also, once the Card Nominee is appointed, it should not be changed without the recommendation of the Tahsildar or Supply Inspector.
+Route Nominee: 1) This facility is available for fair price shops in the No Network area declared by the District Collector. The list of such shops should be sent to the e-mail ID (compcell. mhpds@gov. in) of the computer cell of the department.
+2) For such fair price shops, the permission of the District Collector is required before providing the facility of Route Nominee.
+3) The collector should strictly inspect the no-network area. Be careful not to overuse this feature. The Collector and the District Election Officer have information about the Communication Shadow Areas. This information and the information from the telecom companies should be investigated.
+4) A Route Nominee should be made available to only one Fair Price Shop.
+5) A Fair Price Shopkeeper or his nominee should not be appointed as a Route Nominee for any Fair Price Shop.
+The list of fair price shops should be reviewed every 3 months and if there is sufficient network, the name of the fair price shop should be removed from the list.
+Page 2 of 5
+# Page 3
+Government Circular No.: PARIKH- 2020/ PR No. 194/ S.C.
+7) The District Supply Officer should check the Aadhaar number of the Route Nominee before giving the Route Nominee to the fair price shops.
+8) The process of appointing a Route Nominee. This was stated in the letter dated 02.02.2018.
+3) Device-FPS mapping:
+The facility to map the e-PoS devices with Fair Price Shops has been provided to District Supply Officers/ Food Distribution Officers/ Deputy Controllers, Rationing Stores. However, if any change is to be made in the e-PoS device mapped at present, the District Supply Officer/ Food Distribution Officer/ Deputy Controller, Rationing Department should bring the matter to the notice of the Collector/ Controller, Rationing and Director, Civil Supplies and take action as per their directions.
+For proper use of the e-POS device mapping facility, the following instructions should be followed:
+1) If the mapped e-PoS equipment is to be taken for repair with fair price shops, the system integrator should map the ID of the equipment with the shop by providing the equipment operating from the spare equipment they have.
+2) Fake device ID (dummy no. ) Fairness should not be mapped to the store.
+3) If the repaired equipment or new equipment is to be attached to the fair price shop, it should be immediately remapped at the place of the old equipment.
+4) In any case, the e-POS device of the fair price shops should not be unmapped and mapped to other ration shops on the ground that the distribution of foodgrains for that month has been completed.
+5) In exceptional cases, if the fair trade shop is canceled or suspended, the device number" zero" should be noted. Such cases should be immediately brought to the notice of the concerned authorities.
+4) Unsubsidised ration cards:
+The list of ration cards on which food grains have not been lifted in the last 3 consecutive months will be made available in the respective DSO/ FDO/ DCR Login.
+2) The ration cards that have not been taken for 3 months should be physically inspected by the concerned Deputy Tahsildar or Supply Inspector. The ration card should be included under the eligible scheme only after it is found to be correct after the inspection or after receiving a written statement from the head of the family. If any discrepancy is found, such ration cards should be temporarily suspended and the type of ration card should be changed to" NER" (Non-Entitlement Ration Card).
+Page 3 of 5
+# Page 4
+Government Circular No.: PARIKH- 2020/ PR No. 194/ S.C.
+(3) All such proceedings. to be completed before 31.01.2021. All ration cards which have not been lifted for 3 consecutive months (Oct. Dec. 2020) should be permanently suspended after January, 2021.
+Scheme-wise Monthly Policy: The scheme of distribution of foodgrains for each month is decided by the department 1 to 3 months in advance. If coarse grains, pulses, etc. are to be distributed at the district level, this quantity varies at the district level. In such a situation, the amount of food grain allocation according to the scheme of each district (AAY, PHH, APL Farmer or other current scheme) regarding the next month's grain allocation should be submitted to the government by the 18th of the current month.
+The quantity for distribution of foodgrains on e-PoS device next month will be issued to NIC through Supply Chain Management System on 19th of this month. After that, no changes will be made.
+3) The scheme should be uniformly scaled up at the taluk level by the district. There should not be different amounts for the same scheme in the same taluk.
+4) The quantity of ration card wise ration card should be in whole number. (e.g. 1, 2, 3 kg) 1.5, 2.5 kg.
+All District Supply Officers/ Food Distribution Officers/ Deputy Controllers, Rationing Departments shall ensure that the above guidelines are followed regularly. The login and password provided to them should not be given to others and should be changed from time to time. The District Supply Officer/ Food Distribution Officer/ Deputy Controller, Rationing should ensure that the facilities given for Card Nominee, Route Nominee, Equipment Mapping are not misused. In case of misuse of these facilities, the concerned District Supply Officer/ Food Distribution Officer/ Deputy Controller, Rationing will be held fully responsible.
+While following the above instructions, it should be ensured that no eligible beneficiary is deprived of food grains.
+# Page 5
