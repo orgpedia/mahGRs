@@ -54,7 +54,7 @@ Please note that the repository even though it contains only txt file is about 1
 
 ## Running Chatbot
 
-You can run a simple Q & A chatbot on this data using [chat.py](chat.py) a simple chat applications that has no external depedencies and requires you to run [Qdrant](https://qdrant.tech/) vector database and have an [OpenAI API Key](https://help.openai.com/en/articles/4936850-where-do-i-find-my-secret-api-key).
+You can run a simple Q & A chatbot on this data using [chat.py](chat.py), a simple chat applications that has no external depedencies and requires you to run [Qdrant](https://qdrant.tech/) vector database, have need to have `curl` on your machine and have an [OpenAI API Key](https://help.openai.com/en/articles/4936850-where-do-i-find-my-secret-api-key).
 
 Start qdrant on your local machine
 ```shell
@@ -73,7 +73,7 @@ This will start the chat app on all the orders (GRs) that have 'library' keyword
 python chat.py GRs/Higher_and_Technical_Education_Department library
 ```
 
-![screenshot](screenshot.png)
+![screenshot of running chat.py](screenshot.png)
 
 * You get clickable links in references if you run in iTerm2 *.
 
