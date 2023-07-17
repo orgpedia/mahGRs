@@ -1,0 +1,52 @@
+# Page 1
+NextGen e-Hospital is a healthcare management system (HMS) developed by NIC in Government Medical/ Dental/ Ayurveda Colleges and Hospitals. MIS) to be approved for implementation.
+The Government of Maharashtra
+Department of Medical Education and Drugs
+Government Resolution No: 2023/ No.58/ P.S.-2
+9th Floor, Gokuldas Tejpal Hospital,
+New GoT Complex Building, Lokmanya Tilak Marg
+New Ministry, Mumbai 400 001
+Date: 11th of July 2023
+General Administration Department, Government Resolution No: COM-1098/ Q. No. 212/98/39, dated 05.10.2001.
+Department of Medical Education, Government Resolution No: EST/ 2403/3558/ PR No. 07/ Establishment/ Sankani/ 06, dated 13.07.2006.
+3) General Administration Department, Government Resolution No. 2011/ PR No. 125/39, dated 23.09.2011 4) Medical Education Department, Government Resolution No. No. 165/15/ Aastha, dated 10.07.2015.
+5) Circular No.DMER- 12022/2/2022-EDU, dated 05.07.2022 6) Commissioner, Y. DMER- 12031/1/2022-EDU/ 433 dated 15.02.2023.
+7) Ma. Minutes of the meeting of the High Powered Committee chaired by the Chief Secretary dated 27.03.2023 and 24.05.2023.
+Preamble: In order to make the administration in the 14 Government Medical Colleges and Hospitals under the Directorate of Medical Education and Research more dynamic, people-oriented, transparent and people-friendly, the Government has decided to create an electronic medical record by using information technology in all the academic matters and all the activities in the Government Medical Colleges. Hewlett Packard India Sales Pvt. DXC Pvt. The Health Care and Educational Management System (HMIS) was made operational by entering into a Master Service Agreement (MSA) with this service provider. After the expiry of the contract period of the said project, the audit of the said system conducted by the Directorate found the errors as well as the service provider had not complied with the due diligence. high
+# Page 2
+GOVERNMENT DECISION NO.: VISHVI-2023/ PR. NO. 58/ PR. 2 dated 11.07.2023
+Considering the petition filed in the court, the services of the said project have been discontinued by the Directorate vide order dated 05.07.2022. under the National Digital Health Mission.
+All government medical colleges in the state will be affiliated to the Union Health and Family Welfare Department. For this, it is very important to develop a strong and efficient HMIS system. Accordingly, the Directorate has submitted a proposal to the Government vide letter dated 15.02.2023 to make available the state-of-the-art NextGen e-Hospital system developed by NIC to Government Medical Colleges and Hospitals and to grant administrative approval for the expenditure incurred for the same. This proposal is based on the Government Decision, General Administration Department dated 05.10.2001. This was submitted in the meeting of the High Powered Committee of the Department of Information Technology headed by Chief Secretary (Maharashtra State) dated 27.03.2023 and dated 24.05.2023. The proposal has been approved by the high-powered committee. The following decisions are taken:
+As per the approval accorded by the High Powered Committee in its meeting held on 24.05.2023 under the Chairmanship of Dr. A.K. Singh, Administrative approval is being accorded for implementation of NextGen e-Hospital system developed by NIC in all Government Medical Colleges and Hospitals under the control of Department of Medical Education and Drugs at a cost of Rs. 269,50,32, 240/-per annum.
+Costs for the project are as follows:
+-----------------------------------------------------------------------------------------------------------------------------------------
+| The cost of the project for five years |
+| A) CAPEX                               |
+| Sr. No.                                | Item                                             | Approx. Cost                              |
+| 1                                      | Software solution and Hosting NextGen e-Hospital | Free of Cost for 3 Years as stated by NIC |
+| 2                                      | Internal LAN Infrastructure                      | Rs. 50,07,80, 500/-                       |
+| Hardware and Infrastructure            | Rs. 26,32,40, 000/                               |
+| Total                                  | Rs. 76,40,20, 500/-                              |
+| B) OPEAX                               |
+| Human Resources                        | Rs. 31,20,00, 000/                               |
+| Internet Connectivity                  | Rs. 161,90,11, 740/                              |
+| Total                                  | Rs. 193,10,11, 740/                              |
+| Total Cost = (A) CAPEX + (B) OPEAX     | Rs. 269,50,32, 240/                              |
+-----------------------------------------------------------------------------------------------------------------------------------------
+Page 2 of 4
+# Page 3
+GOVERNMENT DECISION NO.: VISHVI-2023/ PR. NO. 58/ PR. 2 dated 11.07.2023
+NextGen e-Hospital, which will be made available through NIC, will be available for free for the first three years. No fee will be charged for this service.
+The Directorate shall submit a proposal for approval of the specifications of the said items by the Department of Information and Technology for the purchase of LAN connection infrastructure, computers and other hardware required for the said project. Once the specifications of the said items are approved by the Department of Information Technology, approval is being accorded for procurement of the said items either through tender process on GeM portal or through turn-key mode by adopting prescribed procedure.
+4. Highly skilled, skilled, semi-skilled and unskilled human resources required for continuous operation of the HMIS system will be spent at the institutional level. The manpower is being provided by authorized or approved suppliers of National Informatics Centre Services (NICSI)/ MahaIT/ Industry, identified as per Government Decision dated 14.03.2023 of Department of Energy and Labour or by conducting tender process.
+The cost of these items is not included as the procurement of stationery and related items for HMIS will be made available from the original sanctioned grant of the respective institution.
+Since the expenditure on the above mentioned items under the head OPEX is being incurred at the institution level, an institution-wise proposal for supplementary demand for the required funds for institution-wise expenditure for the said items should be submitted.
+The High Powered Committee headed by the Chief Secretary has instructed to set up a Project Management Unit to start the project. Accordingly, the process of setting up the Project Management Group will be carried out independently.
+The expenditure under the heading CAPEX in the said project shall be met from the funds available in the following headings of the Directorate of Medical Education and Research. Further, the cost of the activities covered under the head OPEX shall be met from the funds available under the head Contractual Services under the head (30) Accounts of the respective institutions.
+Demand No.S-01
+Civil Health Services- Scheme under State Scheme of Horticulture (00) (09)- Health Services in Medical Colleges and Allied Hospitals 30 Other Contractual Services (2210 D 962)
+Page 3 of 4
+# Page 4
+GOVERNMENT DECISION NO.: VISHVI-2023/ PR. NO. 58/ PR. 2 dated 11.07.2023
+Government decisions/ orders in respect of the said project will be issued separately from time to time as may be required.
+This Government Resolution is being issued as per the approval of the High Powered Committee chaired by the Chief Secretary dated 24.05.2023.
