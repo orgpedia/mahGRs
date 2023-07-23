@@ -1,0 +1,26 @@
+# Page 1
+Establishment of Project Implementation Committee.
+Provision of services of two additional technical officers in the office of the Chief Electoral Officer, State of Maharashtra.
+The Government of Maharashtra
+the General Administration Department,
+GOVERNMENT DECISION NO.: EST-2023/ PR No. 516/23/33,
+Madam Cama Road, Hutatma Rajguru Chowk,
+Ministry, Mumbai- 400 032.
+Date: July 21, 2023
+The Proposal:
+The Election Commission of India is using improved systems like ERO-Net, BLO Net for election related work. The process of voter registration is being computerised. The NVSP is also responsible for the preparation of electoral rolls, data analysis, enumeration, error checking and preparation of various reports in accordance with the electoral rolls of the state. The National Informatics Centre (NIC) has recently launched the National Informatics Centre Services Inc. (NICS) to update the electoral database application and website in the office of the Chief Electoral Officer, Maharashtra State. There are 3 Technical Officers (Two Project Managers Tier-II and One Programme Manger Tier-II) provided by NICSI.
+3. Various technical works/ software works on apps like ETPBS, EMS etc. are also to be done as per the directions of Election Commission of India in view of forthcoming General Elections to Lok Sabha-2024. The revision of electoral rolls will be done four times a year. In line with this, there has been a huge increase in technical work and at present it is becoming necessary to do these works by the 3 technical officers working in this office. Therefore, in order to complete the said additional technical works within the stipulated time, the services of additional 2 Technical Officers in addition to the 3 Technical Officers presently working are required to be made available.
+Accordingly, a matter was under consideration to constitute a Project Implementation Committee to decide on providing the services of additional 2 Technical Officers for completing the technical works related to the elections in the office of the Chief Electoral Officer, State of Maharashtra within the stipulated time.
+Government's decision:
+The Project Implementation Committee is being constituted to decide on the availability of services of additional 2 Technical Officers to complete the technical works related to the elections in the office of the Chief Electoral Officer, State of Maharashtra within the stipulated time:
+# Page 2
+GOVERNMENT DECISION NO.: EST-2023/ PR No. 516/23/33,
+-------------------------------------------------------------------------------------------------------
+| Additional Chief Secretary and Chief Electoral Officer, Maharashtra State             | Chairman    |
+| the Secretary/ Principal Secretary/ A.M.S., Planning Department or his representative | the members |
+| the Secretary/ Principal Secretary/ A.M.S., Finance Department or his representative  | the members |
+| Secretary/ Principal Secretary/ A.M.S., Industries Department or his representative   | the members |
+| Director, IT                                                                          | the members |
+| Deputy Secretary and Joint Chief Electoral Officer                                    | the members |
+-------------------------------------------------------------------------------------------------------
+(2) The said Committee shall take a decision to make available the services of two additional Technical Officers for the successful completion of the technical work in the office of the Chief Electoral Officer, State of Maharashtra within the prescribed time.

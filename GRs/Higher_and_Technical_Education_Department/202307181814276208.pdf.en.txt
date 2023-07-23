@@ -1,0 +1,20 @@
+# Page 1
+Implementation of e-Office system by the Regional Offices under the Department of Higher and Technical Education and adoption of postal e-Office system.
+The Government of Maharashtra
+Department of Higher and Technical Education
+Government Circular No. 2023/ No. 24/ N.S.A.
+Madam Cama Road, Hutatma Rajguru Chowk,
+Ministry, Mumbai- 400 032.
+Date: 18th of July 2023
+Reference:- General Administration Department Government Circular No. Function-2023/ S.No. 01/18/ (R.W.K.) D. 15th June 2023
+circular
+To streamline government functioning, secure documents and make decision-making faster and easier, it is necessary to conduct government business through e-office system in all the administrative departments of the ministry as well as in field offices. The General Administration Department has published the Maharashtra Office Rules Manual, 2023, taking into account the changes in the office work system in the changing times. These guidelines are required to be implemented by the Department of Higher and Technical Education, as well as the Subordinate Regional Offices, and instructions are being issued in this regard:
+The Maharashtra Office Procedure Manual, 2023 has been made available on the website of the General Administration Department as well as on the dashboard of the e-office. Henceforth, it should be ensured that the provisions of the Maharashtra Office Procedure Manual, 2023 are strictly followed while carrying out the day-to-day office work in the Higher and Technical Education Department as well as the subordinate field offices.
+(2) The daily receipts of the administrative departments of the Ministry from the field offices and citizens are being received at the Central Post Office of the Ministry of Posts. Department of Higher and Technical Education No. 11 is accepted. The process of scanning the mail received at the central post office and sending it to the concerned offices through the registration branch is being done. At present, e-mail is not being received in digital form from the Regional Office under the Department of Higher and Technical Education.
+It has to be scanned while delivering the mail through the office system. This leads to wastage of time.
+Accordingly, all the Regional Offices under the Department of Higher and Technical Education
+# Page 2
+Government Circular No: SRIKH- 2023/ PR No. 24/ N.S.A.
+Except for the confidential letter to be sent to the Ministry, all other post should be sent through the e-office system.
+(3) All the Regional Offices shall note that except confidential letters from the Regional Offices under the Department of Higher and Technical Education, all other mails shall be received only through e-office and every Office shall appoint a Nodal Officer for sending the mails to the Ministry through e-office. Also, a central e-postal centre should be set up in all offices for postal acknowledgement.
+(8) All the field offices under the Department of Higher and Technical Education should contact Mr. Laxmikant Garje (Director- IT, NIC Mumbai) in case of any difficulty in implementing the e-office system immediately. His phone number is 9987491442 and e-mail ID is la. garje@nic.in.

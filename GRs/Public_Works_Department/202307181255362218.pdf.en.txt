@@ -1,0 +1,18 @@
+# Page 1
+Implementation of e-Office system and adoption of postal e-Office system by Regional Offices under Public Works Department.
+Government of Maharashtra
+Department of Public Works
+Government Circular No. Complex 2023/ No.11/ Administration-3
+Madam Cama Road, Maratha Rajguru Chowk,
+Mantralaya, Mumbai-400032.
+Date: July 18, 2023.
+Reference:- General Administration Department, Government Circular No. 2023/ PR No. 01/18/ (R& K) dated 15th June, 2023 Circular
+To streamline government functioning, secure documents and make decision-making faster and easier, it is necessary to conduct government business through e-office system in all the administrative departments of the ministry as well as in field offices. The General Administration Department has published the Maharashtra Office Rules Manual, 2023, taking into account the changes in the office work system in the changing times. These guidelines are required to be implemented by the Public Works Department as well as the Subordinate Regional Offices and instructions are being issued in this regard:
+Maharashtra Office Procedure Manual, 2023 has been made available on the website of the General Administration Department as well as on the dashboard of the e-office. Henceforth, it should be ensured that the provisions of the Maharashtra Office Procedure Manual, 2023 are strictly followed while carrying out the day-to-day office work in the Public Works Department as well as the subordinate sector offices.
+2. Daily mails received by the administrative departments of the Ministry from the field offices and citizens are being received at the Central Post Office of the Ministry. Public Works Department Post No. 14 is accepted. The process of scanning the mail received at the central post office and sending it to the concerned offices through the registration branch is being done. At present, postal mail is not received digitally from the field office under the Public Works Department, so it is scanned while delivering the mail through the e-office system.
+# Page 2
+Government Circular No: SANKIN 2023/ PR No.11/ ADMINISTRATION-3
+It has to be done. This leads to wastage of time. Accordingly, all the offices of Chief Engineer and Superintending Engineer under the Public Works Department should send all the post except the confidential letter to be sent to the Ministry of Public Works Department through the e-office system.
+All the field offices should note that except confidential mail coming from the field office under the Public Works Department, all other mail will be accepted only through the e-office and a nodal officer should be appointed to send the mail sent to the Ministry through the e-office. Also, a central e-post office should be set up in the respective offices for acknowledgement of post.
+Shri Laxmikant Garje if there are any difficulties in implementing the e-office system immediately by all the field offices under the Public Works Department.
+(Director- IT, NIC Mumbai). His phone number is 9987491442 and e-mail ID is la. garje@nic.in.

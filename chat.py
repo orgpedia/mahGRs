@@ -66,7 +66,7 @@ class ChatBot:
                 emb_files.append(emb_path)
                 continue
 
-            lines = doc_path.read_text()
+            lines = doc_path.read_text().split('\n')
             lines = [ln for ln in lines if ln[:6] != "# Page"]
 
             success = self.gen_embeddings(" ".join(lines), emb_path)

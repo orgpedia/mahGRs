@@ -23537,5 +23537,31 @@
     "name": "mahurb-1949.pdf",
     "num_pages": 3,
     "large_image_idxs": []
+  },
+  "202307171417062525.pdf": {
+    "code": "202307171417062525",
+    "crawl_dir": "21-Jul-2023",
+    "date": "17-07-2023",
+    "dept": "Urban Development Department",
+    "download_time": "2023-07-21T23:48:20.422786",
+    "size_kb": "147",
+    "text": "Time extension to submit Committee Report formed for Committee of New Mumbai Building Construction issues.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307171417062525.pdf",
+    "name": "mahurb-1950.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202307201621089125.pdf": {
+    "code": "202307201621089125",
+    "crawl_dir": "21-Jul-2023",
+    "date": "20-07-2023",
+    "dept": "Urban Development Department",
+    "download_time": "2023-07-21T23:48:16.184420",
+    "size_kb": "179",
+    "text": "Procedure for appointment to the posts of deputation in the establishments of Mumbai, Pune, Nagpur, Nashik and Aurangabad Metropolitan Region Development Authority and Mumbai Metro Rail Corporation Ltd., Maha Mumbai Metro Operation Co. ltd. and Maharashtra Metro Rail Corporation under the jurisdiction of urban Development Department",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307201621089125.pdf",
+    "name": "mahurb-1951.pdf",
+    "num_pages": 4,
+    "large_image_idxs": []
   }
 }

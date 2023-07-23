@@ -19245,5 +19245,57 @@
     "name": "mahind-1590.pdf",
     "num_pages": 3,
     "large_image_idxs": []
+  },
+  "202307171746083110.pdf": {
+    "code": "202307171746083110",
+    "crawl_dir": "21-Jul-2023",
+    "date": "17-07-2023",
+    "dept": "Industries, Energy and Labour Department",
+    "download_time": "2023-07-21T23:15:18.422640",
+    "size_kb": "253",
+    "text": "Regarding revitalization of subsidy for the financial year 2023-24 under the Cashew Processing Industry Promotion Scheme.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307171746083110.pdf",
+    "name": "mahind-1591.pdf",
+    "num_pages": 10,
+    "large_image_idxs": []
+  },
+  "202307181143196710.pdf": {
+    "code": "202307181143196710",
+    "crawl_dir": "21-Jul-2023",
+    "date": "17-07-2023",
+    "dept": "Industries, Energy and Labour Department",
+    "download_time": "2023-07-21T23:15:14.161929",
+    "size_kb": "168",
+    "text": "Regarding disbursement of grants-in-aid(Non-Salary) to Maharashtra Small Scale Industries Development Corporation Ltd. for the financial year 2023-24.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307181143196710.pdf",
+    "name": "mahind-1592.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202307211716198410.pdf": {
+    "code": "202307211716198410",
+    "crawl_dir": "21-Jul-2023",
+    "date": "21-07-2023",
+    "dept": "Industries, Energy and Labour Department",
+    "download_time": "2023-07-21T23:15:03.349963",
+    "size_kb": "964",
+    "text": "Regarding temporary promotion to the post of Deputy Commissioner of Labor (Group-A).",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307211716198410.pdf",
+    "name": "mahind-1593.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202307211721259210.pdf": {
+    "code": "202307211721259210",
+    "crawl_dir": "21-Jul-2023",
+    "date": "21-07-2023",
+    "dept": "Industries, Energy and Labour Department",
+    "download_time": "2023-07-21T23:15:09.876388",
+    "size_kb": "996",
+    "text": "Regarding appointment on deputation to the post of Welfare Commissioner, Maharashtra Labor Welfare Board, Mumbai... Mr. Raviraj Ilve, Additional Labor Commissioner.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307211721259210.pdf",
+    "name": "mahind-1594.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
   }
 }

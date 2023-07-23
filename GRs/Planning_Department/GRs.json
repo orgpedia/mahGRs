@@ -15406,5 +15406,85 @@
     "name": "mahplan-1271.pdf",
     "num_pages": 2,
     "large_image_idxs": []
+  },
+  "202307191500133616.pdf": {
+    "code": "202307191500133616",
+    "crawl_dir": "21-Jul-2023",
+    "date": "19-07-2023",
+    "dept": "Planning Department",
+    "download_time": "2023-07-21T23:27:08.317281",
+    "size_kb": "179",
+    "text": "Regarding general transfers for the year 2023 of Joint Director, Group-A cadre officers in the Directorate of Finance and Statistics.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307191500133616.pdf",
+    "name": "mahplan-1272.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202307191505367916.pdf": {
+    "code": "202307191505367916",
+    "crawl_dir": "21-Jul-2023",
+    "date": "19-07-2023",
+    "dept": "Planning Department",
+    "download_time": "2023-07-21T23:27:12.474017",
+    "size_kb": "166",
+    "text": "Regarding transfers requested by the Joint Director, Group-A cadre officers in the Directorate of Finance and Statistics.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307191505367916.pdf",
+    "name": "mahplan-1273.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202307201336566616.pdf": {
+    "code": "202307201336566616",
+    "crawl_dir": "21-Jul-2023",
+    "date": "20-07-2023",
+    "dept": "Planning Department",
+    "download_time": "2023-07-21T23:26:47.805644",
+    "size_kb": "673",
+    "text": "Regarding giving administrative approval to the building construction of Chhatrapati Shahu Maharaj Institute of Research, Training and Human Development (SARATHI), Pune-Latur Divisional Office, Hostel, Study Hall, Library, Training Center Hall etc.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307201336566616.pdf",
+    "name": "mahplan-1274.pdf",
+    "num_pages": 5,
+    "large_image_idxs": [
+      4
+    ]
+  },
+  "202307201337136216.pdf": {
+    "code": "202307201337136216",
+    "crawl_dir": "21-Jul-2023",
+    "date": "20-07-2023",
+    "dept": "Planning Department",
+    "download_time": "2023-07-21T23:27:03.966988",
+    "size_kb": "1284",
+    "text": "To Start Sayajirao Gaikwad SARATHI Gunwant Vidhyarthi Pardesh Shikshan Shishyavrutti Yojana.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307201337136216.pdf",
+    "name": "mahplan-1275.pdf",
+    "num_pages": 17,
+    "large_image_idxs": []
+  },
+  "202307201510495816.pdf": {
+    "code": "202307201510495816",
+    "crawl_dir": "21-Jul-2023",
+    "date": "20-07-2023",
+    "dept": "Planning Department",
+    "download_time": "2023-07-21T23:26:53.003272",
+    "size_kb": "903",
+    "text": "Regarding amendment of the posts created to control the Member of Parliament Local Area Development Programme",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307201510495816.pdf",
+    "name": "mahplan-1276.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202307201815014016.pdf": {
+    "code": "202307201815014016",
+    "crawl_dir": "21-Jul-2023",
+    "date": "20-07-2023",
+    "dept": "Planning Department",
+    "download_time": "2023-07-21T23:26:58.419024",
+    "size_kb": "864",
+    "text": "To Grant Release of Rs.90 Cr. to Annasaheb Patil Arthik Magas Vikas Mahamandal.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307201815014016.pdf",
+    "name": "mahplan-1277.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
   }
 }

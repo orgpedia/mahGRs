@@ -20089,5 +20089,44 @@
     "name": "mahsoil-1658.pdf",
     "num_pages": 2,
     "large_image_idxs": []
+  },
+  "202307171601496826.pdf": {
+    "code": "202307171601496826",
+    "crawl_dir": "21-Jul-2023",
+    "date": "17-07-2023",
+    "dept": "Soil & Water Conservation Department",
+    "download_time": "2023-07-21T23:44:22.478857",
+    "size_kb": "305",
+    "text": "Requisition No. Z H-5 Heading 4702 A 019. Minor Irrigation Scheme Masure (Anganewadi) Htt. Malvan District Sindhudurg. (Land Acquisition Fund)",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307171601496826.pdf",
+    "name": "mahsoil-1659.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202307181850126826.pdf": {
+    "code": "202307181850126826",
+    "crawl_dir": "21-Jul-2023",
+    "date": "18-07-2023",
+    "dept": "Soil & Water Conservation Department",
+    "download_time": "2023-07-21T23:44:13.944885",
+    "size_kb": "236",
+    "text": "0 to 100 H.S. Disbursement of funds for survey work of projects: Dist. Amravati (Vidarbha Division)",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307181850126826.pdf",
+    "name": "mahsoil-1660.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202307191222443326.pdf": {
+    "code": "202307191222443326",
+    "crawl_dir": "21-Jul-2023",
+    "date": "19-07-2023",
+    "dept": "Soil & Water Conservation Department",
+    "download_time": "2023-07-21T23:44:09.688091",
+    "size_kb": "325",
+    "text": "Distribution of share capital contribution for Maharashtra Water Conservation Corporation (year 2023-24).",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307191222443326.pdf",
+    "name": "mahsoil-1661.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
   }
 }

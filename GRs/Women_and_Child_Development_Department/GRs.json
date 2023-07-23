@@ -12964,5 +12964,44 @@
     "name": "mahwom-1068.pdf",
     "num_pages": 3,
     "large_image_idxs": []
+  },
+  "202307181216088730.pdf": {
+    "code": "202307181216088730",
+    "crawl_dir": "21-Jul-2023",
+    "date": "17-07-2023",
+    "dept": "Women and Child Development Department",
+    "download_time": "2023-07-21T23:54:17.436610",
+    "size_kb": "432",
+    "text": "Regarding the payment of salaries to employees of The Childrens Aid Society, Mumbai and Maharashtra State Probation and After Care Association, Pune.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307181216088730.pdf",
+    "name": "mahwom-1069.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202307191205103230.pdf": {
+    "code": "202307191205103230",
+    "crawl_dir": "21-Jul-2023",
+    "date": "19-07-2023",
+    "dept": "Women and Child Development Department",
+    "download_time": "2023-07-21T23:54:07.308602",
+    "size_kb": "146",
+    "text": "Release of Grant-in-aid to Maharashtra State Social Welfare Board for the year 2023-24.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307191205103230.pdf",
+    "name": "mahwom-1070.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202307211602541430.pdf": {
+    "code": "202307211602541430",
+    "crawl_dir": "21-Jul-2023",
+    "date": "19-07-2023",
+    "dept": "Women and Child Development Department",
+    "download_time": "2023-07-21T23:54:12.458960",
+    "size_kb": "686",
+    "text": "Release of JJIS portal Cloud Services Payment for effective implementation of JJ act 2015.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307211602541430.pdf",
+    "name": "mahwom-1071.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
   }
 }
