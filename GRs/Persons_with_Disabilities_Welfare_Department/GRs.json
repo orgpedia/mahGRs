@@ -217,5 +217,44 @@
     "name": "mahdis-17.pdf",
     "num_pages": 2,
     "large_image_idxs": []
+  },
+  "202307271223194635.pdf": {
+    "code": "202307271223194635",
+    "crawl_dir": "29-Jul-2023",
+    "date": "26-07-2023",
+    "dept": "Persons with Disabilities Welfare Department",
+    "download_time": "2023-07-29T14:18:01.568466",
+    "size_kb": "308",
+    "text": "the appointment of Grievance Redressal Officer and Appellate Officer in accordance with the provisions of Section 23 of the Rights of Persons with Disabilities Act, 2016",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307271223194635.pdf",
+    "name": "mahdis-18.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202307271230102535.pdf": {
+    "code": "202307271230102535",
+    "crawl_dir": "29-Jul-2023",
+    "date": "26-07-2023",
+    "dept": "Persons with Disabilities Welfare Department",
+    "download_time": "2023-07-29T14:18:06.319642",
+    "size_kb": "333",
+    "text": "Regarding exemption from recruitment restrictions for the vacant posts of teachers and non-teaching staff in aided special schools for the Disabled, attached hostels, karmashalas (training centers) and childrens homes for mentally retarded children in the state.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307271230102535.pdf",
+    "name": "mahdis-19.pdf",
+    "num_pages": 4,
+    "large_image_idxs": []
+  },
+  "202307281840040935.pdf": {
+    "code": "202307281840040935",
+    "crawl_dir": "29-Jul-2023",
+    "date": "28-07-2023",
+    "dept": "Persons with Disabilities Welfare Department",
+    "download_time": "2023-07-29T14:17:56.975950",
+    "size_kb": "2841",
+    "text": "To organize Persons with disabilities welfare department at the doorstep of divyangjan campaign in all districts.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307281840040935.pdf",
+    "name": "mahdis-20.pdf",
+    "num_pages": 15,
+    "large_image_idxs": []
   }
 }

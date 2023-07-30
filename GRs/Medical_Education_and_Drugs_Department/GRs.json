@@ -10550,5 +10550,18 @@
     "name": "mahmed-876.pdf",
     "num_pages": 2,
     "large_image_idxs": []
+  },
+  "202307281136168613.pdf": {
+    "code": "202307281136168613",
+    "crawl_dir": "29-Jul-2023",
+    "date": "28-07-2023",
+    "dept": "Medical Education and Drugs Department",
+    "download_time": "2023-07-29T14:11:51.528364",
+    "size_kb": "840",
+    "text": "Regarding grant of administrative approval to take private building on lease for hostel for accommodation of children admitted to Government Medical College, Nandurbar.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307281136168613.pdf",
+    "name": "mahmed-878.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
   }
 }

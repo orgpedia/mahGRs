@@ -20128,5 +20128,31 @@
     "name": "mahsoil-1661.pdf",
     "num_pages": 2,
     "large_image_idxs": []
+  },
+  "202307271302266226.pdf": {
+    "code": "202307271302266226",
+    "crawl_dir": "29-Jul-2023",
+    "date": "27-07-2023",
+    "dept": "Soil & Water Conservation Department",
+    "download_time": "2023-07-29T14:37:14.698040",
+    "size_kb": "175",
+    "text": "Claim filed in Civil Court, Beed for recovery under Repair, Rehabilitation and Rehabilitation (RRR) Program no. Disbursement of funds in case 834/2018. (Marathwada Division)",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307271302266226.pdf",
+    "name": "mahsoil-1662.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202307281622421926.pdf": {
+    "code": "202307281622421926",
+    "crawl_dir": "29-Jul-2023",
+    "date": "28-07-2023",
+    "dept": "Soil & Water Conservation Department",
+    "download_time": "2023-07-29T14:37:10.523648",
+    "size_kb": "170",
+    "text": "0 to 100 ha. Distribution of funds for maintenance and repair works of projects: Dist. Solapur (Rest of Maharashtra Division)",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307281622421926.pdf",
+    "name": "mahsoil-1663.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
   }
 }

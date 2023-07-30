@@ -6459,5 +6459,57 @@
     "name": "mahfin-526.pdf",
     "num_pages": 3,
     "large_image_idxs": []
+  },
+  "202307241100140805.pdf": {
+    "code": "202307241100140805",
+    "crawl_dir": "29-Jul-2023",
+    "date": "21-07-2023",
+    "dept": "Finance Department",
+    "download_time": "2023-07-29T13:57:32.182155",
+    "size_kb": "902",
+    "text": "List of Maharashtra State Government Sponsored Lottery schemes Period dt. 24/07/2023. to dt.30/07/2023.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307241100140805.pdf",
+    "name": "mahfin-527.pdf",
+    "num_pages": 4,
+    "large_image_idxs": []
+  },
+  "202307241818333105.pdf": {
+    "code": "202307241818333105",
+    "crawl_dir": "29-Jul-2023",
+    "date": "24-07-2023",
+    "dept": "Finance Department",
+    "download_time": "2023-07-29T13:57:27.239074",
+    "size_kb": "318",
+    "text": "Renewal of Medical Reimbursement of Group Insurance Scheme for State Working/ Retired Employees and All India Services Officers.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307241818333105.pdf",
+    "name": "mahfin-528.pdf",
+    "num_pages": 9,
+    "large_image_idxs": []
+  },
+  "202307271529420105.pdf": {
+    "code": "202307271529420105",
+    "crawl_dir": "29-Jul-2023",
+    "date": "27-07-2023",
+    "dept": "Finance Department",
+    "download_time": "2023-07-29T13:57:21.080216",
+    "size_kb": "166",
+    "text": "Regarding the extension to the committee appointed to conduct a comparative study of the National Pension System and old Pension System.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307271529420105.pdf",
+    "name": "mahfin-529.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202307281705553705.pdf": {
+    "code": "202307281705553705",
+    "crawl_dir": "29-Jul-2023",
+    "date": "28-07-2023",
+    "dept": "Finance Department",
+    "download_time": "2023-07-29T13:57:16.524836",
+    "size_kb": "163",
+    "text": "Supplementary Statement of Expenditure for the year 2023-2024 (July, 2023 Session)",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307281705553705.pdf",
+    "name": "mahfin-530.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
   }
 }
