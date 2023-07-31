@@ -77,6 +77,14 @@ python chat.py GRs/Higher_and_Technical_Education_Department library
 
 * You get clickable links in references if you run in iTerm2 *.
 
+## Thanks
+
+Orgpedia would like to thank [AI4Bharat](https://ai4bharat.iitm.ac.in/) for releasing [IndicTrans2](https://github.com/AI4Bharat/IndicTrans2).
+
+Thanks to its accuracy and performance Orgpedia was able to translate over 50,000 documents relatively quickly and at a fraction of the price of the online servicess.
+
+
+
 
 
 
