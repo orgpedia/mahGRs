@@ -15557,5 +15557,70 @@
     "name": "mahplan-1282.pdf",
     "num_pages": 7,
     "large_image_idxs": []
+  },
+  "202308021912593016.pdf": {
+    "code": "202308021912593016",
+    "crawl_dir": "05-Aug-2023",
+    "date": "02-08-2023",
+    "dept": "Planning Department",
+    "download_time": "2023-08-05T01:41:51.413151",
+    "size_kb": "563",
+    "text": "Regarding transfers of officers in the cadre of Research Officer / Statistical Officer, Group-B (Gazetted) in the Directorate of Economics and Statistics..",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308021912593016.pdf",
+    "name": "mahplan-1283.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202308021919301316.pdf": {
+    "code": "202308021919301316",
+    "crawl_dir": "05-Aug-2023",
+    "date": "02-08-2023",
+    "dept": "Planning Department",
+    "download_time": "2023-08-05T01:41:56.676446",
+    "size_kb": "712",
+    "text": "Regarding transfer request of officers in Deputy Director, Group-A cadre in Directorate of economics and Statistics..",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308021919301316.pdf",
+    "name": "mahplan-1284.pdf",
+    "num_pages": 4,
+    "large_image_idxs": []
+  },
+  "202308031131010316.pdf": {
+    "code": "202308031131010316",
+    "crawl_dir": "05-Aug-2023",
+    "date": "03-08-2023",
+    "dept": "Planning Department",
+    "download_time": "2023-08-05T01:41:40.761586",
+    "size_kb": "1349",
+    "text": "Formation of committiees at various levels for preparation of district development plan and issuance of guiedelines.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308031131010316.pdf",
+    "name": "mahplan-1285.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202308031704425316.pdf": {
+    "code": "202308031704425316",
+    "crawl_dir": "05-Aug-2023",
+    "date": "03-08-2023",
+    "dept": "Planning Department",
+    "download_time": "2023-08-05T01:41:46.046005",
+    "size_kb": "832",
+    "text": "Revised Agenda of Planning Department (Self) Workshops.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308031704425316.pdf",
+    "name": "mahplan-1286.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202308041630247616.pdf": {
+    "code": "202308041630247616",
+    "crawl_dir": "05-Aug-2023",
+    "date": "04-08-2023",
+    "dept": "Planning Department",
+    "download_time": "2023-08-05T01:41:34.783152",
+    "size_kb": "308",
+    "text": "Regarding revised posting of Deputy Director, Group-A cadre officers in Directorate of Finance and Statistics.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308041630247616.pdf",
+    "name": "mahplan-1287.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
   }
 }

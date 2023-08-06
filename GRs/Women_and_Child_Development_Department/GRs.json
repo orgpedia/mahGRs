@@ -13055,5 +13055,31 @@
     "name": "mahwom-1075.pdf",
     "num_pages": 3,
     "large_image_idxs": []
+  },
+  "202307211756078530.pdf": {
+    "code": "202307211756078530",
+    "crawl_dir": "05-Aug-2023",
+    "date": "21-07-2023",
+    "dept": "Women and Child Development Department",
+    "download_time": "2023-08-05T02:03:03.490779",
+    "size_kb": "224",
+    "text": "Regarding the task force set up to review and suggest measures to reduce malnutrition in tribal areas of the state",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307211756078530.pdf",
+    "name": "mahwom-1076.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202308011427263930.pdf": {
+    "code": "202308011427263930",
+    "crawl_dir": "05-Aug-2023",
+    "date": "31-07-2023",
+    "dept": "Women and Child Development Department",
+    "download_time": "2023-08-05T02:02:40.626096",
+    "size_kb": "305",
+    "text": "Release of funds for Committed Expenses of Women and Child Development Department for financial year 2023-24",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308011427263930.pdf",
+    "name": "mahwom-1077.pdf",
+    "num_pages": 6,
+    "large_image_idxs": []
   }
 }

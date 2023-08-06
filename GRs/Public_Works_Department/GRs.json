@@ -32992,5 +32992,57 @@
     "name": "mahpwd-2734.pdf",
     "num_pages": 2,
     "large_image_idxs": []
+  },
+  "202307311538265218.pdf": {
+    "code": "202307311538265218",
+    "crawl_dir": "05-Aug-2023",
+    "date": "31-07-2023",
+    "dept": "Public Works Department",
+    "download_time": "2023-08-05T01:45:25.976209",
+    "size_kb": "169",
+    "text": "Promotion and posting of Junior Engineer (Electrical) to the post of Deputy Engineer (Electrical) (Graduate) Shri. Dinesh Mane",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307311538265218.pdf",
+    "name": "mahpwd-2735.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202308031130253518.pdf": {
+    "code": "202308031130253518",
+    "crawl_dir": "05-Aug-2023",
+    "date": "02-08-2023",
+    "dept": "Public Works Department",
+    "download_time": "2023-08-05T01:45:21.813394",
+    "size_kb": "832",
+    "text": "Regarding imparting training to officers / employees of Public Works Department on Karmayogi Bharat portal.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308031130253518.pdf",
+    "name": "mahpwd-2736.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202308041209099718.pdf": {
+    "code": "202308041209099718",
+    "crawl_dir": "05-Aug-2023",
+    "date": "03-08-2023",
+    "dept": "Public Works Department",
+    "download_time": "2023-08-05T01:45:11.056703",
+    "size_kb": "992",
+    "text": "Upgradation of SH 10 to Tandulwadi Gujarkheda vikharni katarni road (othre district road) to manjor district road in Tal-yewla Dist-Nashik (corrigendum).",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308041209099718.pdf",
+    "name": "mahpwd-2737.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202308041210138418.pdf": {
+    "code": "202308041210138418",
+    "crawl_dir": "05-Aug-2023",
+    "date": "03-08-2023",
+    "dept": "Public Works Department",
+    "download_time": "2023-08-05T01:45:16.478653",
+    "size_kb": "806",
+    "text": "Upgradation of other district road to major district road in Taluka Maval at dist-pune",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308041210138418.pdf",
+    "name": "mahpwd-2738.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
   }
 }

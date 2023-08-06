@@ -10563,5 +10563,57 @@
     "name": "mahmed-878.pdf",
     "num_pages": 3,
     "large_image_idxs": []
+  },
+  "202308021740045913.pdf": {
+    "code": "202308021740045913",
+    "crawl_dir": "05-Aug-2023",
+    "date": "02-08-2023",
+    "dept": "Medical Education and Drugs Department",
+    "download_time": "2023-08-05T01:35:42.446620",
+    "size_kb": "995",
+    "text": "Punyashlok Ahilya Devi Holkar Government Medical College Baramati regarding provision of security guard services through Pune District Security Guard Board Pune and providing administrative approval for the annual expenditure incurred for the same.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308021740045913.pdf",
+    "name": "mahmed-880.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202308031140329613.pdf": {
+    "code": "202308031140329613",
+    "crawl_dir": "05-Aug-2023",
+    "date": "02-08-2023",
+    "dept": "Medical Education and Drugs Department",
+    "download_time": "2023-08-05T01:35:36.900441",
+    "size_kb": "249",
+    "text": "Administrative Approval For Construction of Security Cabin at Gate No 1 2 construction of toilet beside Library Other Work at Government Medical College Hospital, Baramati",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308031140329613.pdf",
+    "name": "mahmed-881.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202308031140487813.pdf": {
+    "code": "202308031140487813",
+    "crawl_dir": "05-Aug-2023",
+    "date": "02-08-2023",
+    "dept": "Medical Education and Drugs Department",
+    "download_time": "2023-08-05T01:35:32.682709",
+    "size_kb": "252",
+    "text": "Administrative Approval For Purchase of Furniture From State Plan Grant for the Year 2023-24 at Government Medical College Hospital, Baramati",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308031140487813.pdf",
+    "name": "mahmed-882.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202308031629138613.pdf": {
+    "code": "202308031629138613",
+    "crawl_dir": "05-Aug-2023",
+    "date": "03-08-2023",
+    "dept": "Medical Education and Drugs Department",
+    "download_time": "2023-08-05T01:35:28.141593",
+    "size_kb": "900",
+    "text": "Regarding approval to make four wheeler available on lease for the office work of the Principal, Government Medical College, Parbhani.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308031629138613.pdf",
+    "name": "mahmed-883.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
   }
 }

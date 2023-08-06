@@ -3709,5 +3709,18 @@
     "name": "mahhouse-304.pdf",
     "num_pages": 6,
     "large_image_idxs": []
+  },
+  "202308021928282409.pdf": {
+    "code": "202308021928282409",
+    "crawl_dir": "05-Aug-2023",
+    "date": "02-08-2023",
+    "dept": "Housing Department",
+    "download_time": "2023-08-05T01:29:14.726618",
+    "size_kb": "1303",
+    "text": "Regarding reduction in transfer fee levied on transfer of rehabilitation tenements/Non residential shops to close relatives under Slum Rehabilitation Scheme.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308021928282409.pdf",
+    "name": "mahhouse-305.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
   }
 }

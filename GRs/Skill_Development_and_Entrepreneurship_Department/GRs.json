@@ -9707,5 +9707,31 @@
     "name": "mahskill-800.pdf",
     "num_pages": 2,
     "large_image_idxs": []
+  },
+  "202308011609137603.pdf": {
+    "code": "202308011609137603",
+    "crawl_dir": "05-Aug-2023",
+    "date": "01-08-2023",
+    "dept": "Skill Development and Entrepreneurship Department",
+    "download_time": "2023-08-05T01:52:49.066902",
+    "size_kb": "844",
+    "text": "Request for transfer of officers in the cadre of Deputy Commissioner Group-A, Assistant Commissioner, Group-A and Skill Development Guidance Officer Group-B in Skill Development, Employment and Entrepreneurship System-2023",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308011609137603.pdf",
+    "name": "mahskill-801.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202308011616406403.pdf": {
+    "code": "202308011616406403",
+    "crawl_dir": "05-Aug-2023",
+    "date": "01-08-2023",
+    "dept": "Skill Development and Entrepreneurship Department",
+    "download_time": "2023-08-05T01:52:54.446384",
+    "size_kb": "843",
+    "text": "Regular Transfers of Officers in the Skill Development, Employment and Entrepreneurship Mechanism, Group-A Cadre-2023.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308011616406403.pdf",
+    "name": "mahskill-802.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
   }
 }

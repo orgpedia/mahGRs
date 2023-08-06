@@ -23784,5 +23784,31 @@
     "name": "mahurb-1968.pdf",
     "num_pages": 7,
     "large_image_idxs": []
+  },
+  "202308021233002025.pdf": {
+    "code": "202308021233002025",
+    "crawl_dir": "05-Aug-2023",
+    "date": "02-08-2023",
+    "dept": "Urban Development Department",
+    "download_time": "2023-08-05T01:59:01.099308",
+    "size_kb": "474",
+    "text": "Regarding providing land to Bharat Petroleum Corporation Ltd. through Nagpur Improvement Trust. for Developing petrol pump.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308021233002025.pdf",
+    "name": "mahurb-1969.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202308031200597625.pdf": {
+    "code": "202308031200597625",
+    "crawl_dir": "05-Aug-2023",
+    "date": "03-08-2023",
+    "dept": "Urban Development Department",
+    "download_time": "2023-08-05T01:58:56.251521",
+    "size_kb": "663",
+    "text": "Regarding formation of Project Implementation Committee to implement e-projects under Urban Development Department",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308031200597625.pdf",
+    "name": "mahurb-1970.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
   }
 }

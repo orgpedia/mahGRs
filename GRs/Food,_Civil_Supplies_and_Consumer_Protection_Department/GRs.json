@@ -10502,5 +10502,18 @@
     "name": "mahfood-859.pdf",
     "num_pages": 3,
     "large_image_idxs": []
+  },
+  "202308031121271806.pdf": {
+    "code": "202308031121271806",
+    "crawl_dir": "05-Aug-2023",
+    "date": "02-08-2023",
+    "dept": "Food, Civil Supplies and Consumer Protection Department",
+    "download_time": "2023-08-05T01:20:44.965285",
+    "size_kb": "839",
+    "text": "To create New CRC for SNA Implementation under National Food security Scheme.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308031121271806.pdf",
+    "name": "mahfood-861.pdf",
+    "num_pages": 4,
+    "large_image_idxs": []
   }
 }

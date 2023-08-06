@@ -1,0 +1,76 @@
+# Page 1
+Approval of new head of accounts for implementation of SNA of National Food Security Scheme.
+The Government of Maharashtra
+Department of Food, Civil Supplies and Consumer Protection
+Government Resolution No. WIS/ WORK-4 (Finance)/ 4408/ SNA/ 2022-23
+Madam Cama Marg, Hutatma Rajguru Chowk,
+Ministry Extension, Mumbai- 400032
+The date is August 2, 2023.
+Preamble As per the letter dated 31st May, 2022 of the Central Government, it was ordered to declare SNA and open SNA account for the National Food Security Scheme. Accordingly, vide circular dated 01.07.2022, the Department has appointed Joint Secretary/ Deputy Secretary (NAPU-22), A.N.P. and G.N.D., for National Food Security Scheme. Nodal Officer and Financial Advisor to the Department and Deputy Secretary, A.N.P. The department has been declared as a single nodal agency and has been authorized to open a single nodal account. Financial Advisor and Deputy Secretary, A.N.P. A state-level single nodal account has been opened in ICICI Bank in the name of the department.
+Since the National Food Security Scheme is subsumed in the SNA, it has been decided to open three head accounts under head 4408 for expenditure involving 50% central share, 50% state share and 50% additional expenditure over and above the state share, one head under head 1601 for depositing the amount received from the central government and two head accounts in head 0408 for depositing the interest received from the SNA account. Monsoon session of Parliament
+Supplementary demands presented under the heading of expenditure accounts in the session were presented by the Finance Department. The circular dated July 28, 2023 has been approved.
+Accordingly, the matter of opening a new head of account of expenditure and deposits was under the consideration of the government, as such a new head of account is being opened.
+Government's decision
+The following new heads of accounts are being opened for expenditure under the National Food Security Scheme.
+In Marathi:
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| baba       | the central part                   | State Share (Equivalent)           | Additional expenditure to the State Government over and above the State share of freebies |
+| Demand No. | The M-4                            | The M-4                            | The M-4                                                                                   |
+| principal  | 4408- Food storage and warehousing | 4408- Food storage and warehousing | 4408- Food storage and warehousing                                                        |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Page 2
+GOVERNMENT DECISION NO.: VISUS/ WORK-4 (MEANING)/ 4408/ SNA/ 2022-23
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Account Head                    | capital                                                                                                                             |  expenditure on storage                                                                  | capital                             |  expenditure on storage                       | Capital expenditure on storage                                                                                     |
+| the Deputy Principal Accountant | 1, food.                                                                                                                            | 1, food.                                                                                 | 1, food.                            |
+| subheading                      | Section 101, Supply and Supply                                                                                                      | Section 101, Supply and Supply                                                           | Section 101, Supply and Supply      |
+| group title                     | (2) Procurement, Distribution and Price Control.                                                                                    | (2) Price control and distribution.                                                      | (2) Price control and distribution. |
+| subheading                      | (02) (14) Expenditure incurred under National Food Security Scheme (50% Central share) (Mandatory) (44080424) 50, other expenditure | (02) (15) Contingent expenditure under National Food Security Scheme- Mumbai City (State |  Share 50%)                         |  (Mandatory) (44080433) 50, other expenditure | (2) (16) City of Mumbai (50% additional expenditure over State share) (Mandatory) (44080442) 50, Other expenditure |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+In English:
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Description                     | Central Share                                | State Share (Equivalent)                                                               |                          | State Govt. Additional expenditure more than State Share (Equivalent) |
+| Demand No                       | M-4                                          | M-4                                                                                    | M-4                      |
+| Main Account Header             | 4408-Capital Outlay on                       |  Food Storage &                                                                        |  Warehousing             | 4408-Capital Outlay on Food Storage & Warehousing                     | 4408-Capital Outlay on Food Storage & Warehousing |
+| the Deputy Principal Accountant | 01,Food                                      | 01,Food                                                                                | 01,Food                  |
+| subheading                      | 101-Procurement & Supply                     | 101-Procurement & Supply                                                               | 101-Procurement & Supply |
+| group title                     | (02)Procurement Distribution & Price Control | (02)Procurement Distribution & Price                                                   |  Control                 | (02)Procurement Distribution & Price Control                          |
+| subheading                      | (02)(14) Incidental                          |  Charges for purchase of food grains under National Food Security Scheme- Mumbai City  |  Central Share 50%)      |  (Committed)(44080424) 50, Other Charges                              | (02) (15) Incidental                              |  Charges for purchase of food grains under National Food Security Scheme- Mumbai City  |  (State Share 50 %)  |  (Committed)(44080433) 50, Other Charges | (02) (16) Incidental Charges for purchase of food grains under National Food Security Scheme- Mumbai City (Additional Expenditure than State Share 50%) (Committed))(44080442) 50, Other Charges |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Page 2 of 4
+# Page 3
+GOVERNMENT DECISION NO.: VISUS/ WORK-4 (MEANING)/ 4408/ SNA/ 2022-23
+Funds for National Food Security Scheme from the Central Government in the light of revenue collection
+The following is the title of the proposed budget under the head 1601.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Marathi                                                                   | English                            |
+| 1601.                                                                     | Assistance from Central Government |  Grants                                                                  | 1601                       | Grants-in-aid from Central Government |
+| 06                                                                        | Centrally Sponsored Scheme         | 06                                                                       | Centrally Sponsored Scheme |
+| 101                                                                       | Central Assistance/ Share          | 101                                                                      | Central Assistance/Share   |
+| 24                                                                        | the Civil Supplies                 | 24                                                                       | Food and Civil Supplies    |
+| (24) (04) Funds received from Central Government under NFSA. (1601650101) |                                    | (24) (04) Grant Received From Central Government under NFSA (1601650101) |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+0408 for interest on unpaid balance in single nodal account and other deposits.
+The proposed article title under the JAMA article title is as follows.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Marathi  | English                                                         |
+| 0408     | Food storage and storage                                        | 0408     | Food storage & warehousing                                        |
+| 801      | Interest on unpaid balances or other deposits from the grantee  | 801      | interest or other earnings from grantee on unspent balances       |
+| 01       | interest                                                        | 01       | interest                                                          |
+| (01)(01) | Interest on unpaid balance in single nodal account (0408013101) | (01)(01) | interest on unspent balances in Single Nodal Account (0408013101) |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+Also, for other deposits in single nodal account, under the head 0408
+The proposed text is as follows:
+-------------------------------------------------------------------------------------------------------------------------------------------------
+| Marathi | English                                                        |
+| 0408    | Food storage and storage                                       | 0408 | Food storage & warehousing                                  |
+| 801     | Interest on unpaid balances or other deposits from the grantee | 801  | interest or other earnings from grantee on unspent balances |
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Page 3 of 4
+# Page 4
+GOVERNMENT DECISION NO.: VISUS/ WORK-4 (MEANING)/ 4408/ SNA/ 2022-23
+---------------------------------------------------------------------------------------------------------------------------------------------------
+| (02)     | Other deposits                         | (02)                 | Other earnings |
+| (02)(01) | Other Deposits in Single Nodal Account |  Amount (0408014201) | (02) (01)      | Other earnings in Single Nodal Account (0408014201) |
+---------------------------------------------------------------------------------------------------------------------------------------------------
+The decision was taken by the Finance Ministry. Reference No.3357/ D dated 23rd May, 2023. before June 22, 2023. Office of the Accountant General. Is being issued as per the approval of the reference.
