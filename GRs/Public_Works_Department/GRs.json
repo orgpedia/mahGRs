@@ -33044,5 +33044,70 @@
     "name": "mahpwd-2738.pdf",
     "num_pages": 3,
     "large_image_idxs": []
+  },
+  "202308071202031418.pdf": {
+    "code": "202308071202031418",
+    "crawl_dir": "13-Aug-2023",
+    "date": "07-08-2023",
+    "dept": "Public Works Department",
+    "download_time": "2023-08-13T00:14:16.781553",
+    "size_kb": "317",
+    "text": "Guidelines regarding publication of e-tender of the Public works Department.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308071202031418.pdf",
+    "name": "mahpwd-2739.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202308101604484018.pdf": {
+    "code": "202308101604484018",
+    "crawl_dir": "13-Aug-2023",
+    "date": "10-08-2023",
+    "dept": "Public Works Department",
+    "download_time": "2023-08-13T00:14:03.130931",
+    "size_kb": "213",
+    "text": "Executive Engineer (Civil) Posting on Promotion.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308101604484018.pdf",
+    "name": "mahpwd-2740.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202308101607385418.pdf": {
+    "code": "202308101607385418",
+    "crawl_dir": "13-Aug-2023",
+    "date": "10-08-2023",
+    "dept": "Public Works Department",
+    "download_time": "2023-08-13T00:14:07.908090",
+    "size_kb": "372",
+    "text": "Transfer and Posting Executive Engineer (Civil)",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308101607385418.pdf",
+    "name": "mahpwd-2741.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202308101609445518.pdf": {
+    "code": "202308101609445518",
+    "crawl_dir": "13-Aug-2023",
+    "date": "10-08-2023",
+    "dept": "Public Works Department",
+    "download_time": "2023-08-13T00:14:12.571729",
+    "size_kb": "339",
+    "text": "Transfer and Posting Superintending Engineer (Civil)",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308101609445518.pdf",
+    "name": "mahpwd-2742.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202308111437341818.pdf": {
+    "code": "202308111437341818",
+    "crawl_dir": "13-Aug-2023",
+    "date": "11-08-2023",
+    "dept": "Public Works Department",
+    "download_time": "2023-08-13T00:13:58.590789",
+    "size_kb": "251",
+    "text": "Transfer and Posting Superintendent Engineer (Civil)",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308111437341818.pdf",
+    "name": "mahpwd-2743.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
   }
 }

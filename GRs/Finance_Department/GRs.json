@@ -6568,5 +6568,57 @@
     "name": "mahfin-534.pdf",
     "num_pages": 4,
     "large_image_idxs": []
+  },
+  "202308071140261005.pdf": {
+    "code": "202308071140261005",
+    "crawl_dir": "12-Aug-2023",
+    "date": "04-08-2023",
+    "dept": "Finance Department",
+    "download_time": "2023-08-12T23:47:34.838949",
+    "size_kb": "798",
+    "text": "List of Maharashtra State Government Sponsored Lottery schemes Period dt. 07/08/2023. to dt.13/08/2023.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308071140261005.pdf",
+    "name": "mahfin-535.pdf",
+    "num_pages": 4,
+    "large_image_idxs": []
+  },
+  "202308071444047805.pdf": {
+    "code": "202308071444047805",
+    "crawl_dir": "12-Aug-2023",
+    "date": "07-08-2023",
+    "dept": "Finance Department",
+    "download_time": "2023-08-12T23:47:15.309271",
+    "size_kb": "791",
+    "text": "Increase in overtime allowance to government vehicle drivers.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308071444047805.pdf",
+    "name": "mahfin-536.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202308071646519105.pdf": {
+    "code": "202308071646519105",
+    "crawl_dir": "12-Aug-2023",
+    "date": "07-08-2023",
+    "dept": "Finance Department",
+    "download_time": "2023-08-12T23:47:19.474449",
+    "size_kb": "136",
+    "text": "According to the Rights of Persons with Disabilities Act, 2016, regarding ensuring posts in the Government Service for persons with disabilities for posts in Group-A, B, C and D cadres in the Directorate, Directorate of Accounts and Treasury and Directorate of Local Fund Audit and subordinate offices.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308071646519105.pdf",
+    "name": "mahfin-537.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202308091443085805.pdf": {
+    "code": "202308091443085805",
+    "crawl_dir": "12-Aug-2023",
+    "date": "09-08-2023",
+    "dept": "Finance Department",
+    "download_time": "2023-08-12T23:47:10.083247",
+    "size_kb": "295",
+    "text": "Officers in the cadre of Joint Director of Maharashtra Finance and Accounts Service. Final seniority list showing status as on 1st January 2022.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308091443085805.pdf",
+    "name": "mahfin-538.pdf",
+    "num_pages": 4,
+    "large_image_idxs": []
   }
 }

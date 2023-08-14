@@ -19388,5 +19388,18 @@
     "name": "mahind-1601.pdf",
     "num_pages": 3,
     "large_image_idxs": []
+  },
+  "202308071453439810.pdf": {
+    "code": "202308071453439810",
+    "crawl_dir": "12-Aug-2023",
+    "date": "07-08-2023",
+    "dept": "Industries, Energy and Labour Department",
+    "download_time": "2023-08-12T23:58:52.733242",
+    "size_kb": "175",
+    "text": "Regarding implementation of Investigation to Treatment Health Scheme for active (living) construction workers registered under Maharashtra Building and Other Construction Workers Welfare Board, Mumbai.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308071453439810.pdf",
+    "name": "mahind-1602.pdf",
+    "num_pages": 7,
+    "large_image_idxs": []
   }
 }

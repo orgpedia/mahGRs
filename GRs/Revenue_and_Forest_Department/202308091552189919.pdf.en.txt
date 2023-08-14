@@ -1,0 +1,93 @@
+# Page 1
+Forest Land-Sindhudurg
+Diversion of 1.3767 ha. Forest land under Forest (Conservation) Act, 1980 in favour of M/s. Telesonic Network Limited, Nagpur for laying of underground OFC duct and cable within RoW of existing SH-180 road, in Sindhudurg District in the State of Maharashtra.
+Government of Maharashtra
+Revenue and Forest Department
+Government Order No.: FLD-14A23/CR.230/F-10
+Mantralaya, Mumbai-400 032
+Date: 09.08.2023
+Reference:
+Additional Principal Chief Conservator of Forests & Nodal Officer, MS, Nagpur
+Letter No. Desk-17/FCA-S1/PID-408438/Kolhapur/1164, dt. 17.07.2023.
+Preamble:
+----------------------------------------------------------------------------------------------
+| Additional Principal Chief Conservator of Forests & Nodal Officer, MS, Nagpur has          |
+| submitted a proposal for diversion of 1.3767 ha. Forest land for laying of underground OFC |
+| duct and cable within RoW of existing SH-180 road, in Sindhudurg District in the State of  |
+| Maharashtra.                                                                               |
+|                                                                                            |
+----------------------------------------------------------------------------------------------
+Order:
+In exercise of powers under general approval given by MoEF&CC, Govt. of India
+vide Handbook of FCA Guidelines-2019, Chapter 4 (para-4.2), Government of Maharashtra
+is pleased to grant 'In-Principle' approval to the diversion of 1.3767 ha. Forest Land under
+section-2 of the Forest (Conservation) Act, 1980 for laying of underground OFC duct and
+cable within RoW of existing SH-180 road, in Sindhudurg District in the State of
+Maharashtra.
+The details of Forest Land proposed for diversion are as under:
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Item of work / Purpose                                                                            | Name of the Village | Compt No. | Gut. No.                                                          | Sy. No.     | Length x Width (in Mtr) | Area (in Ha) | Legal Status of Land |
+| Diversion of forest land for laying underground OFC duct & Cable within RoW of SH-180 = 27.534 km | Satoli              | 158A      | 276                                                               | 14          | 433 X 0.5               | 0.0216       | RF                   |
+| Devasu                                                                                            | 163A                | 400       | 32                                                                | 1640 X 0.5  | 0.0820                  |
+| 163A                                                                                              | 368, 370            | 95        | 3969 X 0.5                                                        | 0.1985      |
+| Parpoli                                                                                           | 163C                |           | 118                                                               | 1200 X 0.5  | 0.06                    |
+| 164                                                                                               |                     | 119       | 8500 X 0.5                                                        | 0.425       |
+| Amboli                                                                                            | 178, 179, 175B, 171 |           | 67, 56, 71, 381, 378, 374, 142, 163, 165, 185, 195, 201, 213, 258 | 11792 X 0.5 | 0.5896                  |
+| Total Forest Area (in ha.)                                                                        |                     | 1.3767    |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2. This 'In-principle' approval is issued subject to the following conditions:
+1) The legal status of the land shall remain unchanged.
+# Page 2
+Government Order No.: FLD-14A23/CR.230/F-10
+2) Deputy Conservator of Forests has certified that proposed forest area comes in
+Amboli-Dodamarg Conservation Reserve Area, therefore user agency shall ensure
+compliance of mitigation measures if required and suggested by the PCCF (Wildlife).
+3) The concerned Deputy Conservator of Forests shall ensure legal status of proposed
+Forest land at- Devasu, Gut No. 368 & 370, before granting working permission.
+4) User Agency shall defray the cost of plantation (including ten years maintenance) of
+100 trees shall be levied from the User Agency towards Compensatory Afforestation.
+As far as possible, a mixture of local indigenous species along with 10% RET species
+of Sindhudurg District shall be planted and monoculture of any species may be avoided. Details of land proposed for Plantation (Record of Rights KML File),
+shall be submitted before Stage-II/Final approval.
+5) The Optical Fiber Cable Line will be laid within maximum size of the trench of 2.00
+meters depth & 0.5 meter width with cable line under the PVC Pipeline.
+6) If bank guarantee is not submitted with concern Road Authority (NHAI/
+MSRDC/PWD/ZP), the agency shall submit a bank guarantee at the rate of Rs.50/
+per running meter and an undertaking to that effect shall also be submitted. If the
+agency fails to reclaim the land to the satisfaction of concerned Deputy Conservator
+of Forests, the cost for reclamation will be covered from the bank guarantee.
+7) If the cable is going to be laid in the formation width of the road, then additional
+charges in form of bank guarantee shall be given at the rate of Rs.35/- per running meter. Similarly for reclamation of side drain and for tarred portion, the guarantee
+will be at the rate of Rs.300/- per meter and Rs.750/- per meter respectively. An
+undertaking shall be obtained from the User Agency that it has agreed to make good
+any loss to Forest/ Environment while laying the cable in the forest area and during maintenance of the same in future.
+8) For further maintenance of the project, the agency shall obtain permission from the
+concerned Deputy Conservator of Forests as and when required.
+9) The forest land shall not be used for any purpose other than specified in the proposal.
+10) No felling of trees shall be done during the implementation of project.
+11) No new forest area beyond the Right of Way of existing road should be broken for laying Optical Fiber Cable.
+12) The User Agency shall pay the cost of additional Net Present Value, if required in future.
+13) No labour camp shall be established on the forest land.
+14) Underground Optical Fiber Cable can be laid only outside the confines of the Protected Areas.
+15) The Proposed work shall be carried out only during day time.
+16) After completion of the project, User Agency will reclaim the area under RoW suitably.
+17) The layout plan of the proposal shall not be changed without prior approval of the State Government.
+Page 2 of 3
+# Page 3
+Government Order No.: FLD-14A23/CR.230/F-10
+18) This sanction is subject to the final clearance by the Department of Information &
+Technology for the project and concerned PWD authorities for the project.
+19) The User Agency shall compensate the private owners of forest land if any, in
+accordance with the prevalent laws, rules & guidelines.
+20) The User Agency shall obtain Environmental Clearance as per the provisions of the
+Environment (Protection) Act, 1986, if applicable.
+21) All other conditions as may be mandatory under relevant Acts, Rules and Guidelines
+shall be complied by the User Agency.
+22) All the conditions stipulated by the Forest Department shall be binding on User
+Agency.
+23) The User Agency shall make good of any loss to Forest / Environment.
+24) All necessary approvals required for the project as per the prevailing laws of the land
+would be obtained by User Agency.
+25) Any breach of the conditions by the User Agency will be treated as violation of the
+provisions of the Forest (Conservation) Act, 1980.
+3. This Government Order is available at the Government of Maharashtra's website

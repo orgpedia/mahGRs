@@ -10515,5 +10515,44 @@
     "name": "mahfood-861.pdf",
     "num_pages": 4,
     "large_image_idxs": []
+  },
+  "202308081208517206.pdf": {
+    "code": "202308081208517206",
+    "crawl_dir": "12-Aug-2023",
+    "date": "08-08-2023",
+    "dept": "Food, Civil Supplies and Consumer Protection Department",
+    "download_time": "2023-08-12T23:48:32.998037",
+    "size_kb": "340",
+    "text": "Regarding funds sanctioned for 19 market price collection centres, under the 100 Centrally Sponsored Scheme for Strengthening of Price Monitoring Cell.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308081208517206.pdf",
+    "name": "mahfood-863.pdf",
+    "num_pages": 5,
+    "large_image_idxs": []
+  },
+  "202308101134513406.pdf": {
+    "code": "202308101134513406",
+    "crawl_dir": "12-Aug-2023",
+    "date": "10-08-2023",
+    "dept": "Food, Civil Supplies and Consumer Protection Department",
+    "download_time": "2023-08-12T23:48:24.238291",
+    "size_kb": "168",
+    "text": "Final Seniority List as on 01 January, 2023 of Joint Controller in Legal Metrology Organization",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308101134513406.pdf",
+    "name": "mahfood-864.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202308101808242706.pdf": {
+    "code": "202308101808242706",
+    "crawl_dir": "12-Aug-2023",
+    "date": "10-08-2023",
+    "dept": "Food, Civil Supplies and Consumer Protection Department",
+    "download_time": "2023-08-12T23:48:28.407898",
+    "size_kb": "134",
+    "text": "Regarding approval of Personal Ledger account in the name of Controller of Rationing and Director of Civil Supplies, Mumbai",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308101808242706.pdf",
+    "name": "mahfood-865.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
   }
 }
