@@ -33109,5 +33109,18 @@
     "name": "mahpwd-2743.pdf",
     "num_pages": 2,
     "large_image_idxs": []
+  },
+  "202308171701270918.pdf": {
+    "code": "202308171701270918",
+    "crawl_dir": "19-Aug-2023",
+    "date": "17-08-2023",
+    "dept": "Public Works Department",
+    "download_time": "2023-08-19T10:55:04.036838",
+    "size_kb": "1368",
+    "text": "Executive Engineer (Civil)- Yearly Temporary Seniority List dated 01.01.2016 to 01.01.2022",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308171701270918.pdf",
+    "name": "mahpwd-2744.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
   }
 }

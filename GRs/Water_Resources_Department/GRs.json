@@ -26921,5 +26921,57 @@
     "name": "mahwater-2236.pdf",
     "num_pages": 4,
     "large_image_idxs": []
+  },
+  "202308171512433827.pdf": {
+    "code": "202308171512433827",
+    "crawl_dir": "19-Aug-2023",
+    "date": "17-08-2023",
+    "dept": "Water Resources Department",
+    "download_time": "2023-08-19T12:07:59.001034",
+    "size_kb": "261",
+    "text": "Minor Change ant posting of Executive Engineer (Civil) of Water Resources Department.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308171512433827.pdf",
+    "name": "mahwater-2239.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202308171835187727.pdf": {
+    "code": "202308171835187727",
+    "crawl_dir": "19-Aug-2023",
+    "date": "17-08-2023",
+    "dept": "Water Resources Department",
+    "download_time": "2023-08-19T12:08:03.619751",
+    "size_kb": "360",
+    "text": "Transfer and posting of Executive Engineer (Mechanical) in the Water Resources Department",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308171835187727.pdf",
+    "name": "mahwater-2240.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202308181631318727.pdf": {
+    "code": "202308181631318727",
+    "crawl_dir": "19-Aug-2023",
+    "date": "18-08-2023",
+    "dept": "Water Resources Department",
+    "download_time": "2023-08-19T12:07:50.079617",
+    "size_kb": "151",
+    "text": "Regarding posting of Junior Engineer / Sectional Engineer / Assistant Engineer Grade-2 Cadre in Water Resources Department.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308181631318727.pdf",
+    "name": "mahwater-2241.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202308181737521727.pdf": {
+    "code": "202308181737521727",
+    "crawl_dir": "19-Aug-2023",
+    "date": "18-08-2023",
+    "dept": "Water Resources Department",
+    "download_time": "2023-08-19T12:07:54.238978",
+    "size_kb": "202",
+    "text": "Posting of Deputy Engineer.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308181737521727.pdf",
+    "name": "mahwater-2242.pdf",
+    "num_pages": 4,
+    "large_image_idxs": []
   }
 }

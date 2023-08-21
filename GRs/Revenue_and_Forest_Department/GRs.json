@@ -28479,5 +28479,57 @@
       3,
       4
     ]
+  },
+  "202308111933114919.pdf": {
+    "code": "202308111933114919",
+    "crawl_dir": "19-Aug-2023",
+    "date": "11-08-2023",
+    "dept": "Revenue and Forest Department",
+    "download_time": "2023-08-19T11:53:50.861366",
+    "size_kb": "224",
+    "text": "Regarding release of funds under the head of massive afforestation Programme (4406 0492) at collective level for the financial year 2023-24.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308111933114919.pdf",
+    "name": "mahrev-2311.pdf",
+    "num_pages": 5,
+    "large_image_idxs": []
+  },
+  "202308171647362119.pdf": {
+    "code": "202308171647362119",
+    "crawl_dir": "19-Aug-2023",
+    "date": "17-08-2023",
+    "dept": "Revenue and Forest Department",
+    "download_time": "2023-08-19T11:53:22.243708",
+    "size_kb": "139",
+    "text": "For the year 2023-24, the Chief Conservator of Forests under the category of Chief Conservator of Forests for the purpose of joint planning (wooden waste and coal) (2406 0481) (mandatory to be distributed for works in the forest department of Gadchiroli)",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308171647362119.pdf",
+    "name": "mahrev-2312.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202308171659161319.pdf": {
+    "code": "202308171659161319",
+    "crawl_dir": "19-Aug-2023",
+    "date": "18-08-2023",
+    "dept": "Revenue and Forest Department",
+    "download_time": "2023-08-19T11:53:18.041820",
+    "size_kb": "215",
+    "text": "Talathi about attendance at Sajja headquarters..",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308171659161319.pdf",
+    "name": "mahrev-2313.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202308181153070519.pdf": {
+    "code": "202308181153070519",
+    "crawl_dir": "19-Aug-2023",
+    "date": "17-08-2023",
+    "dept": "Revenue and Forest Department",
+    "download_time": "2023-08-19T11:53:26.508448",
+    "size_kb": "185",
+    "text": "Regarding the appointment of nominated members on the Board of Governors and Executive Committee of the Maharashtra State Zoological Museum Authority.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308181153070519.pdf",
+    "name": "mahrev-2314.pdf",
+    "num_pages": 4,
+    "large_image_idxs": []
   }
 }

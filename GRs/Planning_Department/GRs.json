@@ -15674,5 +15674,57 @@
     "name": "mahplan-1291.pdf",
     "num_pages": 3,
     "large_image_idxs": []
+  },
+  "202308171550142216.pdf": {
+    "code": "202308171550142216",
+    "crawl_dir": "19-Aug-2023",
+    "date": "17-08-2023",
+    "dept": "Planning Department",
+    "download_time": "2023-08-19T10:51:40.904010",
+    "size_kb": "711",
+    "text": "Regarding the permanent and temporary posts as per the revised diagram on the establishment of the Planning Department (Proper).",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308171550142216.pdf",
+    "name": "mahplan-1292.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202308181151554316.pdf": {
+    "code": "202308181151554316",
+    "crawl_dir": "19-Aug-2023",
+    "date": "18-08-2023",
+    "dept": "Planning Department",
+    "download_time": "2023-08-19T10:51:21.884014",
+    "size_kb": "809",
+    "text": "Recapitalisation assistance to Vidarbha Konkan Gramin Bank for the financial year 2022-23",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308181151554316.pdf",
+    "name": "mahplan-1293.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202308181641474816.pdf": {
+    "code": "202308181641474816",
+    "crawl_dir": "19-Aug-2023",
+    "date": "18-08-2023",
+    "dept": "Planning Department",
+    "download_time": "2023-08-19T10:51:26.065243",
+    "size_kb": "140",
+    "text": "Government at your Doorstep campaign.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308181641474816.pdf",
+    "name": "mahplan-1294.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202308181806284216.pdf": {
+    "code": "202308181806284216",
+    "crawl_dir": "19-Aug-2023",
+    "date": "18-08-2023",
+    "dept": "Planning Department",
+    "download_time": "2023-08-19T10:51:31.277609",
+    "size_kb": "794",
+    "text": "Regarding the inclusion of the development sector Energy in the core area in the District Annual Plan (General).",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308181806284216.pdf",
+    "name": "mahplan-1295.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
   }
 }

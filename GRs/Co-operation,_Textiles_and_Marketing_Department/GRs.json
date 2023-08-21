@@ -26332,5 +26332,18 @@
     "name": "mahcoop-2146.pdf",
     "num_pages": 2,
     "large_image_idxs": []
+  },
+  "202308181728344702.pdf": {
+    "code": "202308181728344702",
+    "crawl_dir": "19-Aug-2023",
+    "date": "18-08-2023",
+    "dept": "Co-operation, Textiles and Marketing Department",
+    "download_time": "2023-08-19T10:28:59.752811",
+    "size_kb": "261",
+    "text": "Regarding disbarment of subsidy of Rs.350 per quintal to the Onion Farmers in the state in the year 2022-2023.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308181728344702.pdf",
+    "name": "mahcoop-2148.pdf",
+    "num_pages": 6,
+    "large_image_idxs": []
   }
 }

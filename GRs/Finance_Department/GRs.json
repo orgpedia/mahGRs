@@ -6620,5 +6620,57 @@
     "name": "mahfin-538.pdf",
     "num_pages": 4,
     "large_image_idxs": []
+  },
+  "202308141103299605.pdf": {
+    "code": "202308141103299605",
+    "crawl_dir": "19-Aug-2023",
+    "date": "11-08-2023",
+    "dept": "Finance Department",
+    "download_time": "2023-08-19T10:31:45.607166",
+    "size_kb": "1017",
+    "text": "List of Maharashtra State Government Sponsored Lottery schemes Period dt. 14/08/2023. to dt.20/08/2023.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308141103299605.pdf",
+    "name": "mahfin-539.pdf",
+    "num_pages": 4,
+    "large_image_idxs": []
+  },
+  "202308141314397805.pdf": {
+    "code": "202308141314397805",
+    "crawl_dir": "19-Aug-2023",
+    "date": "14-08-2023",
+    "dept": "Finance Department",
+    "download_time": "2023-08-19T10:31:40.231575",
+    "size_kb": "779",
+    "text": "Creation of Virtual PLA on BEAMS Portal in order to control grants distribution in the Corporations under Irrigation Department.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308141314397805.pdf",
+    "name": "mahfin-540.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202308171510373505.pdf": {
+    "code": "202308171510373505",
+    "crawl_dir": "19-Aug-2023",
+    "date": "17-08-2023",
+    "dept": "Finance Department",
+    "download_time": "2023-08-19T10:31:35.033499",
+    "size_kb": "430",
+    "text": "Regarding Recovery of excess payment from government employee",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308171510373505.pdf",
+    "name": "mahfin-541.pdf",
+    "num_pages": 4,
+    "large_image_idxs": []
+  },
+  "202308181158182605.pdf": {
+    "code": "202308181158182605",
+    "crawl_dir": "19-Aug-2023",
+    "date": "18-08-2023",
+    "dept": "Finance Department",
+    "download_time": "2023-08-19T10:31:30.792989",
+    "size_kb": "901",
+    "text": "List of Maharashtra State Government Sponsored Lottery schemes Period dt. 21/08/2023. to dt.27/08/2023.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308181158182605.pdf",
+    "name": "mahfin-542.pdf",
+    "num_pages": 4,
+    "large_image_idxs": []
   }
 }

@@ -19503,5 +19503,44 @@
     "name": "mahtrib-1609.pdf",
     "num_pages": 4,
     "large_image_idxs": []
+  },
+  "202308041849517324.pdf": {
+    "code": "202308041849517324",
+    "crawl_dir": "19-Aug-2023",
+    "date": "17-08-2023",
+    "dept": "Tribal Development Department",
+    "download_time": "2023-08-19T12:05:35.364480",
+    "size_kb": "139",
+    "text": "To release grant for the scheme of Education to Students of Scheduled Tribes in Renowned English Medium Residential School under the TSP in financial year 2023-24. CRC- (2225 999)",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308041849517324.pdf",
+    "name": "mahtrib-1610.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202308041850124124.pdf": {
+    "code": "202308041850124124",
+    "crawl_dir": "19-Aug-2023",
+    "date": "17-08-2023",
+    "dept": "Tribal Development Department",
+    "download_time": "2023-08-19T12:05:30.976908",
+    "size_kb": "212",
+    "text": "To release grant for the scheme of Samagra Shiksha Mission under the TSP in financial year 2023-24. CRC- (2202 657)",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308041850124124.pdf",
+    "name": "mahtrib-1611.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202308171708014024.pdf": {
+    "code": "202308171708014024",
+    "crawl_dir": "19-Aug-2023",
+    "date": "18-08-2023",
+    "dept": "Tribal Development Department",
+    "download_time": "2023-08-19T12:05:26.809687",
+    "size_kb": "142",
+    "text": "To release grant for the scheme of Jal Jeevan Mission under the TSP in financial year 2023-24. CRC- ( 2215 061)",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308171708014024.pdf",
+    "name": "mahtrib-1612.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
   }
 }

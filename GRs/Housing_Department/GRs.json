@@ -3722,5 +3722,44 @@
     "name": "mahhouse-305.pdf",
     "num_pages": 2,
     "large_image_idxs": []
+  },
+  "202308141730315809.pdf": {
+    "code": "202308141730315809",
+    "crawl_dir": "19-Aug-2023",
+    "date": "14-08-2023",
+    "dept": "Housing Department",
+    "download_time": "2023-08-19T10:38:17.854316",
+    "size_kb": "334",
+    "text": "Regarding establishment of State level Project Management Unit (PMU) for effective implementation of Pradhan Mantri Awas Yojana (Urban).",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308141730315809.pdf",
+    "name": "mahhouse-306.pdf",
+    "num_pages": 12,
+    "large_image_idxs": []
+  },
+  "202308141817210609.pdf": {
+    "code": "202308141817210609",
+    "crawl_dir": "19-Aug-2023",
+    "date": "14-08-2023",
+    "dept": "Housing Department",
+    "download_time": "2023-08-19T10:38:22.841124",
+    "size_kb": "784",
+    "text": "Guidelines regarding allotment of with cost rehabilitation tenaments in slum rehabilitation scheme.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308141817210609.pdf",
+    "name": "mahhouse-307.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202308181802054109.pdf": {
+    "code": "202308181802054109",
+    "crawl_dir": "19-Aug-2023",
+    "date": "18-08-2023",
+    "dept": "Housing Department",
+    "download_time": "2023-08-19T10:38:13.193000",
+    "size_kb": "148",
+    "text": "Documents to be considered for the eligibility of Non residential slum dwellers/ stall holders for redeveloped tenement.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308181802054109.pdf",
+    "name": "mahhouse-308.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
   }
 }
