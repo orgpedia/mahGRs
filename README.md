@@ -8,8 +8,8 @@ The English translation is obtained by processing each the pdf file of each Gove
 
 ## Data Details
 
-| Num | Department Name | Start Date | Starting Order | Last Date | Last Order | Last Crawl Date | # Marathi Orders | # Translated Orders |
-| --- | --------------- | ---------- | -------------- | --------- | ---------- | --------------- | ---------------- | ------------------- |
+| Num | Department Name | Start Date | Last Date | Last Crawl Date | # Marathi Orders | # Translated Orders | Starting Order | Last Order |
+| --- | --------------- | ---------- | --------- | --------------- | ---------------- | ------------------- | -------------- | ---------- |
 | 1 | [Agriculture, Dairy Development, Animal Husbandry and Fisheries Department](GRs/Agriculture,_Dairy_Development,_Animal_Husbandry_and_Fisheries_Department) | 16 March 2018 | [201803161624182101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/201803161624182101.pdf) | 18 August 2023 | [202308181441521401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308181441521401.pdf) | 19-Aug-2023 | 3426 | 3366 |
 | 2 | [Co-operation, Textiles and Marketing Department](GRs/Co-operation,_Textiles_and_Marketing_Department) | 19 March 2018 | [201803191257576702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/201803191257576702.pdf) | 18 August 2023 | [202308181728344702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308181728344702.pdf) | 19-Aug-2023 | 2140 | 2102 |
 | 3 | [Environment Department](GRs/Environment_Department) | 02 December 2017 | [201712041147216904.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/201712041147216904.pdf) | 09 August 2023 | [202308091733165604.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308091733165604.pdf) | 12-Aug-2023 | 301 | 294 |
