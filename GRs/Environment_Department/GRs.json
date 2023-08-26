@@ -3777,5 +3777,31 @@
     "name": "mahenv-301.pdf",
     "num_pages": 3,
     "large_image_idxs": []
+  },
+  "202308251526371504.pdf": {
+    "code": "202308251526371504",
+    "crawl_dir": "25-Aug-2023",
+    "date": "25-08-2023",
+    "dept": "Environment Department",
+    "download_time": "2023-08-26T00:00:17.683199",
+    "size_kb": "299",
+    "text": "Modalities for effective implementation of Notification dated 01.03.2023 regarding prohibition of Nylon/ Synthetic Manja.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308251526371504.pdf",
+    "name": "mahenv-302.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202308251542131904.pdf": {
+    "code": "202308251542131904",
+    "crawl_dir": "25-Aug-2023",
+    "date": "25-08-2023",
+    "dept": "Environment Department",
+    "download_time": "2023-08-26T00:00:21.828312",
+    "size_kb": "98",
+    "text": "Modalities for effective implementation of Notification dated 01.03.2023 regarding prohibition of Nylon/ Synthetic Manja.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308251542131904.pdf",
+    "name": "mahenv-303.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
   }
 }

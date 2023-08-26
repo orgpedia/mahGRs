@@ -23966,5 +23966,44 @@
     "name": "mahurb-1982.pdf",
     "num_pages": 3,
     "large_image_idxs": []
+  },
+  "202308221131049625.pdf": {
+    "code": "202308221131049625",
+    "crawl_dir": "26-Aug-2023",
+    "date": "22-08-2023",
+    "dept": "Urban Development Department",
+    "download_time": "2023-08-26T00:41:10.062254",
+    "size_kb": "169",
+    "text": "Regarding appointing a study group of experts in the department for Business Process Re-engineering of the notified services under the Urban Development Department.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308221131049625.pdf",
+    "name": "mahurb-1983.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202308221454079825.pdf": {
+    "code": "202308221454079825",
+    "crawl_dir": "26-Aug-2023",
+    "date": "22-08-2023",
+    "dept": "Urban Development Department",
+    "download_time": "2023-08-26T00:41:14.241857",
+    "size_kb": "155",
+    "text": "Regarding giving appointments in the form of On Field Training to the trainee Chief Officer Group-B post as per the merit of limited divisional examination in the Chief Officer Group-B category to the employees of State level Municipal Council category.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308221454079825.pdf",
+    "name": "mahurb-1984.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202308221736011025.pdf": {
+    "code": "202308221736011025",
+    "crawl_dir": "26-Aug-2023",
+    "date": "22-08-2023",
+    "dept": "Urban Development Department",
+    "download_time": "2023-08-26T00:41:18.429028",
+    "size_kb": "199",
+    "text": "Regarding Approval of permissible staffing pattern of 43 posts for 34 cadres for D Class Jalna City Municipal Corporation.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308221736011025.pdf",
+    "name": "mahurb-1985.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
   }
 }

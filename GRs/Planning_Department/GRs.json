@@ -15726,5 +15726,57 @@
     "name": "mahplan-1295.pdf",
     "num_pages": 2,
     "large_image_idxs": []
+  },
+  "202308211610327216.pdf": {
+    "code": "202308211610327216",
+    "crawl_dir": "26-Aug-2023",
+    "date": "21-08-2023",
+    "dept": "Planning Department",
+    "download_time": "2023-08-26T00:25:21.680639",
+    "size_kb": "515",
+    "text": "Seniority list of A.D.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308211610327216.pdf",
+    "name": "mahplan-1296.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202308211800420616.pdf": {
+    "code": "202308211800420616",
+    "crawl_dir": "26-Aug-2023",
+    "date": "21-08-2023",
+    "dept": "Planning Department",
+    "download_time": "2023-08-26T00:25:26.577373",
+    "size_kb": "951",
+    "text": "Regarding the procurement of seedlings through the organization identified by Expression Of Interest for bamboo cultivation under the Mahatma Gandhi National Rural Employment Guarantee Scheme.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308211800420616.pdf",
+    "name": "mahplan-1297.pdf",
+    "num_pages": 8,
+    "large_image_idxs": []
+  },
+  "202308221816036016.pdf": {
+    "code": "202308221816036016",
+    "crawl_dir": "26-Aug-2023",
+    "date": "22-08-2023",
+    "dept": "Planning Department",
+    "download_time": "2023-08-26T00:25:16.499419",
+    "size_kb": "770",
+    "text": "Appointment of Nominated Members on District Planning Committee, Sindhudurga.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308221816036016.pdf",
+    "name": "mahplan-1298.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202308231447059516.pdf": {
+    "code": "202308231447059516",
+    "crawl_dir": "26-Aug-2023",
+    "date": "23-08-2023",
+    "dept": "Planning Department",
+    "download_time": "2023-08-26T00:25:02.103838",
+    "size_kb": "204",
+    "text": "Regarding publication of final seniority list dated 01/01/2021 (dated 01/01/2020 to 31/12/2020) of Additional Director, Group-A cadre in Directorate of Finance and Statistics.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308231447059516.pdf",
+    "name": "mahplan-1299.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
   }
 }

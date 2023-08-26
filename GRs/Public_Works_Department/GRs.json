@@ -33122,5 +33122,57 @@
     "name": "mahpwd-2744.pdf",
     "num_pages": 2,
     "large_image_idxs": []
+  },
+  "202308221248423518.pdf": {
+    "code": "202308221248423518",
+    "crawl_dir": "26-Aug-2023",
+    "date": "22-08-2023",
+    "dept": "Public Works Department",
+    "download_time": "2023-08-26T00:27:47.519119",
+    "size_kb": "260",
+    "text": "Regarding Approval of Medical Reimbursement of Government Employees. The maximum limit of reimbursement permissible and amending the sanctioning power of authority.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308221248423518.pdf",
+    "name": "mahpwd-2745.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202308231028495118.pdf": {
+    "code": "202308231028495118",
+    "crawl_dir": "26-Aug-2023",
+    "date": "23-08-2023",
+    "dept": "Public Works Department",
+    "download_time": "2023-08-26T00:27:37.395488",
+    "size_kb": "237",
+    "text": "Promotion order of Shri. R. K. Daravade, Assistant Engineer-2 (Civil) on the post of Sub Divisional Engineer (Civil), Public Works Department.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308231028495118.pdf",
+    "name": "mahpwd-2746.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202308231707479918.pdf": {
+    "code": "202308231707479918",
+    "crawl_dir": "26-Aug-2023",
+    "date": "23-08-2023",
+    "dept": "Public Works Department",
+    "download_time": "2023-08-26T00:27:42.837205",
+    "size_kb": "1353",
+    "text": "Regarding the appointment of manpower and prescribing the composition of the Board of Directors for the Maharashtra State Infrastructure Development Corporation.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308231707479918.pdf",
+    "name": "mahpwd-2747.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202308251229306118.pdf": {
+    "code": "202308251229306118",
+    "crawl_dir": "26-Aug-2023",
+    "date": "25-08-2023",
+    "dept": "Public Works Department",
+    "download_time": "2023-08-26T00:27:33.195483",
+    "size_kb": "341",
+    "text": "Acceptance of tenders and tenders as per current price list.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308251229306118.pdf",
+    "name": "mahpwd-2748.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
   }
 }

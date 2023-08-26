@@ -3761,5 +3761,18 @@
     "name": "mahhouse-308.pdf",
     "num_pages": 3,
     "large_image_idxs": []
+  },
+  "202308221715038409.pdf": {
+    "code": "202308221715038409",
+    "crawl_dir": "26-Aug-2023",
+    "date": "22-08-2023",
+    "dept": "Housing Department",
+    "download_time": "2023-08-26T00:11:08.200281",
+    "size_kb": "205",
+    "text": "Guidelines for Actions to be taken as per amended Sections 77, 79 (A),91 (A) and 95-A of MHAD Act, 1976. For redevelopment of cessed buildings declared dangerous in the city of Mumbai as well as redevelopment of Stalled cessed buildings projects under regulation 33(6), 33(7) and 33(9) of the Development Control Rules.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308221715038409.pdf",
+    "name": "mahhouse-309.pdf",
+    "num_pages": 14,
+    "large_image_idxs": []
   }
 }

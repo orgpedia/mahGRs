@@ -10554,5 +10554,44 @@
     "name": "mahfood-865.pdf",
     "num_pages": 2,
     "large_image_idxs": []
+  },
+  "202308221535180506.pdf": {
+    "code": "202308221535180506",
+    "crawl_dir": "26-Aug-2023",
+    "date": "22-08-2023",
+    "dept": "Food, Civil Supplies and Consumer Protection Department",
+    "download_time": "2023-08-26T00:02:52.433019",
+    "size_kb": "313",
+    "text": "Regarding funds sanctioned for 19 market price collection centres, under the 100 Centrally Sponsored Scheme for Strengthening of Price Monitoring Cell.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308221535180506.pdf",
+    "name": "mahfood-867.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202308221844101206.pdf": {
+    "code": "202308221844101206",
+    "crawl_dir": "26-Aug-2023",
+    "date": "22-08-2023",
+    "dept": "Food, Civil Supplies and Consumer Protection Department",
+    "download_time": "2023-08-26T00:02:56.591984",
+    "size_kb": "187",
+    "text": "Distribution of Aanandacha Shidha containig four items on the occasion of upcoming festivals Gauri-Ganpati Utsav and Diwali Festival.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308221844101206.pdf",
+    "name": "mahfood-868.pdf",
+    "num_pages": 4,
+    "large_image_idxs": []
+  },
+  "202308241529468506.pdf": {
+    "code": "202308241529468506",
+    "crawl_dir": "26-Aug-2023",
+    "date": "24-08-2023",
+    "dept": "Food, Civil Supplies and Consumer Protection Department",
+    "download_time": "2023-08-26T00:02:47.758538",
+    "size_kb": "237",
+    "text": "Procedure for distribution of Anandacha Shidha on the Occasion of Gauri-Ganpati Festival to the eligible beneficiaries under public distribution system",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308241529468506.pdf",
+    "name": "mahfood-869.pdf",
+    "num_pages": 6,
+    "large_image_idxs": []
   }
 }

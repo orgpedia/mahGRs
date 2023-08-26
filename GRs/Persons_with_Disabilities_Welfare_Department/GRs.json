@@ -282,5 +282,18 @@
     "name": "mahdis-22.pdf",
     "num_pages": 2,
     "large_image_idxs": []
+  },
+  "202308231428297135.pdf": {
+    "code": "202308231428297135",
+    "crawl_dir": "26-Aug-2023",
+    "date": "22-08-2023",
+    "dept": "Persons with Disabilities Welfare Department",
+    "download_time": "2023-08-26T00:23:46.972098",
+    "size_kb": "1048",
+    "text": "To organize Persons with Disabilities Welfare Department at the doorstep of Divyangjan Campaign in all districts.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308231428297135.pdf",
+    "name": "mahdis-23.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
   }
 }
