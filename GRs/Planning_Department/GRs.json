@@ -15778,5 +15778,83 @@
     "name": "mahplan-1299.pdf",
     "num_pages": 3,
     "large_image_idxs": []
+  },
+  "202308291222161416.pdf": {
+    "code": "202308291222161416",
+    "crawl_dir": "02-Sep-2023",
+    "date": "28-08-2023",
+    "dept": "Planning Department",
+    "download_time": "2023-09-02T14:45:23.872085",
+    "size_kb": "213",
+    "text": "Reconstitution of Cabinet Infrastructure Committee.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308291222161416.pdf",
+    "name": "mahplan-1300.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202308311512552716.pdf": {
+    "code": "202308311512552716",
+    "crawl_dir": "02-Sep-2023",
+    "date": "31-08-2023",
+    "dept": "Planning Department",
+    "download_time": "2023-09-02T14:45:15.378130",
+    "size_kb": "239",
+    "text": "Regarding publication of final seniority list dated 01/01/2022 (dated 01/01/2021 to dated 31/12/2021) of Additional Director, Group-A cadre in Directorate of Finance and Statistics.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308311512552716.pdf",
+    "name": "mahplan-1301.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202309011313457316.pdf": {
+    "code": "202309011313457316",
+    "crawl_dir": "02-Sep-2023",
+    "date": "01-09-2023",
+    "dept": "Planning Department",
+    "download_time": "2023-09-02T14:44:57.918921",
+    "size_kb": "145",
+    "text": "Additional Director promotion.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309011313457316.pdf",
+    "name": "mahplan-1302.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202309011320034916.pdf": {
+    "code": "202309011320034916",
+    "crawl_dir": "02-Sep-2023",
+    "date": "01-09-2023",
+    "dept": "Planning Department",
+    "download_time": "2023-09-02T14:45:02.457927",
+    "size_kb": "208",
+    "text": "Transfer Order Additional Director.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309011320034916.pdf",
+    "name": "mahplan-1303.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202309011718431316.pdf": {
+    "code": "202309011718431316",
+    "crawl_dir": "02-Sep-2023",
+    "date": "01-09-2023",
+    "dept": "Planning Department",
+    "download_time": "2023-09-02T14:45:06.663492",
+    "size_kb": "166",
+    "text": "Regarding the transfers of the Joint Director, Group-A cadre officers in the Directorate of Finance and Statistics..",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309011718431316.pdf",
+    "name": "mahplan-1304.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202309011720490216.pdf": {
+    "code": "202309011720490216",
+    "crawl_dir": "02-Sep-2023",
+    "date": "01-09-2023",
+    "dept": "Planning Department",
+    "download_time": "2023-09-02T14:45:11.157694",
+    "size_kb": "144",
+    "text": "Regarding the transfers of officers in the Deputy Director, Group-A cadre in the Directorate of Finance and Statistics.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309011720490216.pdf",
+    "name": "mahplan-1305.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
   }
 }

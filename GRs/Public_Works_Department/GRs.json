@@ -33174,5 +33174,44 @@
     "name": "mahpwd-2748.pdf",
     "num_pages": 2,
     "large_image_idxs": []
+  },
+  "202308281309173218.pdf": {
+    "code": "202308281309173218",
+    "crawl_dir": "02-Sep-2023",
+    "date": "28-08-2023",
+    "dept": "Public Works Department",
+    "download_time": "2023-09-02T14:52:46.479894",
+    "size_kb": "320",
+    "text": "Revision in Financial Powers mentioned in Maharashtra Public Works Department Manual, Appendix 42 published in 1984",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308281309173218.pdf",
+    "name": "mahpwd-2749.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202308311517597418.pdf": {
+    "code": "202308311517597418",
+    "crawl_dir": "02-Sep-2023",
+    "date": "31-08-2023",
+    "dept": "Public Works Department",
+    "download_time": "2023-09-02T14:52:37.801780",
+    "size_kb": "175",
+    "text": "Revised instructions regarding time bound program for tender proceedings under e-tendering process of Public Works Department.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308311517597418.pdf",
+    "name": "mahpwd-2750.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202308311649070418.pdf": {
+    "code": "202308311649070418",
+    "crawl_dir": "02-Sep-2023",
+    "date": "30-08-2023",
+    "dept": "Public Works Department",
+    "download_time": "2023-09-02T14:52:42.183683",
+    "size_kb": "756",
+    "text": "NH.161 from Public Works Department passing through Kalamanuri town. 144/300 to 148/300 total 4.00 km. Regarding declassifying the length and transferring it to Kalamanuri Nagar Parishad.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308311649070418.pdf",
+    "name": "mahpwd-2751.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
   }
 }

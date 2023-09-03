@@ -13932,5 +13932,70 @@
     "name": "mahrural-1149.pdf",
     "num_pages": 10,
     "large_image_idxs": []
+  },
+  "202308301118480320.pdf": {
+    "code": "202308301118480320",
+    "crawl_dir": "02-Sep-2023",
+    "date": "30-08-2023",
+    "dept": "Rural Development Department",
+    "download_time": "2023-09-02T14:56:50.967951",
+    "size_kb": "153",
+    "text": "Mukhyamantri Gram Sadak Yojana Revised Administrative Approval for Nerle to Dhangarwadi Road, Tel Walva Package No. SAN- 77 in Sangli District",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308301118480320.pdf",
+    "name": "mahrural-1151.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202308301205350020.pdf": {
+    "code": "202308301205350020",
+    "crawl_dir": "02-Sep-2023",
+    "date": "30-08-2023",
+    "dept": "Rural Development Department",
+    "download_time": "2023-09-02T14:57:03.605795",
+    "size_kb": "151",
+    "text": "Regarding the exclusion of works from the list of canceled works as per the Government Decision dated 12.10.2022 under the head 2515 1238 (Provision of basic facilities within villages in rural areas suggested by Honble Peoples Representatives).",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308301205350020.pdf",
+    "name": "mahrural-1152.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202308301205460020.pdf": {
+    "code": "202308301205460020",
+    "crawl_dir": "02-Sep-2023",
+    "date": "30-08-2023",
+    "dept": "Rural Development Department",
+    "download_time": "2023-09-02T14:56:59.434218",
+    "size_kb": "145",
+    "text": "Corrigendum-Regarding the exclusion of works from the list of canceled works as per the Government Decision dated 12.10.2022 under the head 2515 1238 (Provision of basic facilities within villages in rural areas suggested by Honble Peoples Representatives).",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308301205460020.pdf",
+    "name": "mahrural-1153.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202308301742026920.pdf": {
+    "code": "202308301742026920",
+    "crawl_dir": "02-Sep-2023",
+    "date": "30-08-2023",
+    "dept": "Rural Development Department",
+    "download_time": "2023-09-02T14:56:55.230155",
+    "size_kb": "374",
+    "text": "Mukhyamantri Gram Sadak Yojana Phase II Administrative Approval to Upgradation of Roads under Research and Development in Kolhapur district.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308301742026920.pdf",
+    "name": "mahrural-1154.pdf",
+    "num_pages": 6,
+    "large_image_idxs": []
+  },
+  "202308311458557020.pdf": {
+    "code": "202308311458557020",
+    "crawl_dir": "02-Sep-2023",
+    "date": "31-08-2023",
+    "dept": "Rural Development Department",
+    "download_time": "2023-09-02T14:56:46.766352",
+    "size_kb": "259",
+    "text": "To issue Short tender notice under E-Tendering System",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308311458557020.pdf",
+    "name": "mahrural-1155.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
   }
 }

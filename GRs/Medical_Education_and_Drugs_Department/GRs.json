@@ -10836,5 +10836,31 @@
     "name": "mahmed-902.pdf",
     "num_pages": 2,
     "large_image_idxs": []
+  },
+  "202308241750533613.pdf": {
+    "code": "202308241750533613",
+    "crawl_dir": "02-Sep-2023",
+    "date": "24-08-2023",
+    "dept": "Medical Education and Drugs Department",
+    "download_time": "2023-09-02T14:37:44.272914",
+    "size_kb": "177",
+    "text": "Administrative approval for building construction of OPD at Government Medical College and General Hospital, Akola.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308241750533613.pdf",
+    "name": "mahmed-904.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202308241751012413.pdf": {
+    "code": "202308241751012413",
+    "crawl_dir": "02-Sep-2023",
+    "date": "24-08-2023",
+    "dept": "Medical Education and Drugs Department",
+    "download_time": "2023-09-02T14:37:48.541586",
+    "size_kb": "178",
+    "text": "Administrative approval to the construction of new ward building at Government Medical College and Sarvopath Hospital, Akola",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308241751012413.pdf",
+    "name": "mahmed-905.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
   }
 }

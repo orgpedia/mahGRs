@@ -20778,5 +20778,18 @@
     "name": "mahsoil-1711.pdf",
     "num_pages": 3,
     "large_image_idxs": []
+  },
+  "202309011802287526.pdf": {
+    "code": "202309011802287526",
+    "crawl_dir": "02-Sep-2023",
+    "date": "01-09-2023",
+    "dept": "Soil & Water Conservation Department",
+    "download_time": "2023-09-02T15:02:42.585894",
+    "size_kb": "810",
+    "text": "Requisition No. Z H-5, Heading 4702 A 019. Pazar Lake Verul No. 04, Mau. Verul Khultabad, Dist. Aurangabad. (Land Acquisition Fund)",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309011802287526.pdf",
+    "name": "mahsoil-1712.pdf",
+    "num_pages": 4,
+    "large_image_idxs": []
   }
 }

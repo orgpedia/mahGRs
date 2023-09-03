@@ -1,0 +1,58 @@
+# Page 1
+CCTNS project for the year 2023-24 at a cost of Rs. 130,74,54, 753/- regarding sanction of expenditure. It is also the supplier of the CCTNS project. Wipro Ltd. To give extension to the company till the transfer of the project work to the new supplier through CCTNS 2.0 RFP as a special case, etc.
+The Government of Maharashtra
+the Home Department
+Government Resolution No: CCTNS-3615/ PR No.202/ Part-5/ Pol-3,
+Ministry, 2nd Floor, Main Building, Madame Cama Road,
+Hutatma Rajguru Chowk, Mumbai- 400 032.
+Date: August 29, 2023
+Home Department, Government Resolution No:- MIS 0508/748/ PR No. 329/ Pol-4, dated 22.05.2009.
+Government of Maharashtra and Govt. Wipro Ltd. In between the. Agreement dated 22.03.2012.
+(3) Government Resolution, Finance Division No. 2013/ Q. No. 30/13/ Regulations, Part-II, D. 17.04.2015.
+4) The State Empowered Committee (SEC) headed by the Director General of Police, Maharashtra State, Mumbai. The minutes of the meeting dated 4.7.2016.
+(5) Under the Chairmanship of the Additional Chief Secretary (Home). 12.07.2016 and D. Minutes of the meeting held on 28.12.2016.
+6) Ma. The state committee is headed by the Chief Secretary. 17.01.2017, Dy. 20.07.2020, Dy. 18.5.2021, Dy. 16.11.2021, Dy. 10.5.2022 and D. Minutes of the meeting held on 4.11.2022.
+7) Government Decision, Home Department No. CCTNS-3615/ P.No.202/ Part-3/ Pol-3, Dy. 1.7.2022 and 21.7.2023 respectively.
+8) National Crime Investigation Centre, Ministry of Home Affairs letter No. SIB (103)/ CCTNS/ SPMU/ 60/ NCRB-2001, dated 17.5.2012.
+9) State Crime Investigation Centre, Crime Investigation Department, Maharashtra State, Pune and May. The agreement was signed between Price Water House Coopers Pvt. 29.8.2012.
+10) Department of Information and Technology, Government Decision No. GAD-MATANS 080/4/2014-O/ O Directorate of IT DIT (MH), Dt. 1.7.2014 and D. 9.5.2019.
+11) Home Department, Government Resolution No. CCTNS-3615/ No. 90/ Part-1/ Pol-3, D. 13.6.2016.
+Ministry of Home Affairs, New Delhi vide letter No.F.No. 22011/02/2010-SR/ CCTNS P-1, D. 18.7.2016 13) Home Department, Government Resolution No. CCTNS-3615/ No. 90/ Part-1/ Poll-3, D. 15.102019 and 26.7.2021.
+14) Department of Home Affairs, Government Resolution No. CCTNS-3615/ No. 90/ Part-2/ Poll-3, D. 14.11.2022.
+15) Department of Home Affairs, Government Resolution No. CCTNS-3615/ No. 202/ Part-5/ Pol-3, D. 9.5.2022 and d.
+13.1.2023.
+16). The state committee is headed by the Chief Secretary. The minutes of the meeting dated 12.7.2023. 20.07.2023
+# Page 2
+Government Resolution No: CCTNS-3615/ P.No.202/ Part-5/ Pol-3
+Introduction: The CCTNS project is being implemented in the state under the e-governance scheme of the Central Government. Under this project, in 2015, 1054 police stations and 629 senior police offices in the state were connected with CAS (Core Application Software) software and 2 Mbps network connectivity has been provided in these offices. The project on 15.09.2015. It was inaugurated by the Chief Minister. Under the CCTNS project, 2 Mbps network connectivity has been provided to 1054 police stations and 629 senior offices. The project was funded by the Centre, but it will not receive funds from the Centre after March 2018. The state government has to bear the cost of maintenance and repair of the project. According to the CCTNS project. The Chief Secretary, In the State Summit Committee (SAC) meeting held on 12.7.2023, Rs. 130,74,54, 753/- has been approved for committed and non-committed expenditure.
+About CCTNS Project Under the chairmanship of Chief Secretary. Grant of Administrative Sanction for CCTNS Project for the year 2023-24 in the State Apex Committee Meeting held on 12.7.2023. Wipro Ltd. As a special case, the extension of time through CCTNS 2.0 RFP for the CCTNS project as State Project Management Unit (SPMU) was approved in May. The government was considering granting extension to the project consultants of the PwC company and administrative approval in respect of other matters.
+Accordingly, as per the directions of the State Summit Committee (SAC), only one government decision is to be published for full administrative approval, the government has taken the following decisions.
+Government Decision: (a) Regarding the CCTNS project, Mr. As per the approval given by the State Apex Committee in its meeting held on 12.7.2023 under the Chairmanship of Chief Secretary, Rs. 130,74,54, 753/- is being approved for committed and non-committed expenditure as detailed below:
+--------------------------------------------------------------------------------------------------------------------------------
+| No.                                |                                                 | Expense Type  | Required AMOUNT (INR) |
+| 1                                  | Network (2Mbps MPLs, 100 Mbps and 50 Mbps, etc) | 20,69,25,618/ |
+| 2                                  | BSNL's MPLS pending bill till March 2023        | 12,17,49,985/ |
+| 3                                  | SPMU                                            | 1,21,96,008/  |
+| 4                                  | Cloud Service Charges                           | 85,05,301/    |
+| 5                                  | SMS Service Cost                                | 50,000/       |
+| Total (A) (Committed Expenditure ) | 34,94,26,911/                                   |
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+| No.                                                 |                                                              | Expense Type  | Required AMOUNT (INR) |
+| 1                                                   | Cost of CCTNS 2.0 CAPEX                                      | 28,31,35,705/ |
+| 2                                                   | One year of Annual maintenance of the CCTNS 1.0 Application. | 9,95,92,000/  |
+| 3                                                   | Total (1+2) Including 10% contingency                        | 42,10,00,476/ |
+| 4                                                   | Hardware Procurement                                         | 52,40,27,365/ |
+| 5                                                   | Operating System Customization and upgradation               | 80,00,000/    |
+| 6                                                   | Integration & Customization                                  | 50,00,000/    |
+| Total (B) (Non-Committed Expenditure )              | 95,80,27,842/                                                |
+| Total (A+B) (Committed + Non-Committed Expenditure) | 130,74,54,753                                                |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Page 2 of 4
+# Page 3
+Government Resolution No: CCTNS-3615/ P.No.202/ Part-5/ Pol-3
+(b) To maintain and service the CCTNS project. The State Summit Committee (SAC), headed by the Chief Secretary, at the meeting held on 12.7.2023. Wipro Ltd. As a special case, they are required to pay Rs. Administrative approval is being accorded for extension with an outlay of Rs. 9,95,92, 000/- (Rupees Nine Crores Ninety Five Lakhs Ninety Two Thousand only). (This amount is included in the above non-committed expenditure. ) (c. The State Project Management Unit (SPMU) was constituted in the State Summit Committee (SAC) meeting dated 12.7.2023 under the Chairmanship of Chief Secretary. PwC has appointed one Managing Consultant and two Senior Consultants. 1.6.2023 to dt. As on 31.5.2024, Rs. The extension is being approved with an outlay of Rs. 1,21,96, 008/- (which is included in the Committed Expenditure).
+(d) About the CCTNS project. As per the decision taken in the State Summit Committee (SAC) meeting held on 12.7.2023 under the chairmanship of Chief Secretary, Additional Chief Secretary (Home) is being appointed as the nodal officer for implementation of ICJS (Interoperable Criminal Justice System). Accordingly, every fortnight, a review meeting should be held with the nodal officers of the five pillars of ICJS in the state of Maharashtra.
+2. Expenditure on" Demand No. B-1, 2055-Police, (00) 109 District Police, (00) 14 Crime and Criminal Tracking Network System (State Scheme), Dattamat, (20559097), 50-Other expenditure.
+This Government Decision, Department of Finance No. 2013/ P. No. 30/2013/ Regulations, Part-II, No. 17.04.2015 under the Financial Powers Rules, 1978, Part-I, Sub-Division-II, Maharashtra Contingent Expenditure Rules, 1965 and Sec. Rule No. 27. 76 is being issued under the powers conferred on the administrative department.
+# Page 4

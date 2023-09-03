@@ -10593,5 +10593,18 @@
     "name": "mahfood-869.pdf",
     "num_pages": 6,
     "large_image_idxs": []
+  },
+  "202308301449051706.pdf": {
+    "code": "202308301449051706",
+    "crawl_dir": "02-Sep-2023",
+    "date": "30-08-2023",
+    "dept": "Food, Civil Supplies and Consumer Protection Department",
+    "download_time": "2023-09-02T14:23:22.694644",
+    "size_kb": "511",
+    "text": "Regarding administrative approval for construction of New building for District Consumer Disputes Redressal Commission, Nanded",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308301449051706.pdf",
+    "name": "mahfood-871.pdf",
+    "num_pages": 5,
+    "large_image_idxs": []
   }
 }

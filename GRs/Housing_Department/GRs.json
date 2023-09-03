@@ -3774,5 +3774,18 @@
     "name": "mahhouse-309.pdf",
     "num_pages": 14,
     "large_image_idxs": []
+  },
+  "202308291802019809.pdf": {
+    "code": "202308291802019809",
+    "crawl_dir": "02-Sep-2023",
+    "date": "29-08-2023",
+    "dept": "Housing Department",
+    "download_time": "2023-09-02T14:30:57.720511",
+    "size_kb": "145",
+    "text": "Regarding facilities to be extended to the registered Co-operative Housing Societies for their self-redevelopment.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308291802019809.pdf",
+    "name": "mahhouse-310.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
   }
 }

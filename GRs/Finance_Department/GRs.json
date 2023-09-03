@@ -6724,5 +6724,83 @@
     "name": "mahfin-546.pdf",
     "num_pages": 34,
     "large_image_idxs": []
+  },
+  "202308281123502005.pdf": {
+    "code": "202308281123502005",
+    "crawl_dir": "02-Sep-2023",
+    "date": "25-08-2023",
+    "dept": "Finance Department",
+    "download_time": "2023-09-02T14:22:35.892145",
+    "size_kb": "907",
+    "text": "List of Maharashtra State Government Sponsored Lottery schemes Period dt.28/08/2023. to dt.03/09/2023.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308281123502005.pdf",
+    "name": "mahfin-547.pdf",
+    "num_pages": 4,
+    "large_image_idxs": []
+  },
+  "202308281516402005.pdf": {
+    "code": "202308281516402005",
+    "crawl_dir": "02-Sep-2023",
+    "date": "28-08-2023",
+    "dept": "Finance Department",
+    "download_time": "2023-09-02T14:22:30.486482",
+    "size_kb": "846",
+    "text": "About Maharashtra State Lottery Maharashtra Ganapati Grand Draw Prize Structure and Procedure.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308281516402005.pdf",
+    "name": "mahfin-548.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202308311523053005.pdf": {
+    "code": "202308311523053005",
+    "crawl_dir": "02-Sep-2023",
+    "date": "31-08-2023",
+    "dept": "Finance Department",
+    "download_time": "2023-09-02T14:22:04.463037",
+    "size_kb": "1245",
+    "text": "Maharashtra State Lotteries Prize structure and procedure of Maharashtra Sahyadri Dhanlaxmi (Monday) to Maharashtra Mohini (Sunday) Weekly Draws.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308311523053005.pdf",
+    "name": "mahfin-549.pdf",
+    "num_pages": 6,
+    "large_image_idxs": []
+  },
+  "202308311530196305.pdf": {
+    "code": "202308311530196305",
+    "crawl_dir": "02-Sep-2023",
+    "date": "31-08-2023",
+    "dept": "Finance Department",
+    "download_time": "2023-09-02T14:22:09.827978",
+    "size_kb": "1430",
+    "text": "Prize structure and procedure of Tejaswini Monthly Draw.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308311530196305.pdf",
+    "name": "mahfin-550.pdf",
+    "num_pages": 7,
+    "large_image_idxs": []
+  },
+  "202308311535531005.pdf": {
+    "code": "202308311535531005",
+    "crawl_dir": "02-Sep-2023",
+    "date": "31-08-2023",
+    "dept": "Finance Department",
+    "download_time": "2023-09-02T14:22:15.431373",
+    "size_kb": "1219",
+    "text": "Prize structure and procedure of Maharashtra gajalaxmi som, mangal, budh, guru, shrukra, shani, ravi weekly draw.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308311535531005.pdf",
+    "name": "mahfin-551.pdf",
+    "num_pages": 6,
+    "large_image_idxs": []
+  },
+  "202308311538144305.pdf": {
+    "code": "202308311538144305",
+    "crawl_dir": "02-Sep-2023",
+    "date": "31-08-2023",
+    "dept": "Finance Department",
+    "download_time": "2023-09-02T14:22:20.454291",
+    "size_kb": "1254",
+    "text": "Maharashtra State Lottery - Prize Structure and Procedure of Maharashtra Ganeshlaxmi Bhagyashali, Maharashtra Ganeshlaxmi Shubh , Maharashtra Ganeshlaxmi Vijayee , Maharashtra Ganeshlaxmi Gaurav, Maharashtra Ganeshlaxmi Dhan, Maharashtra Ganeshlaxmi Samrudhi Maharashtra Ganeshlaxmi Vaibhav.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308311538144305.pdf",
+    "name": "mahfin-552.pdf",
+    "num_pages": 7,
+    "large_image_idxs": []
   }
 }
