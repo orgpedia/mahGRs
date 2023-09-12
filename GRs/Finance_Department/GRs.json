@@ -6802,5 +6802,89 @@
     "name": "mahfin-552.pdf",
     "num_pages": 7,
     "large_image_idxs": []
+  },
+  "202309041445265105.pdf": {
+    "code": "202309041445265105",
+    "crawl_dir": "11-Sep-2023",
+    "date": "01-09-2023",
+    "dept": "Finance Department",
+    "download_time": "2023-09-11T08:51:14.088121",
+    "size_kb": "896",
+    "text": "List of Maharashtra State Government Sponsored Lottery schemes Period dt.04/09/2023. to dt.10/09/2023.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309041445265105.pdf",
+    "name": "mahfin-553.pdf",
+    "num_pages": 4,
+    "large_image_idxs": []
+  },
+  "202309051622471005.pdf": {
+    "code": "202309051622471005",
+    "crawl_dir": "11-Sep-2023",
+    "date": "05-09-2023",
+    "dept": "Finance Department",
+    "download_time": "2023-09-11T08:51:08.328990",
+    "size_kb": "386",
+    "text": "Regarding strict adherence to fiscal discipline while carrying out work related to Personal Deposit Accounts (P. D. A.)...",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309051622471005.pdf",
+    "name": "mahfin-554.pdf",
+    "num_pages": 7,
+    "large_image_idxs": []
+  },
+  "202309061453553605.pdf": {
+    "code": "202309061453553605",
+    "crawl_dir": "11-Sep-2023",
+    "date": "06-09-2023",
+    "dept": "Finance Department",
+    "download_time": "2023-09-11T08:50:53.509170",
+    "size_kb": "734",
+    "text": "About Maharashtra State Lottery Maharashtra Dussehra Grand Draw Prize Structure and Procedure.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309061453553605.pdf",
+    "name": "mahfin-555.pdf",
+    "num_pages": 7,
+    "large_image_idxs": []
+  },
+  "202309061532428905.pdf": {
+    "code": "202309061532428905",
+    "crawl_dir": "11-Sep-2023",
+    "date": "06-09-2023",
+    "dept": "Finance Department",
+    "download_time": "2023-09-11T08:50:57.669076",
+    "size_kb": "230",
+    "text": "Government Guarantee for the amount of loan and interest raised by Maharashtra State Electricity Distribution Company Limited (MSEDCL) from various Financial Institutions to cover the financial loss incurred during lockdown period due to the outbreak of Covid-19.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309061532428905.pdf",
+    "name": "mahfin-556.pdf",
+    "num_pages": 5,
+    "large_image_idxs": []
+  },
+  "202309081425050005.pdf": {
+    "code": "202309081425050005",
+    "crawl_dir": "11-Sep-2023",
+    "date": "31-08-2023",
+    "dept": "Finance Department",
+    "download_time": "2023-09-11T08:51:41.068097",
+    "size_kb": "1756",
+    "text": "Delegation of powers to the administrative departments for extending continuation to the temporary posts",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309081425050005.pdf",
+    "name": "mahfin-557.pdf",
+    "num_pages": 3,
+    "large_image_idxs": [
+      0,
+      1
+    ]
+  },
+  "202309081425227905.pdf": {
+    "code": "202309081425227905",
+    "crawl_dir": "11-Sep-2023",
+    "date": "06-09-2023",
+    "dept": "Finance Department",
+    "download_time": "2023-09-11T08:51:03.233882",
+    "size_kb": "1408",
+    "text": "Delegation of powers to the administrative departments for extending continuation to the temporary posts",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309081425227905.pdf",
+    "name": "mahfin-558.pdf",
+    "num_pages": 2,
+    "large_image_idxs": [
+      0,
+      1
+    ]
   }
 }

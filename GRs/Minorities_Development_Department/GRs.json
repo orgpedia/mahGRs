@@ -9740,5 +9740,31 @@
     "name": "mahmin-807.pdf",
     "num_pages": 3,
     "large_image_idxs": []
+  },
+  "202309041734050014.pdf": {
+    "code": "202309041734050014",
+    "crawl_dir": "11-Sep-2023",
+    "date": "04-09-2023",
+    "dept": "Minorities Development Department",
+    "download_time": "2023-09-11T09:06:28.561835",
+    "size_kb": "210",
+    "text": "Approval for open new budget head to make a provision and to disbursed fund for the Project of Minorty Dharmakshetra and Area Development Plans",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309041734050014.pdf",
+    "name": "mahmin-808.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202309051252074414.pdf": {
+    "code": "202309051252074414",
+    "crawl_dir": "11-Sep-2023",
+    "date": "05-09-2023",
+    "dept": "Minorities Development Department",
+    "download_time": "2023-09-11T09:06:24.006128",
+    "size_kb": "218",
+    "text": "Regarding distribution of funds in the financial year 2023-24 for honorarium, maintenance, repair and Outsourcing employees for Nanded Urdu Ghar..",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309051252074414.pdf",
+    "name": "mahmin-809.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
   }
 }

@@ -9156,5 +9156,57 @@
     "name": "mahtour-741.pdf",
     "num_pages": 2,
     "large_image_idxs": []
+  },
+  "202308311804471723.pdf": {
+    "code": "202308311804471723",
+    "crawl_dir": "11-Sep-2023",
+    "date": "31-08-2023",
+    "dept": "Tourism and Cultural Affairs Department",
+    "download_time": "2023-09-11T09:29:42.512806",
+    "size_kb": "155",
+    "text": "Regarding lifting the moratorium on administratively approved works under the Regional Tourism Development Plan in the year 2021-22 and allowing further action....",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308311804471723.pdf",
+    "name": "mahtour-742.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202309011438271323.pdf": {
+    "code": "202309011438271323",
+    "crawl_dir": "11-Sep-2023",
+    "date": "01-09-2023",
+    "dept": "Tourism and Cultural Affairs Department",
+    "download_time": "2023-09-11T09:29:38.320368",
+    "size_kb": "131",
+    "text": "Change in name of work approved under Regional Tourism Development Scheme 2021-22",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309011438271323.pdf",
+    "name": "mahtour-743.pdf",
+    "num_pages": 1,
+    "large_image_idxs": []
+  },
+  "202309061711044223.pdf": {
+    "code": "202309061711044223",
+    "crawl_dir": "11-Sep-2023",
+    "date": "06-09-2023",
+    "dept": "Tourism and Cultural Affairs Department",
+    "download_time": "2023-09-11T09:29:34.131525",
+    "size_kb": "732",
+    "text": "Regarding giving administrative approval for the travel and other expenses to bring back tiger claws of Chhatrapati Shivaji Maharaj.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309061711044223.pdf",
+    "name": "mahtour-744.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202309081238288323.pdf": {
+    "code": "202309081238288323",
+    "crawl_dir": "11-Sep-2023",
+    "date": "08-09-2023",
+    "dept": "Tourism and Cultural Affairs Department",
+    "download_time": "2023-09-11T09:29:29.701759",
+    "size_kb": "741",
+    "text": "Regarding allowing further action in respect of administratively approved works in the year 2021-22 under Tourism Development Scheme and disbursing funds by allowing further action in respect of administratively approved works in the year 2022-23.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309081238288323.pdf",
+    "name": "mahtour-745.pdf",
+    "num_pages": 20,
+    "large_image_idxs": []
   }
 }

@@ -18748,5 +18748,31 @@
     "name": "mahlaw-1549.pdf",
     "num_pages": 3,
     "large_image_idxs": []
+  },
+  "202309041511575612.pdf": {
+    "code": "202309041511575612",
+    "crawl_dir": "11-Sep-2023",
+    "date": "04-09-2023",
+    "dept": "Law and Judiciary Department",
+    "download_time": "2023-09-11T09:02:39.239459",
+    "size_kb": "851",
+    "text": "Regarding opening of Personal Deposit Account for - Civil judge, Senior Division Igatpuri , District Nashik",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309041511575612.pdf",
+    "name": "mahlaw-1550.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202309041642388812.pdf": {
+    "code": "202309041642388812",
+    "crawl_dir": "11-Sep-2023",
+    "date": "04-09-2023",
+    "dept": "Law and Judiciary Department",
+    "download_time": "2023-09-11T09:02:43.367854",
+    "size_kb": "151",
+    "text": "Furniture for the 2nd and 3rd floor for Court Building at Bhusaval, Dist Jalgaon",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309041642388812.pdf",
+    "name": "mahlaw-1551.pdf",
+    "num_pages": 4,
+    "large_image_idxs": []
   }
 }

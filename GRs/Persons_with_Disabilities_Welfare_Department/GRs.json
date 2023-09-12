@@ -308,5 +308,18 @@
     "name": "mahdis-24.pdf",
     "num_pages": 22,
     "large_image_idxs": []
+  },
+  "202309061803267935.pdf": {
+    "code": "202309061803267935",
+    "crawl_dir": "11-Sep-2023",
+    "date": "06-09-2023",
+    "dept": "Persons with Disabilities Welfare Department",
+    "download_time": "2023-09-11T09:10:50.698296",
+    "size_kb": "681",
+    "text": "To increase the amount of Permanent Advance of Person with Disability Welfare Department.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309061803267935.pdf",
+    "name": "mahdis-25.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
   }
 }

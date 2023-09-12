@@ -13129,5 +13129,33 @@
     "name": "mahsoc-1082.pdf",
     "num_pages": 2,
     "large_image_idxs": []
+  },
+  "202309061322218922.pdf": {
+    "code": "202309061322218922",
+    "crawl_dir": "11-Sep-2023",
+    "date": "06-09-2023",
+    "dept": "Social Justice and Special Assistance Department",
+    "download_time": "2023-09-11T09:26:13.315542",
+    "size_kb": "2877",
+    "text": "Regarding the selection of students for the Foreign Scholarship Scheme 2023-24 for the education of boys and girls belonging to Scheduled Castes and Neo-Buddhists...",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309061322218922.pdf",
+    "name": "mahsoc-1083.pdf",
+    "num_pages": 14,
+    "large_image_idxs": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ]
   }
 }

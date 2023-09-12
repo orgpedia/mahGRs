@@ -1255,5 +1255,18 @@
     "name": "mahpar-102.pdf",
     "num_pages": 2,
     "large_image_idxs": []
+  },
+  "202309041458029615.pdf": {
+    "code": "202309041458029615",
+    "crawl_dir": "11-Sep-2023",
+    "date": "04-09-2023",
+    "dept": "Parliamentary Affairs Department",
+    "download_time": "2023-09-11T09:09:38.483162",
+    "size_kb": "170",
+    "text": "Regarding the restructuring of the Internal Complaints Committee as per the provisions of the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act-2013....",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309041458029615.pdf",
+    "name": "mahpar-103.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
   }
 }

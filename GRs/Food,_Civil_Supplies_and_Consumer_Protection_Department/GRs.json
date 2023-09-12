@@ -10606,5 +10606,44 @@
     "name": "mahfood-871.pdf",
     "num_pages": 5,
     "large_image_idxs": []
+  },
+  "202308311254503406.pdf": {
+    "code": "202308311254503406",
+    "crawl_dir": "11-Sep-2023",
+    "date": "31-08-2023",
+    "dept": "Food, Civil Supplies and Consumer Protection Department",
+    "download_time": "2023-09-11T08:52:24.724083",
+    "size_kb": "298",
+    "text": "Regarding provision of subsidy for providing Shiv Bhojan to poor and needy persons at cheap rates..",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308311254503406.pdf",
+    "name": "mahfood-873.pdf",
+    "num_pages": 4,
+    "large_image_idxs": []
+  },
+  "202309041753228306.pdf": {
+    "code": "202309041753228306",
+    "crawl_dir": "11-Sep-2023",
+    "date": "04-09-2023",
+    "dept": "Food, Civil Supplies and Consumer Protection Department",
+    "download_time": "2023-09-11T08:52:19.965736",
+    "size_kb": "240",
+    "text": "Regarding revision of district wise quota under National Food Security Act, 2013 based on information on Ration Management System (RCMS)",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309041753228306.pdf",
+    "name": "mahfood-874.pdf",
+    "num_pages": 5,
+    "large_image_idxs": []
+  },
+  "202309081725304706.pdf": {
+    "code": "202309081725304706",
+    "crawl_dir": "11-Sep-2023",
+    "date": "08-09-2023",
+    "dept": "Food, Civil Supplies and Consumer Protection Department",
+    "download_time": "2023-09-11T08:52:11.676630",
+    "size_kb": "275",
+    "text": "Regarding giving administrative and financial approval for purchase of new computers and printers for legal metrology Department.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309081725304706.pdf",
+    "name": "mahfood-875.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
   }
 }
