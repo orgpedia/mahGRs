@@ -26657,5 +26657,44 @@
     "name": "mahcoop-2175.pdf",
     "num_pages": 7,
     "large_image_idxs": []
+  },
+  "202309131839027002.pdf": {
+    "code": "202309131839027002",
+    "crawl_dir": "16-Sep-2023",
+    "date": "13-09-2023",
+    "dept": "Co-operation, Textiles and Marketing Department",
+    "download_time": "2023-09-16T16:05:36.020095",
+    "size_kb": "209",
+    "text": "Regarding setting up of Study Group to Study of Private market Yard in the State.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309131839027002.pdf",
+    "name": "mahcoop-2177.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202309141855593102.pdf": {
+    "code": "202309141855593102",
+    "crawl_dir": "16-Sep-2023",
+    "date": "14-09-2023",
+    "dept": "Co-operation, Textiles and Marketing Department",
+    "download_time": "2023-09-16T16:05:27.215134",
+    "size_kb": "417",
+    "text": "Regarding sanction of rehabilitation loan to Jawahar Shetkari Cooperative Cotton Mill Morane, District Dhule.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309141855593102.pdf",
+    "name": "mahcoop-2178.pdf",
+    "num_pages": 6,
+    "large_image_idxs": []
+  },
+  "202309151411109202.pdf": {
+    "code": "202309151411109202",
+    "crawl_dir": "16-Sep-2023",
+    "date": "15-09-2023",
+    "dept": "Co-operation, Textiles and Marketing Department",
+    "download_time": "2023-09-16T16:05:18.251461",
+    "size_kb": "411",
+    "text": "Continuation of approved post of temporary Staff related to audit of urban co. op. banks.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309151411109202.pdf",
+    "name": "mahcoop-2179.pdf",
+    "num_pages": 4,
+    "large_image_idxs": []
   }
 }

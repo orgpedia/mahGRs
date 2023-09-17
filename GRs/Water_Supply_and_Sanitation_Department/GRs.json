@@ -37901,5 +37901,18 @@
     "name": "mahsanit-3133.pdf",
     "num_pages": 2,
     "large_image_idxs": []
+  },
+  "202309130958440828.pdf": {
+    "code": "202309130958440828",
+    "crawl_dir": "16-Sep-2023",
+    "date": "13-09-2023",
+    "dept": "Water Supply and Sanitation Department",
+    "download_time": "2023-09-16T16:56:11.087362",
+    "size_kb": "708",
+    "text": "Regarding the reconstitution of the committee to redress complaints of sexual harassment of women employees in the Supply and Sanitation Department",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309130958440828.pdf",
+    "name": "mahsanit-3134.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
   }
 }

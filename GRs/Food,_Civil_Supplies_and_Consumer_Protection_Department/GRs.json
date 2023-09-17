@@ -10645,5 +10645,44 @@
     "name": "mahfood-875.pdf",
     "num_pages": 2,
     "large_image_idxs": []
+  },
+  "202309141233242306.pdf": {
+    "code": "202309141233242306",
+    "crawl_dir": "16-Sep-2023",
+    "date": "14-09-2023",
+    "dept": "Food, Civil Supplies and Consumer Protection Department",
+    "download_time": "2023-09-16T16:09:04.797646",
+    "size_kb": "145",
+    "text": "Regarding the extension of 175 temporary posts in the Metrology System for the period from 1st September, 2023 to 29th February, 2024.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309141233242306.pdf",
+    "name": "mahfood-877.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202309141236072806.pdf": {
+    "code": "202309141236072806",
+    "crawl_dir": "16-Sep-2023",
+    "date": "14-09-2023",
+    "dept": "Food, Civil Supplies and Consumer Protection Department",
+    "download_time": "2023-09-16T16:09:10.106473",
+    "size_kb": "647",
+    "text": "Regarding approving provision of services to Vehicle Drivers through External Mechanism from the contractor for office of the Controller Legal Metrology Department.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309141236072806.pdf",
+    "name": "mahfood-878.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202309151118557006.pdf": {
+    "code": "202309151118557006",
+    "crawl_dir": "16-Sep-2023",
+    "date": "15-09-2023",
+    "dept": "Food, Civil Supplies and Consumer Protection Department",
+    "download_time": "2023-09-16T16:09:00.226812",
+    "size_kb": "684",
+    "text": "Regarding absorption of employees/ officers working in office of commissioner supply, Mumbai and Directorate of civil supplies (GOA) under Food, Civil supplies and consumer protection department",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309151118557006.pdf",
+    "name": "mahfood-879.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
   }
 }

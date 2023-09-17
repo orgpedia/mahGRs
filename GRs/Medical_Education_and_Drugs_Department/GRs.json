@@ -10927,5 +10927,44 @@
     "name": "mahmed-911.pdf",
     "num_pages": 8,
     "large_image_idxs": []
+  },
+  "202309111652050113.pdf": {
+    "code": "202309111652050113",
+    "crawl_dir": "16-Sep-2023",
+    "date": "11-09-2023",
+    "dept": "Medical Education and Drugs Department",
+    "download_time": "2023-09-16T16:28:15.255399",
+    "size_kb": "324",
+    "text": "Distribution of Construction Fund for Government Medical College and Cancer Hospital, Aurangabad",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309111652050113.pdf",
+    "name": "mahmed-913.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202309111753566813.pdf": {
+    "code": "202309111753566813",
+    "crawl_dir": "16-Sep-2023",
+    "date": "11-09-2023",
+    "dept": "Medical Education and Drugs Department",
+    "download_time": "2023-09-16T16:28:19.423383",
+    "size_kb": "145",
+    "text": "Setting up a committee to develop an independent online system to make available reserved beds in charity hospitals for poor and impecunious patients in a transparent manner.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309111753566813.pdf",
+    "name": "mahmed-914.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202309151418096113.pdf": {
+    "code": "202309151418096113",
+    "crawl_dir": "16-Sep-2023",
+    "date": "15-09-2023",
+    "dept": "Medical Education and Drugs Department",
+    "download_time": "2023-09-16T16:28:10.131620",
+    "size_kb": "157",
+    "text": "Administrative Approval For Construction of 24 Nurses Hostel Building for Student Junior Senior Resident Doctors Interns of Government Medical College, Alibag at District General Hospital, Alibag",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309151418096113.pdf",
+    "name": "mahmed-915.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
   }
 }

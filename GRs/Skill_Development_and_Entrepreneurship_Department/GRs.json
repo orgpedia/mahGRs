@@ -9902,5 +9902,44 @@
     "name": "mahskill-815.pdf",
     "num_pages": 8,
     "large_image_idxs": []
+  },
+  "202309111441181303.pdf": {
+    "code": "202309111441181303",
+    "crawl_dir": "16-Sep-2023",
+    "date": "11-09-2023",
+    "dept": "Skill Development and Entrepreneurship Department",
+    "download_time": "2023-09-16T16:46:08.854706",
+    "size_kb": "249",
+    "text": "Regarding determination of superannuation pay for employees retiring/retiring on 30th June taking into account notional increment on next 1st July.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309111441181303.pdf",
+    "name": "mahskill-816.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202309131200148503.pdf": {
+    "code": "202309131200148503",
+    "crawl_dir": "16-Sep-2023",
+    "date": "13-09-2023",
+    "dept": "Skill Development and Entrepreneurship Department",
+    "download_time": "2023-09-16T16:46:04.517663",
+    "size_kb": "1081",
+    "text": "Regarding approving stipend at the revised rate of Rs. 500 per month from the academic year 2023-24 to all categories of trainee admitted in Government Industrial training institute",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309131200148503.pdf",
+    "name": "mahskill-817.pdf",
+    "num_pages": 8,
+    "large_image_idxs": []
+  },
+  "202309141700003103.pdf": {
+    "code": "202309141700003103",
+    "crawl_dir": "16-Sep-2023",
+    "date": "14-09-2023",
+    "dept": "Skill Development and Entrepreneurship Department",
+    "download_time": "2023-09-16T16:45:58.473397",
+    "size_kb": "698",
+    "text": "Regarding redistribution of funds amounting to Rs.80,02,170/- from (28) Professional Services to (17) Computer Expenditure under the Major head Demand No. ZA-2, 2230 Labor and Service (01) (07) 2230 6109 under E-Governance Scheme.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309141700003103.pdf",
+    "name": "mahskill-818.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
   }
 }

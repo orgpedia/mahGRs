@@ -321,5 +321,57 @@
     "name": "mahdis-25.pdf",
     "num_pages": 2,
     "large_image_idxs": []
+  },
+  "202309111313519835.pdf": {
+    "code": "202309111313519835",
+    "crawl_dir": "16-Sep-2023",
+    "date": "11-09-2023",
+    "dept": "Persons with Disabilities Welfare Department",
+    "download_time": "2023-09-16T16:33:09.677477",
+    "size_kb": "150",
+    "text": "To release the amount approved by Supplementary Demand for Fees to be paid for registration on the website of the Ministry of Corporate Affairs/ Registrar of Companies, Mumbai for increasing the share capital of a corporation from Rs.50 crores to Rs.500 crores.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309111313519835.pdf",
+    "name": "mahdis-26.pdf",
+    "num_pages": 4,
+    "large_image_idxs": []
+  },
+  "202309131405484835.pdf": {
+    "code": "202309131405484835",
+    "crawl_dir": "16-Sep-2023",
+    "date": "13-09-2023",
+    "dept": "Persons with Disabilities Welfare Department",
+    "download_time": "2023-09-16T16:33:05.354116",
+    "size_kb": "147",
+    "text": "Maharashtra State Disability Finance and Development Corporation Limited, Mumbai regarding disbursement of grant under 36-Subsidiary Grants (Salary) in Financial year 2023-24 (Mandatory) (Unconditional)",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309131405484835.pdf",
+    "name": "mahdis-27.pdf",
+    "num_pages": 4,
+    "large_image_idxs": []
+  },
+  "202309151619519535.pdf": {
+    "code": "202309151619519535",
+    "crawl_dir": "16-Sep-2023",
+    "date": "15-09-2023",
+    "dept": "Persons with Disabilities Welfare Department",
+    "download_time": "2023-09-16T16:32:56.823549",
+    "size_kb": "147",
+    "text": "Regarding disbursement of share capital contribution grant (Conditional) to Maharashtra State Disability Finance and Development Corporation Ltd., Mumbai the financial year 2023-24. Account heading 42350743, 54-Investment.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309151619519535.pdf",
+    "name": "mahdis-28.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202309151624590935.pdf": {
+    "code": "202309151624590935",
+    "crawl_dir": "16-Sep-2023",
+    "date": "15-09-2023",
+    "dept": "Persons with Disabilities Welfare Department",
+    "download_time": "2023-09-16T16:33:01.213553",
+    "size_kb": "146",
+    "text": "Regarding disbursement of grant under 31-subsidiary Grants (Non-salary) to Maharashtra State Disability Finance and Development Corporation Ltd., Mumbai in financial year 2023-24 (Conditional)",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309151624590935.pdf",
+    "name": "mahdis-29.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
   }
 }

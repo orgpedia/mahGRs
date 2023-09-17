@@ -1268,5 +1268,18 @@
     "name": "mahpar-103.pdf",
     "num_pages": 3,
     "large_image_idxs": []
+  },
+  "202309121658524215.pdf": {
+    "code": "202309121658524215",
+    "crawl_dir": "16-Sep-2023",
+    "date": "12-09-2023",
+    "dept": "Parliamentary Affairs Department",
+    "download_time": "2023-09-16T16:31:44.026894",
+    "size_kb": "139",
+    "text": "Continuation of 06 temporary post of parliamentary affairs department upto 29th February 2024.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309121658524215.pdf",
+    "name": "mahpar-104.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
   }
 }

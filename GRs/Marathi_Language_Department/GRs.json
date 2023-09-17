@@ -3517,5 +3517,57 @@
     "name": "mahmar-296.pdf",
     "num_pages": 3,
     "large_image_idxs": []
+  },
+  "202309111250528033.pdf": {
+    "code": "202309111250528033",
+    "crawl_dir": "16-Sep-2023",
+    "date": "11-09-2023",
+    "dept": "Marathi Language Department",
+    "download_time": "2023-09-16T16:27:09.498171",
+    "size_kb": "827",
+    "text": "To Celebrate 15th October, Birthday of former President late Dr. A.P.J. Abdul Kalam, as Reading Inspiration Day.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309111250528033.pdf",
+    "name": "mahmar-298.pdf",
+    "num_pages": 6,
+    "large_image_idxs": []
+  },
+  "202309131554067933.pdf": {
+    "code": "202309131554067933",
+    "crawl_dir": "16-Sep-2023",
+    "date": "13-09-2023",
+    "dept": "Marathi Language Department",
+    "download_time": "2023-09-16T16:26:53.976546",
+    "size_kb": "691",
+    "text": "3)Continuation for the temporary posts in Directorate of Languages for the period from 01.09.2023 to 29.02.2024.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309131554067933.pdf",
+    "name": "mahmar-299.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202309131558515933.pdf": {
+    "code": "202309131558515933",
+    "crawl_dir": "16-Sep-2023",
+    "date": "13-09-2023",
+    "dept": "Marathi Language Department",
+    "download_time": "2023-09-16T16:26:59.327970",
+    "size_kb": "691",
+    "text": "1) Continuation for the temporary posts in Maharashtra State Marathi Vishwakosh Nirmiti Mandal for the period from 01.09.2023 to 29.02.2024.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309131558515933.pdf",
+    "name": "mahmar-300.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202309131600252133.pdf": {
+    "code": "202309131600252133",
+    "crawl_dir": "16-Sep-2023",
+    "date": "13-09-2023",
+    "dept": "Marathi Language Department",
+    "download_time": "2023-09-16T16:27:04.581319",
+    "size_kb": "695",
+    "text": "1)Continuation for the temporary posts in Maharashtra State Board for Literature and Culture for the period from 01.09.2023 to 29.02.2024.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309131600252133.pdf",
+    "name": "mahmar-301.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
   }
 }
