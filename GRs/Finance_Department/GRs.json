@@ -6990,5 +6990,18 @@
     "name": "mahfin-566.pdf",
     "num_pages": 3,
     "large_image_idxs": []
+  },
+  "202309181108440505.pdf": {
+    "code": "202309181108440505",
+    "crawl_dir": "23-Sep-2023",
+    "date": "15-09-2023",
+    "dept": "Finance Department",
+    "download_time": "2023-09-23T12:29:06.255357",
+    "size_kb": "502",
+    "text": "List of Lottery Schemes Sponsored by Maharashtra Govt.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309181108440505.pdf",
+    "name": "mahfin-567.pdf",
+    "num_pages": 4,
+    "large_image_idxs": []
   }
 }

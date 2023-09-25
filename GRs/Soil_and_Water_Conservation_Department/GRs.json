@@ -21012,5 +21012,31 @@
     "name": "mahsoil-1729.pdf",
     "num_pages": 3,
     "large_image_idxs": []
+  },
+  "202309211308570426.pdf": {
+    "code": "202309211308570426",
+    "crawl_dir": "23-Sep-2023",
+    "date": "21-09-2023",
+    "dept": "Soil & Water Conservation Department",
+    "download_time": "2023-09-23T13:07:28.792742",
+    "size_kb": "158",
+    "text": "Regarding extension of temporary posts on establishment of Soil and Water Conservation Department.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309211308570426.pdf",
+    "name": "mahsoil-1730.pdf",
+    "num_pages": 6,
+    "large_image_idxs": []
+  },
+  "202309211628277526.pdf": {
+    "code": "202309211628277526",
+    "crawl_dir": "23-Sep-2023",
+    "date": "21-09-2023",
+    "dept": "Soil & Water Conservation Department",
+    "download_time": "2023-09-23T13:07:34.170101",
+    "size_kb": "831",
+    "text": "Regarding the partial modification of the order of posting by promotion in the cadre of Sub-Divisional Water Conservation Officer (Construction) and other equivalent posts.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309211628277526.pdf",
+    "name": "mahsoil-1731.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
   }
 }

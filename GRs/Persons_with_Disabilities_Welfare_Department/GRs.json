@@ -373,5 +373,18 @@
     "name": "mahdis-29.pdf",
     "num_pages": 3,
     "large_image_idxs": []
+  },
+  "202309181403136535.pdf": {
+    "code": "202309181403136535",
+    "crawl_dir": "23-Sep-2023",
+    "date": "18-09-2023",
+    "dept": "Persons with Disabilities Welfare Department",
+    "download_time": "2023-09-23T12:51:59.303840",
+    "size_kb": "306",
+    "text": "Regarding the appointment of a Cabinet Sub-Committee to take up the various demands of the Deaf Divyang in the state.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309181403136535.pdf",
+    "name": "mahdis-30.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
   }
 }

@@ -20036,5 +20036,51 @@
     "name": "mahtrib-1650.pdf",
     "num_pages": 8,
     "large_image_idxs": []
+  },
+  "202309061756462424.pdf": {
+    "code": "202309061756462424",
+    "crawl_dir": "23-Sep-2023",
+    "date": "14-09-2023",
+    "dept": "Tribal Development Department",
+    "download_time": "2023-09-23T13:10:25.999945",
+    "size_kb": "1628",
+    "text": "Endorsement regarding use of SNA-SPARSH for just-in-time disbursement of funds of Centrally sponsored schemes.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309061756462424.pdf",
+    "name": "mahtrib-1651.pdf",
+    "num_pages": 7,
+    "large_image_idxs": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  "202309061757168424.pdf": {
+    "code": "202309061757168424",
+    "crawl_dir": "23-Sep-2023",
+    "date": "18-09-2023",
+    "dept": "Tribal Development Department",
+    "download_time": "2023-09-23T13:09:58.143115",
+    "size_kb": "395",
+    "text": "To release grant for the scheme of district annual sub plan under the TSP in financial year 2023-24 (demand no T-9, T-10)",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309061757168424.pdf",
+    "name": "mahtrib-1652.pdf",
+    "num_pages": 22,
+    "large_image_idxs": []
+  },
+  "202309221523584624.pdf": {
+    "code": "202309221523584624",
+    "crawl_dir": "23-Sep-2023",
+    "date": "22-09-2023",
+    "dept": "Tribal Development Department",
+    "download_time": "2023-09-23T13:09:49.335344",
+    "size_kb": "150",
+    "text": "Regarding extending the tenure of a total of 342 temporary posts from 01.09.2023 to 29.02.2024 in the office of the Commissioner, Tribal Research and Training Institute, Pune and all the Scheduled Tribe Certificate Inspection Committee offices under him.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309221523584624.pdf",
+    "name": "mahtrib-1653.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
   }
 }

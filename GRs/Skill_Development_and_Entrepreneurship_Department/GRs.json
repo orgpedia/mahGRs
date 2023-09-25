@@ -9941,5 +9941,70 @@
     "name": "mahskill-818.pdf",
     "num_pages": 2,
     "large_image_idxs": []
+  },
+  "202309201818407003.pdf": {
+    "code": "202309201818407003",
+    "crawl_dir": "23-Sep-2023",
+    "date": "20-09-2023",
+    "dept": "Skill Development and Entrepreneurship Department",
+    "download_time": "2023-09-23T13:05:00.191745",
+    "size_kb": "431",
+    "text": "Maharashtra State Board of Skill, Vocational Education and Training regarding approval to start new/additional units of certificate courses in technical group on self-financed basis from the academic year 2023-24.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309201818407003.pdf",
+    "name": "mahskill-819.pdf",
+    "num_pages": 8,
+    "large_image_idxs": []
+  },
+  "202309201822314703.pdf": {
+    "code": "202309201822314703",
+    "crawl_dir": "23-Sep-2023",
+    "date": "20-09-2023",
+    "dept": "Skill Development and Entrepreneurship Department",
+    "download_time": "2023-09-23T13:05:04.894399",
+    "size_kb": "447",
+    "text": "Maharashtra State Board of Skill, Vocational Education and Training regarding approval to start new/additional batches of certificate courses in non-technical group on self-financed basis from the academic year 2023-24.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309201822314703.pdf",
+    "name": "mahskill-820.pdf",
+    "num_pages": 9,
+    "large_image_idxs": []
+  },
+  "202309201825342403.pdf": {
+    "code": "202309201825342403",
+    "crawl_dir": "23-Sep-2023",
+    "date": "20-09-2023",
+    "dept": "Skill Development and Entrepreneurship Department",
+    "download_time": "2023-09-23T13:05:09.474499",
+    "size_kb": "411",
+    "text": "Maharashtra State Board of Skill, Vocational Education and Training regarding approval to start new/additional units of Certificate Course in Computer Group on self-financed basis from the academic year 2023-24.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309201825342403.pdf",
+    "name": "mahskill-821.pdf",
+    "num_pages": 7,
+    "large_image_idxs": []
+  },
+  "202309201829340303.pdf": {
+    "code": "202309201829340303",
+    "crawl_dir": "23-Sep-2023",
+    "date": "20-09-2023",
+    "dept": "Skill Development and Entrepreneurship Department",
+    "download_time": "2023-09-23T13:05:14.245638",
+    "size_kb": "404",
+    "text": "Maharashtra State Board of Skill, Vocational Education and Training regarding approval to start new/additional units of certificate course in paramedical group from the academic year 2023-24 on self-financed basis.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309201829340303.pdf",
+    "name": "mahskill-822.pdf",
+    "num_pages": 12,
+    "large_image_idxs": []
+  },
+  "202309201832364803.pdf": {
+    "code": "202309201832364803",
+    "crawl_dir": "23-Sep-2023",
+    "date": "20-09-2023",
+    "dept": "Skill Development and Entrepreneurship Department",
+    "download_time": "2023-09-23T13:05:19.324756",
+    "size_kb": "511",
+    "text": "Maharashtra State Board of Skill, Vocational Education and Training regarding approval to start new/additional units of certificate course in paramedical group from the academic year 2023-24 on self-financed basis.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309201832364803.pdf",
+    "name": "mahskill-823.pdf",
+    "num_pages": 20,
+    "large_image_idxs": []
   }
 }

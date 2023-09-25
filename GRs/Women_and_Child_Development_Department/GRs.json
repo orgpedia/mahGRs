@@ -13419,5 +13419,44 @@
     "name": "mahwom-1103.pdf",
     "num_pages": 3,
     "large_image_idxs": []
+  },
+  "202309201413554830.pdf": {
+    "code": "202309201413554830",
+    "crawl_dir": "23-Sep-2023",
+    "date": "20-09-2023",
+    "dept": "Women and Child Development Department",
+    "download_time": "2023-09-23T13:15:51.454334",
+    "size_kb": "751",
+    "text": "Regarding implementation of Chief Minister Women Empowerment Campaign in the state.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309201413554830.pdf",
+    "name": "mahwom-1104.pdf",
+    "num_pages": 6,
+    "large_image_idxs": []
+  },
+  "202309201605284830.pdf": {
+    "code": "202309201605284830",
+    "crawl_dir": "23-Sep-2023",
+    "date": "20-09-2023",
+    "dept": "Women and Child Development Department",
+    "download_time": "2023-09-23T13:15:46.236851",
+    "size_kb": "266",
+    "text": "Release of funds for Committed Expenses of Women and Child Development Department for financial year 2023-24",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309201605284830.pdf",
+    "name": "mahwom-1105.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202309211354234430.pdf": {
+    "code": "202309211354234430",
+    "crawl_dir": "23-Sep-2023",
+    "date": "21-09-2023",
+    "dept": "Women and Child Development Department",
+    "download_time": "2023-09-23T13:15:41.641983",
+    "size_kb": "492",
+    "text": "Regarding implementation of Chief Minister Women Empowerment Campaign in the state.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309211354234430.pdf",
+    "name": "mahwom-1106.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
   }
 }
