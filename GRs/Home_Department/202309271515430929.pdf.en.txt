@@ -1,0 +1,49 @@
+# Page 1
+Administrative approval for implementation of cyber security projects in the State.
+The Government of Maharashtra
+the Home Department
+Government Resolution No. Meeting- 0823/ P.S.No.156/ VISA-3A
+Ministry, Mumbai- 400032.
+Date: 27th of September 2023
+Read: 1) Government Resolution No. 2016/ No. 21/ VISA-3A, D. 04.06.2016 2) Government Resolution No. 2016/ No. 25/ VISA-3A, D. 19.05.2023 3) Ma. Under the chairmanship of Additional Chief Secretary (Home), Shri. Minutes of the meeting of the High Level Committee held on 27.06.2023.
+4) Ma. Office of the Chief Secretary. vide letter dated 21.09.2023. Minutes of the Cabinet Meeting held on 06.09.2023.
+Introduction: Cybercrime has emerged as the world's largest organized crime and the rate of committing crimes through cyber fraud has increased in the state. It has become imperative to design solutions with state-of-the-art technology, skilled manpower and resources, keeping the vulnerable citizens, especially women, children and senior citizens, at the centre.
+To take immediate measures against cybercrime, the government is considering to implement a" Cyber Security Project" under the various technology development projects proposed by the Home Department through the state government.
+Government's decision:
+1) To take immediate measures against cybercrime, the State Government is giving administrative approval to implement" Cyber Security Project" under various technology development projects of the Home Department.
+Key components of the Maharashtra Cyber Security Project.
+i.Command& Control Centre: Citizens can be contacted to register complaints through the portal, mobile app and 24/7 call centre. The grievances will be resolved using the workflow management module of the portal.
+Technology Assisted Investigation: Investigation will be done with the help of forensic tools and advanced technology. as well as the crime officers
+# Page 2
+Government Resolution No: Meeting- 0823/ P.S.No.156/ VISA-3A
+They will provide technical information and help in the investigation so that it is possible to expose the crime by going to the root of the crime.
+Centre of Excellence: This will include international level training and capacity building programmes for officers.
+CERT-Maharashtra (Computer Emergency Response Team): Services such as cyber security audit monitoring, rapid cyber security response and recovery services will be provided with a focus on critical systems.
+Cloud-based Data Center: All the data collected under this project will be hosted on the Government Community Cloud (GCC).
+vi. Security Operation Centre: The cyber project will be continuously monitored by the team. So that competent measures can be taken by responding in a timely manner to any cyber attack incident.
+Implementation of the project: i. The project is being implemented. The high-level power of the Home Department, which has been formed as per the directions of the Chief Minister, will be done under the supervision and guidance of the given committee. The implementation will also be reviewed from time to time.
+The Cyber Security Project to be implemented by the State Government will be implemented through the Special Inspector General of Police (Cyber). For this, a technical evaluation committee consisting of subject-wise experts will be formed under the chairmanship of Special Inspector General of Police (Cyber) Mumbai for the technical evaluation of companies interested in the Request for Proposal to be published for the appointment of Project Implementation Committee and System Integrator. A Special Investigation Team (SIT) of the Mumbai Police has been constituted to investigate the matter.
+The Special Inspector General of Police (Cyber), Mumbai will be responsible for the complete bid management process, project monitoring, operations, implementation and maintenance for the appointment of system integrators for implementing cyber security projects.
+The Special Inspector General of Police (Cyber), Mumbai, while executing the Cyber Security Project, issued the Industrial, Energy and Labour Governments Decision No. Bhankhas-2014/ S.No.82/ Part-III/ Industries-4,
+Page 2 of 6
+# Page 3
+Government Resolution No: Meeting- 0823/ P.S.No.156/ VISA-3A
+The procedures for procurement prescribed under D. 1.12.2016 and the Government Orders issued from time to time in pursuance thereof shall be followed.
+Industry stakeholders and academia in the IT sector should be involved as required while implementing the cyber security project.
+vi. The Project Consultant Company/ System Integrator/ Service Provider appointed for the Cyber Security Project will be required to submit a revised monthly report on the current status of the project proceedings to the Special Inspector General of Police (Cyber), Mumbai.
+vii. Since the said Cyber Security Project is being implemented by the Special Inspector General of Police (Cyber), Mumbai, the performance report of the consultant appointed as Project Consultant/ System Integrator/ Service Provider is required to be certified by the Special Inspector General of Police (Cyber), Mumbai and the certificate for the same is to be submitted to the Government from time to time.
+Duration: The total duration of the cyber security project will be for 5.5 years. The project is expected to be completed in six months. Warranty period is 5 (five) years. The entire cost of maintenance and repair during the five-year period will be borne by the System Integrator (SI). No additional funds will be paid to the System Integrator (SI). Also, System Integrators (SI) can be given extension for next 5 years on the basis of performance.
+(a) Financial provision: i. A total of Rs. Administrative approval has been given to spend an amount of Rs. 837.86 crore plus taxes. The category wise expenditure will be as per Annexure A attached.
+""" ii.According to the decision dated 4th June, 2016, under the scheme\"" Miscellaneous Technology Development Projects\"" in the Home Department, the head of account is:\"" Demand No.""" B-1, 2055-Police (00) 115, Modernization of Police Force (01) Various Technology Development Projects (01) (01) Technology Development Projects (2055 A 032), the title of this article has been provided. A total amount of Rs. 837.86 crore is being approved for the above project from 2023-24 to 2028-29 under the head of accounts.
+6) For the Cyber Security Project to be implemented under the" Various Technology Development Projects" of the Home Department. As per the project report prepared for the project by the Project Consultant Company appointed under the Government Order dated 21.10.2022, and the Rs.
+Page 3 of 6
+# Page 4
+Government Resolution No: Meeting- 0823/ P.S.No.156/ VISA-3A
+on 27.06.2023. The project should be implemented as per the draft Request for Proposal approved by a high-level empowered committee chaired by the Additional Chief Secretary (Home).
+7) The process of appointing the necessary project consultant for the cyber security project will be carried out in accordance with the government decision issued from time to time for the project consultant by the Department of Information Technology.
+8) The confidentiality of all information collected during the operation of the project is important for security.
+Since the projects under the" Miscellaneous Technology Development Projects" of the Home Department are confidential, it shall be the sole responsibility of the Project Consultant/ System Integrator/ Service Provider not to disclose the information compiled by any of the selected Project Consultants to any third party without prior permission from any authority other than the Government. Any violation of this order will be dealt with by the Special Inspector General of Police (Cyber), Mumbai.
+10) The Government shall have the full right to terminate the contract with the Project Consultant Company at any time if the instructions or conditions prescribed from time to time are not complied with and the work done by the Project Consultant Company is found to be unsatisfactory by the Government.
+It is the government's decision. This is being issued in pursuance of the decision taken in the Cabinet meeting held on 06.09.2023.
+# Page 5
+# Page 6

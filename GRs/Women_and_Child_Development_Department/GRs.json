@@ -13458,5 +13458,44 @@
     "name": "mahwom-1106.pdf",
     "num_pages": 2,
     "large_image_idxs": []
+  },
+  "202309261006062930.pdf": {
+    "code": "202309261006062930",
+    "crawl_dir": "01-Oct-2023",
+    "date": "26-09-2023",
+    "dept": "Women and Child Development Department",
+    "download_time": "2023-10-01T12:44:52.966376",
+    "size_kb": "539",
+    "text": "Regarding approval for implementation of the centrally sponsored program Poshan Abhiyan in the state. As per the guidelines given by the Central Government under Poshan 2.0 as well as the revised ratio of Center and State 60: 40.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309261006062930.pdf",
+    "name": "mahwom-1107.pdf",
+    "num_pages": 8,
+    "large_image_idxs": []
+  },
+  "202309261006447430.pdf": {
+    "code": "202309261006447430",
+    "crawl_dir": "01-Oct-2023",
+    "date": "26-09-2023",
+    "dept": "Women and Child Development Department",
+    "download_time": "2023-10-01T12:44:57.557941",
+    "size_kb": "219",
+    "text": "Grant release for Mazi Kanya Bhagyashree scheme for 2023-24",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309261006447430.pdf",
+    "name": "mahwom-1108.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202309271203372630.pdf": {
+    "code": "202309271203372630",
+    "crawl_dir": "01-Oct-2023",
+    "date": "27-09-2023",
+    "dept": "Women and Child Development Department",
+    "download_time": "2023-10-01T12:44:48.202433",
+    "size_kb": "131",
+    "text": "Regarding disbursement of funds for year 2023-24 under scheme of Bhikshekari gruh (2235-2878)",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309271203372630.pdf",
+    "name": "mahwom-1109.pdf",
+    "num_pages": 1,
+    "large_image_idxs": []
   }
 }

@@ -4538,5 +4538,44 @@
     "name": "mahbah-361.pdf",
     "num_pages": 5,
     "large_image_idxs": []
+  },
+  "202309271528146134.pdf": {
+    "code": "202309271528146134",
+    "crawl_dir": "01-Oct-2023",
+    "date": "27-09-2023",
+    "dept": "Other Backward Bahujan Welfare Department",
+    "download_time": "2023-10-01T12:13:14.219786",
+    "size_kb": "143",
+    "text": "Regarding implementation of Modi Awas Gharkul Scheme for Other Backward Classes and Special Backward Classes beneficiaries in the state.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309271528146134.pdf",
+    "name": "mahbah-362.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202309271532066134.pdf": {
+    "code": "202309271532066134",
+    "crawl_dir": "01-Oct-2023",
+    "date": "26-09-2023",
+    "dept": "Other Backward Bahujan Welfare Department",
+    "download_time": "2023-10-01T12:13:19.155653",
+    "size_kb": "136",
+    "text": "Regarding mapping of 261 courses of ITI for students belonging to VJNT, OBC and SBC class on MahaDBT system for reimbursement of training fees.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309271532066134.pdf",
+    "name": "mahbah-363.pdf",
+    "num_pages": 1,
+    "large_image_idxs": []
+  },
+  "202309271537147334.pdf": {
+    "code": "202309271537147334",
+    "crawl_dir": "01-Oct-2023",
+    "date": "18-09-2023",
+    "dept": "Other Backward Bahujan Welfare Department",
+    "download_time": "2023-10-01T12:13:45.986113",
+    "size_kb": "149",
+    "text": "Regarding Disbursement of Fund of Post- Matric Scholarship Scheme in the Financial Year 2023-24.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309271537147334.pdf",
+    "name": "mahbah-364.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
   }
 }

@@ -33499,5 +33499,57 @@
     "name": "mahpwd-2773.pdf",
     "num_pages": 3,
     "large_image_idxs": []
+  },
+  "202309251336214618.pdf": {
+    "code": "202309251336214618",
+    "crawl_dir": "01-Oct-2023",
+    "date": "25-09-2023",
+    "dept": "Public Works Department",
+    "download_time": "2023-10-01T12:20:30.438900",
+    "size_kb": "647",
+    "text": "(Appointment to the Post of Managing Director, Maharashtra State Infrastructure Development Corporation Ltd., Mumbai)",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309251336214618.pdf",
+    "name": "mahpwd-2774.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202309261537399818.pdf": {
+    "code": "202309261537399818",
+    "crawl_dir": "01-Oct-2023",
+    "date": "26-09-2023",
+    "dept": "Public Works Department",
+    "download_time": "2023-10-01T12:20:16.067346",
+    "size_kb": "676",
+    "text": "Regarding the continuation of temporary posts in the office under Chief Engineer, Public Works Regional Department, Nagpur.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309261537399818.pdf",
+    "name": "mahpwd-2775.pdf",
+    "num_pages": 8,
+    "large_image_idxs": []
+  },
+  "202309261543281418.pdf": {
+    "code": "202309261543281418",
+    "crawl_dir": "01-Oct-2023",
+    "date": "26-09-2023",
+    "dept": "Public Works Department",
+    "download_time": "2023-10-01T12:20:20.790729",
+    "size_kb": "645",
+    "text": "Regarding continuation of temporary posts in the office under Chief Engineer (Electrical), Mumbai",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309261543281418.pdf",
+    "name": "mahpwd-2776.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202309261547375418.pdf": {
+    "code": "202309261547375418",
+    "crawl_dir": "01-Oct-2023",
+    "date": "26-09-2023",
+    "dept": "Public Works Department",
+    "download_time": "2023-10-01T12:20:25.299347",
+    "size_kb": "1253",
+    "text": "Regarding extension of temporary posts in the office of Director, Mumbai Development Department, Chali, Worli, Mumbai.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309261547375418.pdf",
+    "name": "mahpwd-2777.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
   }
 }
