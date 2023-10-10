@@ -10736,5 +10736,31 @@
     "name": "mahfood-884.pdf",
     "num_pages": 5,
     "large_image_idxs": []
+  },
+  "202310031853351806.pdf": {
+    "code": "202310031853351806",
+    "crawl_dir": "08-Oct-2023",
+    "date": "03-10-2023",
+    "dept": "Food, Civil Supplies and Consumer Protection Department",
+    "download_time": "2023-10-08T10:48:58.315608",
+    "size_kb": "172",
+    "text": "Distribution of Aanandacha Shidha kit containing six items on the occasion of upcoming Diwali Festival.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310031853351806.pdf",
+    "name": "mahfood-886.pdf",
+    "num_pages": 4,
+    "large_image_idxs": []
+  },
+  "202310051422441506.pdf": {
+    "code": "202310051422441506",
+    "crawl_dir": "08-Oct-2023",
+    "date": "05-10-2023",
+    "dept": "Food, Civil Supplies and Consumer Protection Department",
+    "download_time": "2023-10-08T10:48:54.158257",
+    "size_kb": "329",
+    "text": "Consumer Commission recruitment for the post of President and member-2023 Regarding posting of candidates recommended for the post of President and members in respective Consumer Commission.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310051422441506.pdf",
+    "name": "mahfood-887.pdf",
+    "num_pages": 8,
+    "large_image_idxs": []
   }
 }

@@ -19973,5 +19973,70 @@
     "name": "mahind-1646.pdf",
     "num_pages": 2,
     "large_image_idxs": []
+  },
+  "202310031151272910.pdf": {
+    "code": "202310031151272910",
+    "crawl_dir": "08-Oct-2023",
+    "date": "03-10-2023",
+    "dept": "Industries, Energy and Labour Department",
+    "download_time": "2023-10-08T10:58:12.584287",
+    "size_kb": "217",
+    "text": "Regarding the constitution of a Selection Committee and Scrutiny Committee for the recommendation of the newly created post of Director General in the Directorate of Geology and Mines...",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310031151272910.pdf",
+    "name": "mahind-1647.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202310051541353810.pdf": {
+    "code": "202310051541353810",
+    "crawl_dir": "08-Oct-2023",
+    "date": "05-10-2023",
+    "dept": "Industries, Energy and Labour Department",
+    "download_time": "2023-10-08T10:58:04.157717",
+    "size_kb": "156",
+    "text": "Regarding allotment of districts for training to the candidates who have been recommended in State Services Examination-2021 under Combined Probationary Training Program-9 (CPTP-9). Assistant Labor Commissioner (Group-A)",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310051541353810.pdf",
+    "name": "mahind-1648.pdf",
+    "num_pages": 4,
+    "large_image_idxs": []
+  },
+  "202310061256047510.pdf": {
+    "code": "202310061256047510",
+    "crawl_dir": "08-Oct-2023",
+    "date": "06-10-2023",
+    "dept": "Industries, Energy and Labour Department",
+    "download_time": "2023-10-08T10:57:47.406893",
+    "size_kb": "151",
+    "text": "Grants to MSEDCL for Book Adjustment of Revenue collected as Electicity Duty Tax on Electricity against Subsidy to Industrial consumers for the year 2023-24 Reved",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310061256047510.pdf",
+    "name": "mahind-1649.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202310061300311110.pdf": {
+    "code": "202310061300311110",
+    "crawl_dir": "08-Oct-2023",
+    "date": "06-10-2023",
+    "dept": "Industries, Energy and Labour Department",
+    "download_time": "2023-10-08T10:57:51.576582",
+    "size_kb": "152",
+    "text": "Grants to MSEDCL for Book Adjustment of Revenue collected as Electicity Duty Tax on Electricity against Subsidy to Textile consumers for the year 2023-24",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310061300311110.pdf",
+    "name": "mahind-1650.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202310061311033410.pdf": {
+    "code": "202310061311033410",
+    "crawl_dir": "08-Oct-2023",
+    "date": "06-10-2023",
+    "dept": "Industries, Energy and Labour Department",
+    "download_time": "2023-10-08T10:57:55.758290",
+    "size_kb": "152",
+    "text": "Grants to MSEDCL for Book Adjustment of Revenue collected as Electicity Duty Tax on Electricity against Subsidy to Power loom consumers for the year 2023-24",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310061311033410.pdf",
+    "name": "mahind-1651.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
   }
 }

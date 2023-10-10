@@ -16137,5 +16137,70 @@
       3,
       4
     ]
+  },
+  "202310031529122116.pdf": {
+    "code": "202310031529122116",
+    "crawl_dir": "08-Oct-2023",
+    "date": "03-10-2023",
+    "dept": "Planning Department",
+    "download_time": "2023-10-08T11:08:54.692985",
+    "size_kb": "617",
+    "text": "Regarding giving administrative approval to the building construction of the Chhatrapati Shahu Maharaj Institute of Research, Training and Human Development (SARATHI), Pune, Nagpur Divisional Office, Hostel, Study Hall, Library, Hall for Training Center etc.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310031529122116.pdf",
+    "name": "mahplan-1327.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202310031529193116.pdf": {
+    "code": "202310031529193116",
+    "crawl_dir": "08-Oct-2023",
+    "date": "03-10-2023",
+    "dept": "Planning Department",
+    "download_time": "2023-10-08T11:08:49.668061",
+    "size_kb": "628",
+    "text": "Release of Grant to Annasaheb Patil Arthik Magas Vikas Mahamandal.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310031529193116.pdf",
+    "name": "mahplan-1328.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202310031724045616.pdf": {
+    "code": "202310031724045616",
+    "crawl_dir": "08-Oct-2023",
+    "date": "03-10-2023",
+    "dept": "Planning Department",
+    "download_time": "2023-10-08T11:08:58.852751",
+    "size_kb": "156",
+    "text": "Construction of basic facilities in Sri area Dehu, Alandi, Pandharpur Bhandara Dongar, Palkhital, Nevasa, Construction of basic facilities in Shegaon area on the occasion of Gajanan Maharaj Samadhi Centenary and Construction of basic facilities at Venerable Rashtrasant Tukdoji Maharaj Mozri, District Amravati To approve the continuation of the temporary posts created for the three Pilgrimage Development Plans...",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310031724045616.pdf",
+    "name": "mahplan-1329.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202310041446170916.pdf": {
+    "code": "202310041446170916",
+    "crawl_dir": "08-Oct-2023",
+    "date": "04-10-2023",
+    "dept": "Planning Department",
+    "download_time": "2023-10-08T11:08:44.331384",
+    "size_kb": "235",
+    "text": "Promotion to the post of Research Officer / Statistical Officer, Goup-B (Gazetted)",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310041446170916.pdf",
+    "name": "mahplan-1330.pdf",
+    "num_pages": 5,
+    "large_image_idxs": []
+  },
+  "202310051723417116.pdf": {
+    "code": "202310051723417116",
+    "crawl_dir": "08-Oct-2023",
+    "date": "05-10-2023",
+    "dept": "Planning Department",
+    "download_time": "2023-10-08T11:08:40.013869",
+    "size_kb": "156",
+    "text": "Regarding the action to be taken by the State Government in connection with the initiative of NITI Aayog on To Develop City-regions as Growth Hubs",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310051723417116.pdf",
+    "name": "mahplan-1331.pdf",
+    "num_pages": 4,
+    "large_image_idxs": []
   }
 }

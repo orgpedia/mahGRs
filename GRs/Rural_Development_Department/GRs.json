@@ -14868,5 +14868,70 @@
     "name": "mahrural-1226.pdf",
     "num_pages": 3,
     "large_image_idxs": []
+  },
+  "202309271734543120.pdf": {
+    "code": "202309271734543120",
+    "crawl_dir": "08-Oct-2023",
+    "date": "27-09-2023",
+    "dept": "Rural Development Department",
+    "download_time": "2023-10-08T11:20:46.335933",
+    "size_kb": "243",
+    "text": "Fund release to Maharashtra State Rural Livelihood Mission (NRLM) for Scheduled Castes (SCP) for the year 2023-24.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309271734543120.pdf",
+    "name": "mahrural-1228.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202310031031536920.pdf": {
+    "code": "202310031031536920",
+    "crawl_dir": "08-Oct-2023",
+    "date": "03-10-2023",
+    "dept": "Rural Development Department",
+    "download_time": "2023-10-08T11:20:17.695965",
+    "size_kb": "474",
+    "text": "Disbursement of the First installment of tied funds (Tide Grant) for the financial year 2023-24 to the rural local bodies of the state under the 15th Central Finance Commission.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310031031536920.pdf",
+    "name": "mahrural-1229.pdf",
+    "num_pages": 20,
+    "large_image_idxs": []
+  },
+  "202310041159085720.pdf": {
+    "code": "202310041159085720",
+    "crawl_dir": "08-Oct-2023",
+    "date": "04-10-2023",
+    "dept": "Rural Development Department",
+    "download_time": "2023-10-08T11:20:12.825398",
+    "size_kb": "201",
+    "text": "Continuation to the temporary post from 01.09.2023 to 29.02.2024 which created for the work of performance budget of Zillha Parishad.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310041159085720.pdf",
+    "name": "mahrural-1230.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202310051032260720.pdf": {
+    "code": "202310051032260720",
+    "crawl_dir": "08-Oct-2023",
+    "date": "05-10-2023",
+    "dept": "Rural Development Department",
+    "download_time": "2023-10-08T11:20:08.278145",
+    "size_kb": "143",
+    "text": "Regarding the posting of Assistant Block Development Officer, Group-B cadre officer in Maharashtra Development Service",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310051032260720.pdf",
+    "name": "mahrural-1231.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202310051622181020.pdf": {
+    "code": "202310051622181020",
+    "crawl_dir": "08-Oct-2023",
+    "date": "05-10-2023",
+    "dept": "Rural Development Department",
+    "download_time": "2023-10-08T11:20:04.104540",
+    "size_kb": "261",
+    "text": "Fund release to Maharashtra State Rural Livelihood Mission (NRLM) for General Category for the year 2023-24.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310051622181020.pdf",
+    "name": "mahrural-1232.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
   }
 }

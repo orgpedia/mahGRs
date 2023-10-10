@@ -4577,5 +4577,44 @@
     "name": "mahbah-364.pdf",
     "num_pages": 3,
     "large_image_idxs": []
+  },
+  "202310051438102534.pdf": {
+    "code": "202310051438102534",
+    "crawl_dir": "08-Oct-2023",
+    "date": "05-10-2023",
+    "dept": "Other Backward Bahujan Welfare Department",
+    "download_time": "2023-10-08T11:05:06.651291",
+    "size_kb": "141",
+    "text": "Regarding providing funds for Modi Awas Gharkul Yojana.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310051438102534.pdf",
+    "name": "mahbah-365.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202310051611550234.pdf": {
+    "code": "202310051611550234",
+    "crawl_dir": "08-Oct-2023",
+    "date": "03-10-2023",
+    "dept": "Other Backward Bahujan Welfare Department",
+    "download_time": "2023-10-08T11:05:16.064330",
+    "size_kb": "476",
+    "text": "Regarding making funds available for completed works in Nanded district under Vasantrao Naik Tanda Vasti Sudhar Yojana.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310051611550234.pdf",
+    "name": "mahbah-366.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202310061525409634.pdf": {
+    "code": "202310061525409634",
+    "crawl_dir": "08-Oct-2023",
+    "date": "05-10-2023",
+    "dept": "Other Backward Bahujan Welfare Department",
+    "download_time": "2023-10-08T11:05:10.813856",
+    "size_kb": "150",
+    "text": "Regarding Disbursement of Fund of Post- Matric Scholarship Scheme in the Financial Year 2023-24.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310061525409634.pdf",
+    "name": "mahbah-367.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
   }
 }

@@ -1,0 +1,123 @@
+# Page 1
+Regarding Empanelment of Consultants for IT Projects in Government of Maharashtra
+Government of Maharashtra
+Directorate of Information Technology
+Government Resolution No: GAD-IT 080/4/2014-0/O DIRECTORATE OF IT-DIT (MH) Mantralaya, Mumbai - 400 032
+Date: 05th October, 2023
+Reference: 1. Government Resolution - GAD-IT 080/4/2014-0/O DIRECTORATE OF IT-DIT (MH) dated 20th March, 2018 2. Government Resolution - GAD - IT 080/4/2014-0/0 Directorate of IT-DIT (MH) dated
+9th May, 2019 3. Government Circular - GAD - IT 080/4/2014-0/0 Directorate of IT-DIT (MH) dated 24th April, 2023
+Introduction:
+Government of Maharashtra vide above referenced Government Resolutions and Government Circulars had empaneled IT Consultancy firms for a period of 5 Years (Five Years). This empanelment expired on 19th September 2023. Accordingly, RFP for new empanelment of consultants was approved by the High Power Committee (HPC) and bids were invited from reputed consultancy firms for empanelment for a period of Five (5) years to work with the state government in providing consultancy services for IT projects activities.
+Government Resolution:
+As per evaluation of the Tender following companies have been qualified and are empaneled with Government Maharashtra for a period of five years i.e. from 20th September 2023 to 19th September 2028 to provide consultancy services for e-Governance (IT Projects) activities in Maharashtra. Any department of Government of Maharashtra or the allied offices under it / corporations /boards (independent bodies) etc. can avail the consultancy services from these firms following the process laid out in this GR.
+I. List of empaneled Firms: The following firms have been empaneled: 1. M/s Deloitte Touche Tohmatsu India LLP
+2. M/s Ernst & Young LLP 3. M/s Grant Thornton Bharat LLP
+4. M/s KPMG Advisory Services Pvt Ltd 5. M/s PricewaterhouseCoopers Pvt Ltd 6. M/s Primus Partners Pvt Ltd
+The contact details of the above firms are provided in Annexure 1.
+II. Rates applicable: The rates for different categories of consultants as fixed by Government of Maharashtra for the above firms are given below:
+---------------------------------------------------------------------------------
+| Category | Years of Experience | Rate in INR Per Month Per Person (Excluding Taxes) |
+| Associate Consultant | > 2 Years to <= 5 years | 285,000 |
+| Consultant | > 5 Years to < = 9 years | 345,000 |
+| Senior Consultant | > 9 Years to <= 13 years | 385,000 |
+| Principal Consultant | > 13 years | 454,000 |
+---------------------------------------------------------------------------------
+# Page 2
+Government Resolution No.: GAD-IT 080/4/2014-0/O DIRECTORATE OF IT-DIT (MH)
+Note: a) The above rates will apply for all work orders issued from the date of issue of this GR.
+b) The above rates are excluding of Govt. taxes and OPE (Out of Pocket Expenses). The out of pocket expenses (OPE) like Travel, boarding, lodging incurred by the deployed consultant for the purpose of official work authorized by the department/purchaser shall be reimbursed by
+the Purchaser as per Policy provided in Annexure 2. However, Expenses incurred on stationary, printouts etc. will be reimbursed on actuals by the department on producing necessary bills/supporting documents and on prior approval by the department with a cap of 5% on the total monthly bill payment to the selected agency.
+c) DIT shall operationalize an IT system (Portal) to simplify the process of selection of Consulting Agencies by departments. Once this Portal is operationalized, the Departments
+are requested to use this Portal for posting Consultant requirements and provide inputs regarding the performance of the Consultants. The Consultants will be required to update details of the projects in this portal. Details of this portal are elaborated in Annexure 3.
+d) The Service Levels expected to be provided by the empaneled firms and the associated Penalties in case of default are elaborated in Annexure 4.
+e) The rates mentioned above are valid for the 1st year and thereafter DIT reserves the rights to
+increase the price after due evaluation and approval from the HPC.
+f) Each consultant deployed on the project shall be entitled for 2 days of leave in a month subject to upper limit of 24 in a year. Also, apart from leave each deployed consultant would
+be eligible for Compensatory off on approval from the department. Compensatory off is off taken on a working day for work done on government holiday/public holiday.
+III. Applicability of this GR: This GR is applicable only for IT & e-Governance projects.
+IV. Type of Work under this GR and Consultant Experience: Types of Work that can be carried out under this GR and the Experience required for the Consultant is provided below.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|  | S.No |  |  | Type of |  |  | Indicative Work Description |  |  | Experience |  |
+|  | Work |  |  |
+| 1. | Business Process Reengineeri ng | Study of business processes ● Organization structure of government departments Preparation of As-Is Process maps Identification and analysis of gaps and proposing To-Be processes for improved and efficient delivery of G2G, G2B and G2C services | • Experience in IT and e-Governance • Educational background - Engineering (B.E/ B.Tech / M.E/ M.Tech) in IT/Computer Science/ Electronics 1 Telecommunication OR MCA • Prior project experience is required for all designations. • Especially for DPR/RFP preparation the Consulting resources |
+| 2. | Strategy Manageme nt | Consultancy for strategic planning and management during any/all phases of assessment/planning/implementation/contin uo us strategy for implementation and rollout of large/medium/small Government service delivery project Feasibility study/policy assessment/impact assessment/IT roadmap/strategy plan for Investment attraction and facilitation, Trade promotion, Startup promotion, Ease of doing business and living, Industrial development etc. |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Page 2 of 15
+# Page 3
+Government Resolution No.: GAD-IT 080/4/2014-0/0 DIRECTORATE OF IT-DIT (MH)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|  |  | Cutting edge technologies available and their application to the e-Governance domain | are expected to have domain experience in the type of DPR/RFP that they are tasked to prepare |
+| 3. | DPR preparation and Project Design | Preparation of Detailed Project Report (DPR) Business model Risk analysis ● Stakeholder analysis (including expected benefits for the Government entity) Financial Estimate Architectural Design of the various components of the System Interoperability Design of System - including ensuring that the proposed system is able to provide and / or receive data from other Systems of GoM and Gol. |
+| 4. | Technical activities for System Design /Rollout System upgrade Performanc e Improveme nt | Consultancy during any/all phases of the project on the following activities in simple/complex heterogeneous systems environments for large/medium/small projects leading to enablement of IT enabled service delivery (G2G/G2B/G2C) Departments/organizations/institutions: 1) Design and architecture for Hardware/Software requirements 2) Server requirements (Compute, Storage, Virtualization, deployment etc.) 3) Performance improvements 4) Networking/LAN/WAN design |
+| 5. | RFP preparation & Bid Process Manageme nt | Consultancy during any/ all phases of Bid Process Management including: Preparation of Expression of Interest (Eol)/Request For Proposal (RFP)/ Request For Quote (RFQ) ● Requirement gathering/ functional specifications/ implementation timelines/ defining levels/ payment terms/ contract finalization / costing model etc.) Pre-bid meetings Evaluation Qualification (Technical/Financial) Prepare and review of NDA, Agreements & Contracts, contract drafting & validation etc. Knowledge of IT acts, IT certifications & related matters etc. | • Experience in IT and e-Governance • Educational background Engineering (B.E / B.Tech / M.E 1 M.Tech) in IT/Computer Science/ Electronics 1 Telecommunication OR MCA • Prior project experience is required for Associate Consultant and above. • Especially for DPR/RFP preparation the Consulting resources are expected to have domain experience in the type of DPR/RFP that they |
+| 6. | Application Rollout, Project Manageme nt | To provide consultancy support in any/all phases of the project viz initiation, planning, executing, transitioning while managing scope, time, risk etc. before, during and after implementation of any Government service delivery project. Testing of solutions/systems related to hardware and Software. Review of compliance to Government of |
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Page 3 of 15
+# Page 4
+Government Resolution No.: GAD-IT 080/4/2014-0/O DIRECTORATE OF IT-DIT (MH)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|  |  | India (Gol)/Government of Maharashtra (GoM) norms including NeSDA, GIGW, Open Data policy, Open API policy etc. Status reporting and monitoring Issue tracking and resolution Service Level Agreement (SLA) monitoring & management Hand-holding all e-Governance related activities of the department Vendor management Third Party Audit Change Management Capacity augmentation for the department Knowledge of IT acts, IT certifications & related Matters | are tasked to prepare • The consulting resource should be well conversant with IT acts IT certifications & related matters |
+| 7. | System Audit, Performanc e Audit, Third Party Audit (TPA) | Review of compliance to Government of India (Gol)/Government of Maharashtra (GoM) norms including NeSDA, GIGW, Open Data policy, Open API policy etc. Project Specific Audit, Onsite Audit, Field Audit, SLA compliance audit, Contract compliance audit etc. To review and audit various controls like (but not limited to) Organizational Controls (segregation of duties, access control policies and their implementation etc.), Data Center and Network Operations Controls, Hardware & Software Acquisition and Maintenance Controls, Access Controls (from technology perspective including review of audit trails), Application System control (Acquisition, Development, and Maintenance), Data related Controls, Output and Error Controls etc. Submission of Audit report and recommendations Follow-up review/audit as per frequency and period defined by the concerned Department at the time of awarding the project. |
+| 8. | IT Security/Cy ber Audit | Shall include (but not limited to) review of existing security policy and guidelines including review of its implementation, review of compliance to Government of India (Gol)/Government of Maharashtra (GoM) norms, various other security norms, vulnerability assessments, network vulnerability assessments, operating system and application security assessments, access controls assessment etc. |
+| 9. | Finance Accounts | Provide consultancy during any/all phases of planning/ operations for Government entity on matters related to finance and accounts | • Relevant Experience • CA is preferable • MBA preferable |
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Page 4 of 15
+# Page 5
+Government Resolution No.: GAD-IT 080/4/2014-0/O DIRECTORATE OF IT-DIT (MH)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|  |  | which may include accounting processes, advisory, analysis, chart of Accounts and audits etc. Oversee and Manage the financial systems and budgets Organize and maintain accurate accounting standards Analyze financial data and prepare financial statements Regular monitoring of investments and finances and reporting to senior management Reviewing the systems and analyzing risk; Advising on financial performance of projects, areas of business improvement etc.; |  |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+V. Selection of Consultancy Firm The Departments may opt one of the following methods mentioned below, while selecting consultants for their projects: 1. Quotation based (also called as Fixed Price based / Deliverable based) Consultancy/Advisory project 2. Man month rate based Consultancy/Advisory project
+The details of these two selection methodologies are as follows: 1. Quotation based (Fixed Priced / Deliverable based) Consultancy/Advisory project: The Department can choose to engage one of the Empaneled Agencies on quotation based fixed price for specific projects where the scope is well defined. In such projects, the scope is well defined, the deliverable is fixed and timeline is also fixed.
+For such Fixed Price / delivery-based project (e.g. DPR preparation, policy formulation,
+Impact Assessment Study, Bid Management etc.),
+O Department shall provide:
+The scope of work
+The expected time-period to complete the project.
+The deliverable and payment milestones
+The method of selection QCBS (Quality and Cost Based Selection) method providing weightage to the Technical proposal and Cost proposal.
+O The empaneled agencies will submit:
+Technical Proposal - Technical proposal that demonstrates the empaneled agencies' plan and ability to effectively complete the work.
+Cost Proposal - 'Firm price' to complete the scope of work within the given timeline.
+Using the method of selection, the department will select the consultant for the project.
+In these types of project requirements, the Empanelled Agencies may decide the number and designation of resources required to execute the scope of work within the agreed timeline. The financial proposals shall be based on the prevailing empanelment rates.
+Page 5 of 15
+# Page 6
+Government Resolution No.: GAD-IT 080/4/2014-0/0 DIRECTORATE OF IT-DIT (MH)
+In these types of project requirements, the Departments will need to specify the mode / medium by which the proposals shall be submitted to Department.
+The Department may choose the qualified proposals and call for presentations, if
+necessary.
+The Department shall make the final decision on the Consultant Agency that is best suited to execute the project and issue the work order.
+The Payment terms and Acceptance criteria will be based on:
+Successful completion of a delivery milestone &
+O Payment milestone defined against the specific delivery milestone.
+In case the project is delayed beyond the timeframe mentioned in the scope of work due to issues beyond the control of the selected agency, or in case the scope has changed or if the deliverable has changed, then the Department may choose to extend the engagement with the selected agency by way of executing a "Change Order".
+2. Man-month based consultancy/advisory project In case the Department decides to choose the Consultants on 'man-month rate', the following process shall be followed:
+Departments will finalize the scope of work for consultancy.
+Thereafter departments shall circulate the scope of work among Empanelled Agencies and call for presentation.
+O The Empanelled Agencies shall provide the presentation and submit the CVs (as per format provided in annexure 5) of the proposed resources before the
+Department.
+O This presentation from the Empanelled Agencies shall necessarily contain Approach, Methodology and Qualification of the resources for the scope of work
+O Based on presentation, the Empanelled Agencies understanding of the project output and quality of resources proposed, the Department may select from the
+empanelled agencies based on their requirements.
+The consulting resources selected under this type of project will be expected to:
+Work as per the working days and working hours of the concerned Department.
+O Maintain attendance as approved by the Department (Bio-metric attendance or Register as decided by the Department).
+O Work only from the Department location (on-site) or any other location as approved by the Department
+The payment will necessarily be based on the attendance of the Consultants thus recorded and approved by the Department.
+VI. Payment - ● The payment by the Department for Quotation based work orders will be as per the Payment milestone agreed between the Department and Selected Agency.
+The payment by the Department for Man month based work orders will be monthly, on submission of approved attendance and invoice.
+VII. In case of urgent requirements - In case of urgent requirements, the department may directly select any of the empanelled consultancy firms after finalizing the scope of work. However, the maximum period of such engagement shall not exceed a period of 2 months.
+Page 6 of 15
+# Page 7
+Government Resolution No.: GAD-IT 080/4/2014-0/O DIRECTORATE OF IT-DIT (MH)
+Note: In this GR, Man-Month means 1 resource working for 1 month (Calendar working days as per GoM).
+This Government Resolution of Maharashtra Government is available at the website
+# Page 8
+# Page 9
+# Page 10
+# Page 11
+# Page 12
+# Page 13
+# Page 14
+# Page 15

@@ -10979,5 +10979,18 @@
     "name": "mahmed-917.pdf",
     "num_pages": 3,
     "large_image_idxs": []
+  },
+  "202310031440214913.pdf": {
+    "code": "202310031440214913",
+    "crawl_dir": "08-Oct-2023",
+    "date": "03-10-2023",
+    "dept": "Medical Education and Drugs Department",
+    "download_time": "2023-10-08T11:02:42.739525",
+    "size_kb": "305",
+    "text": "Regarding the increased salary of security guards drawn from the Maharashtra State Security Corporation for the security of Government Medical Colleges and affiliated hospitals.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310031440214913.pdf",
+    "name": "mahmed-919.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
   }
 }
