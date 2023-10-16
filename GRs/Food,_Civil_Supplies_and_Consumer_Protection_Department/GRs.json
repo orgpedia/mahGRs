@@ -10762,5 +10762,31 @@
     "name": "mahfood-887.pdf",
     "num_pages": 8,
     "large_image_idxs": []
+  },
+  "202310121714124006.pdf": {
+    "code": "202310121714124006",
+    "crawl_dir": "14-Oct-2023",
+    "date": "12-10-2023",
+    "dept": "Food, Civil Supplies and Consumer Protection Department",
+    "download_time": "2023-10-14T08:06:25.301024",
+    "size_kb": "327",
+    "text": "Pursuant to procurement of old single-use bardana required for storage of paddy during Kharif Marketing Season-2023-24 under Minimum Basic Purchase Scheme",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310121714124006.pdf",
+    "name": "mahfood-889.pdf",
+    "num_pages": 9,
+    "large_image_idxs": []
+  },
+  "202310131619107106.pdf": {
+    "code": "202310131619107106",
+    "crawl_dir": "14-Oct-2023",
+    "date": "13-10-2023",
+    "dept": "Food, Civil Supplies and Consumer Protection Department",
+    "download_time": "2023-10-14T08:06:20.639252",
+    "size_kb": "188",
+    "text": "Regarding extension of temporary posts in State Food Commission, Mumbai office.....",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310131619107106.pdf",
+    "name": "mahfood-890.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
   }
 }

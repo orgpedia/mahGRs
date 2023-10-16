@@ -10992,5 +10992,57 @@
     "name": "mahmed-919.pdf",
     "num_pages": 2,
     "large_image_idxs": []
+  },
+  "202310051832328113.pdf": {
+    "code": "202310051832328113",
+    "crawl_dir": "14-Oct-2023",
+    "date": "05-10-2023",
+    "dept": "Medical Education and Drugs Department",
+    "download_time": "2023-10-14T08:20:24.389338",
+    "size_kb": "899",
+    "text": "Asset Management and Sustainability Policy, 2023 For Management of Assets at Government Medical, Dental, Ayurved Homeopathic colleges of Maharashtra",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310051832328113.pdf",
+    "name": "mahmed-921.pdf",
+    "num_pages": 18,
+    "large_image_idxs": []
+  },
+  "202310061246231013.pdf": {
+    "code": "202310061246231013",
+    "crawl_dir": "14-Oct-2023",
+    "date": "06-10-2023",
+    "dept": "Medical Education and Drugs Department",
+    "download_time": "2023-10-14T08:20:15.229401",
+    "size_kb": "156",
+    "text": "Administrative Approval For Estimate of Maintenance Repairs of internal roads building of Chatrapati Pramila Raje General Hospital Kolhapur",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310061246231013.pdf",
+    "name": "mahmed-922.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202310061246289813.pdf": {
+    "code": "202310061246289813",
+    "crawl_dir": "14-Oct-2023",
+    "date": "06-10-2023",
+    "dept": "Medical Education and Drugs Department",
+    "download_time": "2023-10-14T08:20:19.372313",
+    "size_kb": "159",
+    "text": "Administrative Approval for Purchase of Machinery Equipment from grant of state plan for J J Group of Hospital, Mumbai",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310061246289813.pdf",
+    "name": "mahmed-923.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202310121638595413.pdf": {
+    "code": "202310121638595413",
+    "crawl_dir": "14-Oct-2023",
+    "date": "12-10-2023",
+    "dept": "Medical Education and Drugs Department",
+    "download_time": "2023-10-14T08:20:11.079339",
+    "size_kb": "600",
+    "text": "Regarding Approval to rent building for Hostel for students of Government Medical College Sindhudurg.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310121638595413.pdf",
+    "name": "mahmed-924.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
   }
 }

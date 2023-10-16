@@ -7107,5 +7107,70 @@
     "name": "mahfin-575.pdf",
     "num_pages": 12,
     "large_image_idxs": []
+  },
+  "202310091123462005.pdf": {
+    "code": "202310091123462005",
+    "crawl_dir": "14-Oct-2023",
+    "date": "06-10-2023",
+    "dept": "Finance Department",
+    "download_time": "2023-10-14T08:05:36.163738",
+    "size_kb": "472",
+    "text": "List of Maharashtra State Government Sponsored Lottery schemes Period dt.09/10/2023. to dt.15/10/2023.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310091123462005.pdf",
+    "name": "mahfin-576.pdf",
+    "num_pages": 4,
+    "large_image_idxs": []
+  },
+  "202310111209077605.pdf": {
+    "code": "202310111209077605",
+    "crawl_dir": "14-Oct-2023",
+    "date": "11-10-2023",
+    "dept": "Finance Department",
+    "download_time": "2023-10-14T08:05:17.842616",
+    "size_kb": "317",
+    "text": "approval for furniture and electrical works of Goods and Services Tax Bhavan building at Amravati",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310111209077605.pdf",
+    "name": "mahfin-577.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202310111812522805.pdf": {
+    "code": "202310111812522805",
+    "crawl_dir": "14-Oct-2023",
+    "date": "11-10-2023",
+    "dept": "Finance Department",
+    "download_time": "2023-10-14T08:05:22.579601",
+    "size_kb": "346",
+    "text": "Budget Estimates 2024-25 and Revised Estimates 2023-24",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310111812522805.pdf",
+    "name": "mahfin-578.pdf",
+    "num_pages": 15,
+    "large_image_idxs": []
+  },
+  "202310121634469005.pdf": {
+    "code": "202310121634469005",
+    "crawl_dir": "14-Oct-2023",
+    "date": "12-10-2023",
+    "dept": "Finance Department",
+    "download_time": "2023-10-14T08:05:13.214904",
+    "size_kb": "146",
+    "text": "Regarding giving administrative approval to the work proposal for providing and fixing Doors Ventilators to Electric Room at GST Bhavan Bldg, Mazgaon, Mumbai.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310121634469005.pdf",
+    "name": "mahfin-579.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202310131415227205.pdf": {
+    "code": "202310131415227205",
+    "crawl_dir": "14-Oct-2023",
+    "date": "13-10-2023",
+    "dept": "Finance Department",
+    "download_time": "2023-10-14T08:05:09.067600",
+    "size_kb": "474",
+    "text": "List of Maharashtra State Government Sponsored Lottery schemes Period dt.16/10/2023. to dt.22/10/2023.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310131415227205.pdf",
+    "name": "mahfin-580.pdf",
+    "num_pages": 4,
+    "large_image_idxs": []
   }
 }

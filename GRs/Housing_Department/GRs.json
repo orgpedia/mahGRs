@@ -3813,5 +3813,18 @@
     "name": "mahhouse-312.pdf",
     "num_pages": 3,
     "large_image_idxs": []
+  },
+  "202310111155508109.pdf": {
+    "code": "202310111155508109",
+    "crawl_dir": "14-Oct-2023",
+    "date": "11-10-2023",
+    "dept": "Housing Department",
+    "download_time": "2023-10-14T08:14:00.621342",
+    "size_kb": "213",
+    "text": "Regarding disbursement of Rs.10 crore from the Maharashtra Shelter Fund for administrative expenses to the State Level Project Management Unit (PMU) established for effective implementation of the Pradhan Mantri Awas Yojana (Urban).",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310111155508109.pdf",
+    "name": "mahhouse-313.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
   }
 }

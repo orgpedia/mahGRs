@@ -16202,5 +16202,57 @@
     "name": "mahplan-1331.pdf",
     "num_pages": 4,
     "large_image_idxs": []
+  },
+  "202310101433117016.pdf": {
+    "code": "202310101433117016",
+    "crawl_dir": "14-Oct-2023",
+    "date": "10-10-2023",
+    "dept": "Planning Department",
+    "download_time": "2023-10-14T08:26:09.937023",
+    "size_kb": "178",
+    "text": "Regarding publication of provisional seniority list dated 01/01/2023 (dated 01/01/2022 to 31/12/2022) of Additional Director, Group-A cadre in Directorate of Finance and Statistics.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310101433117016.pdf",
+    "name": "mahplan-1332.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202310101437250516.pdf": {
+    "code": "202310101437250516",
+    "crawl_dir": "14-Oct-2023",
+    "date": "10-10-2023",
+    "dept": "Planning Department",
+    "download_time": "2023-10-14T08:26:14.187791",
+    "size_kb": "210",
+    "text": "Regarding publication of provisional seniority list dated 01/01/2022 of Joint Director, Group-A cadre in Directorate of Finance and Statistics.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310101437250516.pdf",
+    "name": "mahplan-1333.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202310101445449416.pdf": {
+    "code": "202310101445449416",
+    "crawl_dir": "14-Oct-2023",
+    "date": "10-10-2023",
+    "dept": "Planning Department",
+    "download_time": "2023-10-14T08:26:18.346754",
+    "size_kb": "199",
+    "text": "Regarding publication of final seniority list dated 01/01/2021 (dated 01/01/2020 to 31/12/2020) of Joint Director, Group-A cadre in Directorate of Finance and Statistics.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310101445449416.pdf",
+    "name": "mahplan-1334.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202310101706200116.pdf": {
+    "code": "202310101706200116",
+    "crawl_dir": "14-Oct-2023",
+    "date": "10-10-2023",
+    "dept": "Planning Department",
+    "download_time": "2023-10-14T08:26:23.010471",
+    "size_kb": "600",
+    "text": "Regarding extension of irrigation well tapping program in Gadchiroli, Bhandara, Chandrapur, Gondia, Nagpur and Wardha districts of Nagpur division.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310101706200116.pdf",
+    "name": "mahplan-1335.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
   }
 }

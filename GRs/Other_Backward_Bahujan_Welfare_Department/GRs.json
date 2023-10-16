@@ -4616,5 +4616,31 @@
     "name": "mahbah-367.pdf",
     "num_pages": 3,
     "large_image_idxs": []
+  },
+  "202310091801122734.pdf": {
+    "code": "202310091801122734",
+    "crawl_dir": "14-Oct-2023",
+    "date": "09-10-2023",
+    "dept": "Other Backward Bahujan Welfare Department",
+    "download_time": "2023-10-14T08:22:37.490082",
+    "size_kb": "139",
+    "text": "Administrative and financial approval for the advertisement and Publicity of Schemes implemented by Other Backward Bahujan Welfare Department",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310091801122734.pdf",
+    "name": "mahbah-368.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202310121427202234.pdf": {
+    "code": "202310121427202234",
+    "crawl_dir": "14-Oct-2023",
+    "date": "11-10-2023",
+    "dept": "Other Backward Bahujan Welfare Department",
+    "download_time": "2023-10-14T08:22:33.346118",
+    "size_kb": "501",
+    "text": "Vasantrao Naik Vimukta Jati Nomadic Tribes Development Corporation Deciding the number of members of the Board of Directors.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310121427202234.pdf",
+    "name": "mahbah-369.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
   }
 }
