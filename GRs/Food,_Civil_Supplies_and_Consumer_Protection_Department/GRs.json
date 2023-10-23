@@ -10788,5 +10788,18 @@
     "name": "mahfood-890.pdf",
     "num_pages": 2,
     "large_image_idxs": []
+  },
+  "202310191410355506.pdf": {
+    "code": "202310191410355506",
+    "crawl_dir": "21-Oct-2023",
+    "date": "19-10-2023",
+    "dept": "Food, Civil Supplies and Consumer Protection Department",
+    "download_time": "2023-10-21T07:52:22.128869",
+    "size_kb": "466",
+    "text": "Procedure for distribution of Anandacha Shidha kit containing six items on the Occasion of upcoming Diwali Festival to the eligible beneficiaries under public distribution system.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310191410355506.pdf",
+    "name": "mahfood-892.pdf",
+    "num_pages": 6,
+    "large_image_idxs": []
   }
 }

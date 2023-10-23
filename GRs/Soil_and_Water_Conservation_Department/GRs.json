@@ -21597,5 +21597,44 @@
     "name": "mahsoil-1774.pdf",
     "num_pages": 1,
     "large_image_idxs": []
+  },
+  "202310161109335726.pdf": {
+    "code": "202310161109335726",
+    "crawl_dir": "22-Oct-2023",
+    "date": "16-10-2023",
+    "dept": "Soil & Water Conservation Department",
+    "download_time": "2023-10-22T01:06:07.982560",
+    "size_kb": "607",
+    "text": "To set up a website management team to regularly improve the departments website.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310161109335726.pdf",
+    "name": "mahsoil-1775.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202310181810588626.pdf": {
+    "code": "202310181810588626",
+    "crawl_dir": "22-Oct-2023",
+    "date": "18-10-2023",
+    "dept": "Soil & Water Conservation Department",
+    "download_time": "2023-10-22T01:06:03.335487",
+    "size_kb": "563",
+    "text": "Distribution of Share Capital Contribution for Maharashtra Water Conservation Corporation (Year 2023-24)",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310181810588626.pdf",
+    "name": "mahsoil-1776.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202310201643555926.pdf": {
+    "code": "202310201643555926",
+    "crawl_dir": "22-Oct-2023",
+    "date": "20-10-2023",
+    "dept": "Soil & Water Conservation Department",
+    "download_time": "2023-10-22T01:05:58.507682",
+    "size_kb": "852",
+    "text": "Regarding Posting of Mr. Rishikesh Prahladarao Deshmukh, Sub-Divisional Water Conservation Officer after reinstatement in Government service.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310201643555926.pdf",
+    "name": "mahsoil-1777.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
   }
 }

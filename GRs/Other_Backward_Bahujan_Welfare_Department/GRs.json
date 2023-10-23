@@ -4642,5 +4642,18 @@
     "name": "mahbah-369.pdf",
     "num_pages": 2,
     "large_image_idxs": []
+  },
+  "202310191431034434.pdf": {
+    "code": "202310191431034434",
+    "crawl_dir": "21-Oct-2023",
+    "date": "17-10-2023",
+    "dept": "Other Backward Bahujan Welfare Department",
+    "download_time": "2023-10-21T15:56:14.554460",
+    "size_kb": "146",
+    "text": "Maharashtra State Other Backward Classes Finance and Development Corporation Marya. 36 for sanctioning disbursement of Subsidiary Grants (Salary) Funds for the financial year 2023-24.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310191431034434.pdf",
+    "name": "mahbah-370.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
   }
 }

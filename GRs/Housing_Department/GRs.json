@@ -3826,5 +3826,44 @@
     "name": "mahhouse-313.pdf",
     "num_pages": 3,
     "large_image_idxs": []
+  },
+  "202310181642235909.pdf": {
+    "code": "202310181642235909",
+    "crawl_dir": "21-Oct-2023",
+    "date": "18-10-2023",
+    "dept": "Housing Department",
+    "download_time": "2023-10-21T07:59:27.330428",
+    "size_kb": "209",
+    "text": "Mauje Kumbhari under Pradhan Mantri Awas Yojana (Urban) South Solapur, Dist. Ray Nagar Housing Co. in Solapur. Regarding the provision of 15 of the project cost i.e. Rs 270 crores as seed capital from Maharashtra Nivara Fund for 30,000 shelters approved by the Federation of Operative Societies.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310181642235909.pdf",
+    "name": "mahhouse-314.pdf",
+    "num_pages": 4,
+    "large_image_idxs": []
+  },
+  "202310201817476509.pdf": {
+    "code": "202310201817476509",
+    "crawl_dir": "21-Oct-2023",
+    "date": "20-10-2023",
+    "dept": "Housing Department",
+    "download_time": "2023-10-21T07:59:18.762534",
+    "size_kb": "141",
+    "text": "Regarding disbursement of State share funds (Other than SC/ST Component) corresponding to Central share received from Central Government under Pradhan Mantri Awas Yojana (Urban).",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310201817476509.pdf",
+    "name": "mahhouse-315.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202310201821567709.pdf": {
+    "code": "202310201821567709",
+    "crawl_dir": "21-Oct-2023",
+    "date": "20-10-2023",
+    "dept": "Housing Department",
+    "download_time": "2023-10-21T07:59:23.097403",
+    "size_kb": "139",
+    "text": "Regarding disbursement of Central Share funds (Other than SC/ST Component) received from Central Government under Pradhan Mantri Awas Yojana (Urban).",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310201821567709.pdf",
+    "name": "mahhouse-316.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
   }
 }

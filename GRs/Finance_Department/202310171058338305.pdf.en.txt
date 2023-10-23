@@ -1,0 +1,41 @@
+# Page 1
+Implementation of the new system...
+All the receiving and transmitting authorities shall update the existing data in the service system to the new service system.
+the Notice
+The Government of Maharashtra
+the Finance Department
+Government Circular No: SANKIRN-2022/ PR No.29/ KOSHA PRASA-4
+Hall No.337, 3rd Floor, Madame Cama Road
+Hutatma Rajguru Chowk, Mumbai 400 032
+Date: October 17, 2023
+Introduction: The present service delivery system is operational since 2012-2013. Since the system has been in development for a long time and given the usage of the system by the users, it has to be developed to a certain level for the system to run smoothly. It is therefore necessary to change the existing system to a new one. As per the decision taken by the Finance Department, now work has been started to develop a new service delivery system through the National Informatics Centre, Pune (NIC).
+Government circular:
+Since the entire data available in the existing service delivery system is to be included in the new system after final verification, the data is to be verified at every stage by the drawing and disbursing officers. As part of this, a new screen has been developed in the login of the Assistant (DDO Asst) to collect information about the employees of the existing service system. Through this screen, the drawing and disbursing officers will receive the information of the concerned employee, along with the details of the exact designation under which the employee is currently working in the office, as well as other information available in the system for his service. The details have to be verified by the receiving and disbursing officers.
+After the final verification, the data will be added to the new service.
+To do this, follow the below steps.
+Correction of designation with verification of employee data:
+All the Drawing and Disbursing Officers under the concerned Administrative Department
+If the designation of the posts filled in the system has been changed according to the revised diagram, then such a change should first be made in the existing system. Similarly, if the designation does not appear according to the new designation, then the drawing and disbursing officers should contact the administrative department concerned to add the designation in the first place and add the post. According to the new service
+# Page 2
+Government Circular No: SANKIRN-2022/ PR No.29/ KOSHA PRASA-4
+The facility of Utility for Incorrect Data Cleaning (Current Path: Work list> Payroll> Utility for Incorrect Data Cleaning) has been made available in the login of the Assistant for inclusion of employee data.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Sr. No. | Employee Name | Sevaarth ID | Date of Birth | Date of Joining | Date of Retirement | Group | Super Age | Desig |  nation | Post | Date of Birth | Date of Retirement | Group | Retirement Age | Desig nation | Remark |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Under this facility, the concerned drawing and disbursing officers will be able to see the data currently available in the system. In order of these details
+Name of the employee 2. Service ID 3. Date of birth 4. Date of retirement
+Group (A, B, Bngz, C, D) 6. Age of the post at the time of retirement 7. Present post 8. Details of the post, etc.
+To make the necessary changes in the information given above, a check box is given next to the name of the employee on the leftmost side. After clicking on that checkbox, the user will see the current
+A new name needs to be selected. After selecting the revised designation, the system will automatically display the retirement age as per the designation, the date of retirement as per the date of birth of the employee and his exact group. After this, you have to select the four options given in the remark accordingly and save such details.
+Before saving this information, it should be ensured that the name of the employee is correct in the information shown and if the name is to be changed, then the information should be forwarded to the login of the Drafting and Disbursing Officers to verify the correct information by first filling in the login of the Assistant by going through Worklist-> Payroll--> Changes other details--> Personal Details. In this way, the name of the concerned employee should be updated. Corrections in date of birth, date of appointment, date of retirement, etc. should be sent to mdc. sevaarth@mahakosh. in along with a scanned copy of the exact page of the service book. After correcting these details, the information of the concerned employee should be saved in the system. It shall be the responsibility of the Drawing and Disbursing Officers to make the corrections within the stipulated time. If the amendment is not made within the given period, it should be noted that if the amendment is proposed in the next period, such amendment will not be made.
+Page 2 of 5
+# Page 3
+Government Circular No: SANKIRN-2022/ PR No.29/ KOSHA PRASA-4
+After saving in this system, the information of that employee is reported in the login of the assistant.
+-> Employee Sorted Data Report (Current Path: Reports--> Payroll--> Employee Sorted Data Report) In this information, all the information of the employee related to him in the service system will also be saved. Be sure all the information is correct.
+If any changes are required to be made in these details, the changes should be made as per the facility available in the system or if such changes are not possible, the IT Office Assistant (Support Staff) available in the Treasury should be contacted.
+The aforesaid information should be updated by all Drawing and Disbursing Officers before 15th November, 2023 and the certificate issued along with this circular should be submitted along with the signature of Drawing and Disbursing Officer while submitting the salary payments for the month of November, 2023 due December, 2023. The action
+All the Drawing and Disbursing Officers should note that the salary payments due for the month of November, 2023 and December, 2023 will not be passed if not completed.
+All treasury officers have been provided with the facility to view the report on how many Drawing and Disbursing Officers under them have updated the above information in their TO Login. However, further action should be taken regarding the passage of salary payments only after such an inspection.
+# Page 4
+# Page 5

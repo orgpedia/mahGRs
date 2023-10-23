@@ -1,0 +1,19 @@
+# Page 1
+Implementation of centrally sponsored scheme of computerization of Primary Agricultural Credit Line Cooperatives through Public Financial Management System (PFMS).
+The Government of Maharashtra
+Department of Cooperation, Marketing and Textiles,
+Government Resolution No: Narikal-1023/ P.No. 220/18-C,
+Madam Cama Road, Hutatma Rajguru Chowk
+Ministry, Mumbai-32.
+Date: October 20, 2023
+Read:- 1) Government Decision, Cooperation, Marketing and Textile Department, No. 0722/ PR No. 112/ 18-S. 07/10/2022.
+(ii) Department of Government Decisions, Cooperation, Marketing and Textiles, No. 1022/ PR No. 146/ 18-C, D. 19/01/2023.
+Preamble: As per the policy of the Government, Public Financial Management System (PFMS) has been decided to be adopted for computerization of Centrally Sponsored Primary Agricultural Credit Societies of the Department of Cooperation. For the implementation of this system, the Commissioner of Cooperation and the Registrar, Cooperative Societies, Maharashtra State, Pune have been declared as the nodal officers under the Government Decision at Read No. 2. A single nodal bank account has also been opened in the authorized bank under this scheme. Since the transactions on this account will be done through the PFMS system, the matter of appointing a maker and checker to do this transaction was under consideration at the government level. Following this, the government took decision:
+Government Decision: (a) The Accountant shall be responsible as the Maker and Assistant Director of Accounts as the Checker for the transaction of accounts through the PFMS system in the office of the Commissioner of Cooperation.
+Since the transaction in this account will be done only through PFMS, the competent authority should issue the Fund Transfer Order (FTO Fund Distribution Order) in the name of the bank when the funds are to be spent. For this, an FTO should be created by logging in to the PFMS system. This will be the work of the maker.
+c) Use different login IDs and passwords for the maker and checker.
+(d) As the transaction is carried out in accordance with (b) above, the cheque book shall not be used under any circumstances. Therefore, all concerned should give written orders to the banks from their level that the account is without a checkbook.
+# Page 2
+Government Resolution No: Narikal-1023/ P.No. 220/18-C,
+e) Transactions in cash or cheque book or withdrawal slip from the said account are prohibited.
+Withdrawal facility will be available at the level of Commissioner (Cooperation) as per requirement.

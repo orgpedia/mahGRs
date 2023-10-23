@@ -10162,5 +10162,31 @@
     "name": "mahskill-835.pdf",
     "num_pages": 4,
     "large_image_idxs": []
+  },
+  "202310161411062103.pdf": {
+    "code": "202310161411062103",
+    "crawl_dir": "22-Oct-2023",
+    "date": "16-10-2023",
+    "dept": "Skill Development and Entrepreneurship Department",
+    "download_time": "2023-10-22T01:02:44.648160",
+    "size_kb": "139",
+    "text": "Corrigendum - Pramod Mahajan Gramin Kaushlya Vikas Kendra",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310161411062103.pdf",
+    "name": "mahskill-836.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202310181836010303.pdf": {
+    "code": "202310181836010303",
+    "crawl_dir": "22-Oct-2023",
+    "date": "18-10-2023",
+    "dept": "Skill Development and Entrepreneurship Department",
+    "download_time": "2023-10-22T01:02:39.956664",
+    "size_kb": "149",
+    "text": "Regarding establishment of State Coordination Committee for effective implementation of Pramod Mahajan Rural Skill Development Centers under the State Awarded Pramod Mahajan Skill and Entrepreneurship Development Mission.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310181836010303.pdf",
+    "name": "mahskill-837.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
   }
 }
