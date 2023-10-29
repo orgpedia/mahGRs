@@ -11083,5 +11083,44 @@
     "name": "mahmed-928.pdf",
     "num_pages": 2,
     "large_image_idxs": []
+  },
+  "202310271452345713.pdf": {
+    "code": "202310271452345713",
+    "crawl_dir": "28-Oct-2023",
+    "date": "27-10-2023",
+    "dept": "Medical Education and Drugs Department",
+    "download_time": "2023-10-28T00:26:27.854662",
+    "size_kb": "213",
+    "text": "in Government Medical/Dental/Ayurveda Colleges and Hospitals N. i. C. Regarding approving the implementation of Health Service Management System (HMIS) developed by NextGen e-hospital. (clean sheet)",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310271452345713.pdf",
+    "name": "mahmed-930.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202310271452412513.pdf": {
+    "code": "202310271452412513",
+    "crawl_dir": "28-Oct-2023",
+    "date": "27-10-2023",
+    "dept": "Medical Education and Drugs Department",
+    "download_time": "2023-10-28T00:26:32.097127",
+    "size_kb": "235",
+    "text": "Regarding availability of seats for Government Medical College and Hospital, Dharashiv under Skill and Entrepreneurship Department and Water Resources Department",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310271452412513.pdf",
+    "name": "mahmed-931.pdf",
+    "num_pages": 4,
+    "large_image_idxs": []
+  },
+  "202310271452474913.pdf": {
+    "code": "202310271452474913",
+    "crawl_dir": "28-Oct-2023",
+    "date": "27-10-2023",
+    "dept": "Medical Education and Drugs Department",
+    "download_time": "2023-10-28T00:26:36.334781",
+    "size_kb": "316",
+    "text": "Regarding approval to make four wheeler available on lease for office work of the Principal, Government Medical College, Sindhudurg.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310271452474913.pdf",
+    "name": "mahmed-932.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
   }
 }

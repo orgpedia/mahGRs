@@ -19684,5 +19684,18 @@
     "name": "mahlaw-1621.pdf",
     "num_pages": 4,
     "large_image_idxs": []
+  },
+  "202310261209389512.pdf": {
+    "code": "202310261209389512",
+    "crawl_dir": "28-Oct-2023",
+    "date": "25-10-2023",
+    "dept": "Law and Judiciary Department",
+    "download_time": "2023-10-28T00:24:04.244339",
+    "size_kb": "147",
+    "text": "Regarding giving administrative approval to the proposal amounting to Rs.40,77,485/- for purchase of new computer equipment for the District and Sessions Court, Raigad-Alibagh and its Subordinate Courts",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310261209389512.pdf",
+    "name": "mahlaw-1622.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
   }
 }

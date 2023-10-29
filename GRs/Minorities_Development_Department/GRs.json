@@ -9935,5 +9935,31 @@
     "name": "mahmin-822.pdf",
     "num_pages": 3,
     "large_image_idxs": []
+  },
+  "202310231220573514.pdf": {
+    "code": "202310231220573514",
+    "crawl_dir": "28-Oct-2023",
+    "date": "23-10-2023",
+    "dept": "Minorities Development Department",
+    "download_time": "2023-10-28T00:27:39.007154",
+    "size_kb": "220",
+    "text": "Disbursement of grant to the Maharashtra State Haj Committee for financial year 2023-2024.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310231220573514.pdf",
+    "name": "mahmin-823.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202310231223561614.pdf": {
+    "code": "202310231223561614",
+    "crawl_dir": "28-Oct-2023",
+    "date": "23-10-2023",
+    "dept": "Minorities Development Department",
+    "download_time": "2023-10-28T00:27:43.166334",
+    "size_kb": "148",
+    "text": "Disbursement of grant to the Maharashtra State Haj Committee for financial year 2023-2024.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310231223561614.pdf",
+    "name": "mahmin-824.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
   }
 }

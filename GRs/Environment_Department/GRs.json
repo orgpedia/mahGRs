@@ -4089,5 +4089,18 @@
     "name": "mahenv-325.pdf",
     "num_pages": 5,
     "large_image_idxs": []
+  },
+  "202310261551557404.pdf": {
+    "code": "202310261551557404",
+    "crawl_dir": "28-Oct-2023",
+    "date": "26-10-2023",
+    "dept": "Environment Department",
+    "download_time": "2023-10-28T00:12:17.847303",
+    "size_kb": "891",
+    "text": "Regarding giving administrative approval to the Detailed Project Report (DPR) submitted by the local bodies for the works to be undertaken out of the prize money received under Majhi Vasundhara Abhiyan 1.0. Hingoli Municipal Council",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310261551557404.pdf",
+    "name": "mahenv-326.pdf",
+    "num_pages": 4,
+    "large_image_idxs": []
   }
 }

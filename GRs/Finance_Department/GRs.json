@@ -7237,5 +7237,44 @@
     "name": "mahfin-585.pdf",
     "num_pages": 4,
     "large_image_idxs": []
+  },
+  "202310251456065605.pdf": {
+    "code": "202310251456065605",
+    "crawl_dir": "28-Oct-2023",
+    "date": "25-10-2023",
+    "dept": "Finance Department",
+    "download_time": "2023-10-28T00:13:42.668426",
+    "size_kb": "205",
+    "text": "Supplementary demands for expenditure in the year 2023-2024 Third (Winter) session of December, 2023.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310251456065605.pdf",
+    "name": "mahfin-586.pdf",
+    "num_pages": 11,
+    "large_image_idxs": []
+  },
+  "202310271049555805.pdf": {
+    "code": "202310271049555805",
+    "crawl_dir": "28-Oct-2023",
+    "date": "27-10-2023",
+    "dept": "Finance Department",
+    "download_time": "2023-10-28T00:13:34.302114",
+    "size_kb": "502",
+    "text": "List of Lottery Schemes Sponsored by Maharashtra Govt",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310271049555805.pdf",
+    "name": "mahfin-587.pdf",
+    "num_pages": 4,
+    "large_image_idxs": []
+  },
+  "202310271245044205.pdf": {
+    "code": "202310271245044205",
+    "crawl_dir": "28-Oct-2023",
+    "date": "27-10-2023",
+    "dept": "Finance Department",
+    "download_time": "2023-10-28T00:13:38.467844",
+    "size_kb": "145",
+    "text": "Regarding giving administrative approval to the proposal for internal drainage and pipe line repair works at Goods and Services Bhavan, Mazgaon.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310271245044205.pdf",
+    "name": "mahfin-588.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
   }
 }

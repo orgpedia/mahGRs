@@ -27800,5 +27800,31 @@
     "name": "mahtech-2281.pdf",
     "num_pages": 2,
     "large_image_idxs": []
+  },
+  "202310251449389708.pdf": {
+    "code": "202310251449389708",
+    "crawl_dir": "28-Oct-2023",
+    "date": "25-10-2023",
+    "dept": "Higher and Technical Education Department",
+    "download_time": "2023-10-28T00:18:04.270124",
+    "size_kb": "146",
+    "text": "Regarding disbursement of additional funds to be made available from the state level for building construction and hostel building of Government Model Degree College, Nandurbar, established under the scheme of Rashtriya Uchtar Shiksha Abhiyan 2.0 (RUSA).",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310251449389708.pdf",
+    "name": "mahtech-2282.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202310261126496208.pdf": {
+    "code": "202310261126496208",
+    "crawl_dir": "28-Oct-2023",
+    "date": "26-10-2023",
+    "dept": "Higher and Technical Education Department",
+    "download_time": "2023-10-28T00:18:00.130387",
+    "size_kb": "129",
+    "text": "Regarding increasing the remuneration of law officers working on the basis of monthly remuneration under the Directorate of Higher Education and prescribing the procedure for selection.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310261126496208.pdf",
+    "name": "mahtech-2283.pdf",
+    "num_pages": 1,
+    "large_image_idxs": []
   }
 }

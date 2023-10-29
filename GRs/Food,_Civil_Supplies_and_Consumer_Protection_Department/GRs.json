@@ -10801,5 +10801,31 @@
     "name": "mahfood-892.pdf",
     "num_pages": 6,
     "large_image_idxs": []
+  },
+  "202310251435119106.pdf": {
+    "code": "202310251435119106",
+    "crawl_dir": "28-Oct-2023",
+    "date": "25-10-2023",
+    "dept": "Food, Civil Supplies and Consumer Protection Department",
+    "download_time": "2023-10-28T00:14:43.854985",
+    "size_kb": "154",
+    "text": "Under NABARD, RIDF received from Maharashtra State Warehousing Corporation, Pune Regarding giving administrative approval to the additional construction proposal in Government Godown at Mauje Chikhloli, Ambernath, District Thane... (Year 2023-24)",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310251435119106.pdf",
+    "name": "mahfood-894.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202310261108034906.pdf": {
+    "code": "202310261108034906",
+    "crawl_dir": "28-Oct-2023",
+    "date": "25-10-2023",
+    "dept": "Food, Civil Supplies and Consumer Protection Department",
+    "download_time": "2023-10-28T00:14:48.038738",
+    "size_kb": "146",
+    "text": "Request transfer of Deputy Controller of Rationing / Foodgrain Distribution Officer / District Supply Officer, Group-A in Food, Civil Supplies Consumer Protection Department..",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310261108034906.pdf",
+    "name": "mahfood-895.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
   }
 }

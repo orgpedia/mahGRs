@@ -425,5 +425,44 @@
     "name": "mahdis-33.pdf",
     "num_pages": 11,
     "large_image_idxs": []
+  },
+  "202310231725565835.pdf": {
+    "code": "202310231725565835",
+    "crawl_dir": "28-Oct-2023",
+    "date": "23-10-2023",
+    "dept": "Persons with Disabilities Welfare Department",
+    "download_time": "2023-10-28T00:31:25.044279",
+    "size_kb": "357",
+    "text": "Regarding the reconstitution of the committee for the campaign Divyang Kalyan Department Divyanga Ane Dari.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310231725565835.pdf",
+    "name": "mahdis-34.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202310261411309435.pdf": {
+    "code": "202310261411309435",
+    "crawl_dir": "28-Oct-2023",
+    "date": "26-10-2023",
+    "dept": "Persons with Disabilities Welfare Department",
+    "download_time": "2023-10-28T00:31:15.663981",
+    "size_kb": "139",
+    "text": "Marathwada Handicapped Association, Latur Conducted Pratigya Residential Handicapped School, M.I.D.C. Regarding the transfer of the school Latur, Dist. Latur to Dr. Babasaheb Ambedkar Sevabhavi Sanstha, Shurdgaon, Po. Maratala, Loha, Dist. Nanded and shifting to Bondhar Haveli, Dist. Nanded",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310261411309435.pdf",
+    "name": "mahdis-35.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202310261604497435.pdf": {
+    "code": "202310261604497435",
+    "crawl_dir": "28-Oct-2023",
+    "date": "26-10-2023",
+    "dept": "Persons with Disabilities Welfare Department",
+    "download_time": "2023-10-28T00:31:20.357853",
+    "size_kb": "428",
+    "text": "Regarding the implementation of the campaign Disabled Welfare Department to the Door of Disability in every district",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310261604497435.pdf",
+    "name": "mahdis-36.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
   }
 }

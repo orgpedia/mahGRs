@@ -13809,5 +13809,44 @@
     "name": "mahwom-1133.pdf",
     "num_pages": 6,
     "large_image_idxs": []
+  },
+  "202310191133366230.pdf": {
+    "code": "202310191133366230",
+    "crawl_dir": "28-Oct-2023",
+    "date": "19-10-2023",
+    "dept": "Women and Child Development Department",
+    "download_time": "2023-10-28T00:55:04.045458",
+    "size_kb": "143",
+    "text": "Regarding partial modification of administrative transfer orders for the year 2023-24 of Group-A cadre officers in field establishments under Women and Child Development Department.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310191133366230.pdf",
+    "name": "mahwom-1134.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202310261520010530.pdf": {
+    "code": "202310261520010530",
+    "crawl_dir": "28-Oct-2023",
+    "date": "23-10-2023",
+    "dept": "Women and Child Development Department",
+    "download_time": "2023-10-28T00:54:43.112612",
+    "size_kb": "679",
+    "text": "Payment Realese Regarding Security Audit of ( Juvenile Justice Information System ).",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310261520010530.pdf",
+    "name": "mahwom-1135.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202310271528290030.pdf": {
+    "code": "202310271528290030",
+    "crawl_dir": "28-Oct-2023",
+    "date": "26-10-2023",
+    "dept": "Women and Child Development Department",
+    "download_time": "2023-10-28T00:54:37.790723",
+    "size_kb": "538",
+    "text": "Regarding approval to opening new head for the component scheme Hub for Empowerment of Women under the scheme Samarthya under the umbrella scheme Mission Shakti sponsored by the Central Government.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310271528290030.pdf",
+    "name": "mahwom-1136.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
   }
 }

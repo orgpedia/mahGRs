@@ -3865,5 +3865,31 @@
     "name": "mahhouse-316.pdf",
     "num_pages": 2,
     "large_image_idxs": []
+  },
+  "202310251129382409.pdf": {
+    "code": "202310251129382409",
+    "crawl_dir": "28-Oct-2023",
+    "date": "25-10-2023",
+    "dept": "Housing Department",
+    "download_time": "2023-10-28T00:20:27.903142",
+    "size_kb": "137",
+    "text": "Distribution of Interest amount on contributory General Provident fund amount of the Maharashtra Housing Board Staff for the financial year 2022-23.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310251129382409.pdf",
+    "name": "mahhouse-317.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202310251134515909.pdf": {
+    "code": "202310251134515909",
+    "crawl_dir": "28-Oct-2023",
+    "date": "25-10-2023",
+    "dept": "Housing Department",
+    "download_time": "2023-10-28T00:20:32.052700",
+    "size_kb": "137",
+    "text": "Distribution of Interest amount on contributory General Provident fund amount of the Vidharbha Housing Board Staff for the financial year 2022-23.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310251134515909.pdf",
+    "name": "mahhouse-318.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
   }
 }
