@@ -464,5 +464,18 @@
     "name": "mahdis-36.pdf",
     "num_pages": 3,
     "large_image_idxs": []
+  },
+  "202310311148111635.pdf": {
+    "code": "202310311148111635",
+    "crawl_dir": "04-Nov-2023",
+    "date": "31-10-2023",
+    "dept": "Persons with Disabilities Welfare Department",
+    "download_time": "2023-11-04T09:14:10.245188",
+    "size_kb": "323",
+    "text": "filling up the vacant posts in the cadre of teaching and non-teaching staff in aided special schools for the handicapped, attached hostels, workshops (training centers) and childrens homes for the mentally handicapped in the state, in accordance with the governments no-objection certificate.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310311148111635.pdf",
+    "name": "mahdis-37.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
   }
 }

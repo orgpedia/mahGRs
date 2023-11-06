@@ -3891,5 +3891,18 @@
     "name": "mahhouse-318.pdf",
     "num_pages": 2,
     "large_image_idxs": []
+  },
+  "202311011210372409.pdf": {
+    "code": "202311011210372409",
+    "crawl_dir": "04-Nov-2023",
+    "date": "01-11-2023",
+    "dept": "Housing Department",
+    "download_time": "2023-11-04T09:02:01.724100",
+    "size_kb": "164",
+    "text": "Regarding appointment to the post of Member (Judicial), Maharashtra Real Estate Regulatory Authority..",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311011210372409.pdf",
+    "name": "mahhouse-319.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
   }
 }

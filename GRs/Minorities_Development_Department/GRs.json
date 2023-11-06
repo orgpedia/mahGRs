@@ -9961,5 +9961,70 @@
     "name": "mahmin-824.pdf",
     "num_pages": 2,
     "large_image_idxs": []
+  },
+  "202311011109563514.pdf": {
+    "code": "202311011109563514",
+    "crawl_dir": "04-Nov-2023",
+    "date": "01-11-2023",
+    "dept": "Minorities Development Department",
+    "download_time": "2023-11-04T09:10:29.974765",
+    "size_kb": "154",
+    "text": "Regarding disbursement of grant to the Maharashtra State Minority Commission for salary and salary matters during the financial year 2023-24.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311011109563514.pdf",
+    "name": "mahmin-825.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202311011518435114.pdf": {
+    "code": "202311011518435114",
+    "crawl_dir": "04-Nov-2023",
+    "date": "01-11-2023",
+    "dept": "Minorities Development Department",
+    "download_time": "2023-11-04T09:10:34.926893",
+    "size_kb": "429",
+    "text": "Regarding distribution of grant in the year 2023-24 for strengthening Maharashtra State Waqf Board.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311011518435114.pdf",
+    "name": "mahmin-826.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202311011543450914.pdf": {
+    "code": "202311011543450914",
+    "crawl_dir": "04-Nov-2023",
+    "date": "01-11-2023",
+    "dept": "Minorities Development Department",
+    "download_time": "2023-11-04T09:10:39.126143",
+    "size_kb": "246",
+    "text": "Regarding the observance of the week from 19th November, 2023 to 25th November, 2023 as National Unity Week.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311011543450914.pdf",
+    "name": "mahmin-827.pdf",
+    "num_pages": 5,
+    "large_image_idxs": []
+  },
+  "202311011548072214.pdf": {
+    "code": "202311011548072214",
+    "crawl_dir": "04-Nov-2023",
+    "date": "01-11-2023",
+    "dept": "Minorities Development Department",
+    "download_time": "2023-11-04T09:10:43.790797",
+    "size_kb": "326",
+    "text": "Regarding observance of 24th November, 2023 as Flag Day for collection of funds during Qaumi Ekta Week.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311011548072214.pdf",
+    "name": "mahmin-828.pdf",
+    "num_pages": 4,
+    "large_image_idxs": []
+  },
+  "202311031124276614.pdf": {
+    "code": "202311031124276614",
+    "crawl_dir": "04-Nov-2023",
+    "date": "03-11-2023",
+    "dept": "Minorities Development Department",
+    "download_time": "2023-11-04T09:10:25.833429",
+    "size_kb": "155",
+    "text": "Government Corrigendum - Regarding disbursement of grant-in-aid for compulsory expenditure for the financial year 2023-24 to Maharastra State Urdu Sahitya Akademi",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311031124276614.pdf",
+    "name": "mahmin-829.pdf",
+    "num_pages": 1,
+    "large_image_idxs": []
   }
 }

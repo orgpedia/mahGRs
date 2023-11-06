@@ -7276,5 +7276,31 @@
     "name": "mahfin-588.pdf",
     "num_pages": 2,
     "large_image_idxs": []
+  },
+  "202311031615492405.pdf": {
+    "code": "202311031615492405",
+    "crawl_dir": "04-Nov-2023",
+    "date": "03-11-2023",
+    "dept": "Finance Department",
+    "download_time": "2023-11-04T08:52:26.491101",
+    "size_kb": "279",
+    "text": "Allotment of Recommended Candidates from waiting list, for the post of Technical Assistant in the Directorate of Insurance, from Maharashtra Group-C Main Examination -2021.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311031615492405.pdf",
+    "name": "mahfin-589.pdf",
+    "num_pages": 12,
+    "large_image_idxs": []
+  },
+  "202311031741562305.pdf": {
+    "code": "202311031741562305",
+    "crawl_dir": "04-Nov-2023",
+    "date": "03-11-2023",
+    "dept": "Finance Department",
+    "download_time": "2023-11-04T08:52:30.675164",
+    "size_kb": "145",
+    "text": "Regarding revision of the list of District Central Co-operative Banks for authorizing to open the bank account of the Drawing and Disbursement Officer as well as the personal bank account of the pensioner to provide salaries and allowances to the government employees .....",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311031741562305.pdf",
+    "name": "mahfin-590.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
   }
 }
