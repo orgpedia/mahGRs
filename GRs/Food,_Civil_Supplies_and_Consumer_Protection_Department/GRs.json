@@ -10879,5 +10879,60 @@
     "name": "mahfood-900.pdf",
     "num_pages": 2,
     "large_image_idxs": []
+  },
+  "202311081222414706.pdf": {
+    "code": "202311081222414706",
+    "crawl_dir": "26-Nov-2023",
+    "date": "08-11-2023",
+    "dept": "Food, Civil Supplies and Consumer Protection Department",
+    "download_time": "2023-11-26T15:50:00.818884",
+    "size_kb": "151",
+    "text": "Regarding fixation of transportation rates of paddy, CMR and bulk grains procured under the Minimum Base Price Purchase Scheme during the marketing season 2022-23.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311081222414706.pdf",
+    "name": "mahfood-902.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202311101617240606.pdf": {
+    "code": "202311101617240606",
+    "crawl_dir": "26-Nov-2023",
+    "date": "10-11-2023",
+    "dept": "Food, Civil Supplies and Consumer Protection Department",
+    "download_time": "2023-11-26T15:49:47.209240",
+    "size_kb": "210",
+    "text": "Regarding provision of subsidy for providing Shiv Bhojan to poor and needy persons at cheap rates..",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311101617240606.pdf",
+    "name": "mahfood-903.pdf",
+    "num_pages": 4,
+    "large_image_idxs": []
+  },
+  "202311241749551906.pdf": {
+    "code": "202311241749551906",
+    "crawl_dir": "26-Nov-2023",
+    "date": "24-11-2023",
+    "dept": "Food, Civil Supplies and Consumer Protection Department",
+    "download_time": "2023-11-26T15:49:38.755690",
+    "size_kb": "2055",
+    "text": "procurement of paddy and rice fortification during marketing season 2023-24",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311241749551906.pdf",
+    "name": "mahfood-904.pdf",
+    "num_pages": 40,
+    "large_image_idxs": [
+      18,
+      19
+    ]
+  },
+  "202311241840031706.pdf": {
+    "code": "202311241840031706",
+    "crawl_dir": "26-Nov-2023",
+    "date": "24-11-2023",
+    "dept": "Food, Civil Supplies and Consumer Protection Department",
+    "download_time": "2023-11-26T15:49:43.036620",
+    "size_kb": "142",
+    "text": "Regarding the purchase of twine required for sewing food grain sacks in government grain godowns where electricity is not available in the state through the Government e-Marketplace (GeM) portal",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311241840031706.pdf",
+    "name": "mahfood-905.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
   }
 }

@@ -477,5 +477,57 @@
     "name": "mahdis-37.pdf",
     "num_pages": 3,
     "large_image_idxs": []
+  },
+  "202311061601248435.pdf": {
+    "code": "202311061601248435",
+    "crawl_dir": "26-Nov-2023",
+    "date": "06-11-2023",
+    "dept": "Persons with Disabilities Welfare Department",
+    "download_time": "2023-11-26T16:16:54.787857",
+    "size_kb": "146",
+    "text": "Maharashtra State Finance and Development Corporation for Persons with Disability Ltd., Mumbai to disburse funds for mobile shop on vehicle scheme in the financial year 2023-24. Head of Accounts - 2235 D257",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311061601248435.pdf",
+    "name": "mahdis-38.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202311101454007335.pdf": {
+    "code": "202311101454007335",
+    "crawl_dir": "26-Nov-2023",
+    "date": "10-11-2023",
+    "dept": "Persons with Disabilities Welfare Department",
+    "download_time": "2023-11-26T16:16:50.610477",
+    "size_kb": "537",
+    "text": "Implementation of Reservation for Disabled Persons",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311101454007335.pdf",
+    "name": "mahdis-39.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202311131531275435.pdf": {
+    "code": "202311131531275435",
+    "crawl_dir": "26-Nov-2023",
+    "date": "13-11-2023",
+    "dept": "Persons with Disabilities Welfare Department",
+    "download_time": "2023-11-26T16:16:46.371522",
+    "size_kb": "165",
+    "text": "Government approval to create teaching/non teaching posts of 3 special schools to be sanctioned.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311131531275435.pdf",
+    "name": "mahdis-40.pdf",
+    "num_pages": 6,
+    "large_image_idxs": []
+  },
+  "202311161557301235.pdf": {
+    "code": "202311161557301235",
+    "crawl_dir": "26-Nov-2023",
+    "date": "16-11-2023",
+    "dept": "Persons with Disabilities Welfare Department",
+    "download_time": "2023-11-26T16:16:42.231985",
+    "size_kb": "130",
+    "text": "Delegation of Financial Authority",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311161557301235.pdf",
+    "name": "mahdis-41.pdf",
+    "num_pages": 1,
+    "large_image_idxs": []
   }
 }
