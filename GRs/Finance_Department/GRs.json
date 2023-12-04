@@ -7522,5 +7522,57 @@
     "name": "mahfin-606.pdf",
     "num_pages": 4,
     "large_image_idxs": []
+  },
+  "202311301619324105.pdf": {
+    "code": "202311301619324105",
+    "crawl_dir": "03-Dec-2023",
+    "date": "30-11-2023",
+    "dept": "Finance Department",
+    "download_time": "2023-12-03T08:46:46.365664",
+    "size_kb": "320",
+    "text": "Administrative approval to rapairing of underground R.C.C. water tank at GST Bhavan, Mazgaon",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311301619324105.pdf",
+    "name": "mahfin-607.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202311301728010805.pdf": {
+    "code": "202311301728010805",
+    "crawl_dir": "03-Dec-2023",
+    "date": "30-11-2023",
+    "dept": "Finance Department",
+    "download_time": "2023-12-03T08:46:50.567341",
+    "size_kb": "392",
+    "text": "Regarding the implementation of the new service system... regarding the extension of time for the withdrawal and disbursement officer to update the available data in the service system in the new service system.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311301728010805.pdf",
+    "name": "mahfin-608.pdf",
+    "num_pages": 4,
+    "large_image_idxs": []
+  },
+  "202312011113174005.pdf": {
+    "code": "202312011113174005",
+    "crawl_dir": "03-Dec-2023",
+    "date": "01-12-2023",
+    "dept": "Finance Department",
+    "download_time": "2023-12-03T08:46:37.467068",
+    "size_kb": "501",
+    "text": "List of Lottery Schemes Sponsored by Maharashtra Govt",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312011113174005.pdf",
+    "name": "mahfin-609.pdf",
+    "num_pages": 4,
+    "large_image_idxs": []
+  },
+  "202312011538196605.pdf": {
+    "code": "202312011538196605",
+    "crawl_dir": "03-Dec-2023",
+    "date": "01-12-2023",
+    "dept": "Finance Department",
+    "download_time": "2023-12-03T08:46:41.630233",
+    "size_kb": "145",
+    "text": "Regarding the revision of the list of District Central Co-operative Banks for the year 2023-24 to authorize the opening of Bank Accounts of Drawing and Disbursing Officers and Personal Bank Accounts of Pensioners for disbursement of salaries and allowances to Government employees.....",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312011538196605.pdf",
+    "name": "mahfin-610.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
   }
 }

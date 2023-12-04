@@ -20035,5 +20035,57 @@
     "name": "mahlaw-1648.pdf",
     "num_pages": 6,
     "large_image_idxs": []
+  },
+  "202311281619147312.pdf": {
+    "code": "202311281619147312",
+    "crawl_dir": "03-Dec-2023",
+    "date": "28-11-2023",
+    "dept": "Law and Judiciary Department",
+    "download_time": "2023-12-03T08:58:21.557619",
+    "size_kb": "703",
+    "text": "Legislation Internship programme order for Law students.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311281619147312.pdf",
+    "name": "mahlaw-1649.pdf",
+    "num_pages": 4,
+    "large_image_idxs": []
+  },
+  "202311291752549112.pdf": {
+    "code": "202311291752549112",
+    "crawl_dir": "03-Dec-2023",
+    "date": "29-11-2023",
+    "dept": "Law and Judiciary Department",
+    "download_time": "2023-12-03T08:58:16.829654",
+    "size_kb": "330",
+    "text": "Administrative Approval to the Construction of New Court Building at Chandrapur",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311291752549112.pdf",
+    "name": "mahlaw-1650.pdf",
+    "num_pages": 4,
+    "large_image_idxs": []
+  },
+  "202311301651552312.pdf": {
+    "code": "202311301651552312",
+    "crawl_dir": "03-Dec-2023",
+    "date": "30-11-2023",
+    "dept": "Law and Judiciary Department",
+    "download_time": "2023-12-03T08:58:12.153128",
+    "size_kb": "540",
+    "text": "Year 2023-24 Budget Grant Demand No. J-5, Heading 7610- Loans to Government Employees etc. (204)(00)(01)- Advances for Purchase of Personal Computers, (7610 1842) Allotment of Computer Advances.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311301651552312.pdf",
+    "name": "mahlaw-1651.pdf",
+    "num_pages": 5,
+    "large_image_idxs": []
+  },
+  "202312011700089912.pdf": {
+    "code": "202312011700089912",
+    "crawl_dir": "03-Dec-2023",
+    "date": "01-12-2023",
+    "dept": "Law and Judiciary Department",
+    "download_time": "2023-12-03T08:58:07.015904",
+    "size_kb": "142",
+    "text": "Regarding outsourcing the Services of 2 Peons in the office of Chief Presenting Officer, Maharashtra Administrative Tribunal, Nagpur",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312011700089912.pdf",
+    "name": "mahlaw-1652.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
   }
 }

@@ -10169,5 +10169,31 @@
     "name": "mahmin-840.pdf",
     "num_pages": 12,
     "large_image_idxs": []
+  },
+  "202311291428311914.pdf": {
+    "code": "202311291428311914",
+    "crawl_dir": "03-Dec-2023",
+    "date": "29-11-2023",
+    "dept": "Minorities Development Department",
+    "download_time": "2023-12-03T09:02:30.960028",
+    "size_kb": "149",
+    "text": "Disbursement of grant to the Maharashtra State Haj Committee for financial year 2023-2024.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311291428311914.pdf",
+    "name": "mahmin-841.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202311291709338614.pdf": {
+    "code": "202311291709338614",
+    "crawl_dir": "03-Dec-2023",
+    "date": "29-11-2023",
+    "dept": "Minorities Development Department",
+    "download_time": "2023-12-03T09:02:35.122614",
+    "size_kb": "140",
+    "text": "Regarding observance of 18th December as Minority Rights Day.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311291709338614.pdf",
+    "name": "mahmin-842.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
   }
 }

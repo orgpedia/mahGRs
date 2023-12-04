@@ -34396,5 +34396,44 @@
     "name": "mahpwd-2842.pdf",
     "num_pages": 2,
     "large_image_idxs": []
+  },
+  "202311301431106218.pdf": {
+    "code": "202311301431106218",
+    "crawl_dir": "03-Dec-2023",
+    "date": "30-11-2023",
+    "dept": "Public Works Department",
+    "download_time": "2023-12-03T09:11:45.371764",
+    "size_kb": "156",
+    "text": "Appointment on the post of Vice President and Managing Director of MRSDC Shri. Anilkumar Gaikwad, Retired Secretary (Constructions), Mantralaya, PWD.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311301431106218.pdf",
+    "name": "mahpwd-2843.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202312011514235918.pdf": {
+    "code": "202312011514235918",
+    "crawl_dir": "03-Dec-2023",
+    "date": "01-12-2023",
+    "dept": "Public Works Department",
+    "download_time": "2023-12-03T09:11:36.486683",
+    "size_kb": "151",
+    "text": "Formation of Purchase Committee for purchase of Computers and related materials under Public Works Department.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312011514235918.pdf",
+    "name": "mahpwd-2844.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202312011520091118.pdf": {
+    "code": "202312011520091118",
+    "crawl_dir": "03-Dec-2023",
+    "date": "01-12-2023",
+    "dept": "Public Works Department",
+    "download_time": "2023-12-03T09:11:41.199572",
+    "size_kb": "292",
+    "text": "Uppgradation of other district road and village road to Major District Road in Taluka Guhagar, Khed, Chiplun, Lanja, Sangmeshwar and Ratnagiri at District Ratnagiri.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312011520091118.pdf",
+    "name": "mahpwd-2845.pdf",
+    "num_pages": 5,
+    "large_image_idxs": []
   }
 }

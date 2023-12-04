@@ -10934,5 +10934,44 @@
     "name": "mahfood-905.pdf",
     "num_pages": 2,
     "large_image_idxs": []
+  },
+  "202311281745311806.pdf": {
+    "code": "202311281745311806",
+    "crawl_dir": "03-Dec-2023",
+    "date": "28-11-2023",
+    "dept": "Food, Civil Supplies and Consumer Protection Department",
+    "download_time": "2023-12-03T08:48:00.488207",
+    "size_kb": "155",
+    "text": "Regarding the purchase of twine required for sewing food grain sacks in government grain godowns where electricity is not available in the state through the Government e-Marketplace (GeM) portal.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311281745311806.pdf",
+    "name": "mahfood-907.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202311301630587406.pdf": {
+    "code": "202311301630587406",
+    "crawl_dir": "03-Dec-2023",
+    "date": "30-11-2023",
+    "dept": "Food, Civil Supplies and Consumer Protection Department",
+    "download_time": "2023-12-03T08:47:56.354634",
+    "size_kb": "162",
+    "text": "To construct a State Level Committee to decide to Transportation rates (SoR)",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311301630587406.pdf",
+    "name": "mahfood-908.pdf",
+    "num_pages": 4,
+    "large_image_idxs": []
+  },
+  "202312011812070006.pdf": {
+    "code": "202312011812070006",
+    "crawl_dir": "03-Dec-2023",
+    "date": "01-12-2023",
+    "dept": "Food, Civil Supplies and Consumer Protection Department",
+    "download_time": "2023-12-03T08:47:52.196406",
+    "size_kb": "146",
+    "text": "Regarding request transfer of District Supply Officer, Group-A Officer in Food, Civil Supplies and Consumer Protection Department...",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312011812070006.pdf",
+    "name": "mahfood-909.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
   }
 }

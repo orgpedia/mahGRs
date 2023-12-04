@@ -5136,5 +5136,44 @@
     "name": "mahbah-407.pdf",
     "num_pages": 5,
     "large_image_idxs": []
+  },
+  "202311301446077734.pdf": {
+    "code": "202311301446077734",
+    "crawl_dir": "03-Dec-2023",
+    "date": "29-11-2023",
+    "dept": "Other Backward Bahujan Welfare Department",
+    "download_time": "2023-12-03T09:03:51.041538",
+    "size_kb": "520",
+    "text": "Regarding the administrative approval and disbursement of funds for the works in Ahmadnagar district for the year 2023-24 under the Vasantrao Naik Tanda Vasti Sudhar Yojna.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311301446077734.pdf",
+    "name": "mahbah-408.pdf",
+    "num_pages": 4,
+    "large_image_idxs": []
+  },
+  "202311301541449934.pdf": {
+    "code": "202311301541449934",
+    "crawl_dir": "03-Dec-2023",
+    "date": "30-11-2023",
+    "dept": "Other Backward Bahujan Welfare Department",
+    "download_time": "2023-12-03T09:03:41.741232",
+    "size_kb": "717",
+    "text": "Regarding the setting up of an independent cell for regular follow-up of the ongoing proceedings regarding the welfare schemes implemented through the Other Backward Bahujan Welfare Department.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311301541449934.pdf",
+    "name": "mahbah-409.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202311301740195334.pdf": {
+    "code": "202311301740195334",
+    "crawl_dir": "03-Dec-2023",
+    "date": "30-11-2023",
+    "dept": "Other Backward Bahujan Welfare Department",
+    "download_time": "2023-12-03T09:03:45.888336",
+    "size_kb": "145",
+    "text": "Regarding appointment by deputation Shri. Ashok Raghunath Devkate, Junior Clerk, C. O. e. P. University of Technology, Pune",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311301740195334.pdf",
+    "name": "mahbah-410.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
   }
 }
