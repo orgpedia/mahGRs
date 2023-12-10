@@ -27866,5 +27866,31 @@
     "name": "mahcoop-2278.pdf",
     "num_pages": 4,
     "large_image_idxs": []
+  },
+  "202312041307310102.pdf": {
+    "code": "202312041307310102",
+    "crawl_dir": "09-Dec-2023",
+    "date": "04-12-2023",
+    "dept": "Co-operation, Textiles and Marketing Department",
+    "download_time": "2023-12-09T01:10:45.924371",
+    "size_kb": "142",
+    "text": "To form committee to study issues regarding Urban co-operative Banks of State",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312041307310102.pdf",
+    "name": "mahcoop-2280.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202312071453049302.pdf": {
+    "code": "202312071453049302",
+    "crawl_dir": "09-Dec-2023",
+    "date": "07-12-2023",
+    "dept": "Co-operation, Textiles and Marketing Department",
+    "download_time": "2023-12-09T01:10:41.778583",
+    "size_kb": "159",
+    "text": "Regarding extension of the ongoing inquiry of Nagpur District Central Co-operative Bank under Section 88 of the Maharashtra Co-operative Societies Act, 1960.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312071453049302.pdf",
+    "name": "mahcoop-2281.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
   }
 }

@@ -29174,5 +29174,31 @@
     "name": "mahwater-2437.pdf",
     "num_pages": 3,
     "large_image_idxs": []
+  },
+  "202312041536043327.pdf": {
+    "code": "202312041536043327",
+    "crawl_dir": "09-Dec-2023",
+    "date": "04-12-2023",
+    "dept": "Water Resources Department",
+    "download_time": "2023-12-09T01:54:58.385085",
+    "size_kb": "774",
+    "text": "Grant allowed to heirs of deceased Government Employees under Deposit Link Insurance Scheme",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312041536043327.pdf",
+    "name": "mahwater-2440.pdf",
+    "num_pages": 4,
+    "large_image_idxs": []
+  },
+  "202312081236557427.pdf": {
+    "code": "202312081236557427",
+    "crawl_dir": "09-Dec-2023",
+    "date": "08-12-2023",
+    "dept": "Water Resources Department",
+    "download_time": "2023-12-09T01:54:40.624974",
+    "size_kb": "346",
+    "text": "Appointment to the post of Assistant Engineer Grade-2 (Civil) Group-B by Nomination from Maharashtra Engineering (Civil) Services Examination 2020",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312081236557427.pdf",
+    "name": "mahwater-2441.pdf",
+    "num_pages": 19,
+    "large_image_idxs": []
   }
 }

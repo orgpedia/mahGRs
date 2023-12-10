@@ -28281,5 +28281,44 @@
     "name": "mahtech-2318.pdf",
     "num_pages": 2,
     "large_image_idxs": []
+  },
+  "202312041210279708.pdf": {
+    "code": "202312041210279708",
+    "crawl_dir": "09-Dec-2023",
+    "date": "04-12-2023",
+    "dept": "Higher and Technical Education Department",
+    "download_time": "2023-12-09T01:17:48.166938",
+    "size_kb": "142",
+    "text": "To appoint Government nominated members on Governing Body of MSBTE",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312041210279708.pdf",
+    "name": "mahtech-2319.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202312051615150908.pdf": {
+    "code": "202312051615150908",
+    "crawl_dir": "09-Dec-2023",
+    "date": "05-12-2023",
+    "dept": "Higher and Technical Education Department",
+    "download_time": "2023-12-09T01:17:44.005564",
+    "size_kb": "152",
+    "text": "To form a committee for improvement in curriculum of Certificate Course in Librarianship.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312051615150908.pdf",
+    "name": "mahtech-2320.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202312071146515708.pdf": {
+    "code": "202312071146515708",
+    "crawl_dir": "09-Dec-2023",
+    "date": "07-12-2023",
+    "dept": "Higher and Technical Education Department",
+    "download_time": "2023-12-09T01:17:39.808220",
+    "size_kb": "141",
+    "text": "Regarding the waiver of education fee (tuition fee) for the transgender students of the state for the courses under the auspices of the Department of Higher and Technical Education.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312071146515708.pdf",
+    "name": "mahtech-2321.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
   }
 }

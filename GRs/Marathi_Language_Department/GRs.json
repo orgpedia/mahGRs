@@ -3634,5 +3634,18 @@
     "name": "mahmar-308.pdf",
     "num_pages": 3,
     "large_image_idxs": []
+  },
+  "202312071601494333.pdf": {
+    "code": "202312071601494333",
+    "crawl_dir": "09-Dec-2023",
+    "date": "07-12-2023",
+    "dept": "Marathi Language Department",
+    "download_time": "2023-12-09T01:25:56.030815",
+    "size_kb": "731",
+    "text": "Regarding granting administrative and financial approval for purchase of computers and scanners for officers/ in Marathi language department",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312071601494333.pdf",
+    "name": "mahmar-310.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
   }
 }

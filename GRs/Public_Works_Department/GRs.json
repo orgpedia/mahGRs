@@ -34435,5 +34435,70 @@
     "name": "mahpwd-2845.pdf",
     "num_pages": 5,
     "large_image_idxs": []
+  },
+  "202312041228180618.pdf": {
+    "code": "202312041228180618",
+    "crawl_dir": "09-Dec-2023",
+    "date": "04-12-2023",
+    "dept": "Public Works Department",
+    "download_time": "2023-12-09T01:38:27.121640",
+    "size_kb": "296",
+    "text": "Regarding reimbursement of medical expenses. Shri.Prabhakar Vithu Ghadi, Gardener",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312041228180618.pdf",
+    "name": "mahpwd-2846.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202312041504036718.pdf": {
+    "code": "202312041504036718",
+    "crawl_dir": "09-Dec-2023",
+    "date": "04-12-2023",
+    "dept": "Public Works Department",
+    "download_time": "2023-12-09T01:38:31.251888",
+    "size_kb": "149",
+    "text": "Upgradation of other district roads and village roads to major district road in Taluka Risod and Malegaon taluka District Washim.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312041504036718.pdf",
+    "name": "mahpwd-2847.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202312041516261918.pdf": {
+    "code": "202312041516261918",
+    "crawl_dir": "09-Dec-2023",
+    "date": "04-12-2023",
+    "dept": "Public Works Department",
+    "download_time": "2023-12-09T01:38:35.407999",
+    "size_kb": "256",
+    "text": "Regarding creation of 28 additional posts for Divisional Accountants (Probationary).",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312041516261918.pdf",
+    "name": "mahpwd-2848.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202312051515574418.pdf": {
+    "code": "202312051515574418",
+    "crawl_dir": "09-Dec-2023",
+    "date": "05-12-2023",
+    "dept": "Public Works Department",
+    "download_time": "2023-12-09T01:38:22.487846",
+    "size_kb": "135",
+    "text": "Regarding the creation of a website and mobile app to make public the relevant information about government rest houses in the state (condition of rest houses, available facilities, total rooms, reservation information, concerned authorities)",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312051515574418.pdf",
+    "name": "mahpwd-2849.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202312071315147718.pdf": {
+    "code": "202312071315147718",
+    "crawl_dir": "09-Dec-2023",
+    "date": "07-12-2023",
+    "dept": "Public Works Department",
+    "download_time": "2023-12-09T01:38:18.364514",
+    "size_kb": "665",
+    "text": "Regarding the use of computerized system to make available to tenderers the details of bid capacity of contractors in public works department and details of technically trained manpower to be employed by contractors.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312071315147718.pdf",
+    "name": "mahpwd-2850.pdf",
+    "num_pages": 7,
+    "large_image_idxs": []
   }
 }

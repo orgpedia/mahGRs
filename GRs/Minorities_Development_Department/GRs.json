@@ -10195,5 +10195,31 @@
     "name": "mahmin-842.pdf",
     "num_pages": 2,
     "large_image_idxs": []
+  },
+  "202312041806572514.pdf": {
+    "code": "202312041806572514",
+    "crawl_dir": "09-Dec-2023",
+    "date": "04-12-2023",
+    "dept": "Minorities Development Department",
+    "download_time": "2023-12-09T01:28:23.776274",
+    "size_kb": "468",
+    "text": "Regarding disbursement of grant for construction of Hospital Dnyane, Municipal Corporation, Malegaon in Nashik District under Centrally Sponsored Pradhan Mantri Jan Vikas Program (PMJVK) (Central Share State Share) for the year 2020-21.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312041806572514.pdf",
+    "name": "mahmin-843.pdf",
+    "num_pages": 4,
+    "large_image_idxs": []
+  },
+  "202312051810102714.pdf": {
+    "code": "202312051810102714",
+    "crawl_dir": "09-Dec-2023",
+    "date": "05-12-2023",
+    "dept": "Minorities Development Department",
+    "download_time": "2023-12-09T01:28:19.084342",
+    "size_kb": "304",
+    "text": "Regarding the creation of new posts and approval of recruitment on the establishment of Maharashtra State Haj Committee.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312051810102714.pdf",
+    "name": "mahmin-844.pdf",
+    "num_pages": 1,
+    "large_image_idxs": []
   }
 }

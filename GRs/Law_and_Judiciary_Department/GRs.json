@@ -20087,5 +20087,44 @@
     "name": "mahlaw-1652.pdf",
     "num_pages": 2,
     "large_image_idxs": []
+  },
+  "202312041234364512.pdf": {
+    "code": "202312041234364512",
+    "crawl_dir": "09-Dec-2023",
+    "date": "04-12-2023",
+    "dept": "Law and Judiciary Department",
+    "download_time": "2023-12-09T01:24:52.281262",
+    "size_kb": "134",
+    "text": "Corrigendum- administrative approval to outsource the manpower for the work of translation of judgments of Hon.Bombay High Court and Hon. Supreme Court.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312041234364512.pdf",
+    "name": "mahlaw-1653.pdf",
+    "num_pages": 1,
+    "large_image_idxs": []
+  },
+  "202312041731447112.pdf": {
+    "code": "202312041731447112",
+    "crawl_dir": "09-Dec-2023",
+    "date": "04-12-2023",
+    "dept": "Law and Judiciary Department",
+    "download_time": "2023-12-09T01:24:57.009065",
+    "size_kb": "661",
+    "text": "Administrative Approval to PDA Account of District Judge-1 and Additional Sessions Judge, Belapur, Navi Mumbai, District Thane.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312041731447112.pdf",
+    "name": "mahlaw-1654.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202312081708391512.pdf": {
+    "code": "202312081708391512",
+    "crawl_dir": "09-Dec-2023",
+    "date": "08-12-2023",
+    "dept": "Law and Judiciary Department",
+    "download_time": "2023-12-09T01:24:42.606907",
+    "size_kb": "136",
+    "text": "Regarding giving Administrative and Financial Approval for Purchase of Computers in all Offices of Charitable organisations.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312081708391512.pdf",
+    "name": "mahlaw-1655.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
   }
 }

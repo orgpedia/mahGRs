@@ -7574,5 +7574,70 @@
     "name": "mahfin-610.pdf",
     "num_pages": 3,
     "large_image_idxs": []
+  },
+  "202312041521409105.pdf": {
+    "code": "202312041521409105",
+    "crawl_dir": "09-Dec-2023",
+    "date": "04-12-2023",
+    "dept": "Finance Department",
+    "download_time": "2023-12-09T01:13:16.594216",
+    "size_kb": "225",
+    "text": "Maharashtra Group-c services main exam -2021 recommended by Maharashtra Public service commission, Regarding Cancellation of allotment of waitlisted candidates to the post of Technical Assistant Group-c Directorate of Insurance",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312041521409105.pdf",
+    "name": "mahfin-611.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202312041627292805.pdf": {
+    "code": "202312041627292805",
+    "crawl_dir": "09-Dec-2023",
+    "date": "04-12-2023",
+    "dept": "Finance Department",
+    "download_time": "2023-12-09T01:13:21.928207",
+    "size_kb": "1001",
+    "text": "Fixation of time limit for implementation of National Pension System applicable to State Government Employees.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312041627292805.pdf",
+    "name": "mahfin-612.pdf",
+    "num_pages": 19,
+    "large_image_idxs": []
+  },
+  "202312051825416605.pdf": {
+    "code": "202312051825416605",
+    "crawl_dir": "09-Dec-2023",
+    "date": "05-12-2023",
+    "dept": "Finance Department",
+    "download_time": "2023-12-09T01:13:07.378397",
+    "size_kb": "142",
+    "text": "To ensure that the funds disbursed by the Central Government in respect of Centrally Sponsored Schemes are credited to the Consolidated Fund of the State",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312051825416605.pdf",
+    "name": "mahfin-613.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202312071205202505.pdf": {
+    "code": "202312071205202505",
+    "crawl_dir": "09-Dec-2023",
+    "date": "05-12-2023",
+    "dept": "Finance Department",
+    "download_time": "2023-12-09T01:13:12.368081",
+    "size_kb": "342",
+    "text": "List of Maharashtra State Government Sponsored Lottery schemes Period dt.04/12/2023. to dt.10/12/2023.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312071205202505.pdf",
+    "name": "mahfin-614.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202312081246357605.pdf": {
+    "code": "202312081246357605",
+    "crawl_dir": "09-Dec-2023",
+    "date": "08-12-2023",
+    "dept": "Finance Department",
+    "download_time": "2023-12-09T01:13:03.234388",
+    "size_kb": "145",
+    "text": "Maharashtra Appropriation Act, 2023 Fund Distribution Centrally Sponsored Scheme",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312081246357605.pdf",
+    "name": "mahfin-615.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
   }
 }

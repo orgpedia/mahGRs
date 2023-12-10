@@ -135,12 +135,13 @@ class ChatBot:
             self.lgr.debug("Index exists")
             return
 
-        print("Building index will take some time...")
 
         embedding_files = self.gen_doc_embeddings(missing_docs)
+        
         if not embedding_files:
             return
 
+        print(f"Building index will take some time, documents indexed {len(indexed_docs)}")
         # load embeddings
         vec_size, points = 0, []
         for emb_file in embedding_files:
@@ -160,7 +161,6 @@ class ChatBot:
 
     def query(self, query_text):
         self.lgr.debug(f"Query: {query_text}")
-
         def search(query_vec):
             cmd = [
                 "curl",
@@ -215,7 +215,6 @@ class ChatBot:
 
     def completion(self, query_text, doc):
         self.lgr.debug(f"completion_api: {query_text}")
-
         def call_completion(messages):
             cmd = ["curl", "-s", f"{Openai_URL}/v1/chat/completions"]
             cmd += [
@@ -233,6 +232,8 @@ class ChatBot:
 
             return json.loads(output)
 
+        print(query_text)
+        
         sys_msg = "You are an expert in government resolutions, answer very precisely and succintly"
         prompt = f"In the following government resolution - {query_text}\n---\n{doc}"
         messages = [{"role": "system", "content": sys_msg}, {"role": "system", "content": prompt}]
@@ -258,7 +259,7 @@ class ChatBot:
 
 class ChatShell(cmd.Cmd):
     question_num = 1
-    prompt = f"> Question [{question_num}]:\n"
+    prompt = f"> Question [{question_num}]: "
 
     def __init__(self, chat):
         cmd.Cmd.__init__(self)

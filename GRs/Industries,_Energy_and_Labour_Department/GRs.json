@@ -20610,5 +20610,31 @@
     "name": "mahind-1695.pdf",
     "num_pages": 2,
     "large_image_idxs": []
+  },
+  "202312011822567510.pdf": {
+    "code": "202312011822567510",
+    "crawl_dir": "09-Dec-2023",
+    "date": "01-12-2023",
+    "dept": "Industries, Energy and Labour Department",
+    "download_time": "2023-12-09T01:22:30.694880",
+    "size_kb": "156",
+    "text": "Approval of Construction of 2X660 MW Coal based Power plant at Koradi, Tal. Kamthi, Dist. Nagpur using Supercritical technology and sanction of Equity from Government.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312011822567510.pdf",
+    "name": "mahind-1696.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202312071844000610.pdf": {
+    "code": "202312071844000610",
+    "crawl_dir": "09-Dec-2023",
+    "date": "07-12-2023",
+    "dept": "Industries, Energy and Labour Department",
+    "download_time": "2023-12-09T01:22:22.381726",
+    "size_kb": "359",
+    "text": "Regarding giving administrative approval for the construction of new Kamgar Bhavan at headquarter location in each district of the State.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312071844000610.pdf",
+    "name": "mahind-1697.pdf",
+    "num_pages": 4,
+    "large_image_idxs": []
   }
 }
