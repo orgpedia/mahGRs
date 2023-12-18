@@ -11629,5 +11629,44 @@
     "name": "mahmed-975.pdf",
     "num_pages": 3,
     "large_image_idxs": []
+  },
+  "202312081816580913.pdf": {
+    "code": "202312081816580913",
+    "crawl_dir": "16-Dec-2023",
+    "date": "11-12-2023",
+    "dept": "Medical Education and Drugs Department",
+    "download_time": "2023-12-16T12:21:43.311566",
+    "size_kb": "161",
+    "text": "Administrative approval to the construction of the Government Medical College from the funds received by the Central Government due to the EWS quota under the Centrally Sponsored Scheme.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312081816580913.pdf",
+    "name": "mahmed-977.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202312151045166513.pdf": {
+    "code": "202312151045166513",
+    "crawl_dir": "16-Dec-2023",
+    "date": "15-12-2023",
+    "dept": "Medical Education and Drugs Department",
+    "download_time": "2023-12-16T12:21:35.057363",
+    "size_kb": "155",
+    "text": "Administrative Approval for Repairs Renovation of Hostel Building Room of Grant Medical College J J Group of Hospital, Mumbai",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312151045166513.pdf",
+    "name": "mahmed-978.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202312151045223413.pdf": {
+    "code": "202312151045223413",
+    "crawl_dir": "16-Dec-2023",
+    "date": "15-12-2023",
+    "dept": "Medical Education and Drugs Department",
+    "download_time": "2023-12-16T12:21:39.175428",
+    "size_kb": "154",
+    "text": "Administrative Approval for Construction Estimate of Maintenance Upgradation Renovation of Kavasji Jahangir Building in the Campus of J J Group of Hospital, Mumbai",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312151045223413.pdf",
+    "name": "mahmed-979.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
   }
 }

@@ -16605,5 +16605,57 @@
     "name": "mahplan-1362.pdf",
     "num_pages": 2,
     "large_image_idxs": []
+  },
+  "202312111655246416.pdf": {
+    "code": "202312111655246416",
+    "crawl_dir": "16-Dec-2023",
+    "date": "11-12-2023",
+    "dept": "Planning Department",
+    "download_time": "2023-12-16T12:28:48.629061",
+    "size_kb": "919",
+    "text": "Regarding giving approval for lease of premises of ECGC Limited at Nirmal Bhawan, 5th Floor, Nariman Pit, Mumbai for the office of Maharashtra Institution for Transformation (MITRA) (Clarification).",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312111655246416.pdf",
+    "name": "mahplan-1363.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202312141041035816.pdf": {
+    "code": "202312141041035816",
+    "crawl_dir": "16-Dec-2023",
+    "date": "14-12-2023",
+    "dept": "Planning Department",
+    "download_time": "2023-12-16T12:28:34.122914",
+    "size_kb": "253",
+    "text": "Regarding nomination as special invitee to Jalgaon District Planning Committee...",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312141041035816.pdf",
+    "name": "mahplan-1364.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202312141041242116.pdf": {
+    "code": "202312141041242116",
+    "crawl_dir": "16-Dec-2023",
+    "date": "14-12-2023",
+    "dept": "Planning Department",
+    "download_time": "2023-12-16T12:28:38.307907",
+    "size_kb": "245",
+    "text": "Regarding nomination as special invitee to Chatrapati Sambhajinagar District Planning Committee.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312141041242116.pdf",
+    "name": "mahplan-1365.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202312141041322616.pdf": {
+    "code": "202312141041322616",
+    "crawl_dir": "16-Dec-2023",
+    "date": "14-12-2023",
+    "dept": "Planning Department",
+    "download_time": "2023-12-16T12:28:29.971949",
+    "size_kb": "243",
+    "text": "Regarding nomination as special invitee to Yavatmal District Planning Committee...",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312141041322616.pdf",
+    "name": "mahplan-1366.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
   }
 }

@@ -3647,5 +3647,18 @@
     "name": "mahmar-310.pdf",
     "num_pages": 2,
     "large_image_idxs": []
+  },
+  "202312151735181633.pdf": {
+    "code": "202312151735181633",
+    "crawl_dir": "16-Dec-2023",
+    "date": "15-12-2023",
+    "dept": "Marathi Language Department",
+    "download_time": "2023-12-16T12:20:22.025000",
+    "size_kb": "159",
+    "text": "Regarding the approval of revised plans and additional matters for the building of Marathi Bhasha Bhawan, Maharashtra, Mumbai",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312151735181633.pdf",
+    "name": "mahmar-312.pdf",
+    "num_pages": 4,
+    "large_image_idxs": []
   }
 }

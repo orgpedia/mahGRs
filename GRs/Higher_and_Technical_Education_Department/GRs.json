@@ -28320,5 +28320,18 @@
     "name": "mahtech-2321.pdf",
     "num_pages": 2,
     "large_image_idxs": []
+  },
+  "202312151800149608.pdf": {
+    "code": "202312151800149608",
+    "crawl_dir": "16-Dec-2023",
+    "date": "15-12-2023",
+    "dept": "Higher and Technical Education Department",
+    "download_time": "2023-12-16T12:12:02.633544",
+    "size_kb": "411",
+    "text": "Bharat Ratna Lata Dinanath Mangeshkar International College of Music as Chairman of Advisory Board Shri. Regarding the appointment of Ushatai Mangeshkar",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312151800149608.pdf",
+    "name": "mahtech-2322.pdf",
+    "num_pages": 1,
+    "large_image_idxs": []
   }
 }

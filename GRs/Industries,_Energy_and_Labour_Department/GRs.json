@@ -20636,5 +20636,44 @@
     "name": "mahind-1697.pdf",
     "num_pages": 4,
     "large_image_idxs": []
+  },
+  "202312111232540110.pdf": {
+    "code": "202312111232540110",
+    "crawl_dir": "16-Dec-2023",
+    "date": "11-12-2023",
+    "dept": "Industries, Energy and Labour Department",
+    "download_time": "2023-12-16T12:16:48.749242",
+    "size_kb": "422",
+    "text": "Regarding the establishment of a draft committee to prepare a new industrial policy for the state of Maharashtra...",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312111232540110.pdf",
+    "name": "mahind-1698.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202312121748187210.pdf": {
+    "code": "202312121748187210",
+    "crawl_dir": "16-Dec-2023",
+    "date": "12-12-2023",
+    "dept": "Industries, Energy and Labour Department",
+    "download_time": "2023-12-16T12:16:44.091137",
+    "size_kb": "312",
+    "text": "Regarding the request for transfer of Industries Officer (Technical), Group-B cadre officers on establishment of Directorate of Industries",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312121748187210.pdf",
+    "name": "mahind-1699.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202312151150447710.pdf": {
+    "code": "202312151150447710",
+    "crawl_dir": "16-Dec-2023",
+    "date": "15-12-2023",
+    "dept": "Industries, Energy and Labour Department",
+    "download_time": "2023-12-16T12:16:39.933205",
+    "size_kb": "446",
+    "text": "Regarding the admission process of the Master of Human Capital Management and Employee Relations (Master of Human Capital Management and Employee Relations) course run by N.M. Lokhande Maharashtra Institute of Labor Science in Mumbai and Nagpur.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312151150447710.pdf",
+    "name": "mahind-1700.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
   }
 }

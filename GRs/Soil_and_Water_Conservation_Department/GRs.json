@@ -23105,5 +23105,18 @@
     "name": "mahsoil-1890.pdf",
     "num_pages": 7,
     "large_image_idxs": []
+  },
+  "202312121054300926.pdf": {
+    "code": "202312121054300926",
+    "crawl_dir": "16-Dec-2023",
+    "date": "12-12-2023",
+    "dept": "Soil & Water Conservation Department",
+    "download_time": "2023-12-16T12:38:28.657410",
+    "size_kb": "438",
+    "text": "Regarding deemed date of shri Naath",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312121054300926.pdf",
+    "name": "mahsoil-1891.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
   }
 }
