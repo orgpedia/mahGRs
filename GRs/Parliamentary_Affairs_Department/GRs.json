@@ -1281,5 +1281,18 @@
     "name": "mahpar-104.pdf",
     "num_pages": 2,
     "large_image_idxs": []
+  },
+  "202311221247565415.pdf": {
+    "code": "202311221247565415",
+    "crawl_dir": "26-Nov-2023",
+    "date": "22-11-2023",
+    "dept": "Parliamentary Affairs Department",
+    "download_time": "2023-11-26T16:15:29.768326",
+    "size_kb": "319",
+    "text": "Regarding dealing with matters related to Legislative Session on priority basis.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311221247565415.pdf",
+    "name": "mahpar-105.pdf",
+    "num_pages": 6,
+    "large_image_idxs": []
   }
 }
