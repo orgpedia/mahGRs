@@ -1,0 +1,25 @@
+# Page 1
+Implementation of e-muster of works under Mahatma Gandhi National Rural Employment Guarantee Scheme (MGNREGS) in the entire State.
+The Government of Maharashtra
+Department of Planning (Rohyo Division)
+Government Resolution No.Magro-2017/ No. 135/ Magro-1
+Madam Cama Marg, Hutatma Rajguru Chowk,
+Mantralaya, Mumbai- 400 032
+Date: December 18, 2023
+Maharashtra Employment Guarantee Act, 1977 (Amended- 2014) 2) MGNREGA Guarantee Act, 2005 3) Letter from Commissioner, MNREGA, Nagpur No. Commissionerate/ Maganragarohoyomha/ MIS/ 3062/2023, dated 01.09.2023 Preamble:
+Employment Guarantee Act has been implemented in the state of Maharashtra since the Maharashtra Employment Guarantee Act, 1977 (as amended in 2014). The Government of India has enacted the Mahatma Gandhi National Rural Employment Guarantee Act, 2005 in Maharashtra. Under this, the process of authorizing the Gram Panchayat to not issue the e-muster on the work of the Employment Guarantee Scheme as per the prevailing method and the process of issuing the e-muster at the Gram Panchayat level itself, building the capacity of the Gram Panchayat for this and the process of issuing the e-muster through the Aap Sarkar portal was implemented in 35 talukas of Maharashtra on a pilot basis.
+Under the Mahatma Gandhi National Rural Employment Guarantee Scheme, if the procedure for issuing e-muster of labourers from the gram panchayat level is implemented in every gram panchayat of Maharashtra, then it is possible to get a copy of the e-muster from the gram panchayat level by uploading the demand after receiving the demand for work. Also, the Gram Rozgar Sevak will save the time taken to reach the list of workers to the taluk as per the demand for work at the taluka level, the time taken to receive the e-muster. As a result, the delay in data entry can be avoided. Therefore, the government was considering to implement the procedure of issuing e-muster under the Mahatma Gandhi National Rural Employment Guarantee Scheme from the gram panchayat level in every gram panchayat of Maharashtra.
+The government has decided to implement the Mahatma Gandhi National Rural Employment Guarantee Scheme (MGNREGS) in all gram panchayats in Maharashtra.
+Under the Mahatma Gandhi National Rural Employment Guarantee Scheme, unskilled wages are to be paid to workers within 15 days of the closure of their employment. Facilitate the office system in providing wages to the workers within the stipulated time and transparency in the work of the scheme.
+# Page 2
+Government Resolution No: MGRRO-2017/ No. 135/ MGRRO-1
+The e-muster system has been implemented on the instructions of the Central Government so that the attendance can be controlled by recording every attendance on MIS.
+The following procedure is required to issue an e-muster.
+1) After receiving the list of expected workers to appear for this job, go to the official website www. nrega. nic. in and upload the demand. (D. 3 Works Demand-Demand for work entry) 2) After the demand is uploaded, the process of work allocation to the list workers from this website (D. 5 Works Allocation- work allocation entry) and to inform the operator concerned of the e-muster at the taluka level by telephone and e-mail.
+3) As per the demand received, the operator at the block level will create an e-muster from the PO Login. 7.1-Generate E-Muster Roll) Print this E-Muster from GP Login. (D. 7.2-E-Muster Roll-print E-Muster Roll)
+4) The fully paid e-Muster Gram Rozgar Sevak will make a data entry by recording the wage rate as per the measurement of 7 days of work after the actual start of work (D. 7.2- E-Muster Roll- Fill E Muster Roll) and generate Wage list (D. 8 Wage List- Generate Wage List for payment and AAO will send it to Login for further processing of payment of wages.
+payment details to wage list & send).
+The District MIS Coordinator will personally go to the Taluka level and train all the concerned persons in the respective Gram Panchayats about the process of issuing e-muster at the Gram Panchayat level. Also, by providing User Name and Password for GP Login of all Gram Panchayats.
+The distribution will be done through the NREGA cell at the taluka level.
+For the smooth functioning of the e-muster at the Gram Panchayat level, instructions will be issued from time to time through the office of the Commissioner, Mahatma Gandhi National Rural Employment Guarantee Scheme-Maharashtra, Nagpur, for coordination among all concerned. Also, the implementation and control of this government decision will also be done through this office.
+# Page 3

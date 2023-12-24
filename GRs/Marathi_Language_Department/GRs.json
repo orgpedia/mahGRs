@@ -3660,5 +3660,31 @@
     "name": "mahmar-312.pdf",
     "num_pages": 4,
     "large_image_idxs": []
+  },
+  "202312191153517133.pdf": {
+    "code": "202312191153517133",
+    "crawl_dir": "22-Dec-2023",
+    "date": "19-12-2023",
+    "dept": "Marathi Language Department",
+    "download_time": "2023-12-22T23:32:49.300482",
+    "size_kb": "299",
+    "text": "Regarding the celebration of Marathi Language Preservation Fortnight from 14th January to 28th January, 2024.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312191153517133.pdf",
+    "name": "mahmar-314.pdf",
+    "num_pages": 5,
+    "large_image_idxs": []
+  },
+  "202312221750521233.pdf": {
+    "code": "202312221750521233",
+    "crawl_dir": "22-Dec-2023",
+    "date": "22-12-2023",
+    "dept": "Marathi Language Department",
+    "download_time": "2023-12-22T23:32:45.123485",
+    "size_kb": "529",
+    "text": "For the organization of All India Marathi Sahitya Sammelan organized by Akhil Bharatiya Marathi Sahitya Mahamandal, Rs. Regarding the sanction of financial assistance of Rs. 2 crores.....",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312221750521233.pdf",
+    "name": "mahmar-315.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
   }
 }

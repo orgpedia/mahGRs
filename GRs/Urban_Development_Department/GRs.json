@@ -26189,5 +26189,31 @@
     "name": "mahurb-2153.pdf",
     "num_pages": 3,
     "large_image_idxs": []
+  },
+  "202312191713463825.pdf": {
+    "code": "202312191713463825",
+    "crawl_dir": "22-Dec-2023",
+    "date": "19-12-2023",
+    "dept": "Urban Development Department",
+    "download_time": "2023-12-22T23:56:47.337220",
+    "size_kb": "176",
+    "text": "Regarding administrative approval to 16 new/ improved works under Sri Mahalakshmi Jagdamba Sansthan, Koradi, Tel. Kamthi, Dist. Nagpur Pilgrimage Development Plan.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312191713463825.pdf",
+    "name": "mahurb-2154.pdf",
+    "num_pages": 4,
+    "large_image_idxs": []
+  },
+  "202312201101297425.pdf": {
+    "code": "202312201101297425",
+    "crawl_dir": "22-Dec-2023",
+    "date": "20-12-2023",
+    "dept": "Urban Development Department",
+    "download_time": "2023-12-22T23:56:43.195544",
+    "size_kb": "376",
+    "text": "Maharashtra Suvarna Jayanti Nagrotthan Mahabhayan Administrative - Approval for Solapur City Augmented Water Supply Project",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312201101297425.pdf",
+    "name": "mahurb-2155.pdf",
+    "num_pages": 8,
+    "large_image_idxs": []
   }
 }

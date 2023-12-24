@@ -10221,5 +10221,31 @@
     "name": "mahmin-844.pdf",
     "num_pages": 1,
     "large_image_idxs": []
+  },
+  "202312201233171514.pdf": {
+    "code": "202312201233171514",
+    "crawl_dir": "22-Dec-2023",
+    "date": "20-12-2023",
+    "dept": "Minorities Development Department",
+    "download_time": "2023-12-22T23:35:08.902423",
+    "size_kb": "153",
+    "text": "Regarding disbursement of grant to the Maharashtra State Minority Commission for salary and wages for the period from December, 2023 to February, 2024 during the financial year 2023-24.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312201233171514.pdf",
+    "name": "mahmin-845.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202312201320164914.pdf": {
+    "code": "202312201320164914",
+    "crawl_dir": "22-Dec-2023",
+    "date": "20-12-2023",
+    "dept": "Minorities Development Department",
+    "download_time": "2023-12-22T23:35:13.022692",
+    "size_kb": "144",
+    "text": "Regarding approval of the revised establishment for the three-member Maharashtra State Waqf Tribunal.....Corrigendum",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312201320164914.pdf",
+    "name": "mahmin-846.pdf",
+    "num_pages": 1,
+    "large_image_idxs": []
   }
 }

@@ -64986,5 +64986,60 @@
     "name": "mahhea-5194.pdf",
     "num_pages": 3,
     "large_image_idxs": []
+  },
+  "202312041437239717.pdf": {
+    "code": "202312041437239717",
+    "crawl_dir": "22-Dec-2023",
+    "date": "18-12-2023",
+    "dept": "Public Health Department",
+    "download_time": "2023-12-22T23:41:35.874840",
+    "size_kb": "480",
+    "text": "Regarding the disbursement of Rs.12694.00 lakhs to ASHA volunteers and group promoters from October, 2023 to December, 2023 from the budget provision of the State Government for the year 2023-24 under the General Plan for the National Rural Health Program under the Centrally Sponsored National Health Mission.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312041437239717.pdf",
+    "name": "mahhea-5195.pdf",
+    "num_pages": 5,
+    "large_image_idxs": []
+  },
+  "202312041437360917.pdf": {
+    "code": "202312041437360917",
+    "crawl_dir": "22-Dec-2023",
+    "date": "18-12-2023",
+    "dept": "Public Health Department",
+    "download_time": "2023-12-22T23:41:40.732393",
+    "size_kb": "420",
+    "text": "Regarding disbursement of Rs.53605.00 lakhs sanctioned by the Central Government for the financial year 2021-22 from the budgetary provision of the year 2023-24 for strengthening the health system in the state.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312041437360917.pdf",
+    "name": "mahhea-5196.pdf",
+    "num_pages": 5,
+    "large_image_idxs": []
+  },
+  "202312051213197217.pdf": {
+    "code": "202312051213197217",
+    "crawl_dir": "22-Dec-2023",
+    "date": "21-12-2023",
+    "dept": "Public Health Department",
+    "download_time": "2023-12-22T23:41:31.179441",
+    "size_kb": "684",
+    "text": "The administrative approval for construction of residential building of 30 beded Rural Hospital Dalwat Sist Nashik.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312051213197217.pdf",
+    "name": "mahhea-5197.pdf",
+    "num_pages": 6,
+    "large_image_idxs": [
+      4,
+      5
+    ]
+  },
+  "202312111314096017.pdf": {
+    "code": "202312111314096017",
+    "crawl_dir": "22-Dec-2023",
+    "date": "11-12-2023",
+    "dept": "Public Health Department",
+    "download_time": "2023-12-22T23:42:03.241271",
+    "size_kb": "205",
+    "text": "Regarding fixation of superannuation pay to the retired / expiring employees of the Regional Offices under the Public Health Department on 30th June taking into consideration the notional increment on 1st July next.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312111314096017.pdf",
+    "name": "mahhea-5198.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
   }
 }

@@ -29265,5 +29265,18 @@
     "name": "mahwater-2448.pdf",
     "num_pages": 4,
     "large_image_idxs": []
+  },
+  "202312201717300927.pdf": {
+    "code": "202312201717300927",
+    "crawl_dir": "22-Dec-2023",
+    "date": "11-12-2023",
+    "dept": "Water Resources Department",
+    "download_time": "2023-12-22T23:58:24.637300",
+    "size_kb": "146",
+    "text": "Continues of Post",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312201717300927.pdf",
+    "name": "mahwater-2451.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
   }
 }

@@ -11668,5 +11668,57 @@
     "name": "mahmed-979.pdf",
     "num_pages": 2,
     "large_image_idxs": []
+  },
+  "202312151045094213.pdf": {
+    "code": "202312151045094213",
+    "crawl_dir": "22-Dec-2023",
+    "date": "15-12-2023",
+    "dept": "Medical Education and Drugs Department",
+    "download_time": "2023-12-22T23:34:24.030745",
+    "size_kb": "188",
+    "text": "Revised administrative approval for purchase of machinery and equipment required by the Government Medical College and Hospital.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312151045094213.pdf",
+    "name": "mahmed-981.pdf",
+    "num_pages": 4,
+    "large_image_idxs": []
+  },
+  "202312191133431513.pdf": {
+    "code": "202312191133431513",
+    "crawl_dir": "22-Dec-2023",
+    "date": "19-12-2023",
+    "dept": "Medical Education and Drugs Department",
+    "download_time": "2023-12-22T23:34:06.595353",
+    "size_kb": "577",
+    "text": "To give approval for publishing tender for mechanized cleaning services in Government Medical/Ayurvedic/Dental/Homeopathy Colleges and Hospital.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312191133431513.pdf",
+    "name": "mahmed-982.pdf",
+    "num_pages": 9,
+    "large_image_idxs": []
+  },
+  "202312191414131013.pdf": {
+    "code": "202312191414131013",
+    "crawl_dir": "22-Dec-2023",
+    "date": "19-12-2023",
+    "dept": "Medical Education and Drugs Department",
+    "download_time": "2023-12-22T23:34:11.552400",
+    "size_kb": "373",
+    "text": "To fill positions of security guards in government medical college, Parbhani from Maharashtra State Security Corporation",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312191414131013.pdf",
+    "name": "mahmed-983.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202312201725520313.pdf": {
+    "code": "202312201725520313",
+    "crawl_dir": "22-Dec-2023",
+    "date": "20-12-2023",
+    "dept": "Medical Education and Drugs Department",
+    "download_time": "2023-12-22T23:33:57.804676",
+    "size_kb": "149",
+    "text": "Revised Administrative approval for vehicle purchase from Plan Grant approved under Central Government Centre of Excellence at Maharashtra Mental Health Institute,Pune",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312201725520313.pdf",
+    "name": "mahmed-984.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
   }
 }

@@ -1,0 +1,34 @@
+# Page 1
+Guidance Module for resolving issues while applying for online ration card through Public Login on Ration Card Management System (RCMS)
+The Government of Maharashtra
+Department of Food, Civil Supplies and Consumer Protection
+Government Circular No. Parivartan-2023/ PR No.107/ Computer Room
+Madam Cama Marg, Hutatma Rajguru Chowk,
+Mantralaya, Mumbai- 400 032
+As of December 20, 2023
+Reference: 1. Government Resolution No. Saviba 2015/ Q.No.20/ S.C., Dy. 18/5/2016 2. Government Resolution No. Shivap 2021/ Q. No.19/ NAPU-28, Dy. 16/5/2023
+Government circular
+The Supreme Court in Writ Petition (Civil) No. 196/2001. On 14/9/2011, a detailed order regarding End to End Computerization of Targeted Public Distribution System has been issued. Accordingly, as per the directions of the Central Government, NIC Delhi's Common Application Software (CAS) is implementing the Mission Mode Project for computerization of Public Distribution System in the State. The project involves issuing computerised ration cards to the beneficiary families. Accordingly, through the Ration Card Management System (RCMS), the facility of online as well as downloading of QR Code based e-Ration Cards has been made available to the beneficiaries of National Food Security Scheme.
+All ration card holders beneficiaries under Antyodaya Anna Yojana (AAY), Priority Family Scheme (PHH) and State Schemes like APL Farmer, National Food Security Scheme (NPH), etc. The e-Ration Card facility has been made available free of cost from 16th May, 2023.
+Various services related to ration card, such as applying for a new ration card, changing the address in the ration card, omitting or adding the name, have been made available to the citizens of the state on the Public Login through the Online Ration Card Management System. However, it has been noticed by the government that the beneficiaries are facing various problems while using this Public Login facility. In order to address these issues, a Module has been prepared and attached with the circular to guide the use of Ration Card Management System (RCMS). The procedure for using the specific services provided in the RCMS system through this module is given in Annexure-A attached to this circular. Citizens should use this guide module if they have any problem while using the Public Login facility on the Ration Card Management System (RCMS). All the District Supply Officers/ Food Distribution Officers/ Deputy Controller Rationing should install this guide module on the facade of the office.
+# Page 2
+Government Circular No.: Parikrama-2023/ PR No.107/ Computer Room
+# Page 3
+# Page 4
+# Page 5
+# Page 6
+# Page 7
+# Page 8
+# Page 9
+# Page 10
+# Page 11
+# Page 12
+# Page 13
+# Page 14
+# Page 15
+# Page 16
+# Page 17
+# Page 18
+# Page 19
+# Page 20
+# Page 21

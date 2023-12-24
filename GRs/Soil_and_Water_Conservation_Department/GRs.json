@@ -23118,5 +23118,57 @@
     "name": "mahsoil-1891.pdf",
     "num_pages": 3,
     "large_image_idxs": []
+  },
+  "202312221529071926.pdf": {
+    "code": "202312221529071926",
+    "crawl_dir": "22-Dec-2023",
+    "date": "22-12-2023",
+    "dept": "Soil & Water Conservation Department",
+    "download_time": "2023-12-22T23:53:03.785212",
+    "size_kb": "777",
+    "text": "To accord administrative approval to 2 special repair scheme of regional water conservation, Soil and Water Conservation department, Chhatrapati Sambhajinagar.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312221529071926.pdf",
+    "name": "mahsoil-1892.pdf",
+    "num_pages": 5,
+    "large_image_idxs": []
+  },
+  "202312221530124626.pdf": {
+    "code": "202312221530124626",
+    "crawl_dir": "22-Dec-2023",
+    "date": "22-12-2023",
+    "dept": "Soil & Water Conservation Department",
+    "download_time": "2023-12-22T23:53:09.047299",
+    "size_kb": "785",
+    "text": "To accord administrative approval to Nalla Deepening and Widening at Takli RHS, Mangaladevi RHS, Kuregoan LHS, Dhamak RHS, Kamandev Tal. Ner, Dist. Yavatmal",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312221530124626.pdf",
+    "name": "mahsoil-1893.pdf",
+    "num_pages": 6,
+    "large_image_idxs": []
+  },
+  "202312221534192526.pdf": {
+    "code": "202312221534192526",
+    "crawl_dir": "22-Dec-2023",
+    "date": "22-12-2023",
+    "dept": "Soil & Water Conservation Department",
+    "download_time": "2023-12-22T23:53:13.759454",
+    "size_kb": "685",
+    "text": "To accord administrative approval to K.T. Weir Belgoan No. 3, Tal. Ashti, Dist. Beed",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312221534192526.pdf",
+    "name": "mahsoil-1894.pdf",
+    "num_pages": 5,
+    "large_image_idxs": []
+  },
+  "202312221535120326.pdf": {
+    "code": "202312221535120326",
+    "crawl_dir": "22-Dec-2023",
+    "date": "22-12-2023",
+    "dept": "Soil & Water Conservation Department",
+    "download_time": "2023-12-22T23:53:17.934586",
+    "size_kb": "235",
+    "text": "To accord administrative approval to Nalla Deepening and Widening at Milmil Tal. Ner, Dist. Yavatmal.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312221535120326.pdf",
+    "name": "mahsoil-1895.pdf",
+    "num_pages": 5,
+    "large_image_idxs": []
   }
 }

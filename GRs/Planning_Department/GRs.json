@@ -16657,5 +16657,31 @@
     "name": "mahplan-1366.pdf",
     "num_pages": 3,
     "large_image_idxs": []
+  },
+  "202312181910535816.pdf": {
+    "code": "202312181910535816",
+    "crawl_dir": "22-Dec-2023",
+    "date": "18-12-2023",
+    "dept": "Planning Department",
+    "download_time": "2023-12-22T23:40:14.443626",
+    "size_kb": "402",
+    "text": "Under the Mahatma Gandhi National Rural Employment Guarantee Scheme, to implement the process of issuing e-muster from village panchayat level in the entire state.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312181910535816.pdf",
+    "name": "mahplan-1367.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202312191655008716.pdf": {
+    "code": "202312191655008716",
+    "crawl_dir": "22-Dec-2023",
+    "date": "19-12-2023",
+    "dept": "Planning Department",
+    "download_time": "2023-12-22T23:40:09.170105",
+    "size_kb": "133",
+    "text": "Regarding the partial change in the posting of Assistant Research Officer, Group-B (Non-Gazetted) cadre in the Directorate of Finance and Statistics by promotion.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312191655008716.pdf",
+    "name": "mahplan-1368.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
   }
 }
