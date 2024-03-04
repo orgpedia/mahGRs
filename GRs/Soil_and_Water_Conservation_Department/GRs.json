@@ -23170,5 +23170,31 @@
     "name": "mahsoil-1895.pdf",
     "num_pages": 5,
     "large_image_idxs": []
+  },
+  "202312271210008026.pdf": {
+    "code": "202312271210008026",
+    "crawl_dir": "30-Dec-2023",
+    "date": "27-12-2023",
+    "dept": "Soil & Water Conservation Department",
+    "download_time": "2023-12-30T08:36:20.676638",
+    "size_kb": "151",
+    "text": "Regarding disbursement of funds under head 2402A237 for the year 2023-24 for Jalsamriddhi Yantramugri (Earthmovers) Interest Financing Scheme. Fund Disbursement Order",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312271210008026.pdf",
+    "name": "mahsoil-1896.pdf",
+    "num_pages": 4,
+    "large_image_idxs": []
+  },
+  "202312291749305026.pdf": {
+    "code": "202312291749305026",
+    "crawl_dir": "30-Dec-2023",
+    "date": "29-12-2023",
+    "dept": "Soil & Water Conservation Department",
+    "download_time": "2023-12-30T08:36:16.361530",
+    "size_kb": "424",
+    "text": "Maharashtra Engineering (Civil) Service Exam-2019 recommended by Maharashtra Public Service Commission for temporary appointment for training of probationary candidates to the post of Sub Divisional Water Conservation Officer (Civil) Group-A and other equivalent posts.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312291749305026.pdf",
+    "name": "mahsoil-1897.pdf",
+    "num_pages": 6,
+    "large_image_idxs": []
   }
 }

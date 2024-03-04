@@ -10539,5 +10539,57 @@
     "name": "mahskill-864.pdf",
     "num_pages": 2,
     "large_image_idxs": []
+  },
+  "202312281309216103.pdf": {
+    "code": "202312281309216103",
+    "crawl_dir": "30-Dec-2023",
+    "date": "28-12-2023",
+    "dept": "Skill Development and Entrepreneurship Department",
+    "download_time": "2023-12-30T08:33:52.972972",
+    "size_kb": "142",
+    "text": "Commissioner, Skill Development, Employment and Entrepreneurship System regarding granting first benefit of Assured Progression Scheme under Reformed Service to Assistant Commissioner Group-A cadre...",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312281309216103.pdf",
+    "name": "mahskill-865.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202312281750463003.pdf": {
+    "code": "202312281750463003",
+    "crawl_dir": "30-Dec-2023",
+    "date": "28-12-2023",
+    "dept": "Skill Development and Entrepreneurship Department",
+    "download_time": "2023-12-30T08:33:57.554735",
+    "size_kb": "210",
+    "text": "Regarding disbursement of funds under the Maharashtra State Innovative Startup Policy Scheme. (Year 2023-24 Requisition No. ZA-2, Account Head 2230 A 334 )",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312281750463003.pdf",
+    "name": "mahskill-866.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202312281803215803.pdf": {
+    "code": "202312281803215803",
+    "crawl_dir": "30-Dec-2023",
+    "date": "28-12-2023",
+    "dept": "Skill Development and Entrepreneurship Department",
+    "download_time": "2023-12-30T08:34:01.720461",
+    "size_kb": "211",
+    "text": "Regarding disbursement of funds under the Scheme to Maharashtra State Innovation Societies (Programme). (Year 2023-24 Requisition No. ZA-2, Account Head 2230 A 343 )",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312281803215803.pdf",
+    "name": "mahskill-867.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202312291701181603.pdf": {
+    "code": "202312291701181603",
+    "crawl_dir": "30-Dec-2023",
+    "date": "29-12-2023",
+    "dept": "Skill Development and Entrepreneurship Department",
+    "download_time": "2023-12-30T08:33:48.769671",
+    "size_kb": "319",
+    "text": "Disbursement of funds to Maharashtra State Skills University",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312291701181603.pdf",
+    "name": "mahskill-868.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
   }
 }

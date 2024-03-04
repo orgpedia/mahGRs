@@ -28450,5 +28450,57 @@
     "name": "mahtech-2331.pdf",
     "num_pages": 3,
     "large_image_idxs": []
+  },
+  "202312261735270008.pdf": {
+    "code": "202312261735270008",
+    "crawl_dir": "30-Dec-2023",
+    "date": "26-12-2023",
+    "dept": "Higher and Technical Education Department",
+    "download_time": "2023-12-30T00:34:54.459918",
+    "size_kb": "150",
+    "text": "Regarding giving administrative approval for various repair and renovation work in Telang Smarak Girls Hostel, Mumbai",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312261735270008.pdf",
+    "name": "mahtech-2332.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "202312281626341108.pdf": {
+    "code": "202312281626341108",
+    "crawl_dir": "30-Dec-2023",
+    "date": "28-12-2023",
+    "dept": "Higher and Technical Education Department",
+    "download_time": "2023-12-30T00:34:36.664724",
+    "size_kb": "135",
+    "text": "Regarding disbursement of funds under the Maharashtra State Cultural Policy, 2010 for organizing Granthotsav, 2023",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312281626341108.pdf",
+    "name": "mahtech-2333.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202312281627035908.pdf": {
+    "code": "202312281627035908",
+    "crawl_dir": "30-Dec-2023",
+    "date": "28-12-2023",
+    "dept": "Higher and Technical Education Department",
+    "download_time": "2023-12-30T00:34:40.793258",
+    "size_kb": "139",
+    "text": "Regarding disbursement of funds of Rs.1 crore for the year 2023-24 to Asiatic Society, Mumbai.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312281627035908.pdf",
+    "name": "mahtech-2334.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "202312281735565908.pdf": {
+    "code": "202312281735565908",
+    "crawl_dir": "30-Dec-2023",
+    "date": "28-12-2023",
+    "dept": "Higher and Technical Education Department",
+    "download_time": "2023-12-30T00:34:50.316844",
+    "size_kb": "1001",
+    "text": "Regarding constitution of departmental promotion committee.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312281735565908.pdf",
+    "name": "mahtech-2335.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
   }
 }

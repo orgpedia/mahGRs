@@ -14163,5 +14163,18 @@
     "name": "mahsoc-1160.pdf",
     "num_pages": 2,
     "large_image_idxs": []
+  },
+  "202312261741300022.pdf": {
+    "code": "202312261741300022",
+    "crawl_dir": "30-Dec-2023",
+    "date": "26-12-2023",
+    "dept": "Social Justice and Special Assistance Department",
+    "download_time": "2023-12-30T08:35:00.923894",
+    "size_kb": "235",
+    "text": "Regarding transfer of Assistant Commissioner, Social Welfare and similar, Group-A cadre officers",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312261741300022.pdf",
+    "name": "mahsoc-1161.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
   }
 }

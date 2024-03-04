@@ -3686,5 +3686,18 @@
     "name": "mahmar-315.pdf",
     "num_pages": 3,
     "large_image_idxs": []
+  },
+  "202312291656185833.pdf": {
+    "code": "202312291656185833",
+    "crawl_dir": "30-Dec-2023",
+    "date": "29-12-2023",
+    "dept": "Marathi Language Department",
+    "download_time": "2023-12-30T00:42:00.214038",
+    "size_kb": "168",
+    "text": "To celebrate 27th February, birth of Senior poet V. V. Shirwadkar alias Kusumagraj as Marathi Bhasha Gaurav Din.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312291656185833.pdf",
+    "name": "mahmar-317.pdf",
+    "num_pages": 5,
+    "large_image_idxs": []
   }
 }

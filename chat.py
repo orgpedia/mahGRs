@@ -61,6 +61,9 @@ class ChatBot:
         for doc_path in doc_paths:
             assert ".en.txt" in doc_path.name
 
+            if not doc_path.exists():
+                continue
+
             emb_path = self.emb_dir / doc_path.name.replace(".en.txt", ".en.emb.json")
             if emb_path.exists():
                 emb_files.append(emb_path)
@@ -332,7 +335,7 @@ def main():
         sys.exit(1)
 
     dept_dir = Path(sys.argv[1])
-    keywords = sys.argv[2:]
+    keywords = sys.argv[2:] if len(sys.argv) > 2 else []
 
     print(f"Department: {dept_dir.name}")
     print(f"Keywords: {keywords}")
@@ -343,6 +346,7 @@ def main():
 
     # Only 1 index per department !!
     matching_docs = get_matching_docs(dept_dir, keywords)
+    print(len(matching_docs))
 
     chat = ChatBot(dept_dir.name, matching_docs)
     chat.build_index()
@@ -351,5 +355,5 @@ def main():
 
     chat_shell(chat)
 
-
-main()
+if __name__ == '__main__':
+    main()

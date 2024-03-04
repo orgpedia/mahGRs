@@ -4232,5 +4232,70 @@
     "name": "mahenv-336.pdf",
     "num_pages": 2,
     "large_image_idxs": []
+  },
+  "202312271510048204.pdf": {
+    "code": "202312271510048204",
+    "crawl_dir": "30-Dec-2023",
+    "date": "27-12-2023",
+    "dept": "Environment Department",
+    "download_time": "2023-12-30T00:28:49.730347",
+    "size_kb": "506",
+    "text": "Pare under the State Lake Conservation Scheme, Regarding approval and disbursement of funds to Pare (Dargoba) Lake at Khanapur, District Sangli.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312271510048204.pdf",
+    "name": "mahenv-337.pdf",
+    "num_pages": 4,
+    "large_image_idxs": []
+  },
+  "202312271513169004.pdf": {
+    "code": "202312271513169004",
+    "crawl_dir": "30-Dec-2023",
+    "date": "27-12-2023",
+    "dept": "Environment Department",
+    "download_time": "2023-12-30T00:28:53.873769",
+    "size_kb": "174",
+    "text": "Atpati under the State Lake Conservation Scheme, Regarding approval and distribution of funds to Atpati Lake in Atpati, District Sangli.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312271513169004.pdf",
+    "name": "mahenv-338.pdf",
+    "num_pages": 4,
+    "large_image_idxs": []
+  },
+  "202312271515418304.pdf": {
+    "code": "202312271515418304",
+    "crawl_dir": "30-Dec-2023",
+    "date": "27-12-2023",
+    "dept": "Environment Department",
+    "download_time": "2023-12-30T00:28:58.025808",
+    "size_kb": "174",
+    "text": "Under the State Lake Conservation Scheme, Dhavaleshwar, Tt. Regarding approval and disbursement of funds to Dhavaleshwar Lake at Dhavaleshwar, Khanapur.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312271515418304.pdf",
+    "name": "mahenv-339.pdf",
+    "num_pages": 4,
+    "large_image_idxs": []
+  },
+  "202312271517168204.pdf": {
+    "code": "202312271517168204",
+    "crawl_dir": "30-Dec-2023",
+    "date": "27-12-2023",
+    "dept": "Environment Department",
+    "download_time": "2023-12-30T00:29:07.216524",
+    "size_kb": "508",
+    "text": "Regarding recognition and distribution of funds to Katrapagaon Lake in Kulgaon Badlapur Municipal Council, District Thane under the State Lake Conservation Scheme",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312271517168204.pdf",
+    "name": "mahenv-340.pdf",
+    "num_pages": 5,
+    "large_image_idxs": []
+  },
+  "202312271519304204.pdf": {
+    "code": "202312271519304204",
+    "crawl_dir": "30-Dec-2023",
+    "date": "27-12-2023",
+    "dept": "Environment Department",
+    "download_time": "2023-12-30T00:29:02.153628",
+    "size_kb": "174",
+    "text": "Regarding approving and disbursing funds to Juveligaon Lake in Kulgaon Badlapur Municipal Council, District Thane under the State Lake Conservation Scheme.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312271519304204.pdf",
+    "name": "mahenv-341.pdf",
+    "num_pages": 5,
+    "large_image_idxs": []
   }
 }
