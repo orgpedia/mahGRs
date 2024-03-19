@@ -8,7 +8,7 @@ on:
     branches: [ main ]
 
 jobs:
-  fetch_site:
+  import_export:
     runs-on: ubuntu-latest
 
     steps:
@@ -17,18 +17,21 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Checkout tools repo
+      - name: checkout mahagri2024
         uses: actions/checkout@v4
         with:
           repository: orgpedia/mahagri2024
           path: import/
+          sparse-checkout: |
+            export          
 
-      - name: Checkout tools repo
+      - name: checkout mahcoop2024
         uses: actions/checkout@v4
         with:
           repository: orgpedia/mahcoop2024
           path: import/
-
+          sparse-checkout: |
+            export          
 
       - name: list_files
         run: ls -lR import
