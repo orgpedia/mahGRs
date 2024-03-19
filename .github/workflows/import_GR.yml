@@ -35,3 +35,6 @@ jobs:
 
       - name: list files
         run: ls -lR import
+
+      - name: import_export
+        run: import/src/import_data.py import GRs
