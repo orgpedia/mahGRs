@@ -1,0 +1,34 @@
+name: importGR
+
+on:
+  #schedule:
+  #  - cron: '30 16 * * *'  # Runs at 16:30 UTC, which is 10:00 PM IST
+
+  push:
+    branches: [ main ]
+
+jobs:
+  fetch_site:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Checkout tools repo
+        uses: actions/checkout@v4
+        with:
+          repository: orgpedia/mahagri2024
+          path: import/
+
+      - name: Checkout tools repo
+        uses: actions/checkout@v4
+        with:
+          repository: orgpedia/mahcoop2024
+          path: import/
+
+
+      - name: list_files
+        run: ls -lR import
