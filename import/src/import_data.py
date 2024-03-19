@@ -52,7 +52,7 @@ def get_tgt_info(src_info):
 
 def export_data(src_dir, tgt_dir):
     def get_code(src_file):
-        code = src_file.name.lower().replace('.pdf', '')
+        code, _ = src_file.name.split('.', 1)
         return code.replace('\u200d', '')
         
     tgt_files = tgt_dir.glob('*.txt')
