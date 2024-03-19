@@ -23,7 +23,7 @@ jobs:
           repository: orgpedia/mahagri2024
           path: import/
           sparse-checkout: |
-            export          
+            export/orgpedia_mahagri2024
 
       - name: checkout mahcoop2024
         uses: actions/checkout@v4
@@ -31,7 +31,7 @@ jobs:
           repository: orgpedia/mahcoop2024
           path: import/
           sparse-checkout: |
-            export          
+            export/orgpedia_mahcoop2024            
 
-      - name: list_files
+      - name: list files
         run: ls -lR import
