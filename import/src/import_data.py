@@ -43,10 +43,10 @@ Year = 2024
 def get_tgt_info(src_info):
     tgt_info = {}
     tgt_info['url'] = src_info['Download']
-    tgt_info['dept'] = src_info['Department']
+    tgt_info['dept'] = src_info['Department Name']
     tgt_info['text'] = src_info['Title']
     tgt_info['code'] = src_info['Unique Code']
-    tgt_info['date'] = src_info['G. R. Date']
+    tgt_info['date'] = src_info['G.R. Date']
     tgt_info['size_kb'] = src_info['File Size (KB)']
     return tgt_info
 
