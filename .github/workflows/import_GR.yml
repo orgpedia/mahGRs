@@ -21,7 +21,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: orgpedia/mahagri2024
-          path: import/
+          path: import/mahagri2024
           sparse-checkout: |
             export/orgpedia_mahagri2024
 
@@ -29,7 +29,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: orgpedia/mahcoop2024
-          path: import/
+          path: import/mahcoop2024
           sparse-checkout: |
             export/orgpedia_mahcoop2024            
 
