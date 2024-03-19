@@ -65,7 +65,7 @@ def export_data(src_dir, tgt_dir):
     tgt_new_infos = json.loads(tgt_json_path.read_text()) if tgt_new_json_path.exists() else []
     
     todo_src_files = [s for s in src_files if s.name not in tgt_files_set]
-    src_dict = {i["Unique Code"]:i for i in json.loads((tgt_dir / 'GRs.json').read_text())}
+    src_dict = {i["Unique Code"]:i for i in json.loads((src_dir / 'GRs.json').read_text())}
 
 
     for src_file in todo_src_files:
