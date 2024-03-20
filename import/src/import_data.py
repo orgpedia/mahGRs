@@ -141,7 +141,7 @@ def main():
 
 
     table_lines = []
-    for idx, tgt_name, src_name in enumerate(DeptNameDict.items()):
+    for (idx, (tgt_name, src_name)) in enumerate(DeptNameDict.items()):
         tgt_name = tgt_name.replace(' ', '_')
         tgt_dir = tgt_parent_dir / tgt_name
 
