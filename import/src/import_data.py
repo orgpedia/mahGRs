@@ -73,20 +73,23 @@ def export_data(src_dir, tgt_dir):
         return f'[{code}.pdf]({url}) [mr]({mr_path}) [en]({en_path})'
 
     tgt_files = list(tgt_dir.glob('*.txt'))
-    src_files = src_dir.glob('*.txt')
+    src_files = list(src_dir.glob('*.txt'))
 
     tgt_files_set = set(t.name for t in tgt_files)
     tgt_json_path = tgt_dir / 'GRs.json'
-    tgt_new_json_path = tgt_dir / 'GRs-new.json'
     tgt_dict = json.loads(tgt_json_path.read_text())
-    tgt_new_infos = json.loads(tgt_json_path.read_text()) if tgt_new_json_path.exists() else []
+    
+    tgt_new_json_path = tgt_dir / 'GRs-new.json'
+    tgt_new_infos = json.loads(tgt_new_json_path.read_text()) if tgt_new_json_path.exists() else []
 
     todo_src_files = [s for s in src_files if s.name not in tgt_files_set]
-    src_dict = {i["Unique Code"]:i for i in json.loads((src_dir / 'GRs.json').read_text())}
+
+    src_json_path = src_dir / 'GRs.json'
+    src_infos = json.load(src_json_path.read_text()) if src_json_path.exists() else []
+    src_dict = {i["Unique Code"]:i for i in src_infos}
 
     num_tgt_mr_files = len([f for f in tgt_files if '.mr.txt' in f.name])
     num_tgt_en_files = len([f for f in tgt_files if '.en.txt' in f.name])
-
 
     todo_written = 0
     for src_file in todo_src_files:
