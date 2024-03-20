@@ -9,11 +9,11 @@ The English translation is obtained by processing each the pdf file of each Gove
 
 | Num | Department Name | Start Date | Last Date | # Marathi Orders | # Translated Orders | Starting Order | Last Order |
 | --- | --------------- | ---------- | --------- | ---------------- | ------------------- | -------------- | ---------- |
-| 1 | Agriculture, Dairy Development, Animal Husbandry and Fisheries Department | 16 Mar 2018 | 17 Mar 2018 | 3841 | 3841 | 201803161624182101.pdf [mr]({tgt_dir}/{code}.pdf.mr.txt) [en]({tgt_dir}/{code}.pdf.en.txt) | 201803171122508601.pdf [mr]({tgt_dir}/{code}.pdf.mr.txt) [en]({tgt_dir}/{code}.pdf.en.txt) |
-| 2 | Co-operation, Textiles and Marketing Department | 19 Mar 2018 | 20 Mar 2018 | 2371 | 2371 | 201803191257576702.pdf [mr]({tgt_dir}/{code}.pdf.mr.txt) [en]({tgt_dir}/{code}.pdf.en.txt) | 201803201234117802.pdf [mr]({tgt_dir}/{code}.pdf.mr.txt) [en]({tgt_dir}/{code}.pdf.en.txt) |
+| 1 | Agriculture, Dairy Development, Animal Husbandry and Fisheries Department | 16 Mar 2018 | 12 Feb 2024 | 7743 | 7743 | [201803161624182101.pdf](url) [mr](GRs/Agriculture,_Dairy_Development,_Animal_Husbandry_and_Fisheries_Department/201803161624182101.pdf.mr.txt) [en](GRs/Agriculture,_Dairy_Development,_Animal_Husbandry_and_Fisheries_Department/201803161624182101.pdf.en.txt) | [202402121502319001.pdf](url) [mr](GRs/Agriculture,_Dairy_Development,_Animal_Husbandry_and_Fisheries_Department/202402121502319001.pdf.mr.txt) [en](GRs/Agriculture,_Dairy_Development,_Animal_Husbandry_and_Fisheries_Department/202402121502319001.pdf.en.txt) |
+| 2 | Co-operation, Textiles and Marketing Department | 19 Mar 2018 | 28 Feb 2024 | 4783 | 4783 | [201803191257576702.pdf](url) [mr](GRs/Co-operation,_Textiles_and_Marketing_Department/201803191257576702.pdf.mr.txt) [en](GRs/Co-operation,_Textiles_and_Marketing_Department/201803191257576702.pdf.en.txt) | [202402281753053702.pdf](url) [mr](GRs/Co-operation,_Textiles_and_Marketing_Department/202402281753053702.pdf.mr.txt) [en](GRs/Co-operation,_Textiles_and_Marketing_Department/202402281753053702.pdf.en.txt) |
 ----------------------------------------------------------------------------------------------------
 
-**Total Orders**: 6,212 and **Total Translated Orders**: 6,212
+**Total Orders**: 12,526 and **Total Translated Orders**: 12,526
 ## Accessing Data
 
 The easist way to access the data is to clone the repository or download the data as a zip file (Click the green button '< > Code' at the top. All the files are arranged as per department and are in the [GRs](GRs) directory.
