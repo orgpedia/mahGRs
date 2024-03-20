@@ -49,22 +49,25 @@ def get_tgt_info(src_info):
     tgt_info['code'] = src_info['Unique Code']
     tgt_info['date'] = src_info['G.R. Date']
     tgt_info['size_kb'] = src_info['File Size (KB)']
+    tgt_info['name'] = f'{src_info["Unique Code"]}.pdf'
+    tgt_info['order_number'] = src_info.get("order_number", '')
+    tgt_info['order_type'] = src_info.get("order_type", '')
     return tgt_info
 
 def export_data(src_dir, tgt_dir):
     def get_code(src_file):
         code, _ = src_file.name.split('.', 1)
         return code.replace('\u200d', '')
-        
+
     tgt_files = tgt_dir.glob('*.txt')
     src_files = src_dir.glob('*.txt')
-    
+
     tgt_files_set = set(t.name for t in tgt_files)
     tgt_json_path = tgt_dir / 'GRs.json'
-    tgt_new_json_path = tgt_dir / 'GRs-new.json'    
-    tgt_dict = json.loads(tgt_json_path.read_text()) 
+    tgt_new_json_path = tgt_dir / 'GRs-new.json'
+    tgt_dict = json.loads(tgt_json_path.read_text())
     tgt_new_infos = json.loads(tgt_json_path.read_text()) if tgt_new_json_path.exists() else []
-    
+
     todo_src_files = [s for s in src_files if s.name not in tgt_files_set]
     src_dict = {i["Unique Code"]:i for i in json.loads((src_dir / 'GRs.json').read_text())}
 
@@ -76,7 +79,9 @@ def export_data(src_dir, tgt_dir):
         if '.en.txt' in src_file.name:
             todo_info = get_tgt_info(src_dict[todo_code])
             tgt_dict[f'{todo_code}.pdf'] = todo_info
-            tgt_new_infos.append(todo_info)
+
+            src_info = src_dict[todo_code]
+            tgt_new_infos.append(src_info)
 
     tgt_json_path.write_text(json.dumps(tgt_dict))
     tgt_new_json_path.write_text(json.dumps(tgt_new_infos))
@@ -88,7 +93,7 @@ def main():
 
     for tgt_name, src_name in DeptNameDict.items():
         tgt_name = tgt_name.replace(' ', '_')
-        
+
         tgt_dir = tgt_parent_dir / tgt_name
 
         #import/mahcoop2024/export/orgpedia_mahcoop2024
