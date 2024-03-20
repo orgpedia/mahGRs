@@ -105,8 +105,10 @@ def export_data(src_dir, tgt_dir):
     tgt_infos = list(tgt_dict.values())
     first, last = tgt_infos[0], tgt_infos[1]
 
-    first_date, last_date = get_date_str(first['date']), get_date_str(last['date']),
+    first_date, last_date = get_date_str(first['date']), get_date_str(last['date'])
+    
     num_mr, num_en = num_tgt_mr_files + len(tgt_new_infos), num_tgt_en_files + len(tgt_new_infos)
+    num_mr, num_en = int(num_mr), int(num_en)
     start_urls, last_urls = get_urls(first['code']), get_urls(last['code'])
 
     return [first_date, last_date, num_mr, num_en, start_urls, last_urls]
