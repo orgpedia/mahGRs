@@ -1,27 +1,3 @@
-name: importGR
-
-on:
-  #schedule:
-  #  - cron: '30 16 * * *'  # Runs at 16:30 UTC, which is 10:00 PM IST
-
-  push:
-    branches: [ main ]
-
-jobs:
-  import_export:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: checkout code
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-            python-version: '3.8'  # specify your Python version
-
       - name: checkout mahadmin2024
         uses: actions/checkout@v4
         with:
@@ -285,20 +261,4 @@ jobs:
           path: import/mahwom2024
           sparse-checkout: |
             export/orgpedia_mahwom2024
-
-            
-
-      - name: import_export
-        run: python3 import/src/import_data.py import GRs
-
-      - name: list files
-        run: ls -lR 'GRs/Co-operation,_Textiles_and_Marketing_Department'
-
-      - name: Commit and push changes
-        id: commit-and-push
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: actions export
-        
-
 
