@@ -1,0 +1,123 @@
+# Page 1
+On a pilot basis, private subsidy of the Visabhabaj category in Latur and Yavatmal districts has been provided.
+Face verification biomerics in ashramshalas
+Installation of Self Aadhaar Verified OKYC Face Recognition Biometric System.
+Regarding administrative approval of e-auction.
+Government of Maharashtra
+Other Backward Classes Bahujan Welfare Department,
+Government Decision No. Divisions-2023 / Q. No.393 / VIJABHAJ-1
+Madam Cama Marg, Martyrdom Rajguru Chowk,
+Mantralaya, Mumbai 400 032.
+Date: February 8, 2024.
+Reference: - 1. Government Decision, Industries, Power and Labour Department No. Bhakans-2017 / Q. 82 / Part-III / Industries-4, dated 01/12/2016.
+The Proposal: -
+Voluntary activities for the economic, social and educational advancement of students belonging to the weaker sections.
+About 977 Primary, Secondary and Higher Secondary Residential Aided Ashramshalas under the Department are run by the Institute with 100% grant from the Government.
+are carried out. This included upgrading primary ashramshalas to secondary ashramshalas.
+Residential higher secondary ashramshalas have been started by upgrading secondary schools. Under this, free accommodation with education from class 1 to 12 for boys and girls of the Visva-Bharati category,
+Food arrangements, health facilities, sports facilities, educational materials, toiletries, dining utensils, etc.
+Facilities are being provided through Ashramshalas. For this, the government provides non-salaried grants to the relevant agencies.
+Ashramshalas are in rural areas and majority of the students are pursuing residential education in these ashramshalas.
+The government frequently receives complaints / complaints regarding the attendance of students and staff at the ashramshala.
+So, through the biomeric system, the students and the teaching and non-teaching staff of Vijyabhaj Ashramshala -
+Daily information of their attendance must be with the district and divisional level administration, director, Directorate of Other Backward Bahujan Welfare, Pune, and the government. Considering this, Ma. the Minister
+(E.M.B.C.) on a pilot basis, the private sector in the two districts of Latur and Yavatmal.
+Instructions have been given to install Self Aadhaar Verified OKYC Face Recognition Biometric System in aided residential ashramshalas.
+Accordingly, 76 Vishwabhaj Ashramshalas were established in Latur district and 78 in Yavatmal district.
+A total of 154 Vijabhij Ashramshalas have one face verification biometric machine (Self Aadhaar) each.
+The proposal for procurement and supply of Verified OKYC Face Recognition Biometric System was under the consideration of the government for administrative approval.
+The Government's Decisions:
+76 in Latur district and Yavatmal district in the Other Backward Classes Bahujan Welfare Department.
+A total of 154 VISABHAJ Ashramshalas, 78 VISABHAJ Ashramshalas, have procured one Self Aadhaar Verified OKYC Face Recognition Biometric System each.
+A total of Rs. 1,50,00, 000 / - (One crore fifty lakhs only) (inclusive of all taxes) for an estimated amount of Rs.
+The proposal is being accorded administrative approval subject to the following conditions.
+# Page 2
+Government Decision No: Divisions-2023 / Q. No.393 / VJBJ-1
+Self-Aadhaar Verified OKYC Face Recognition
+Biometric System) as per the feedback provided by the Department of Information Technology, Ministry of Electronics and Information Technology, Mumbai.
+The technical specifications will be as follows.
+Storage Encryption:-
+Specify if the stored facial templates and biometric data are encrypted to
+enhance data security and prevent unauthorized access.
+System Health Monitoring:-
+Describe how the system monitors its own health, including the ability to alert
+administrators in case of malfunctions or anomalies.
+Data Retention Policy:-
+Clearly define the data retention policy, including how long attendance
+records and biometric data will be stored and under what circumstances they will
+be deleted.
+The department may incorporate the aforementioned recommendations for
+a comprehensive implementation of the "Self Aadhaar Verified OKYC Face
+Recognition Biometric System (SOFR/AVFR)." These enhancements will
+contribute to the overall security and success of the project.
+Specifications
+-------------------------------------------------------------------------------------------------------------------------------------------
+| Sr.No. | Parameters                                                      | Specifications                                               |
+| 1      | Face Recognition Technology                                     | Standalone Device                                            |
+| 2      | Type of Recognition Biometric Attendance system                 | Embedded                                                     |
+| 3      | Identify mode                                                   | Face                                                         |
+| 4      | Encryption (AES)                                                | 512                                                          |
+| 5      | Power Source                                                    | Battery life of at least 10 hours                            |
+| 6      | Ingress Protection rating                                       | IP 65                                                        |
+| 7      | Screen Resolution                                               | Minimum of 800x480                                           |
+| 8      | RAM                                                             | It is 512 MB.                                                |
+| 9      | Face Storage Capacity*                                          | Minimum 500-1000 nos                                         |
+| 10     | Log capacity*                                                   | Minimum of 50,000 nos.                                       |
+| 11     | Screen size                                                     | A minimum of 5 inches                                        |
+| 12     | Recognition speed                                               | A maximum of 1 second                                        |
+| 13     | Recognition distance                                            | A maximum of 5 feet                                          |
+| 14     | Communication protocols                                         | TCP/IP, WIFI, GSM inclusive of data charges in case required |
+| 15     | Metal Enclosure with digital lock                               | Yes                                                          |
+| 16     | Digital ID verification facility with User KYC application      | Yes                                                          |
+| 17     | Real time Attendance logs                                       | Yes                                                          |
+| 18     | Backward integration API for Existing attendance system if any. | Yes                                                          |
+| 19     | On site comprehensive warranty                                  | A minimum of 3 years                                         |
+-------------------------------------------------------------------------------------------------------------------------------------------
+Page 2 of 4
+# Page 3
+Government Decision No: Divisions-2023 / Q. No.393 / VJBJ-1
+The terms and conditions with respect to the above purchase are as follows: -
+1) Director, Directorate of Other Backward Classes Bahujan Welfare, Maharashtra State, Pune.
+Department of Technology, Mantralaya, Mumbai Reference No. Specifications as indicated under 4.
+The e-tendering should be published from the GeM portal only after due consideration.
+2) The procedure for office procurement to be followed by the "Government Department" for this procurement.
+Government Decision No.
+Bhankhas-2014 / P.No.82 / B-III / Udyog-4, D. Notified on 1st December, 2016
+The procedure should be followed. Also, follow the government's rules.
+Come.
+3) A pre-bid meeting should be held before finalizing the tender, so that
+Early resolution of tender issues of bidders
+It can be done.
+4) Minimum Rate Holders (L-1) in the e-tendering submitted to the Department of Industry, Energy and Labour.
+the Government Department with the Government Decision dated 1st December, 2016.
+the procedure prescribed in the Rules of Procedure for Office Purchases, as well as
+Government regulations and guidelines of the Central Vigilance Commission (CVC)
+Tenders should be considered and finalised.
+5) After opening the merchant envelope, referral no. 1
+The purchase should be approved by the government in accordance with the government decision here.
+6) Self-Aadhaar Verified OKYC Face Recognition
+Biometric System) Industry, Energy and Labour as per the standard in the supply chain.
+Department, Government Decision, Government Departments as specified under date 01/12/2016
+Under Annexure-12 of the Rules of Procedure for Office Purchases to be made
+Certified by quality check from recognized institutions as prescribed.
+Only after the payment of dues is processed by the Director, Other Backward Bahujan Welfare.
+Directorate, Pune.
+7) Payments made after the purchase process is completed by the supplier with the lowest rate.
+In submitting a proposal to the government regarding the demand for funds along with the required documents by certifying
+Come.
+8) Finally, at least (L-1) the designated supplier at the district, regional, director, and government levels.
+Provide dashboards on computer systems for daily attendance verification and
+It will be mandatory to update the Dashboard from time to time.
+4. Subsequent expenditure "Demand No. ZG-3, Head Head - 2225 Scheduled Castes, Scheduled Tribes,
+Welfare of Other Backward Classes and Minorities, 277 - Education, (01) Denotified Castes, Nomadic Tribes, Other Backward Classes
+Welfare of Classes and Special Backward Classes, (01) (02) Denotified Castes and Nomadic Tribes by Non-Governmental Organization
+Enhancement of hostel facilities in residential ashramshalas run for students (Programme)
+(2225E875), under the heading "Supply and Materials" to be made available in this financial year 2023-24.
+shall be subtracted from the provision.
+5. This Government decision is in accordance with the technical approval granted by the Directorate of Information Technology as well as the Government.
+Circular, Department of Finance, No. Administrative Division under 12/04/2023
+Is being issued according to the authority granted.
+Page 3 of 4
+# Page 4
+Government Decision No: Divisions-2023 / Q. No.393 / VJBJ-1
+The Government decision is available on the Government of Maharashtra website www.maharashtra.gov.in.
