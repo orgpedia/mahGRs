@@ -88,6 +88,7 @@ def export_data(src_dir, tgt_dir):
     num_tgt_en_files = len([f for f in tgt_files if '.en.txt' in f.name])
 
 
+    todo_written = 0
     for src_file in todo_src_files:
         todo_code = get_code(src_file)
         shutil.copyfile(src_file, tgt_dir / src_file.name)
@@ -98,6 +99,7 @@ def export_data(src_dir, tgt_dir):
 
             src_info = src_dict[todo_code]
             tgt_new_infos.append(src_info)
+            todo_written += 1
 
     tgt_json_path.write_text(json.dumps(tgt_dict))
     tgt_new_json_path.write_text(json.dumps(tgt_new_infos))
@@ -107,10 +109,7 @@ def export_data(src_dir, tgt_dir):
     first, last = tgt_infos[0], tgt_infos[-1]
 
     first_date, last_date = get_date_str(first['date']), get_date_str(last['date'])
-    
-    num_mr, num_en = num_tgt_mr_files + len(tgt_new_infos), num_tgt_en_files + len(tgt_new_infos)
-    num_mr, num_en = str(num_mr), str(num_en)
-    
+    num_mr, num_en = str(num_tgt_mr_files + todo_written), str(num_tgt_en_files + todo_written)
     start_urls, last_urls = get_urls(first), get_urls(last)
 
     return [first_date, last_date, num_mr, num_en, start_urls, last_urls]
@@ -156,7 +155,6 @@ def main():
         if src_dir.exists():
             line = export_data(src_dir, tgt_dir)
             line = [str(idx+1), tgt_name.replace('_', ' ')] + line
-            print([v for v in line if not isinstance(v, str)])
             table_lines.append(line)
         else:
             print(f'src_dir not found: {str(src_dir)}')
