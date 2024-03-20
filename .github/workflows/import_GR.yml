@@ -38,8 +38,10 @@ jobs:
           sparse-checkout: |
             export/orgpedia_mahcoop2024            
 
-      - name: list files
-        run: ls -lR import
-
       - name: import_export
         run: python3 import/src/import_data.py import GRs
+
+      - name: list files
+        run: ls -lR 'GRs/Co-operation,_Textiles_and_Marketing_Department'
+
+

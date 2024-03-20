@@ -70,7 +70,7 @@ def export_data(src_dir, tgt_dir):
 
     for src_file in todo_src_files:
         todo_code = get_code(src_file)
-        #shutil.copyfile(src_file, tgt_dir / src_file.name)
+        shutil.copyfile(src_file, tgt_dir / src_file.name)
         #print(f'copying {src_file} -> {tgt_dir / src_file.name}')
         if '.en.txt' in src_file.name:
             todo_info = get_tgt_info(src_dict[todo_code])
@@ -79,7 +79,6 @@ def export_data(src_dir, tgt_dir):
 
     tgt_json_path.write_text(json.dumps(tgt_dict))
     tgt_new_json_path.write_text(json.dumps(tgt_new_infos))
-    
     print(f'{tgt_dir}: #{len(todo_src_files)} copied')
 
 def main():
