@@ -155,6 +155,7 @@ def main():
         if src_dir.exists():
             line = export_data(src_dir, tgt_dir)
             line = [int(idx+1), tgt_name.replace('_', ' ')] + line
+            print([v for v in line if not isinstance(v, str)])
             table_lines.append(line)
         else:
             print(f'src_dir not found: {str(src_dir)}')
