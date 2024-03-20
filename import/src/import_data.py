@@ -114,7 +114,7 @@ def export_data(src_dir, tgt_dir):
 def write_readme(lines):
     header = ['Num', 'Department Name', 'Start Date', 'Last Date', \
               '# Marathi Orders', '# Translated Orders', 'Starting Order', 'Last Order']    
-    total_orders, total_translated = sum(int(ln[2]) for ln in lines), sum(int(ln[3]) for ln in lines)
+    total_orders, total_translated = sum(int(ln[4]) for ln in lines), sum(int(ln[5]) for ln in lines)
     insert_lines = ['## Data Details', '']
     insert_lines += [f'| {" | ".join(header)} |']
     insert_lines += [f'| {" | ".join(["-" * len(h) for h in header])} |'] 
