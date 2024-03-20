@@ -94,8 +94,11 @@ def main():
         #import/mahcoop2024/export/orgpedia_mahcoop2024
         src_stub_dir = Path(f'{src_name}2024') / 'export' / Path(f'orgpedia_{src_name}2024')
         src_dir = src_parent_dir / src_stub_dir
-        
-        export_data(src_dir, tgt_dir)
+
+        if src_dir.exists():
+            export_data(src_dir, tgt_dir)
+        else:
+            print(f'src_dir not found: {str(src_dir)}')
     return 0
 
 main()
