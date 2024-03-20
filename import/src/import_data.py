@@ -67,9 +67,10 @@ def export_data(src_dir, tgt_dir):
             dt = datetime.date(year=int(y), month=int(m), day=int(d))
         return dt.strftime('%d %b %Y')
 
-    def get_urls(code):
-        mr_path, en_path = '{tgt_dir}/{code}.pdf.mr.txt', '{tgt_dir}/{code}.pdf.en.txt'
-        return f'{code}.pdf [mr]({mr_path}) [en]({en_path})'
+    def get_urls(info):
+        code, url = info['code'], info['url']
+        mr_path, en_path = f'{tgt_dir}/{code}.pdf.mr.txt', f'{tgt_dir}/{code}.pdf.en.txt'
+        return f'[{code}.pdf](url) [mr]({mr_path}) [en]({en_path})'
 
     tgt_files = list(tgt_dir.glob('*.txt'))
     src_files = src_dir.glob('*.txt')
@@ -103,14 +104,14 @@ def export_data(src_dir, tgt_dir):
     print(f'{tgt_dir}: #{len(todo_src_files)} copied')
 
     tgt_infos = list(tgt_dict.values())
-    first, last = tgt_infos[0], tgt_infos[1]
+    first, last = tgt_infos[0], tgt_infos[-1]
 
     first_date, last_date = get_date_str(first['date']), get_date_str(last['date'])
     
     num_mr, num_en = num_tgt_mr_files + len(tgt_new_infos), num_tgt_en_files + len(tgt_new_infos)
     num_mr, num_en = str(num_mr), str(num_en)
     
-    start_urls, last_urls = get_urls(first['code']), get_urls(last['code'])
+    start_urls, last_urls = get_urls(first), get_urls(last)
 
     return [first_date, last_date, num_mr, num_en, start_urls, last_urls]
 
