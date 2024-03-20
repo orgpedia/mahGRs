@@ -70,7 +70,7 @@ def export_data(src_dir, tgt_dir):
     def get_urls(info):
         code, url = info['code'], info['url']
         mr_path, en_path = f'{tgt_dir}/{code}.pdf.mr.txt', f'{tgt_dir}/{code}.pdf.en.txt'
-        return f'[{code}.pdf](url) [mr]({mr_path}) [en]({en_path})'
+        return f'[{code}.pdf]({url}) [mr]({mr_path}) [en]({en_path})'
 
     tgt_files = list(tgt_dir.glob('*.txt'))
     src_files = src_dir.glob('*.txt')
