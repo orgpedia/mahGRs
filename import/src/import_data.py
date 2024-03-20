@@ -1,8 +1,8 @@
-import sys
+import datetime
 import json
 import shutil
+import sys
 
-from datetime import datetime
 from pathlib import Path
 
 DeptNameDict = {
