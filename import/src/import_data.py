@@ -83,8 +83,8 @@ def export_data(src_dir, tgt_dir):
     todo_src_files = [s for s in src_files if s.name not in tgt_files_set]
     src_dict = {i["Unique Code"]:i for i in json.loads((src_dir / 'GRs.json').read_text())}
 
-    tgt_mr_files = len(f for f in tgt_files if '.mr.txt' in f.name)
-    tgt_en_files = len(f for f in tgt_files if '.en.txt' in f.name)
+    num_tgt_mr_files = len([f for f in tgt_files if '.mr.txt' in f.name])
+    num_tgt_en_files = len([f for f in tgt_files if '.en.txt' in f.name])
 
 
     for src_file in todo_src_files:
@@ -106,7 +106,7 @@ def export_data(src_dir, tgt_dir):
     first, last = tgt_infos[0], tgt_infos[1]
 
     first_date, last_date = get_date_str(first['date']), get_date_str(last['date']),
-    num_mr, num_en = tgt_mr_files + len(tgt_new_infos), tgt_en_files + len(tgt_new_infos)
+    num_mr, num_en = num_tgt_mr_files + len(tgt_new_infos), num_tgt_en_files + len(tgt_new_infos)
     start_urls, last_urls = get_urls(first['code']), get_urls(last['code'])
 
     return [first_date, last_date, num_mr, num_en, start_urls, last_urls]
@@ -123,7 +123,7 @@ def write_readme(lines):
     insert_lines += ['']
     insert_lines += [f'**Total Orders**: {total_orders:,} and **Total Translated Orders**: {total_translated:,}']
 
-    readme_file = "README.md"
+    readme_file = Path("README.md")
     readme_lines = readme_file.read_text().split("\n")
     if '## Data Details' in readme_lines:
         s_idx, e_idx = readme_lines.index("## Data Details"), readme_lines.index("## Accessing Data")
@@ -150,7 +150,7 @@ def main():
         src_dir = src_parent_dir / src_stub_dir
 
         if src_dir.exists():
-            line = export_data(idx, src_dir, tgt_dir)
+            line = export_data(src_dir, tgt_dir)
             line = [idx+1, tgt_name.replace('_', ' ')] + line
             table_lines.append(line)
         else:
