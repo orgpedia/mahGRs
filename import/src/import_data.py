@@ -1,6 +1,8 @@
 import sys
 import json
 import shutil
+
+from datetime import datetime
 from pathlib import Path
 
 DeptNameDict = {
@@ -59,7 +61,17 @@ def export_data(src_dir, tgt_dir):
         code, _ = src_file.name.split('.', 1)
         return code.replace('\u200d', '')
 
-    tgt_files = tgt_dir.glob('*.txt')
+    def get_date_str(dt):
+        if isinstance(dt, str):
+            d, m, y = dt.split('-')
+            dt = datetime.date(year=int(y), month=int(m), day=int(d))
+        return dt.strftime('%d %b %Y')
+
+    def get_urls(code):
+        mr_path, en_path = '{tgt_dir}/{code}.pdf.mr.txt', '{tgt_dir}/{code}.pdf.en.txt'
+        return f'{code}.pdf [mr]({mr_path}) [en]({en_path})'
+
+    tgt_files = list(tgt_dir.glob('*.txt'))
     src_files = src_dir.glob('*.txt')
 
     tgt_files_set = set(t.name for t in tgt_files)
@@ -70,6 +82,9 @@ def export_data(src_dir, tgt_dir):
 
     todo_src_files = [s for s in src_files if s.name not in tgt_files_set]
     src_dict = {i["Unique Code"]:i for i in json.loads((src_dir / 'GRs.json').read_text())}
+
+    tgt_mr_files = len(f for f in tgt_files if '.mr.txt' in f.name)
+    tgt_en_files = len(f for f in tgt_files if '.en.txt' in f.name)
 
 
     for src_file in todo_src_files:
@@ -87,13 +102,47 @@ def export_data(src_dir, tgt_dir):
     tgt_new_json_path.write_text(json.dumps(tgt_new_infos))
     print(f'{tgt_dir}: #{len(todo_src_files)} copied')
 
+    tgt_infos = list(tgt_dict.values())
+    first, last = tgt_infos[0], tgt_infos[1]
+
+    first_date, last_date = get_date_str(first['date']), get_date_str(last['date']),
+    num_mr, num_en = tgt_mr_files + len(tgt_new_infos), tgt_en_files + len(tgt_new_infos)
+    start_urls, last_urls = get_urls(first['code']), get_urls(last['code'])
+
+    return [first_date, last_date, num_mr, num_en, start_urls, last_urls]
+
+def write_readme(lines):
+    header = ['Num', 'Department Name', 'Start Date', 'Last Date', \
+              '# Marathi Orders', '# Translated Orders', 'Starting Order', 'Last Order']    
+    total_orders, total_translated = sum(int(ln[2]) for ln in lines), sum(int(ln[3]) for ln in lines)
+    insert_lines = ['## Data Details', '']
+    insert_lines += [f'| {" | ".join(header)} |']
+    insert_lines += [f'| {" | ".join(["-" * len(h) for h in header])} |'] 
+    insert_lines += [f'| {" | ".join(ln)} |' for ln in lines]
+    insert_lines += ['-' * 100]
+    insert_lines += ['']
+    insert_lines += [f'**Total Orders**: {total_orders:,} and **Total Translated Orders**: {total_translated:,}']
+
+    readme_file = "README.md"
+    readme_lines = readme_file.read_text().split("\n")
+    if '## Data Details' in readme_lines:
+        s_idx, e_idx = readme_lines.index("## Data Details"), readme_lines.index("## Accessing Data")
+        readme_lines = readme_lines[:s_idx] + insert_lines + readme_lines[e_idx:]
+    else:
+        ins_idx = readme_lines.index("## Accessing Data")
+        readme_lines = readme_lines[:ins_idx] + insert_lines + readme_lines[ins_idx:]
+    readme_file.write_text("\n".join(readme_lines))
+
 def main():
     src_parent_dir = Path(sys.argv[1])
     tgt_parent_dir = Path(sys.argv[2])
 
-    for tgt_name, src_name in DeptNameDict.items():
-        tgt_name = tgt_name.replace(' ', '_')
+    # need to add last_crawl_date
 
+
+    table_lines = []
+    for idx, tgt_name, src_name in enumerate(DeptNameDict.items()):
+        tgt_name = tgt_name.replace(' ', '_')
         tgt_dir = tgt_parent_dir / tgt_name
 
         #import/mahcoop2024/export/orgpedia_mahcoop2024
@@ -101,9 +150,13 @@ def main():
         src_dir = src_parent_dir / src_stub_dir
 
         if src_dir.exists():
-            export_data(src_dir, tgt_dir)
+            line = export_data(idx, src_dir, tgt_dir)
+            line = [idx+1, tgt_name.replace('_', ' ')] + line
+            table_lines.append(line)
         else:
             print(f'src_dir not found: {str(src_dir)}')
+
+    write_readme(table_lines)
     return 0
 
 main()
