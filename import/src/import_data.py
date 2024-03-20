@@ -108,7 +108,7 @@ def export_data(src_dir, tgt_dir):
     first_date, last_date = get_date_str(first['date']), get_date_str(last['date'])
     
     num_mr, num_en = num_tgt_mr_files + len(tgt_new_infos), num_tgt_en_files + len(tgt_new_infos)
-    num_mr, num_en = int(num_mr), int(num_en)
+    num_mr, num_en = str(num_mr), str(num_en)
     
     start_urls, last_urls = get_urls(first['code']), get_urls(last['code'])
 
@@ -154,7 +154,7 @@ def main():
 
         if src_dir.exists():
             line = export_data(src_dir, tgt_dir)
-            line = [int(idx+1), tgt_name.replace('_', ' ')] + line
+            line = [str(idx+1), tgt_name.replace('_', ' ')] + line
             print([v for v in line if not isinstance(v, str)])
             table_lines.append(line)
         else:
