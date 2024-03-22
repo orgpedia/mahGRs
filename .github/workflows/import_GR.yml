@@ -1,11 +1,11 @@
 name: importGR
 
 on:
-  #schedule:
-  #  - cron: '30 16 * * *'  # Runs at 16:30 UTC, which is 10:00 PM IST
+  schedule:
+    - cron: '30 4 * * *'  # Runs at 4:30 UTC, which is 9:30 AM IST
 
-  push:
-    branches: [ main ]
+  #push:
+  #  branches: [ main ]
 
 jobs:
   import_export:
@@ -286,13 +286,8 @@ jobs:
           sparse-checkout: |
             export/orgpedia_mahwom2024
 
-            
-
       - name: import_export
         run: python3 import/src/import_data.py import GRs
-
-      - name: list files
-        run: ls -lR 'GRs/Co-operation,_Textiles_and_Marketing_Department'
 
       - name: Commit and push changes
         id: commit-and-push
