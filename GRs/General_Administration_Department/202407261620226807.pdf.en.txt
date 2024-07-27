@@ -1,0 +1,61 @@
+# Page 1
+Sandes Instant in Government Business
+about using the messaging app.
+Government of Maharashtra
+the General Administration Department
+Government Circular No. - Narrow-2024 / Q. 47 / R & W 1
+Martyr Rajguru Chowk, Madam Cama Marg,
+Mantralaya, Mumbai - 400 032.
+Dated July 26, 2024.
+The Proposal -
+Thousands of messages to central and state governments, government offices and local bodies, and
+There is an exchange of communications. Although these messages are mainly in text format, audio / video clips
+And there is also a secure exchange of information between the nastis, etc. Sandes app is digital.
+India is an initiative of Atmanirbhar Bharat under the programme Government to Government - G2G (Govt.to Govt. )
+and open source to facilitate government to citizen G2C (Govt.to Citizen) communication / messaging
+It is a system that provides a based, secure, and indigenous instant messaging platform. Sandesh is a secure government infrastructure-based system. Its strategic control rests with the government. Sandesh app
+It is available for anyone to download on Google Play Store and Apple App Store.
+The Sandes app is governed by the Data Privacy and Data Retention Policy published on the Play / App Store. Sandes
+The app is based on the "security first" principle and allows the sender and receiver of messages to
+It provides end-to-end encrypted messaging. Sandes platform only
+Stores metadata for statistical analysis and therefore cannot reproduce the actual message. All undelivered messages are stored in encrypted format for a limited time only.
+Go. Find the source of the abuse in the Sandes app if any abuse is reported.
+There is capability. It was therefore under consideration to issue a circular mandating the use of "Sandesh," an app developed by NIC, without any other app for government purposes.
+Government Circular-
+The Sandes app provides all the features of an instant messaging platform. In addition, the following are features that will make the Sandes app more useful for government use:
+There are -
+1.Send and receive messages securely, secure storage, send and deliver OTPs
+Protect the missing data.
+2. Customization as per the requirement of the Government / Government Offices.
+facility to do so.
+Service-based integration with eGov applications for sending encrypted messages and files.
+Facilitate the formation of informal and official groups.
+5. Instead of SMS, OTPs, alerts, notifications, and messages are safe and secure.
+There is a free system.
+6. Separation between verified and public utilities.
+7. Option to verify government users through Sandesh portal.
+Facility to hide the visibility of profile details at the organization level.
+9. Dialogues designed with government-appropriate jimoji (government emoji) and tags.
+# Page 2
+Government Circular No: Narrow-2024 / Q. 47 / R & W 1
+10. Availability of Sandesh web version for desktop / laptop. (sandes.gov.in)
+11. Facilitation of message transmission from Sandesh Portal to specific users in the organization.
+Role-based management and monitoring from the portal.
+13. eGov helps in sending messages and files from applications.
+14. Facilitates receipt of messages sent and read from applications.
+End-to-end encrypted audio / video calls (one-on-one and shared)
+16. Integrated Buy facilitates group management through application.
+Sandes App developed by NIC is used by all officers of the Central Government /
+staff as well as from more than 200 government agencies in various state governments as well as more than 350
+E-governance applications are being used to send messages, notifications, and OTPs. The variety of the app
+National Instruction in Government Affairs, also by the State Government of Maharashtra, with regard to functions and uses.
+All the departments and departments concerned have been asked to use the Sandes app developed by the Science Centre (NIC).
+Instructions are being given to their subordinate government offices. Government Departments / Offices for this purpose.
+Things to do are as follows:
+1) Go to the sandes.gov.in/download website and fill out the organization onboarding form.
+Download and fill in the information on it properly.
+2) Document copy and scanned copy of this form, hod.sandes_mhsc@nic.in
+The e-mail should be sent from the official e-mail of the competent authority.
+The said instructions shall come into force with immediate effect from the date of this order.
+4. The circular will be made available on the Government of Maharashtra website www.maharashtra.gov.in.
+# Page 3
