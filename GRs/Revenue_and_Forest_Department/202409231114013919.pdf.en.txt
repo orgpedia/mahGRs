@@ -1,0 +1,55 @@
+# Page 1
+Relief and Rehabilitation under Revenue and Forest Department
+Maha to implement DBT system for ward
+Software Developer and Database of IT
+Admins are the two manpower services 01.07.2024
+d. To approve the continuation of the 30.09.2024
+Government of Maharashtra
+Revenue and Forest Department
+Government Decision No: ACY-2023 / Q. No.38 (1) / M-7
+Madam Cama Road, Martyrdom Rajguru Chowk,
+Mantralaya, Mumbai - 400 032
+Date: 23rd September, 2024.
+Reference: -
+1) Revenue and Forest Department Government Decision No. SCY 2017 / P.S.No.222 / M-7, D. 18.04.2018
+2) General Administration (Information and Technology) Department, Government Decision No. MATS 2022 / Q. 47 / S - 2/39,
+d. 27.09.2022.
+3) Divisional Project Implementation Meeting organized by the Relief and Rehabilitation Sub-Division
+The history of d. 25.09.2023 27.09.2023.
+4) Command of the Relief and Rehabilitation Sub-Division. 27.09.2023, d. 02.11.2023 d. 07.11.2023 and
+d. 18.04.2023
+5) Divisional Project Implementation Meeting organized by the Relief and Rehabilitation Sub-Division
+The history of d. 24.07.2024 30.08.2024.
+The Proposal:
+Through the Relief and Rehabilitation Ward of the Revenue and Forest Department, farmers are provided with agricultural inputs for various calamities.
+To provide assistance for damages as well as to rehabilitate affected persons from various projects.
+To implement e-governance projects through the Relief and Rehabilitation Ward under the Government Decision of 18.04.2018.
+A separate Departmental Project Implementation Committee has been constituted.
+2. Government decides to provide assistance to farmers who have suffered crop loss due to natural calamities.
+Revenue and Forest Department. Direct transfer system (DBT) was made operational by 24 January 2023.
+Process of Direct Benefit Transfer (DBT) of crop loss relief to the bank accounts of beneficiaries begins
+Accordingly, the Departmental Project Implementation Department. According to the decision of the meeting held on 25.09.2023
+One software developer and one from MahaIT to implement the DBT system through MahaIT.
+The database admin is composed of two human resources. They have been appointed in accordance with the letter of 27.09.2023
+Extension of time as decided in the meeting of the Zonal Project Implementation Committee held so far.
+It has come. Now the Departmental Project Implementation Committee. According to the decision of the meeting of the 28.03.2024
+The deadline was extended from April 2024 to June 2024. The DBT system
+An extension was under consideration as they were to be continued.
+The Government's Decisions:
+The DBT system is carried forward in accordance with the decision taken in the Project Implementation Committee of D. 24.07.2024
+The service of two human resources, a software developer and a database admin, to continue.
+# Page 2
+Government Decision No: ACY-2023 / Q. No.38 (1) / M-7
+d. 01.07.2024 to d. 30.09.2024 The extension for this period and the corresponding blank statement
+As shown, a total of Rs. 6, 31, 458.12 (Rupees six lakhs thirty one thousand four hundred and fifty eight only) Fixed Remuneration
+Administrative approval is being given to do so.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Designa- tion Role | Man power Salary (80%) (A) | Empanelled Agency 20% (B) | MahalIT Service charges (10%) (C) | Resources Man Month Rate (D=A+B+C) | GST@18% E= 18% on D | Total Payable by Deptt for one month T=F | Total Payable by Department Resource Required for 3 months G= FX3 |
+| Software Developer | 55,771.00                  | 13,943.00                 | 6,971.00                          | 76,685.00                          | 13,803.30           | 90,488.30                                | 2,71,464.90                                                       |
+| Admin              | 73,958.00                  | 18,490.00                 | 9,245.00                          | 1,01,693.00                        | 18,304.74           | 1,19,997.74                              | 3,59,993.22                                                       |
+| Total Amt          |
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(2) The above mentioned manpower shall perform the duties assigned to them from time to time and
+The report of the work done should be submitted to the government from time to time.
+3. The expenditure for this purpose shall be met from the provision under the relevant headings.
+The Government decision is available on the FSR AMAT www.maharashtra.gov.in ul website.
