@@ -1,0 +1,173 @@
+# Page 1
+Establishment of State Water Informatics Centre (SWIC) in the State of Maharashtra
+Government of Maharashtra
+Water Resources Department
+Government Resolution No. MISC-2019/157/C.R.53/2019 Madam Cama Road, Mantralaya, Mumbai
+Date: 09/10/2024
+Preamble:
+Water is one of the precious resource and increasingly under pressure due to factors like population growth, economic development, urbanization and
+climate change etc. Effective and efficient management of this resource backed
+up by informed decision making through seamless availability of historical and real time data both at the state and national level is, thus, of critical importance.
+Due to multiplicity of data producing agencies collecting their domain
+specific data, the same is often fragmented, incomplete, dispersed and
+heterogeneous making it difficult for policy makers to process it into useful information to support decision making. To overcome these challenges National
+Water Informatics Centre (NWIC) has been set up by the Government of India in 2018 to act as central repository of data on water resources and allied themes.
+Though, NWIC is maintaining nationwide digital water database and
+associated spatial data for the country and disseminates it through a digital
+platform (India-WRIS), there is state specific micro level & demand side data
+which can be better collected and maintained by the states themselves. This has
+led to the concept of establishment of State Water Informatics Centre (SWIC) at
+state/UT level. The major role expected to be performed by SWIC is to collect
+data from different state departments/agencies, digitization as per standard formats, validation and populating the same in state specific data base. NWIC
+would be hand holding states in this much needed endeavour by arranging
+requisite hardware and software, preparation of data-base, development of
+analytical tools, generic products and decision support system for SWIC to
+operate at budgetary support from states.
+Government of India, Ministry of Jal Shakti, Department of water
+Resources, River Development & Ganga Rejuvenation vide their letter dated
+12/05/2021 & 24/01/2022 has directed to set State water Informatics Centre
+(SWIC) as a dedicated organisation for co-ordination, collection and
+dissemination of water resources data of the state with the support and guidance
+from National Water Informatics Centre (NWIC).
+# Page 2
+In order to achieve the above objectives it was under consideration of
+Government of Maharashtra to establish State Water Informatics Centre (SWIC)
+in the State of Maharashtra.
+For setting up the SWIC, Water Resources Department, Government of Maharashtra has issued a government order vide reference no. MISC-
+2019/157/C.R.53/2019 1). 22/02/2023 declaring the Water Resources
+Department as lead Department (nodal department) in setting up the SWIC and shall be responsible for obtaining all necessary approvals for setting of SWIC particularly with regard to its mandate, rules and responsibilities, organisational
+set up, location, head of organisation, communication of SWIC with NWIC other implementing agencies and line departments of state government, budget
+provision and signing Memorandum of Agreement with NWIC.
+Supporting Department for SWIC are Water Supply & Sanitation
+Department and Soil & Water Conservation Department.
+Government Resolution:
+The establishment of State Water Informatics Centre (SWIC) will have
+multiple benefits like standardisation of data, ease of data exchange/sharing,
+improvement in data quality and validation. SWIC shall provide value added
+products and services to all stake holders for management and sustainable
+development of water resources.
+The mandate of the SWIC will be as follows.
+a. To provide value added products and services to all consumers of the state
+for sustainable development and management of available water resources
+in the state.
+b. SWIC shall act as a nodal agency and repository for state-wide water resources data. It shall act as a nodal agency for integration of water resources data within the state. It shall be responsible for maintaining,
+updating, collation and dissemination of data and information.
+c. In coordination with the National Water Informatics Centre, SWIC will
+act as a single point solution for State level, regional level and micro-level
+water resource information collection and dissemination.
+d. Establishing regular mechanism for periodic collection and integration of
+telemetry system information in various departments.
+e. Field Visits.
+f. To standardize available water resources data.
+g. Generating additional time-series of geo-spatial information (other than NWIC specified) as per state requirement.
+h. Creating visualization, specific dashboards and reports related to the state.
+1. Developing specific applications and Decision Support Systems (DSS).
+# Page 3
+Roles & Responsibilities of SWIC a. Collecting data from various organizations, creating new data repositories, creating information in standardized GIS format and creating scalable web-based information systems.
+b. Maintain, validate, digitize, collect data and disseminate water & allied themes.
+OD . Field visits / capacity building.
+oO.
+. To share information on hydrometeorological data with central organizations, state government organizations, other state government organizations, private organizations, stakeholders and citizens.
+e. To provide tools for creating value added maps through multilayer stacking of GIS databases to provide an integrated view of water resources information.
+f. Developing various applications and decision support systems.
+g. To monitor creation, operation & maintenance of State Water Resources Information System (State WRIS).
+Organization Composition The organization composition shall be as follows.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Sr. no.                                                               | Designation        | Proposed Posts | Appointment                                                                                           |                                                                | Role |
+| Technical Wing:-                                                      |
+| Chief Engineer, Hydrology & Dam Safety, Nashik                        |                    | Already Exists | Nodal Officer                                                                                         |
+| Superitending Engineer, Data Collection, Planning & Hydrology, Nashik |                    | Already Exists | Assistant Nodal Officer / Controlling Officer                                                         |
+| 3.                                                                    | Executive Engineer |                | New post                                                                                              | collection, digitization and validation of data & allied works |
+| Executive Engineer                                                    |                    | Already Exists | Analysis of data, develop State Water Resources Information System, Knowledge Products & allied works |
+| Assistant Executive Engineer, Assistant Engineer-1                    |                    | New posts      | collection, digitization and validation of data &                                                     |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Page 4
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Divisional Engineer / Sub Divisional Officer                                                         |   |                           | allied works |
+| Assistant Executive Engineer, Assistant Engineer-1/ Sub Divisional Engineer / Sub Divisional Officer |   | 3 Already exists + 2 New  |  posts       | Analysis of data, develop State Water Resources Information System, Knowledge Products & allied works |
+| Assistant Engineer-2/ Sectional Engineer/ Junior Engineer                                            |   | New posts                 | Office work  |
+| Assistant Engineer-2/ Sectional Engineer/ Junior Engineer                                            |   | 8 Already exists + 4 New  | Office work  |
+|                                                                                                      |
+|                                                                                                      |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Hiring of experts: Experts from various fields will be hired as per the nature of the work and changing needs. The number of experts can be modified and will be appointed in a phased manner on contractual basis.
+Water Supply & Sanitation Department shall provide manpower on deputation for posts of Assistant Hydro Geologist, Junior Hydro Geologist, Assistant Chemist, Junior Chemist etc. as per requirement for SWIC.
+Place of Setup: State Water Informatics Centre shall be established at Nashik. A new building shall be constructed for State Water Informatics Centre in the campus of Chief Engineer, Hydrology & Dam Safety, Nashik.
+Head of Organization: Chief Engineer, Hydrology & Dam Safety shall be the head of SWIC & will work as Nodal Officer for SWIC.
+Reporting Relationship: The Chief Engineer, Hydrology and Dam Safety, Nashik, as Head of the State Water Informatics Centre will report through the Director General (Design, Training, Hydrology, Research & Safety), M.E.R.I., Nashik to the Additional Chief Secretary / Principal Secretary / Secretary, Water Resources Department, Government of Maharashtra, National Water Informatics Centre (NWIC) & Department of Water Resources, River Development & Ganga Rejuvenation, Government of India. The Chief Engineer, Hydrology and Dam
+# Page 5
+Safety, Nashik will co-ordinate, share data with NWIC. A Memorendum of Aggreement will be signed between SWIC & NWIC.
+In order to have co-ordination between lead department, supporting departments and collaborative line departments and organisation and to have the policy decision, it is preferred to form a State level Steering Committee consisting of A.C.S./P.S./Secretary of all Lead, Supportive and Collaborative departments under the Chairmanship of Chief Secretary, Maharashtra State.
+Composition of State Level Steering Committee (SLSC-SWIC) is as follows-
+Sr. No. | Designation of officer & Department Role
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Sr. No.                                                                                                                        | Designation of officer & Department                                                                                            | Role                 |
+| 1.                                                                                                                             | Chief Secretary, Governmnet of Maharsahstra                                                                                    |
+| 2.                                                                                                                             | Additional Chief Secretary / Principal Secretary / Secretary, Water Resources Department, Governmnet of Maharsahstra           | Member               |
+| 3.                                                                                                                             | Additional Chief Secretary / Principal Secretary / Secretary, Rural Developement Department, Governmnet of Maharsahstra        | Member               |
+| 4,                                                                                                                             | Additional Chief Secretary / Principal Secretary / Secretary, Urban Developement Department, Governmnet of Maharsahstra        | Member               |
+| 5.                                                                                                                             | Additional Chief Secretary / Principal Secretary / Secretary, Water Supply & Sanitation Department, Governmnet of Maharsahstra | Member               |
+| Additional Chief Secretary / Principal Secretary / Secretary, Soil & Water Conservation Department, Governmnet of Maharsahstra | Member                                                                                                                         |
+| 7.                                                                                                                             | Additional Chief Secretary / Principal Secretary / Secretary, Agriculture Department, Governmnet of Maharsahstra               | Member               |
+| Shi                                                                                                                            | Secretary (CAD), Water Resources Department, Governmnet of Maharsahstra                                                        | Member               |
+| a                                                                                                                              | Government officials/ Experts/ Organisations (If needed with Chairman consent)                                                 | Special Invitee Vika |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Committee will meet at least once in a calendar year.
+Budgetary provision: A total expenditure of Rs.71.20 crores is sanctioned for the next seven years for setting up the State Water Resources Informatics Centre which includes two years establishment and five years for operation. The said expenditure includes filling up of non-available posts in the Water Resources Department on contractual basis, purchasing new software & hardware, required
+# Page 6
+furniture and processing of data, building, vehilcles etc. & other necessities for
+proper functioning. Funding requirement for running and maintenance of SWIC shall be reviewed as per the necessity.
+Expenditure demand of the said scheme should be met from sanctioned
+grants under account head I-05, Capital Expenditure -4701 on Medium
+Irrigation (Under Scheme) 80 General, 800 Other Expenditure, (07) Hydrology
+Project, (07)(01) Hydrology Project (Scheme), (4701 I 975), 53 Major Works,
+And under account head I-03, Office Expenses (2701 9083), Medium Projects
+(2701 9083)
+This Government Resolution is issued as per the concurrence received
+from Planning Department & Finance Department and as per Hon.Cabinet
+decision dated 30/09/2024.
+This Government Resolution is available on website
+www.inaharashtra.gov.in and its computer code 1s 202410091923245 127
+By order and in the name of the Governor of Maharashratra.
+J AYA 2 R AV | N 2.5.4.20=a6bf66f95dd09d40d69a5737642a79f0e7da9d3 Digitally DN: RESOURCES c=IN, signed o=GOVERNMENT DEPARTMENT, by JAYA PRAVIN OF MAHARASHTRA, POTDAR ou=WATER 150abc54c c7bad607088c7c18, serialNumber=45E2D63499928F8B69AB9E8EA3E7CBAB44D2E79B3 postalCode=400032, st=Maharashtra, CF5C253F37180C7E6DE4371, Date: 2024.10.09 19:09:58 +05'30' cn=JAYA PRAVIN POTDAR
+Copy respectfully submitted for information and necessary action:
+1. PS to Hon ble Governor of Maharashtra, Rajbhavan, Mumbai.
+PS to Hon'ble Chief Minister, Government of Maharashtra, Mantralaya,
+Mumbai.
+PS 10 at 012 Deputy Chief Minister, Water Resources Department,
+Government of Maharashtra, Mantralaya, Mumbai.
+4. PS to Hon ble Deputy Chief Minister, Finance Department, Government
+of Maharashtra, Mantralaya, Mumbai.
+5. Chief Secretary, Government of Maharashtra, Mantralaya, Mumbai.
+6. Secretary, Department of Water Resources, RD & GR, Ministry of Jal
+Shakti, New Delhi.
+7. Additional Chief Secretary, Finance Department, Government of
+Maharashtra, Mantralaya, Mumbai.
+8. Additional Chief Secretary, Water Resources Department, Government of
+Maharashtra, Mantralaya, Mumbai.
+9. Additional Chief Secretary, Revenue and _ Forests Department,
+Government of Maharashtra, Mantralaya, Mumbai.
+# Page 7
+10.Principal Secretary, Urban Development Department, Government of Maharashtra, Mantralaya, Mumbai.
+11.Principal Secretary, Rural Development Department, Government of Maharashtra, Mantralaya, Mumbai.
+12.Additional Chief Secretary, Industries, Energy and Labour Department, Government of Maharashtra, Mantralaya, Mumbai.
+13.Additional Chief Secretary, Public Works Department, Government of Maharashtra, Mantralaya, Mumbai.
+14.Principal Secretary, Planning Department, Government of Maharashtra, Mantralaya, Mumbai.
+15.Additional Chief Secretary, General Administration Department, Government of Maharashtra, Mantralaya, Mumbai.
+16.Principal Secretary, Water Supply and _ Sanitation Department, Government of Maharashtra, Mantralaya, Mumbai.
+17.Secretary, Soil and Water Conservation Department, Government of Maharashtra, Mantralaya, Mumbai.
+18.Additional Chief Secretary, Agriculture, Animal Husbandary, Dairy Development and Fisheries Department, Government of Maharashtra, Mantralaya, Mumbai.
+19.Principal Secretary, Environment Department, Government of Maharashtra, Mantralaya, Mumbai.
+20.Principal Secretary, Information and Technology Department, Mantralaya, Mumbai.
+21.Secretary (Project Co-ordination), Water Resources Department, Government of Maharashtra, Mantralaya, Mumbai.
+22.Secretary (CAD), Water Resources Department, Government of Maharashtra, Mantralaya, Mumbai.
+23.Executive Director, Tapi Irrigation Development Corporation, Jalgaon.
+24.Executive Director, Konkan Irrigation Development Corporation, Thane.
+25.Executive Director, Godavari Marathwada Irrigation Development
+Corporation, Chhatrapati Sambhajinagar.
+26.Executive Director, Vidharbha Irrigation Development Corporation,
+Nagpur.
+27.Executive Director, Maharashtra Krishna Valley Irrigation Development Corporation, Pune.
+28.Director General, Maharashtra Engineering Research Institute (MERI), Nashik.
+29.Commissioner, Groundwater Surveys and Development Agency, Pune.
+30.WRP Collection.

@@ -1,0 +1,92 @@
+# Page 1
+To grant administrative (with financial approval) approval for procurement of revised manpower and computer resources for Project Monitoring Unit (PMU) for expansion and smooth functioning of Right to Information (RTI) online.
+Government of Maharashtra
+the General Administration Department
+Government Decision Number: SAPRIV - 92023/19/2024 - SAPRIV (Cell-6)
+19th Floor, New Administration Building, Opposite Mantralaya, Madam Kama Marg,
+Martyr Rajguru Chowk, Mumbai - 400032.
+Date: October 15, 2024.
+Read: - 1. Government Decision, General Administration Department, No. - Shorter-2023 / Q. No.390 (Part-II) / VI, dated 24th February, 2021.
+2. Letter from State Information Science Officer, Mumbai No. NIC / MHSC /
+RTI Online / 2023-24/481, dated January 98, 2024.
+3. The minutes of the meeting of the General Administration Department, Project Implementation Committee dated 04.10.2024.
+Introduction: - The government launched the first Ministry-level online Right to Information service with the date 01.01.2015. This is followed by the offices of the district collector, the offices of the elected municipal corporation, the offices of the zilla parishad and the offices of the district superintendent of police in the state in a phased manner.
+The online Right to Information service has been extended to offices. So far
+The service has been extended to 214 offices. The right to information online
+Setting up of Project Monitoring Unit (PMU) for expansion and smooth functioning has been approved vide letter dated 24.02.2021.
+However, the Project Monitoring Cell is yet to become operational due to lack of availability of space and purchase of computer resources. In the intervening period, the State Information Science Officer, vide letter dated 18.01.2024 at Bacha, had submitted a proposal of revised manpower and computer resources for the Project Monitoring Centre to the Government as the Central Government has made timely improvements in the online Right to Information Port and similar improvements are required to be made in the State Government Portal. Accordingly, the Project Implementation Committee constituted by the General Administration Department at Bacha vide its order dated 02.01.2020 was constituted on 04.10.2024 by the Chief Secretary (Services) (Additional Chief Secretary). The meeting was held under the chairmanship of). In these meetings, a proposal to provide improved technical manpower and computer resources for the Project Monitoring Centre was approved. Accordingly, the Government has now decided as follows: -
+# Page 2
+The government's decision:
+Resolving technical issues arising under the Right to Information (RTI) online facility
+To ensure smooth functioning of Sarva Tehsil and Panchayat Samiti Offices and Ministries in the State up to Taluka level and to facilitate online Right to Information (RTI).
+The Project Monitoring Unit (PMU) Gel set up for expansion to all subordinate offices is being given administrative and financial approval to provide improved technical manpower and computer resources as follows.
+Project Monitoring Room (7) 1) The revised manpower will be as follows: -
+---------------------------------------------------------------------------------------------------------------
+| Sr. No.                      | Description                                                         | Number |
+| Technical Manpower           |
+| System (Linux) Administrator |
+| Senior Developer (PHP)       |
+| 3                            | Support Engineer for training and support activities for RTI Online | 2      |
+---------------------------------------------------------------------------------------------------------------
+3. The working hours of the above technical staff shall be as prescribed in the accompanying statement.
+The technical manpower is provided by the Maharashtra Allied Guest AeSed Aalst (Maharashtra Information Technology Corporation Ltd.-MahalT), Teal National Informatics Centre Services Inc.
+(251) will be made available through.
+4. Project Monitoring Hal (PMU) Sel Sava Para GH Pa (Computer Resources) GICNATAM Sted. GX PMH PA WA Aa, Industries, Power and Labour Department, No. Bhankhas-2021 / Q. 8 / UXEG-4, dated 07.05.2021 will be procured as per the prevailing policy announced by the Ministry.
+---------------------------------------------------------
+| Sr                 | Description             | Number |
+| Computer Resources |
+| PC Client          | (1 Desktop & 2 Laptops) |
+| 2                  |
+| Desktop Computer   |
+|                    |
+| 5                  |
+---------------------------------------------------------
+5. Sadar Pr. Expenditure on technical manpower and computer resources in the Kalp Oversight Room "Demand No. A4 - 2052 Secretariat General Services, (00) (17) 97-Computer Expenditure under the Provisions (Programme) (2052508919) for implementation of e-Governance Projects."
+# Page 3
+Budget approved for the financial year 2024-25 under headings
+to be subtracted from the provision.
+6. The said Government Decisions, Department of Finance, Government Decisions, No: V.P.-2012 / Q. No. 30/13 Regulations,
+Part II, Financial Rights Manual dated 17th April, 2015,
+1978, Part-I, Sub-Division-II, A.No. 27-A, Rule No. 76 to the Administrative Department under
+Issuance is being made in accordance with the financial authority provided.
+7. Decision of the Government of Maharashtra A7 /. \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 1919199 | 119.200. ] on this website.
+It has been made available with the code 202410151109117107. This is the government
+The decision has been certified and issued with a digital signature.
+By order and in the name of the Governor of Maharashtra,
+5 A M B H AJ | ADMINISTRATION 2.5.4.20=95cd0868d6dea1 Digitally DN: c = IN, signed o0 = GOVERNMENT by DEPARTMENT, SAMBHAJ | 4221 OF BABAN MAHARASHTRA, 4bfc28ac5c5da68a80f95 JADHAV ou = GENERAL 1 ff8c1 7ead seriainumber = F1AC7B66EC5C25BD07AD7429038563FCA39AD 158d68b25d4ab3, postalcode = 400032, st = Maharashtra, 6F7BDFE7B0D1B526B6F1442C Date: 2024.10.15 11:12:41 + 05'30, cN = SAMBHABAN JABHAV
+(Sambhaji B. Jadhav)
+Executive Officer, Government of Maharashtra
+For the: -
+Accountant General, Accountancy General (Accounts & Licensure), Maharashtra-1 / 2, Mumbai / Nagpur.
+Accountant General (Audit), Maharashtra-1 / 2, Mumbai / Nagpur.
+The AU. Secretary, Maharashtra State Information Commission, Headquarters, 13th Floor, New Administration Building,
+In front of Mantralaya, Madame Cama Marg, Martyrdom Rajguru Chowk, Mumbai-400032.
+"K. Accounts and Accounts Officer, Mumbai.
+5. Deputy Secretary, Department of Finance, Expenditure-4 / Regulations, Ministry of Finance, Mumbai-32.
+The GM. Under Secretary, General Administration Department, Works. - Finance (26), Mantralaya, Mumbai-32.
+By choice, s. Q. / Work. - Information (6).
+# Page 4
+(Government Decision, Department of General Administration, No. SAPRV (6-chamber) SAPRV - 2024/19/12023 -, dated 15th October, 2024 along with the prospectus)
+Scope of Project Monitoring Unit for Online RTI
+Project Monitoring Unit (PMU) for RTI Online Project
+e System (Linux) administrator-1 no.
+- Responsible for application server management (3 no.).
+- Co-ordination with State Data Center (SDC).
+- Performance fine tuning.
+- Deployment of patches.
+- Day to day monitoring of server ensuring that the application is up and running.
+- Daily backup, Weekly backup and Monthly full DB backup.
+e Senior developer (PHP) - 2 no.
+- For activities as per Annexure-2.
+- Responsible for overall development changes in the application, upgrading the application with latest version on the lines of central.
+- RTI Online application.
+- Bug fixing.
+- Adding new enhancements as per GOM guidelines, Unicode support for RTIMIS.
+e Support engineer - 2 no.
+- Training and support activities related to RTI online.
+- Responsible for conducting trainings for departments in Mantralaya and the online Public Authorities in Maharashtra (2000).
+- Follow-up with nodal officers on updating of PIO, Appellate authorities contact details on website.
+- Preparation of pendency report for GAD to take follow-up on monthly basis.
+- Attending calls from users who have any query.
+- Co-ordination with Call Centre for citizen queries and continuous monitoring of rti.support @ maharashtra.gov.in email inbox.
+oo 2K OK ok

@@ -1,0 +1,126 @@
+# Page 1
+Integrated green data setters in the state
+about setting up parks.
+Government of Maharashtra
+Industries, Energy, Labour and Mining Department
+Government Decision No: Matandho-2024 / Q.No.938 / Udyog-2
+Mantralaya, Mumbai - 400 032.
+Date: 9th October, 2024
+Read: Government Decision No. Matandhu 2022 / Pt. No.170 / Industry-2, dated 27/06/2023
+Introduction: - The "Integrated Data Centre Parks" area has been identified as a priority area (111151 9800) in the Maharashtra Industrial Policy-2019. The Integrated Data Centre Pak and Ghatak are directly supported and promoted by the state government under the Information Technology and IT-enabled Services Policy 2023.
+The city of Mumbai has the highest number of seaplane stations in the country, connecting the Asia Pacific to the east-west of the world. It is the biggest link for global market expansion. The NITI Aayog has recently published a report on making the Mumbai metropolitan region a trillion-dollar economy in collaboration with the state government. It highlights that the Mumbai Metropolitan Region can be set up as an integrated data centre parks hub and also as a green data centre hub. Zone-1 (Mumbai and Navi Mumbai) is emerging as a data centre hub in Asia-Pacific due to sustainable power supply, undersea cable landing facilities, and availability of trained technical manpower. $1 trillion (591) to the state? The state has set up an Economic Advisory Council (EAC) (59) to prepare a detailed roadmap towards achieving the aspirational goals of the. The Economic Advisory Council has also mentioned data centres as an important area in their recommendation.
+The country's economy is growing at over 7% and there is a significant market demand for data processing and storage. With the advent of artificial intelligence (51), the need for data storage and processing is going to increase manifold. But at the same time, there is a major concern of global warming due to the excessive use of energy by data centers. For this reason, many multi-national giants such as.
+Amazon, Google, etc., have hinted at storing their data in a green integrated data center park. For this, the concept of "Green Integrated Data Centre Parks" is being proposed. Accordingly, companies will develop Tier 4 data centers for their own use and / or developers for other data center components, and various data center companies will use the data storage space, including the hardware, in the facility.
+The state government is keen to promote data centres under the IT & ITeS Policy-2023 and intends to develop cities in Zone-19, particularly Mumbai and Navi Mumbai region as data centre hubs under the above policy. Various attractive incentives have been paid under the policy to maintain Mumbai / Navi Mumbai's leading position in India's total data centre capacity and to make Mumbai the 'Data Centre Capital of India'. In view of this fact, the IT & ITeS Policy 2023 has been partially revised.
+# Page 2
+This includes setting up of three (3) green integrated data centre parks to provide additional incentives to them.
+is under consideration.
+The Government's Decisions:
+Integrated Data Center Parks is a priority area. \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ The development of the region is critical to achieving the state's goal of a trillion-dollar economy, coupled with increasing industrialization.
+However, due to the large amount of energy consumed by data centers, global warming is a major concern.
+The concept of "Green Integrated Data Centre Parks" has been proposed. Green integrated data center
+This is extremely rare as setting up of parks involves non-conventional energy generation, setting up of supply chains and other infrastructure etc. Incentives for data center parks and components have been implemented under the Information Technology and IT-enabled services policy 2023. All of these incentives will continue to apply to developers and components in the green integrated data centers offered.
+In addition, additional incentives are being allowed to green integrated data center parks as mentioned further. Therefore, by partially amending the existing IT and ITeS Policy 2023, the following three (3) green integrated data centre parks will be defined, eligible, and
+Terms, conditions, incentives and additional incentives are being permitted: -
+The definition and eligibility of a green integrated data centre is as follows:
+7 Definition of Green Integrated Data Centre Park: - "For the purpose of this policy, green integrated data
+Centre Park is defined as an information technology infrastructure. Storing data that is high energy efficient and designed to reduce its environmental impact,
+Hosts the server to manage and transmit. Eligible for incentives under this policy
+This type of data center park will use 100% green energy for their original data center activities. This green data center is the seed use efficacy developed by Parks Green Grid.
+(015) and carbon utilization effectiveness ('[17]) are two of the most efficient in terms of ARTA.
+These data center buildings should be at least 1.71) silver grade. or green data.
+Data that meet the eligibility of fixed capital investment for permissible incentives for centres and
+Buildings, plants, and machinery / equipment used in this facility for its storage.
+This will include investments.
+e Definition of a Green Integrated Data Center Park: - "For the purpose of this policy, Green Integrated Data Center Park 1s defined as facility including IT infrastructure that hosts servers to store, manage and disseminate data that has been designed to be highly energy efficient and to minimize its environmental impact." Such type of Data Centre Parks shall use 100% Green Energy for its core Data Centre activities, to be eligible for the incentives under this policy. These Green Data Centre parks should be very efficient in terms of two metrics, namely Power Usage Effectiveness (PUE) and Carbon Usage Effectiveness (CUE) developed by the Green Grid. It 1s expected that the buildings of these data centers should comply with the lowest LEED Silver Grades norms. Fixed capital investment eligible for incentives for these Green Data Centres will include investment in building, plant and machinery / equipment used in this facility for data and its storage. "
+# Page 3
+7 Qualifications: -
+--------------------------------------------------
+| A. No.                 | Criteria              |
+| The number of projects | The Biggest Project 3 |
+| Capacity               | THA ATT Goods         |
+|                        |
+|                        |
+|                        |
+--------------------------------------------------
+The above eligibility criteria will continue to apply to the proposed three (3) green integrated data center parks projects.
+The terms and conditions and exemptions for setting up of "Green Integrated Data Centre Parks" in the State are as follows: - During the period of IT & ITeS Policy-2023, only the first three (3) Integrated Data Centre Parks with minimum fixed capital investment of Tier 4 category will be eligible for the benefit. For this, the following terms and conditions and concessions will be applicable: - i) Fixed fixed capital investments for green integrated data centre parks will include building, plant and machinery of developers and user companies. The developer company's building, plant, and machinery cost Rs. A minimum investment of ₹10,000 crore is required as well as the developer using the core process (99 10818 LATA activities) PRA 200% BRA energy in a green integrated data center park.
+ii) The green integrated data centre park will have to maintain a stable level of capital investment during the operational period (C91 _ 57 0101) otherwise incentives will be charged.
+11) Green integrated data centre parks should be operational till the completion of the implementation period. The HARI period from the date of the last incentive given to the data center park
+It will be for at least 10 years.
+14) Qualified new green integrated data center parks that meet fixed capital investment criteria will be required to invest a minimum of Rs. The incentives will be given only after an investment of ₹10,000 crore.
+v) The developer will be required to obtain prior permission from the relevant planning authority before making the use of green integrated data centre parks permissible. as well as green integrated data centers.
+Other provisions in the approved development control rules will apply in the construction proposal of buildings for the purpose of parks.
+5) Green integrated data centre park projects can use a maximum of 10 per cent other electric energy in addition to green energy to run DG sets, common infrastructure, utilities, etc.
+vii) TAT for Special Economic Zones (547) under Maharashtra IT & ITeS Policy 2023 announced under 27th June 2023.
+# Page 4
+As per the guidelines issued, permission has been granted for seed production and distribution units by seed production units. Also, in terms of Section 49 of the Central Government Act, 9727, data centre park projects will be recommended to the Maharashtra Electricity Regulatory Commission (1 / 229) from the state government for obtaining seed generation plant distribution license. Data center park projects with human distribution licenses will be required to source 51 percent of their electrons on a traceable basis from green renewable energy.
+viii) The project will be allowed to get power through open access as electricity is a major component of the operational cost of a green integrated data centre.
+1) Non-peak hour (Ga-70 | hour) for green integrated data centre park project on power backing charges used. \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ Waiver exemptions are allowed under the A2 €'s rules.
+will be done.
+5) The units in the green data centre park to be set up in the Maharashtra Industrial Development Corporation area will be allowed free of cost without first levying subletting charges as well as any other additional charges.
+xi) A maximum of 70 per cent ground coverage will be permissible for a green integrated data centre project and there will be no floor-to-ceiling height restrictions within the permissible limits as per the National Building Code and Development Control Regulations ('2).
+411) Green Integrated Data Centre Park projects will be provided with 24 "7 uninterrupted water supply at affordable rates up to their plant site.
+xiii) WT AST supply will be made available through two separate Seed Purbatha Foders / Substations (51] 59581] OR CTU System dedicated to Green Integrated Data Centre Park projects by the Government.
+417) The existing rules require one parking per 400 m2 of built-up area (311 /), however, the parking rules will be relaxed to 1 parking per green integrated data centre park / 19000 m2 of built-up area (3 (1 /)).
+xv) The OR Integrated Data Centre Park will be permissible for construction of boundary walls up to a height of 3. 6 metres.
+45) It will be permissible for the green integrated data centre park to install chiller equipment on the rooftop.
+4511) The width of the internal road in the green integrated data center park will be permissible as per the prevailing fire and safety regulations.
+451) It will be permissible to install underground fire water tanks in 50% of the area of the plot area reserved for recreational ground (27) required for green integrated data centre park.
+4. Additional Incentives for Green Integrated Data Centre Park Projects are as follows: - In view of the large scale investment of the project, latest technology and green projects, the first three green integrated data centre projects to be set up in the state are being allowed additional incentives as follows along with incentives permissible under IT & ITeS Policy 2023 for eligible projects without area limits: -
+# Page 5
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Detailed                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Total Financial Incentives                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Incentives will be admissible for 20 years within the project's total eligibility limit and the annual ceiling of incentives will be 5%. |
+| 2.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Stamp duty measurement                                                                                                                   | FST Hala (Term Loan) waiver of 100% is admissible on contractual documents of land required for setting up a technology policy and for setting up a project. 100% stamp duty waiver is admissible on first lease / sub lease for units to be set up under a data centre park. |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| A subsidy of Rs.1 per unit on energy will be admissible for 10 years.                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Subsidies equivalent to 100% Gross State Goods and Services Tax (GSGST) on plant and machinery manufactured for setting up Green Integrated Data YX Park will be admissible. Subsidies equivalent to 100% Gross State Goods and Services Tax (GSGST) on supply of relevant eligible services (0161510181 7919505) under 7 Data Centre States will be admissible. Subsidies equivalent to 100% Gross State Goods and Services Tax (GSGST) on construction of building and other ancillary infrastructure (S055 5057) will be admissible. |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+5. To allow additional incentives for setting up of three (3) green integrated data centre parks, they should be provided with a grant-in-aid of Rs. Terms and Conditions in Section 3, Terms and Conditions B with Concessions as well as Regular Incentives. Additional incentives mentioned in section 4 are being approved for payment.
+6. Electricity tariff waiver is being allowed for all data centre projects, including green integrated data centre projects, for a maximum period of 20 years.
+7. Green Integrated Data Centre Parks to be set up with a minimum of 500 projects per month. It will be mandatory to reserve at least 2% of the VAT capacity per project for the purpose of the state government.
+8. Information Technology and IT-enabled services as enshrined in the Policy 2023. The mandate of the Empowered Committee headed by the Chief Secretary will be applicable to the policy.
+9. Since green integrated data centre is a new concept and changing technology requires changes in terms and conditions with time, the Department of Industry will have the power to make such changes and the guidelines issued in this regard will be binding on green integrated data centre parks.
+# Page 6
+10. The Department of Industries is being permitted to sanction Green Integrated Data Centre Parks and pay the additional incentives sanctioned for the same from the funds received under the Community Incentive Scheme as per the extant procedure. The above incentives should be disbursed from the funds received under the head of accounts under the collective incentive scheme.
+The scheme will automatically terminate once the first three (3) green integrated data centre projects are set up in the state.
+12. The said Government Decision dated 04/10/2024 dated. It is being issued with the approval of the Cabinet.
+The Government decision has been published on the computer website of the Government of Maharashtra 755. 9.905.] with the computer code 202410091138509610. The Government Memorandum is being digitally signed and authenticated.
+By order and in the name of the Governor of Maharashtra, signed ly by SANJAY SHAMKANT DEGAONKAR DN: c = IN, O = GOVERNMENT OF MAHARASHTRA INDEUSTRIES ENERGY AND LABOUR DEPARTMENT, 7914a3c02f24aa23655f609f41f2d36b0ec57da4c71 f19aaf08230a79, postalcode = 432, st = Mah h D) EG AO N KA R R R R R RAIANBER = 56CF8C8578584ADC470185C5855C41084CC34F66 83553D21ACBFA33D4D1F SANJAY SHANKAR DEGAONKAR D
+(Sanjay Degaonkar)
+Joint Secretary (Industries), Government of Maharashtra,
+1, Ma. Chief Secretary, Government of Maharashtra, Mantralaya, Mumbai.
+2. Ma. Additional Chief Secretary to the Chief Minister, Chief Minister's Secretariat, Mantralaya, Mumbai.
+3. Ma. Principal Secretary to the Deputy Chief Minister (Home), Mantralaya, Mumbai.
+4. Ma. Principal Secretary to the Deputy Chief Minister (Finance & Planning), Mantralaya, Mumbai.
+5. Ma. Private Secretary to the Minister (Industries), Mantralaya, Mumbai.
+6. Ma. Private Secretary to the Minister (All), Mantralaya, Mumbai.
+7. Ma. Speaker, Private Secretary to the Legislative Assembly, Maharashtra Legislative Assembly Secretariat, Vidhan Bhavan, Mumbai.
+8. Ma. Speaker, Private Secretary to the Legislative Council, Maharashtra Legislative Secretariat, Vidhan Bhavan,
+Mumbai.
+9, Ma. Deputy Speaker, Private Secretary to the Legislative Assembly, Maharashtra Legislative Assembly Secretariat, Vidhan Bhavan,
+Mumbai.
+10. Deputy Chairman, Private Secretary to the Legislative Council, Maharashtra Legislative Secretariat, Mumbai.
+11. Leader of the Opposition, Private Secretary to the Maharashtra Legislative Assembly, Maharashtra Legislative Secretariat,
+Vidhan Bhavan, Mumbai.
+12. Ma. Leader of the Opposition, Private Secretary to the Maharashtra Legislative Council, Maharashtra Legislative Council
+Secretariat, Vidhan Bhavan, Mumbai.
+13.अपर Chief Secretary (Finance), Department of Finance, Mantralaya, Mumbai.
+Additional Chief Secretary, Planning Department, Ministry of Power, Mumbai 15.अपर Principal Secretary (Power), Industries, Power, Labour & Mining Department, Ministry of Power, Mumbai
+16. Additional Chief Secretary, Revenue Department, Mantralaya, Mumbai
+# Page 7
+Principal Secretary (NV-1), Urban Development Department, Mantralaya, Mumbai.
+Development Commissioner (Industries), Directorate of Industries, New Administrative Building, Mumbai.
+19. CEO, Maharashtra Industrial Development Corporation, Andheri (East), Mumbai.
+20. All Municipal Commissioners.
+Managing Director, Maharashtra State Seed Distribution Company Limited, Mumbai.
+22. Managing Director, City Industrial Development Corporation, Mumbai.
+23. Inspector General, Registration and Controller, Stamp Duty, Pune.
+Invitee, Industry Friend, Mumbai.
+25. Deputy Inspector General, Stamp Duty, Mumbai.
+26. All Joint Secretaries / Deputy Secretaries / Under Secretaries / Room Officers in the Ministries / Departments.
+27. Ma. Senior Personal Assistant to the Chief Secretary, Mantralaya, Mumbai.
+Personal Assistant to the Principal Secretary (Industries), Industries, Power, Labour and Mining Department, Mantralaya, Mumbai.
+29. Personal Assistant to Joint Secretary (Industries-II), Industries, Power, Labour & Mining Department, Mantralaya, Mumbai.
+30. Selective Casting (Industry-2)
