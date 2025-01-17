@@ -82,13 +82,3 @@ Orgpedia would like to thank [AI4Bharat](https://ai4bharat.iitm.ac.in/) for rele
 
 Thanks to its accuracy and performance Orgpedia was able to translate over 50,000 documents relatively quickly and at a fraction of the price of the online servicess.
 
-
-
-
-
-
-
-
-
-
-
