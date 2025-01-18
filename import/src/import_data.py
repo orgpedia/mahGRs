@@ -72,13 +72,19 @@ def export_data(src_dir, tgt_dir):
         mr_path, en_path = f'{tgt_dir}/{code}.pdf.mr.txt', f'{tgt_dir}/{code}.pdf.en.txt'
         return f'[{code}.pdf]({url}) [mr]({mr_path}) [en]({en_path})'
 
+    def get_date_code(info):
+        dt = info.get('date', None)
+        d, m, y = dt.split('-')
+        dt = datetime.date(year=int(y), month=int(m), day=int(d))
+        return dt, info['code']
+
     tgt_files = list(tgt_dir.glob('*.txt'))
     src_files = list(src_dir.glob('*.txt'))
 
     tgt_files_set = set(t.name for t in tgt_files)
     tgt_json_path = tgt_dir / 'GRs.json'
     tgt_dict = json.loads(tgt_json_path.read_text())
-    
+
     tgt_new_json_path = tgt_dir / 'GRs-new.json'
     tgt_new_infos = json.loads(tgt_new_json_path.read_text()) if tgt_new_json_path.exists() else []
 
@@ -109,6 +115,9 @@ def export_data(src_dir, tgt_dir):
     print(f'{tgt_dir}: #{len(todo_src_files)} copied')
 
     tgt_infos = list(tgt_dict.values())
+    tgt_infos = [i for i in tgt_infos if i['date']]
+    tgt_infos.sort(key=get_date_code)
+
     first, last = tgt_infos[0], tgt_infos[-1]
 
     first_date, last_date = get_date_str(first['date']), get_date_str(last['date'])
@@ -119,11 +128,11 @@ def export_data(src_dir, tgt_dir):
 
 def write_readme(lines):
     header = ['Num', 'Department Name', 'Start Date', 'Last Date', \
-              '# Marathi Orders', '# Translated Orders', 'Starting Order', 'Last Order']    
+              '# Marathi Orders', '# Translated Orders', 'Starting Order', 'Last Order']
     total_orders, total_translated = sum(int(ln[4]) for ln in lines), sum(int(ln[5]) for ln in lines)
     insert_lines = ['## Data Details', '']
     insert_lines += [f'| {" | ".join(header)} |']
-    insert_lines += [f'| {" | ".join(["-" * len(h) for h in header])} |'] 
+    insert_lines += [f'| {" | ".join(["-" * len(h) for h in header])} |']
     insert_lines += [f'| {" | ".join(ln)} |' for ln in lines]
     insert_lines += ['-' * 100]
     insert_lines += ['']
@@ -151,7 +160,6 @@ def main():
         tgt_name = tgt_name.replace(' ', '_')
         tgt_dir = tgt_parent_dir / tgt_name
 
-        #import/mahcoop2024/export/orgpedia_mahcoop2024
         src_stub_dir = Path(f'{src_name}2024') / 'export' / Path(f'orgpedia_{src_name}2024')
         src_dir = src_parent_dir / src_stub_dir
 
