@@ -1,0 +1,584 @@
+# Page 1
+Agristack (Digital Public
+Infrastructure for Agriculture) Scheme
+Approval for implementation in the state...
+Government of Maharashtra
+Department of Agriculture, Animal Husbandry, Dairying Development and Fisheries
+Government Decision No: Narrow-2024 / Q. No. 157/10 -A,
+Madam Cama Road, Martyrdom Rajguru Chowk,
+Mantralaya Extension, Mumbai-400 032
+Date: 14th October, 2024
+Reference: 1) Secretary, Ministry of Agriculture & Farmers Welfare, Government of India, New Delhi dated 14th
+Letter dated June, 2022 and dated June 22, 2022
+2) Revenue & Forest Department Government Decision No.Synchronous-2022 / P.S.No.313 / L-1, dated 04.04.2022
+October, 2022
+3) The Central Government and the State Government in line with the implementation of the scheme in the State.
+Memorandum of Understanding dated 11th July, 2023
+4) A letter from the Central Government dated 03rd April, 2024
+5) In line with the implementation of the AgriStack scheme in the state, Shri. Chief Secretary, State of Maharashtra
+The minutes of the meeting held on 15.07.2024 under his chairmanship, Revenue
+and Forest Department Letter No.Synchronous-2022 / Q.No.313 / L-1 dated 21st August, 2024
+6) Letter from the Commissioner and Director of Land Records, State of Maharashtra, Pune
+NH3 / AgriStack / Proposal / Pune, dated 23rd September, 2024
+7) Guidelines regarding the Central Government's Digital Agriculture Mission
+8) Letter from the Director of Agriculture (Extension and Training), Agriculture Commissionerate, Pune
+J. No. Agriculture / CG / AgriStack / 24524/2024, dated 03rd October, 2024.
+The Proposal:
+India is an agrarian country and its economy is largely dependent on agriculture.
+The overall development of the country's economy is going to be possible only due to the development of the agricultural sector.
+Food grain availability, agriculture and allied occupations, etc., considering the growing population.
+Cultivation, storage facilities for agricultural commodities, proper markets, prices and agro-processing industries.
+It needs to be encouraged. Agriculture accounts for 55% of the population in Maharashtra. Agriculture
+Several important schemes are being implemented by the central and state governments for the development of the region.
+are. By appropriating available resources for effective implementation of these schemes.
+More and more development of the agriculture sector is possible by extending the benefits to the right and eligible beneficiaries.
+The central government has issued guidelines for the Agristack scheme.
+# Page 2
+Government Decision No: Narrow-2024 / Q. No. 157/10 -A,
+AgriStack leverages various government schemes using data and digital services in the agriculture sector.
+To be set up to reach out to eligible farmers faster and effectively.
+It is a digital foundation. Creation of comprehensive digital infrastructure for the agriculture sector.
+The purpose of the Agristack initiative is to do this. This project will help in making informed decisions.
+It is possible to provide timely services to the needy farmers, improve the efficiency of agricultural activities.
+To design and implement various farmer and agri-centric schemes.
+It will be easy.
+Beneficiaries using the Aadhaar system while providing benefits to farmers under various schemes.
+Identification is made. Also, the Revenue Department records their authority as well.
+Computerization of village maps has been completed. Of these records, the right record is
+They may be available immediately as they are being updated computationally.
+In addition, the Maharashtra Remote Sensing Institute has done Geo-referencing of lands in the state.
+referencing) has been done. This will digitize the most up-to-date information on farm land.
+Available immediately.
+Hence, the Aadhaar linked data set of all farmers and their fields in the state.
+(Farmer Registry), Crop Son Registry, and
+To create a geo-reference land parcel data set of farms.
+The necessary basic information is available. Use this to follow the guidelines of the central government.
+Accordingly, it is possible to implement the Agristak scheme in the state.
+Aadhaar seeding of farmers under AgriStack in Beed district this year 2023-24
+A pilot program to generate the data set has been implemented in the state. Beed
+The state through the Jan Samarth Yojana based on the farmer data set collected in the district.
+6 farmers online in 15-45 minutes on pilot basis by Hon'ble Chief Minister
+Kisan Credit Cards (crop loans) were made available. Guide in Beed district
+The Government of Maharashtra has drawn upon this promising and far-reaching experience of the event.
+It was decided to implement the AgriStack scheme in a time-bound manner across Maharashtra.
+Preparation of necessary technical aspects as per the guidelines of the Central Government.
+The blockades have been made at the level of Commissioner and Agriculture Commissioner.
+Accordingly, the Office of the Commissioner of Agriculture issued the Reference Letter No. Date at 10 03.10.2024
+The proposal for the AgriStack scheme has been submitted to the government through a letter.
+Agristack (Digital Public) of the Central Government as mentioned above
+Infrastructure for Agriculture) scheme was under consideration of the government for implementation in the state.
+Page 2 of 19
+# Page 3
+Government Decision No: Narrow-2024 / Q. No. 157/10 -A,
+The government's decision:
+Various schemes of the government using digital services in the agricultural sector of the state.
+Centre to facilitate faster and effective disbursal of benefits to farmers
+The government's Agristack (Digital Public Infrastructure for Agriculture) scheme
+It is being approved for implementation in the state.
+The objectives of the AgriStack Scheme are: -
+2.1 Aadhaar Enabled Data Set (FARMER) of all farmers and their fields in the state
+Registry), Crop Son Registry and Field Land
+Collectively create a data set of referenced (geo reference land parcels) and
+to be constantly updated.
+2.2 Implementation by the Central and State Governments for the welfare of farmers in the State.
+To make the benefits of various schemes available to the farmers in an easy, transparent and timely manner.
+2.3 Cheaper loans to farmers, higher-quality agricultural inputs, marketing, local and
+Provide specific expert guidance.
+2.4 To provide farmers with more informed and convenient access to markets.
+2.5 Identification of farmers for expeditiously extending the benefits of various schemes to farmers
+Develop a transparent and simple method of persuasion as well as an easy method of authentication.
+to develop.
+2.6 Agriculture and allied departments to better serve the farmers of the state.
+To facilitate the process of convergence of various schemes among themselves.
+2.7 Innovations in agricultural products and services through high-quality data and agri-tech
+to increase.
+The expected benefits of the scheme:
+3.1 By fulfilling the requisite conditions for availing the subsidy under PM KISAN Scheme.
+There will be ease in getting benefits.
+3.2 Support will be provided to cover all eligible beneficiaries under PM Kisan Yojana.
+3. Kisan Credit Card and Agriculture for farmers to get crop loans.
+Facilitating the availability of infrastructure funds and other resources for the development of agriculture.
+will remain.
+4.3 For compensation to farmers under PPIC insurance as well as disaster management.
+There will be ease in surveying farmers.
+Online registration of farmers in procurement at a base price of 3.5K
+It could be.
+Page 3 of 19
+# Page 4
+Government Decision No: Narrow-2024 / Q. No. 157/10 -A,
+Agricultural services to agencies providing agricultural credit, finance, investment, and other services to farmers.
+There will be ease of accessibility.
+7.Aan to the Agriculture and allied departments for availing the benefits of various government schemes.
+Availability of farmers and their dependents in the Farmers Registry
+There will be ease in disbursement of benefits of schemes based on data and
+There will be no need for repeated authentication of the beneficiary.
+3. 8 Baha'i Timely agricultural advisories, outreach to farmers by various agencies
+Success in promoting and expanding innovative programs with increased opportunities to do so
+will be obtained.
+In view of the above, proper implementation of the Angristank scheme is underway in the state.
+The Government of Maharashtra signed a Memorandum of Understanding (MoU) with the Government of India on 11 July,
+It is scheduled for 2023.
+4. Key components of the ete scheme: - To create three basic data sets under the AgriStack scheme as follows:
+They will come. All three of these infrastructural data sets are essential components of the Angristank plan.
+Data sets such as seed data set, pesticide data set, demand data
+Data sets, supply data sets, etc. are used to formulate agricultural policies and subsidies.
+It is necessary to create a plan.
+a) The Farmers' Registry, a database of farmers and their dependents.
+b) Crop Sown Registry
+a) Geo-referenced land map
+Parcel Cadastral Map)
+Regulation and implementation of the Angristak scheme:
+Successful implementation of the Angristink plan, regular BSA, and prerequisites
+Control Committee for Administrative and Fiscal Policy Making, Department of Revenue and Forestry, Government Decision No. Narrow-2022 / Q. 313 / L-1, dated 4th October 2022 (Steering
+Committee) and Implementing Committee were constituted.
+The said Government Decision is being superseded and Steering Committee and Implementation Committee are being constituted with the following amendments.
+Page 4 of 19
+# Page 5
+Government Decision No: Narrow-2024 / Q. No. 157/10 -A,
+5.1 Steering Committee:
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| A. No. |                                                                                                                                                                    |                      | Officer's designation |   |   | Names of the Committee |
+| 1.     | M. Chief Secretary                                                                                                                                                 | The President's      |
+| 2.     | Additional Chief Secretary / Principal Secretary / Secretary (Revenue), Revenue & Forest Department, Ministry                                                      | The member's         |
+| 3.     | Additional Chief Secretary / Principal Secretary / Secretary Finance Department, Ministry                                                                          | The member's         |
+| 4.     | Additional Chief Secretary / Principal Secretary / Secretary Planning Department, Ministry                                                                         | The member's         |
+| 5.     | Additional Chief Secretary / Principal Secretary / Secretary (Agriculture), Department of Agriculture & Farmers Welfare, Ministry of Agriculture & Farmers Welfare | the Member-Secretary |
+| 6.     | Additional Chief Secretary / Principal Secretary / Secretary, Rural Development Department, Ministry                                                               | The member's         |
+| 7.     | Additional Chief Secretary / Principal Secretary / Secretary (Cooperation), Department of Cooperation, Marketing and Textiles, Ministry of Textiles                | The member's         |
+| 8.     | Additional Chief Secretary / Principal Secretary / Secretary (Relief and Rehabilitation), Ministry of Home Affairs, Mumbai                                         | The member's         |
+| 9.     | Additional Chief Secretary / Principal Secretary / Secretary (IT), General Administration Department, Ministry                                                     | The member's         |
+| 10.    | Representative, Ministry of Agriculture and Farmers Welfare, Government of India.                                                                                  | The member's         |
+| 11.    | Other Secretary / Principal Secretary / Additional Chief Secretary as required.                                                                                    | The Invited Members  |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Office of the Steering Committee:
+The 1.सदर committee was tasked with the proper and effective implementation of the AgriStack scheme.
+All, including administrative-financial aspects, for policy making necessary for success.
+There will be some kind of rights.
+2. Agriculture to use the information generated under the AgriStack scheme.
+Allowing departments or institutions other than the department. As well as information
+The final authority regarding the use shall remain with the Steering Committee.
+3. Review and control the implementation and functioning of the scheme.
+4.सदर To hold at least a quarterly meeting of the Committee.
+The Implementing Committee:
+To implement the policy decision taken by the aforesaid Steering Committee.
+The Implementation Committee is constituted as follows:
+is being done.
+Page 5 of 19
+# Page 6
+Government Decision No: Narrow-2024 / Q. No. 157/10 -A,
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| A. No.      |                                                                                                                                                                    |                      | Officer's designation |   |   | In the committee |
+| Designation |
+| 1           | Additional Chief Secretary / Principal Secretary / Secretary (Revenue), Revenue & Forest Department, Ministry                                                      | The President's      |
+| 2           | Additional Chief Secretary / Principal Secretary / Secretary (Agriculture), Department of Agriculture & Farmers Welfare, Ministry of Agriculture & Farmers Welfare | The member's         |
+| 3           | Additional Chief Secretary / Principal Secretary / Secretary, Rural Development Department, Ministry                                                               | The member's         |
+| 4           | Additional Chief Secretary / Principal Secretary / Secretary (Cooperation), Department of Cooperation, Marketing and Textiles, Ministry of Textiles                | The member's         |
+| 5           | Additional Chief Secretary / Principal Secretary / Secretary (Relief and Rehabilitation), Ministry of Home Affairs, Mumbai                                         | The member's         |
+| 6           | Commissioner and Director, Land Records, Maharashtra State, Pune.                                                                                                  | The member's         |
+| 7           | Director (IT), Department of Information Technology.                                                                                                               | The member's         |
+| 8           | Commissioner (Agriculture), Agriculture & Padum Department, Maharashtra State, Pune.                                                                               | The member's         |
+| 9           | Commissioner (Cooperation), Cooperation, Marketing and Textiles Department, Maharashtra State, Pune.                                                               | The member's         |
+| 10          | Joint Secretary (L-1), Revenue and Forest Department, Ministry                                                                                                     | the Member-Secretary |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Functions of the Implementation Committee:
+Various information sets under the AgriStack scheme as per the directions received from the Steering Committee.
+The functions of the Implementation Committee on creation and use are as follows:
+It will be: -
+1. Setting the modalities for implementation of the scheme.
+2. Guiding and controlling implementation at the field level.
+3. Creation of data sets and setting up of data sets use rooms and control of operations.
+4. Define procedures for utilization of the data set.
+To hold at least a bi-monthly meeting of the 5.सदर Committee.
+The district while preparing various data sets for the agri-stack plan at the field level.
+For planning, effective implementation and control according to the situation, departments, districts and
+The committee is being constituted at the Taluka level as follows.
+5.3 Departmental Implementation Committee:
+----------------------------------------------------------------------------------------------------------------------------------------
+| A. No. |                             |                                        | Officer's designation |   |   | Names of the Committee |
+| 1      | the Divisional Commissioner | Chairman (Relevant Revenue Department) |
+| 2      | the Collector               | Member (respective district)           |
+----------------------------------------------------------------------------------------------------------------------------------------
+Page 6 of 19
+# Page 7
+Government Decision No: Narrow-2024 / Q. No. 157/10 -A,
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+| A. No. |                                          |                                                 | Officer's designation |   |   | Names of the Committee |
+| 3      | Chief Executive Officer                  | The member's                                    |
+| 4      | Divisional Joint Director of Agriculture | Member (Related Department)                     |
+| 5      | the Deputy Commissioner of Revenue       | Member Secretary (Revenue Department concerned) |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Functions of the Departmental Implementation Committee:
+1. Planning of implementation with respect to creation of all the three infrastructure information sets in the department.
+to do.
+2. Manpower, Training, Publicity for creation of all three infrastructure data sets.
+to control.
+3. Regular review of all the three infrastructure data sets creation campaigns of the department and
+to control.
+4. Creation of all the three basic information sets of the department to the State Implementation Committee.
+Submitting a report on the progress of the campaign.
+Hold at least one monthly meeting of the 5.सदर committee.
+5.4 District Level Implementation Committee:
+----------------------------------------------------------------------------------------------------------------------------------------------------
+| A. No. |                                                           |                      | Officer's designation |   |   | Names of the Committee |
+| 1      | the Collector                                             | The President's      |
+| 2      | Chief Executive Officer, Zilla Parishad                   | The member's         |
+| 3      | the District Superintendent Agriculture Officer           | The member's         |
+| 4      | Sub-Divisional Officer (All)                              | The member's         |
+| 5      | District Information Officer, National Informatics Centre | The member's         |
+| 6      | Other invitees nominated by the Collector                 | The member's         |
+| 7      | the Resident Deputy Collector                             | the Member-Secretary |
+----------------------------------------------------------------------------------------------------------------------------------------------------
+Functions of the District Level Implementation Committee:
+1. Planning of implementation with regard to creation of all three infrastructure datasets in the district.
+to do.
+2. Manpower, Training, Publicity for creation of all three infrastructure data sets.
+to control
+3. Regular review of all the three infrastructure data sets creation campaigns in the district and
+to control.
+4. Creation of all the three infrastructure data sets in the district to the State Implementation Committee.
+Submitting a report on the progress of the campaign.
+7 out of 19 pages
+# Page 8
+Government Decision No: Narrow-2024 / Q. No. 157/10 -A,
+Hold at least one monthly meeting of the 5.सदर committee.
+5.5 Taluk Level Implementation Committee:
+-------------------------------------------------------------------------------------------------------------------------
+| A. No. |                                |                      | Officer's designation |   |   | Names of the Committee |
+| 1      | the Sub-Divisional Officer     | The President's      |
+| 2      | the Group Development Officer  | The member's         |
+| 3      | the Taluka Agriculture Officer | The member's         |
+| 4      | Tehsildar                      | the Member-Secretary |
+| 5      | Other Invited Members          | The member's         |
+-------------------------------------------------------------------------------------------------------------------------
+Functions of the Taluk Level Implementation Committee:
+1. Implementation with respect to the creation of all three infrastructure data sets in the taluk.
+to make detailed plans.
+2. Manpower deployment, training, publicity for creation of all three infrastructure data sets.
+to do.
+3. Review of implementation of all the three infrastructure data sets creation campaigns in the taluka.
+and control.
+Hold at least one monthly meeting of the 4.सदर committee.
+6. Data Creation Cell under State Level Planning Management Centre.
+Establishment of unit and data usage unit:
+Information generation under AgriStack Scheme under State Level Planning Management Centre
+Approval for setting up of Data Creation Unit and Data Usage Unit
+is being provided. The creation and storage of data sets by the Data Generation Cell.
+Proceedings for developing, managing, and maintaining computer systems required for up-to-date
+will be done. Whereas, farmer-centric services through data sets from the Information Usage Cell.
+Steps will be taken to develop the facility.
+The Data Creation Unit:
+The Information Generation Cell shall be subordinate to the Depository Commissioner and the State Director,
+The Office of the Depository Commissioner will be the controller of the information generation cell. Agristack
+The manpower required for the Information Generation Cell under the scheme is as follows:
+General administration if not available by contract as well as by source as required.
+Service of retired officers / employees is available on contract basis as per the policy of the department.
+It is being approved. Three years from the creation of the working room of this room
+It will continue.
+8 out of 19 pages
+# Page 9
+Government Decision No: Narrow-2024 / Q. No. 157/10 -A,
+------------------------------------------------------------------------------------------------------------------------
+| A. No. |                                  |                        | Designation |   |   | Level |   |   | The number of |
+| 1      | Project Manager                  | The state level        | 1           |
+| 2      | Senior System Developer          | The state level        | 1           |
+| 3      | A data specialist                | The state level        | 1           |
+| 4      | Promotional Publicity Specialist | The state level        | 1           |
+| 5      | the Divisional Coordinator       | All of the departments | 6           |
+| 6      | the District Coordinator         | There are 34 districts | 34          |
+------------------------------------------------------------------------------------------------------------------------
+Appointment of said manpower, its criteria, remuneration required for the same, in manpower
+Increase and ancillary expenses as required as well as duties and responsibilities of the aforementioned manpower.
+etc. should be approved by the Steering Committee. The Department of Agriculture in this room
+Funds required for manpower remuneration Central Government PM-KISAN Administrative
+Fund / Digital Agriculture Mission by providing three years of deposit to the Commissioner.
+The duties and responsibilities of the above manpower are separately fixed by the Revenue Department.
+should be done.
+6.2 Data Usage Unit:
+The Information Use Cell shall be subordinate to the Commissioner of Agriculture and the Director, (Extension and
+Training) The Agriculture Commissioner's Office will be the controller of the Information Use Cell. Agristack
+The manpower required for the Information Generation Cell under the scheme is as mentioned below:
+If the source is not available by contract as well as by-source as required
+Service contracts of retired officers / employees as per the policy of the General Administration Department.
+Approval is being given to make the method available. The working room of this room
+It will continue for three years from creation.
+---------------------------------------------------------------------------------------------------------
+| A. No. |                          |                 | Designation |   |   | Level |   |   | The number of |
+| 1      | Senior System Developer  | The state level | 1           |
+| 2      | Minimum System Developer | The state level | 1           |
+| 3      | The data developer       | The state level | 1           |
+| 4      | A data specialist        | The state level | 1           |
+| 5      | Senior Consultant        | The state level | 1           |
+| 6      | Senior advisor           | The state level | 1           |
+| 7      | Information Manager      | The state level | 1           |
+---------------------------------------------------------------------------------------------------------
+Appointment of said manpower, its criteria, remuneration required for the same, in manpower
+Increase and ancillary expenses as required as well as duties and responsibilities of the aforementioned manpower.
+etc. should be separately approved by the Steering Committee. the manpower in the room.
+Page 9 of 19
+# Page 10
+Government Decision No: Narrow-2024 / Q. No. 157/10 -A,
+Funds required for remuneration Central Government PM-KISAN Administrative Fund / Digital
+It will be made available from the Agriculture Mission. The duties of the aforementioned manpower and
+The responsibilities should be determined separately by the Department of Agriculture.
+7. Farmer Registry: -
+The revenue authority records to create a farmer's data set.
+The farmer's Aadhaar number is based on the farmer's and farm's information.
+I want to connect with information. Under this, the names and identities of the farmers of the state
+Adi information will be compiled along with information about their farms. revenue for this purpose.
+The names of the farmers mentioned in the authority record of the department and their cultivation.
+database will be used. The Aadhaar number is the identification number of the farmer.
+Each farmer, together with his fields, is linked to the fields he owns.
+A Farmer Identification Number (Farmer ID) will be provided. The process of creating an information set
+This is at the village level in the Revenue Department, Agriculture Department and Rural Development Department.
+Using a mobile app developed by the Government of India by the employees
+will be done. First, the process of generating a maximum number of farmer identification numbers.
+It will be completed in a mission mode. Then to get the farmer's identification number.
+Customer service centres for farmers like VLE, Maha e Seva Kendras, Apna Sarkar Seva Kendras
+Applications can be made through etc. There are four main processes for creating this data set.
+To be implemented: -
+i.Software system for farmers' data sets (Talathi and Agro)
+Mobile Applications for Helpers / Gram Sevaks)
+ii.Employees working on the creation of a farmer's data set
+their training.
+iii. Collect field-level data on farmer data sets generation and
+the verification process.
+iv. Maintenance, repair and update of the information set after its creation.
+8. Formulation of Farmer's Registry:
+8.1. To create a database of farmers and their holdings.
+The Revenue Department of the Government of Maharashtra records the authority of the Central Government.
+The data set is made available, and this data set is continuously accessed by the API.
+will be updated. Bucketing software developed by the central government
+The system aggregates the land holdings of farmers in each village on the basis of this database.
+Page 10 of 19
+# Page 11
+Government Decision No: Narrow-2024 / Q. No. 157/10 -A,
+have been made. It also implements various schemes of the Agriculture Department in the state.
+Farmers from the farmers' data sets created during the
+The available Aadhaar and other information has been added. Every one of these
+Collected information of the farmer is called the farmer's bucket of those farmers.
+The village-wise farmers' bucket data received by the central government is of the farmers and
+Draft information to create a database of their farms.
+So it will be used.
+Farmers bucket information as mentioned 8.2वर from the field level through the bottom
+The identity of the farmer and his fields will be ascertained. Agriculture
+The farmer's Aadhaar will be linked by the department. It is then related to
+The farmer will be given a Farmer Identification Number (FID). Introduction to farmers
+Farmer ID creation should be done in a campaign mode.
+The Divisional Commissioner of the respective Revenue Department is responsible for the campaign.
+It will act as the nodal officer and all district collectors.
+There will be enforcement officers.
+8.3 All Tehsildars under the direction of the Collector for the purpose of
+Taluks of villages in taluks will form teams on a pan-India basis. in each team.
+Appointment of two officers, namely, Talathi and Gram Sevak / Agricultural Assistant.
+The team will be present in every village of the taluka for three days.
+The tahsildar should plan accordingly. The team stayed in the village for three days.
+Agristack will promote and publicize the scheme by staying resident and maximizing
+The farmer will complete the process of generating the Farmer ID number.
+8.4 On the evening before the festival, the resident team may stay in the village concerned.
+Go to the village to hold a village meeting to get information about the Agristak scheme.
+Its benefits extend to the entire village with the help of agricultural assistants / Gram Sevaks.
+Will tell.
+On the first and second day of the campaign, talaatis were held at public places in the village.
+The camp is to be set up by the Agricultural Assistant / Gram Sevak. Sadar Camp
+Plaques for necessary awareness about Agristack Scheme
+Installation in public places, inform farmers about it, and
+Motivating them to get farmer identification numbers is the first step of the campaign.
+And the next day the Talathi and the Agricultural Assistant / Gram Sevak is to be done.
+On the third day, door-to-door visits were made to the remaining farmers, especially women farmers.
+11 out of 19 pages
+# Page 12
+Government Decision No: Narrow-2024 / Q. No. 157/10 -A,
+Creating their Farmer Identification Number (FID) and maximum in the village.
+Emphasis should be laid on generating farmer identification numbers of farmers.
+8. Talathi and Agricultural Assistant for preparation of Farmer ID /
+Gram Sevaks will be provided with a mobile app installed on their mobiles.
+8. Installation of Mobile App and related training is carried out by the Tehsildar.
+The implementation of the Agristack plan is to be completed according to the received manual.
+Identify the farmer in attendance through a mobile app for 8.9तल and track his / her farm.
+The land will be inspected. After this determination, the Agricultural Assistant / Gram Sevak
+This farmer has agreed to link Aadhaar to the Farmer Registry through a mobile app.
+The farmer will generate a Farmer ID number.
+9. Farmer Information Grid - Training and Publicity: State level per revenue division.
+A total of 12 officers, 1 from the Agriculture Department and 1 from the Revenue Department, are the Master Rainer.
+Therefore, it should be chosen. Also, one from each district except Mumbai city and Mumbai suburbs.
+District Level Master Rainer of Agriculture Department Officer and a Revenue Department Officer
+Therefore, it should be chosen. All these master renners were appointed by the Depository Commissioner and the Agriculture Secretary.
+Training will be provided jointly through the office. These master renners are at various levels and
+Training will be provided to physical teams and trainers in taluks and villages as per requirement.
+Problems will be solved as needed.
+10 Storage of Farmer Data Codes:
+By this Government decision to operate under the State Project Management Centre.
+The data creation room created is the one suitable for storing this data set.
+The cloud will take over the service. as well as the creation, maintenance, and updating of data sets.
+Will make the necessary arrangements.
+11 Financial Proposals: The 100% Fund Centre required for the creation of the Farmers Data Centre
+From the Government's PM-KISAN Administrative Funds / Digital Agriculture Mission Scheme
+will be done. The expenditure should be borne with the approval of the Steering Committee.
+12. Seasonal Crops Registry: -
+The concept of e-crop inspection in the state of Maharashtra has been successfully implemented since 2021.
+It's coming. With a view to making crop inspection more efficient and reliable under the AgriStack scheme,
+Some changes have been suggested. This change was followed by the second major change in the AgriStack scheme.
+A data set, that is, a data set of seasonal crops, is going to be created. The original e-crop for this
+Changes have been made to the Survekshan mobile app. Accordingly, the e-crop inspection will continue.
+It can be addressed as "Digital Crop Save." To be used for digital crop harvesting
+Page 12 of 19
+# Page 13
+Government Decision No: Narrow-2024 / Q. No. 157/10 -A,
+The mobile app in the hands of farmers is now being renamed as "e-Crop Surveillance DCS."
+It is.
+Kharif, Rabi and Kharif crops sown in all the farms of the state under Digital Crop Savings Scheme.
+Summer Crop Surveillance through e-Crop Surveillance DCS Mobile App
+will be done. This digital crop survey is done every year during Kharif, Rabi, Summer
+Crops for the season, as well as the entire year, will be done by the revenue department.
+E-Crop Surveillance DCS mobile app is first of its kind by a farmer in every season.
+will be used (for a period of about one-and-a-half months) followed by Talathi in the remaining period.
+(for a period of about a month) appointed by the Tehsildar of the Taluka in his village.
+The rest of the crop inspection is to be completed through an assistant. The mobile app
+The village tahsildar appoints an assistant for crop inspection to be done through the medium.
+Level Kotwal, Gram Rozgar Sevak, Asha Sevak or similar work on remuneration
+This has to be done through village-level manpower.
+At present, the revenue village sample in the state of Maharashtra is 12 crops in the register.
+Per entry is done by the farmer himself through the mobile app e-Pikpahani and the rest of the information is collected.
+The solvents are inserted through the software system. Now, the Government of India is committed to this task.
+Rates for crop inspection as per the parameters of the Digital Crop Survey (DCS) system
+The following procedures are to be followed by the Revenue and Forest Department during the season.
+13. Seasonal Crops Registry Procedure: -
+13.1 Procedure for recording crop inspection:
+1.Farmers at the beginning of each season during the period prescribed to them (approx.
+45 days) e-Crop Inspection DCS Mobile made available to farmers
+Complete the registration by entering your name in the app to register the crop survey through the app.
+Once the farmers register themselves on the mobile app with the mobile number.
+After that, it is not necessary to register for the next season.
+2. Assistant for crop inspection during crop inspection at farmer level.
+He also created awareness among farmers and trained them in crop inspection.
+Action should be taken to solve the problems that arise during the giving and the actual crop inspection.
+3. In every village, the farmer has multiple plots of land and the farmer owns the land.
+A variety of crops are grown. A variety planted by a farmer in one of his fields
+The farmland that will register the crops is called an "owners plot." That is to say,
+A farmer's area of land at a location is a piece of agricultural land belonging to that farmer.
+This is called the "owners plot."
+Page 13 of 19
+# Page 14
+Government Decision No: Narrow-2024 / Q. No. 157/10 -A,
+4. Crop inspection is the owner's plot for generating seasonal crop data sets.
+It has to be done.
+5. Remaining crop of the village by the assistant after the farmer's crop inspection period is over.
+It will be the responsibility of the Taluk concerned to complete the inspection.
+6. E-Crop Surveillance (DCS) Mobile App for Helpers to record this crop inspection.
+are being made available. The mobile app will allow farmers to harvest crops that they have not done before.
+The remaining owners plots will be available for inspection.
+7. The assistant is to visit every farm and inspect the crop.
+13.2 Crop Inspection at Farmer Level:
+1. Farmers e-Crop Inspection (DCS) by registering themselves through Mobile App.
+will be recorded.
+Farmers will register themselves by entering the mobile number.
+3. After the farmers register, they select their account number and proceed.
+Complete the registration by selecting the number / group number.
+4.ई-प Crop survey due to geo-fetching in DCS mobile app
+It will be mandatory for farmers to go to their groups to register.
+Crop records for farmers through e-Crop Surveillance (DCS) mobile app.
+Uploading photos is required.
+6. Based on group boundaries, even for seasonal or permanent records.
+Due to geo-fetching, it will be mandatory to go and register in the group.
+13.3 Procedure at Tehsildar level for appointment of Assistant:
+1.तहस Kotwal, Gram Rozgar Sevak, Asha Sevika, and others for each village.
+Employees of other departments working at village level on remuneration.
+will be appointed.
+2. An assistant such as an assistant for a plot of maximum 1500 owners.
+will be appointed.
+3. One village or several villages together to a maximum of 1500 owners plot numbers.
+One of the functions is to assist with crop inspection and record the rest of the crop inspection.
+may be given to the assistant.
+4. Unification of villages with less owners plots into 2 or more villages.
+An assistant will be assigned.
+Page 14 of 19
+# Page 15
+Government Decision No: Narrow-2024 / Q. No. 157/10 -A,
+5. Villages having more than 1500 owners plots have more than 1.
+Assistants may be hired.
+6. In any case, a helper has more than 1500 owners of the plot.
+The plot cannot be worked out.
+7. Related staff to act as assistant after appointment of assistant.
+Digital Crop Savings (DCS) will register through the mobile app.
+8. Subsidiary registrations will be approved by the Talatis from their web portal and only after that.
+Assistants will be able to record crop surveys through a mobile app.
+Responsibilities of the Assistant:
+1. The assistant is the farmer's crop during the crop inspection period at the farmer's level.
+Will help with the inspection, will solve the problems they face.
+It will ensure that at least 80 per cent of the crop inspection is completed from the farmer's level.
+3. The crop of the remaining account holders at the end of the crop inspection period at the farmer's level.
+Inspection, e-peak inspection, completing their login from DCS mobile app, etc.
+Will fulfill responsibilities.
+4. The 100% Verification Assistant among the crop records recorded at the farmer level.
+will be done at the level.
+5. 100% Verification of records recorded from the support level.
+will be done through them. Then e-Crop Inspection Village reflected on Sample-12
+will be done.
+Crop surveys recorded at the farmer's level are corrected in the mobile app after 48 hours.
+or may be destroyed.
+7. E-Crop Surveys reflected on Village Model-12 from farmer level.
+If necessary, the tillers will repair or destroy the crop records. by Talathi
+To record the destroyed e-crop inspection from the support level again e-crop inspection.
+will be made available.
+8. E-crop inspection recorded at support level destroyed at Talathi level
+If done, re-helpers will be available for online crop registration through a mobile app.
+It will be.
+Board officials will login as a verifier through the mobile app. by Talathi
+Through mobile app, all crop inspection records that have been rejected twice are verified.
+will be recorded.
+Page 15 of 19
+# Page 16
+Government Decision No: Narrow-2024 / Q. No. 157/10 -A,
+13.5 Assistant Grants:
+1. Owners plot-wise season-wise per owners plot of Rs. 5 / - so much
+Remuneration will be paid (at least 60 per cent of the crop production in the village was done by farmers).
+If so, this honorarium will be paid). The assistant's honorarium is the tehsildar's
+The bank provided at the time the assistant registers in the mobile app from the level
+At the end of the season, their bank account will be online according to the account information.
+will be collected.
+13.6 In the State of Maharashtra as on 1st August 2024, by the number of owners plot
+As per "Annexure-A," in all three seasons, a sum of Rs. 81,83,96, 250 / - (Characters Rs.
+Eighty-three million ninety-six thousand two hundred and fifty) is expected to be spent annually. Sadar
+60% of the expenditure is funded by the Central Government through the Digital Agriculture Mission Scheme.
+It will give. The remaining 40 per cent will be held by the state government. The fund is provided by the Department of Agriculture.
+Deposits should be made available to the Commissioner annually. Also, training, publicity,
+Office expenses, computer system development and ancillary expenses, and future owners of the plot.
+The Steering Committee has the power to approve expenditure, such as increase in expenditure due to increase in numbers, etc.
+will remain.
+Geo-referenced Land Parcel Maps
+Cadastral Map) data set: -
+Landlocked village maps in the state of Maharashtra number seven.
+information is available. Village maps of the land are currently available for harvesting.
+are used. Using a new counting software system called 'E Counting 2.0'
+Land will be recalculated and their land references will also be included in these village maps.
+The work should be done by the Revenue and Forest Department. It does not require a separate expense.
+15. Detailed guidelines as required for data creation under the scheme.
+The instructions should be issued by the Revenue and Forest Department. as well as data usage.
+Necessary guidelines have been issued by the Commissioner (Agriculture), Maharashtra State, Pune with the approval of the Government.
+should be removed.
+16. Farmers Data Centre, Information Generation Cell and Information Usage Cell required.
+manpower and their remuneration, office expenses, training, publicity, computer systems
+Funds required for development, cloud services, project execution, etc.
+will be determined with the approval of the Steering Committee. The central government will provide the necessary funds for this.
+Page 16 of 19
+# Page 17
+Government Decision No: Narrow-2024 / Q. No. 157/10 -A,
+Deposits from the Administrative Fund of the PM-KISAN Scheme to the Commissioner and Commissioner, Agriculture.
+will be made available.
+17. Importance of Agristack (Digital Public Infrastructure for Agriculture) Scheme and
+To implement the above schemes in the State in a time bound manner keeping in view the utility
+Appointment of Subordinate Officers / Staff of various Departments in the District.
+The District Collector of the concerned district is being authorised to do so.
+18. Directions, guidelines received from Central Government from time to time regarding AgriStack Scheme.
+the Revenue / Agriculture Department to take necessary action in accordance with the
+The field offices should be directed to take action from the level.
+Department of Agriculture will be the nodal department for the AgriStack scheme. the Commissioner of Deposits and
+The Director of Land Records, State of Maharashtra, Pune is the state for implementation of the scheme.
+There will be nodal officers.
+20. Informal Reference No. 495/2024 Karyasana
+1431, dated 07.10.2024 and unofficial reference to the Department of Finance
+As per the feedback received under No. 365/2024 Expenditure-1, dated 07.10.2024 and
+It is being issued with the approval of the Hon'ble Cabinet.
+21. Decision of the Government of Maharashtra www.maharashtra.gov.in.
+# Page 18
+# Page 19
