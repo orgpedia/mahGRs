@@ -1,0 +1,106 @@
+# Page 1
+To set up new transmission plants in the state.
+Competitive tendering process based on power tariff
+Bid process coordinator for implementation
+Regarding the appointment of a Process Coordinator (BPC).
+Government of Maharashtra
+Industries, Energy, Labour and Mining Department,
+Government Decision Number: Narrow-0125 / Q. No.32 / Energy-4,
+Madam Cama Road, Martyrdom Rajguru Chowk,
+Mantralaya, Mumbai - 400 032
+Date: February 12, 2025
+Read:
+1) Government Decision No. Narrow-2018 / Q. No.214 / Energy-4 dated 04.01.2019
+2) M.V.P.C. Limit / SC / 5240 Dated - 13.08.2024
+3) Government Decision No. Narrow 2018 / Q. No.214 / Energy - 4 dated 21.08.2024
+4) MSETCL / CO / STU / TBCB / 5747 dtd. 23.08.2024
+5) MSETCL / CO / STU / TBCB / 5748 dtd. 23.08.2024
+6) MSETCL / CO / CE / STU-TBCB / EC / 6th / 6713 dtd. 27.09.2024
+7) MSETCL / CO / CE / STU-TBCB / EC / 6th / 8518 dtd. 12.12.2024
+th
+8) MSETCL / CO / CE / STU-TBCB / EC / 6/0032 dtd. 01.01.2025
+th
+9) MSETCL / CO / CE / STU-TBCB / EC / 6/0512 dtd. 17.01.2025
+The Proposal: -
+Power tariff-based competitive tendering process for setting up transmission plants in the state
+Government Decision on Implementation of Based Competitive Bidding (TBCB) dated 04.01.2019
+An Empowered Committee has been constituted.
+This was the sixth meeting of the committee. Done on 03.01.2025. Five projects were discussed at the meeting.
+The appointment of Bid Process Coordinator (BPC) was discussed. According to the 5
+Appointment of Bid Process Co-ordinator (BPC) as the tender process coordinator for the projects.
+It was under the consideration of the government.
+The Government's Decisions:
+Power tariff-based competitive bidding process for setting up new transmission plants in the state
+The Empowered Committee to implement the following five at its sixth meeting:
+For the projects, 1) M / s PFC Consulting Ltd. (PFCCL) & 2) M / s REC Power Development
+and Consultag Ltd. Bid Process Coordinator (BPC) to tender process coordinator (RECPDCL)
+Hence, the appointment is being approved by the government.
+# Page 2
+Government Decision Number: Narrow-0125 / Q. No.32 / Energy-4
+Project-1 - Transmission System Expansion Scheme in Maharashtra to remove transmission limitation in Pune Division-1
+(765 / 400 KV Pune East)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| A. No | Details of the project                                                                                                            | Route Length (km) / Capacity (MVA) (estimated)                                                        | Tender Process Coordinator         |
+| A     | Loop-in-loop out of 765 KV Aurangabad (PG) (existing) - Solapur (PG) (existing) Upper Bidirectional Channel at 765 KV Pune (East) | 60 km.                                                                                                | M / s PFC Consultants Ltd. (PFCCL) |
+| b.    | 765 KV Pune (East) (New) to 765 KV Pune - 3 GIS (Proposed) Upgraded to 765 KV Channel                                             | 150 km.                                                                                               |
+| A     | Establishment of 2 x 1500 MVA, 765 / 400 KVICT and 1 x 240 MVR bus reactors at 765 KV level at Pune (East) Sub-station (ए.आय.एस.  | 2 x 1500 MVA, 765 / 400 KVICT 1 x 240 MVR bus reactor at 765 KV level                                 |
+| D     | 400 kV Pune (East) (New) to Karjat (Existing) Upper Double Line 400 kV Channel                                                    | 40 km.                                                                                                |
+| E     | 765 / 400 kV Pune (East) (New) to 400 kV Lonikand-1 (Existing) Upper Double Line 400 kV Channel                                   | 100 km.                                                                                               |
+| f.    | 400 kV Karjat and 400 kV Lonikand-1 with 400 kV bay.                                                                              | 400 kV Karjat-400 V channel (ए.आय.एस.) Bay-2 ng. 400 kV Lonikand-1-400 V channel (ए.आय.एस.) Bay-2 ng. |
+| c     | 765 / 400KV Pune East with 02 bays for 400KV Vashi channel                                                                        |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Project-2 - Transmission expansion in Maharashtra to divert energy from renewable sources from Dharashiv, Beed district
+Scheme (400 / 220 / 132 KV Vashi)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| A. No | Details of the project                                                                           | Route Length (km) / Capacity (MVA) (estimated)                       | Tender Process Coordinator         |
+| A     | 400 kV Vashi (New) to 765/400 KV Pune (East) (New) Upward double channel 400 kV channel          | 150 km.                                                              | M / s PFC Consultants Ltd. (PFCCL) |
+| b.    | Installation of 2 x 500 MVA, 400 / 220 KVICT and 1 x 125 MVR bus reactors at 400 KV Vashi (New). | 2 x 500 MVA, 400 / 220 KVICT 1 x 125 MVR bus reactor at 400 KV level |
+| A     | 400 kV Vashi (New) to 220 kV Manjarsumba (Existing) Upstream 220 kV Channel                      | 35 km.                                                               |
+| D     | 400 kV Vashi (New) to 220 kV Paranda (Existing) Upstream 220 kV Channel                          | 40 km.                                                               |
+| E     | Installation of 2 x 300 MVA, 220 / 132 KVICT.                                                    | 2 x 300 MVA, 220 / 132 KVICT                                         |
+| f.    | 400 / 220 / 132 kV Vashi (New) to 132 kV Kalamb (Existing) Upgraded to 132 kV Channel            | 10 km.                                                               |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+I'm O2 out of 4
+# Page 3
+Government Decision Number: Narrow-0125 / Q. No.32 / Energy-4
+-------------------------------------------------------------------------------------------------------------
+| c | Provision of channel bay space at 220 kV and 132 kV levels for future addition of solar power plants. |
+-------------------------------------------------------------------------------------------------------------
+Project-3 - Transmission Extension Scheme in Maharashtra for Power Supply for Data Centre in Navi Mumbai (765 / -)
+400 / 220 kV Mahape)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| A. No | Details of the project                                                                          | Route Length (km) / Capacity (MVA) (estimated)                            | Tender Process Coordinator         |
+| A     | 765 KV Mahape (New) to 765 KV Barrage (PG) (Existing) Upstream 765 KV Channel                   | 60 km.                                                                    | M / s PFC Consultants Ltd. (PFCCL) |
+| b.    | Installation of GIS-4 x 1500 MVA, 765 / 400 KVICT and 1 x 240 MVR bus reactors at 765 KV level. | GIS-4 x 1500 MVA, 765 / 400 KVICT 1 x 240 MVR bus reactor at 765 KV level |
+| A     | Establishment of GIS-4 x 500 MVA, 400 / 220 KVICT.                                              | GIS - 4 x 500 MVA, 400 / 220 KVICT                                        |
+| D     | Space for channel bay at 400 kV level for future connectivity to data centre customers          |
+| E     | Space for channel bay at 220 kV level for future connectivity to data centre customers          |
+| f.    | Space for Bay for 765 KV Apta Substation Channel                                                |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Project-4 - Power supply for transmission system bottlenecks and data centre in Pune Division
+Transmission expansion plans in Maharashtra to:
+400 kV from Jejuri (present) to 400 kV Hinjewadi
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| A. No | Details of the project                                                                          | Route Length (km) / Capacity (MVA) (estimated) | Tender Process Coordinator                                   |
+| A     | Upper double channel of 2000 MW capacity each from 400 KV Jejuri (existing) to 400 KV Hinjewadi | 120 km.                                        | M / s REC Power Development and Consulting Limited (RECPDCL) |
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Project-5 - Establishment of 400 / 220 KV Valegaon Sub-station
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| A. No | Details of the project                                                                  | Route Length (km) / Capacity (MVA) (estimated) | Tender Process Coordinator                                   |
+| A     | Loop-in-loop out of 400 kV Tarapur-Kudus-II Upper Diversion Channel at 400 kV Valegaon  | 1 km                                           | M / s REC Power Development and Consulting Limited (RECPDCL) |
+| b.    | Loop-in-loop out of 220 kV Boisar-Borivali Upper Single Channel at 400 kV Valegaon      | 3.65 km                                        |
+| A     | Loop-in-loop out of 220 kV Dahanu-Ghodbunder Upper Diversion Channel at 400 kV Valegaon |
+| D     | Loop-in-loop out of 220 kV Dahanu-Vasova overhead single channel at 400 kV Valegaon     |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+I'm O3 out of 4
+# Page 4
+Government Decision Number: Narrow-0125 / Q. No.32 / Energy-4
+--------------------------------------------------------------------------------------------------------------------------------
+| E  | Loop in loop out of 220 kV Boisar-Vasova overhead single channel at 400 kV Valegaon |
+| f. | Establishment of GIS-3 x 500 MVA, 400 / 220 KVICT.                                  | GIS-3 x 500 MVA, 400 / 220 KVICT. |
+--------------------------------------------------------------------------------------------------------------------------------
+02. The said 1) M / s PFC Consultants Ltd. (PFCCL) and 2) M / s REC Power Development and
+Consultag Ltd. Both the tender process coordinators (RECPDCL) are Bid Process Coordinators (BPC).
+Notifications of the Central Government are mentioned. Appointment of tender process coordinators in this regard.
+The Ministry of Power shall be subject to the guidelines and conditions made by the Government of India from time to time.
+The decision is available on the Government of Maharashtra's www.maharashtra.gov.in website.
