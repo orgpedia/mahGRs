@@ -1,0 +1,85 @@
+# Page 1
+Student Life Cycle in Institute under Directorate of Medical Education and AYUSH
+Approval to operate a Management System (SLCMS) system
+about the giving.
+Government of Maharashtra
+Department of Medical Education and Pharmaceuticals
+Government Decision No: Narrow-0624 / Q. No.258 / Pr.
+9th Floor, Gokuldas Tejpal Hospital premises,
+New G.T. Complex Building, Lokmanya Tilak Marg
+New Mantralaya, Mumbai - 400001
+Date: February 14, 2025
+Read-
+1) Department of Finance, Government Decision No.2013 / Q. No. 30/2013 Exchange Part-II, dated 17.04.2015 2) Letter from the Commissioner, Directorate of Medical Education and AYUSH No. DMER - 11022/6/2024 - CETIT, Date 30.05.2024
+3) Letter from the Commissioner, Directorate of Medical Education and AYUSH No. DMER - 11022/6/2024 - CETIT, Date 25.11.2024
+The Proposal: -
+The state has 25 government medical colleges, 3 dental colleges, 5 nursing colleges, 1 vocational and physical college under the Department of Medical Education and Pharmaceuticals.
+The College (OT PT), 6 Ayurveda Colleges and 1 Homeopathy College are functioning today. These colleges include MBBS, PG, Superspeciality, BDS, BAMS, BHMS,
+Students are admitted to a wide variety of courses such as Physical and Professional College (OT PT), Nursing, Paramedical, etc.
+The life cycle since the student's admission to government institutions today presents numerous difficulties in accessibility, making it difficult for students who pass out of government institutions to obtain various certificates, documents from the college in the future.
+Possibly in such a situation, students are deprived of daily and basic necessities and have to submit request forms to the administration frequently. A solid framework to ensure that the student body has access to a variety of information and educational activities without any delay.
+A system needs to be developed. The Directorate vide letter dated 30.05.2024 has requested the Government for approval to introduce the use of the Student Life Cycle Management System (SLCMS) mandate developed by C-DAC, a Government approved company, in all Government Medical, Dental, Ayurveda, Nursing, Homoeopathy and Physical and Vocational Colleges under the aegis of the Department of Medical Education. In accordance with the
+# Page 2
+Government Decision No: Narrow - 0624 / P.No.258 / P.S.-2, February 14, 2025
+Student Life Cycle Management System (SLCMS) in the institute under the department
+Approval to implement the system was under the consideration of the government.
+The Government's Decisions:
+All Government Medical, Dental, Under the aegis of the Department of Medical Education and Pharmaceuticals.
+C-DAC in Ayurveda, Nursing, Homoeopathy and Physical and Vocational Medicine colleges
+Student Life Cycle Management System developed by an approved company
+Management System) for two years for commissioning the system and Rs.
+Administrative sanction is being provided for expenditure of 3,82,34, 000 / - (excluding GST).
+The cost involved in the project is as follows.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Details of the project cost for two years (amount in lakhs) |
+| Part 1                                                      | Capex Costing                                                                                                                                         | The Year 1      |
+| Sr. No.                                                     | Essential Software Components                                                                                                                         | Amt (INR LAKHS) |
+| A. 1.                                                       | Software Customization and Maintenance Including Mobile Apps                                                                                          |
+| A. 1.                                                       | Student Life Cycle Management (SLCMS) Software Support & Upgradation, Configuration.                                                                  | 100.00          |
+| A. 1. 2.                                                    | SLCMS Mobile Application Development, Integration.                                                                                                    | 20.00           |
+| A. 2.                                                       | Safe to Cost Certification                                                                                                                            | 3.00            |
+| A. 3.                                                       | Project Adminstration Cost @CDAC                                                                                                                      | 20.00           |
+| A. 4.                                                       | One time online / off line training of all modules in 4 batches in 8 working days having maximum of 25 master trainers / batch @ 38500 / - per batch. | 1.54            |
+| A. 5.                                                       | Data Center Hosting, Platform Management and EDB Support Subscriptions                                                                                | 19.03           |
+| A. 6.                                                       | One SLCMS Implementer at DMER (@ 0. 75 lacs / month)                                                                                                  | 9.00            |
+| A. 7.                                                       | Project overhead cost (10% of A.1)                                                                                                                    | 12.00           |
+| A. 8.                                                       | Onboard charges of MCH on SLMS platform after POC (one time) per MCH @ 1. 00 Lacs                                                                     | 65.00           |
+| Total Capex Cost (Exclusive of GST)                         | 249.57                                                                                                                                                |
+| Part 2                                                      | Opex Cost                                                                                                                                             | The Year 1      | The Year 2 |
+| B. 1.                                                       | Software Customization and Maintenance Including                                                                                                      |                 | 50.60      |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Page 2 of 4
+# Page 3
+Government Decision No: Narrow - 0624 / P.No.258 / P.S.-2, February 14, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Mobile Apps                             |
+| B. 1.                                   | Student Life Cycle Mangement (SLCMS) Software Support and Upgradation, Configuration                                                                     |
+| B. 1. 2.                                | SLCMS Mobile Application Development, Integration                                                                                                        |
+| B. 2.                                   | Safe to Cost Certification                                                                                                                               |        | 3.00  |
+| B. 3.                                   | Project Adminstration Cost @ CDAC                                                                                                                        |        | 22.00 |
+| B. 4.                                   | Data Center Hosting, Platform Management and EDB Support Subscriptions.                                                                                  |        | 20.93 |
+| B. 5.                                   | One SLCMS Implementer at DMER (@0 .75 lcs / month)                                                                                                       |        | 9.90  |
+| B. 6.                                   | Project overhead cost (10% of A.1)                                                                                                                       |        | 5.06  |
+| B. 7.                                   | Operational Support Charges of New Students Registration on SLCMS System (7091 seats in various courses @ Rs.300 / - per student of 65 Medical Colleges) |        | 21.27 |
+| Total OPEX Cost (Exclusive of GST)      |                                                                                                                                                          | 132.77 |
+| Total (CAPEX + OPEX) (Exclusive of GST) | 382.34                                                                                                                                                   |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Pilot project at Government Medical College, Sindhudurg under this project.
+project) will be implemented.
+3. The cost of the project will be met from the funds available in the headings given below.
+to be divided.
+Demand No.S-01
+2210 - Medical Services and Public Health
+01 - Civil Health Services - Scheme under the State Scheme of Typhoid Medicine
+(00) (09) - Healthcare in Medical Colleges and Allied Hospitals
+30 - Other Contractual Services (2210 D 962)
+Government Decisions / Orders regarding the project issued separately from time to time as required.
+will be done.
+5. Government Decision Department of Finance, Government Decision No. 2013 / Q. 30/2013 Exchange,
+Part II, dated 17th April, 2015 Financial Rights Manual 1978 Part I Sub-Division
+The serial number in three is paragraph no. 4. 27 (2) Provisions to the Administrative Divisions under "A"
+is being issued subject to the authority exercised.
+Page 3 of 4
+# Page 4
+Government Decision No: Narrow - 0624 / P.No.258 / P.S.-2, February 14, 2025
+6. This Government Decision is available on the Government of Maharashtra website www.maharashtra.gov.in.
