@@ -1,0 +1,151 @@
+# Page 1
+under a single-window interface
+The only one that is useful for farmers
+Quick to create a mobile app
+Regarding the formation of the Working Group -
+Government of Maharashtra
+Government Decision Number: Narrow-2025 / Q. 15/2 -A,
+Department of Agriculture, Animal Husbandry, Dairying Development and Fisheries,
+Martyr Rajguru Chowk, Madam Cama Marg,
+Mantralaya, Mumbai - 400 032.
+Date: February 28, 2025
+Read: Department of Agriculture and Padum, Government Decision Serial No. January 31, 2025.
+The Proposal: -
+of this department. By Department of Agriculture vide Government Decision dated 31st January, 2025
+For "Agricultural Information" based on digital technology for the purpose of providing advisory services to farmers.
+Single Window Interface (SWI) for farmers
+Nanaji Deshmukh, Project Director, Krishi Sanjeevani for the purpose of creating a "Mobile App."
+The committee was constituted under the chairmanship of Project, Mumbai. the said Committee
+A report has been submitted in this regard. The report has been accepted.
+According to the recommendation of the report, the state has a large number of small and marginal
+To reduce farm risk to landholders as well as multistakeholder and horticultural farmers.
+Continuous access to a wide variety of updated information in an easy-to-understand format
+need to be given. The digital technology that is now available is better for farmers.
+For "farmers" to meet a wide variety of needs required for farming.
+A single mobile app "needs to be developed as soon as possible." This application's
+First Version to be launched by 1st April and inaugurated by dignitaries
+is planned to do. Data collection, classification, verification, IT development,
+Applications such as TechStag, etc. need to be done on a war footing. Complete this task on time.
+Development of Agriculture Commissionerate and all four Agricultural Universities Phase-I (by April 2025)
+# Page 2
+Government Decision Number: Narrow-2025 / Q. No. 15/2 - A Date 28.02.2025
+and will participate in Development Phase 2 (1 May to December 2025). In this regard, the Department of Agriculture
+And since there is a need to form a rapid action group in coordination with the Agricultural University,
+Decisions are being made as follows.
+The Government's Decisions:
+A large number of small and marginal landowners as well as multi-landowners in the state and
+A variety of updates for horticultural farmers to reduce farm risks
+to make it continuously available in an easily understandable form and currently available
+Due to digital technology, farmers need a variety of inputs to do better farming.
+To create a "single mobile app for farmers" to cater to the needs of the variety.
+Various Rapid Action Groups are being set up as follows.
+1) Working Group of Coordinators and Liaison Officers of the Department of Agriculture and Agricultural University
+------------------------------------------------------------------------------------------------------------------------------------------
+| A. No. | Officer's designation                       | Office                                                                          |
+| 1.     | Joint Director of Agriculture (Extension 2) | Commissioner of Agriculture, Pune                                               |
+| 2.     | the Additional Project Director             | Balasaheb Thackeray Agribusiness and Rural Transformation (SMART) Project, Pune |
+| 3.     | Agricultural Scientist                      | Nanaji Deshmukh Krishi Sanjeevani Project, Mumbai                               |
+| 4.     | Director, Extension and Education           | Mahatma Phule Agricultural University, Rahuri G. Ahilyanagar                    |
+| 5.     | Director, Extension and Education           | Vasantrao Naik Marathwada Agricultural University, Parbhani                     |
+| 6.     | Director, Extension and Education           | Dr. Punjabrao Deshmukh Agricultural University, Akola                           |
+| 7.     | Director, Extension and Education           | Dr. Balasaheb Sawant Konkan Agricultural University, Dapoli District Ratnagiri  |
+------------------------------------------------------------------------------------------------------------------------------------------
+Responsibilities of the Working Group
+1. Collection of information from the concerned department / university.
+In the process of development and development under the department and under the university.
+Designed for a variety of IT platforms and mobile applications
+# Page 3
+Government Decision Number: Narrow-2025 / Q. No. 15/2 - A Date 28.02.2025
+Master Data Files to Nanaji Deshmukh Krishi Sanjeevani Project API or other
+to be shared via media.
+3. To be developed afresh to provide accurate information to the farmers.
+The mobile app and the central government's VISTAAR network are both flawless and
+Based on Standard Operating Procedures (SOPs)
+It is essential to be. Hence, it will be made available on the Farmers Mobile App.
+Make sure the information is accurate.
+4. Department of Agriculture, Agricultural Universities, Nanaji Deshmukh Krishi Sanjeevani Project and Balasaheb
+Thackeray Agribusiness and Rural Transformation (SMART) Project, all of these mechanisms
+Developed apps and portals should be up and running, and their API should be SWI.
+To ensure that they are integrated.
+Coordinate with the 5.इतर working groups and quickly complete the tasks assigned to them.
+Follow-up and support as needed for demolition.
+AI / ML responses generated by 6.VISTAAR or other AI / ML
+(Responses) Re-checking and feedback to reduce errors
+(Feedback) as well as suggest improvements
+7. Project Director, Nanaji Deshmukh Krishi Sanjeevani Project from time to time.
+To act according to the instructions
+2) Working groups to coordinate with agricultural universities.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| A. No. | The name of the officer | Designation                                                         | Coordinating University                                          |
+| 1.     | Dr. Tukaram Mote        | Divisional Joint Director of Agriculture, Chhatrapati Sambhajinagar | General coordination                                             |
+| 2.     | Mr. Vijay Raut          | Superintendent Agriculture Officer, V.C.S., Pune                    | Maharashtra Council of Agricultural Education and Research, Pune |
+| 3.     | Mr. Praveen Gosavi      | Sub-Divisional Agriculture Officer, Sreerampur Dist. Ahilyanagar    | Mahatma Phule Agricultural University, Rahuri                    |
+| 4.     | Mr. Daulat Chauhan      | Project Director (Spirit), Parbhani                                 | Vasantrao Naik Marathwada Agricultural University, Parbhani      |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Page 4
+Government Decision Number: Narrow-2025 / Q. No. 15/2 - A Date 28.02.2025
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+| 5. | Dr. Muralidhar Ingale   | Project Director (Spirit), Akola                       | Dr. Punjabrao Deshmukh Agricultural University, Akola       |
+| 6. | Mr. Shivakumar Sadafule | District Superintendent Agriculture Officer, Ratnagiri | Dr. Balasaheb Sawant Konkan Agricultural University, Dapoli |
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+Responsibilities of the Working Group
+Effective with the Maharashtra Council of Agricultural Education and Research as well as the designated university.
+Technical information prepared for the farmers by the universities in coordination such as:
+Published farmers' dailies, recommendations of Joint Research Committee, various
+Collection of material like farmers information booklet of crops etc. in soft copy.
+Project Director, Nanaji, as the recommendations of the Agricultural University are updated.
+To send those recommendations to Deshmukh Krishi Sanjeevani Project.
+3. "Technical Material Verification" for further classification of compiled materials and
+Sending the classification to the "working group."
+4. On progress of work in coordination with Liaison Officers appointed for Agriculture Department.
+to be informed.
+AI / ML responses generated by 5.VISTAAR or other AI / ML
+Re-checking and feedback to reduce errors as well.
+Suggesting improvements.
+6. Project Director, Nanaji Deshmukh Krishi Sanjeevani Project from time to time.
+To act according to the instructions
+3) Technical Materials Verification and Classification Working Group
+---------------------------------------------------------------------------------------------------------------------
+| A. No. | Name and designation of the officer                                  | Office                            |
+| 1.     | Mr. Ravi Shankar Chalavade, Joint Director of Agriculture (Planning) | Agriculture Commissionerate, Pune |
+| 2.     | Mrs. Aruna Lande, Deputy Director, Information                       | Agriculture Commissionerate, Pune |
+---------------------------------------------------------------------------------------------------------------------
+# Page 5
+Government Decision Number: Narrow-2025 / Q. No. 15/2 - A Date 28.02.2025
+--------------------------------------------------------------------------------------------------------------------------------------
+| 3. | Smt. Poonam Khatavkar, Editor, Farmers Magazine                      | Agriculture Commissionerate, Pune                      |
+| 4. | Dr. Prem Singh Marg, Deputy Director                                 | Project Director (Spirit), Akola                       |
+| 5. | Smt. Vaishali Athare, Technical Officer, Soil and Water Conservation | Agriculture Commissionerate, Pune                      |
+| 6. | Mr. Rajesh Chavan, Technical Officer, Horticulture                   | Agriculture Commissionerate, Pune                      |
+| 7. | Mr. Rahul Solankar, Technical Officer                                | District Superintendent Agriculture Officer, Satara    |
+| 8. | Mr. Nityanand Bhosale, Technical Officer                             | District Superintendent Agriculture Officer, Ratnagiri |
+| 9. | Mrs. Pooja Thete, Technical Officer                                  | District Superintendent Agriculture Officer, Parbhani  |
+--------------------------------------------------------------------------------------------------------------------------------------
+Responsibilities of the Working Group
+Technical materials sent by the Agricultural University Coordination Working Group such as agriculture
+Farmer's Daily published by Universities, Joint Research Committee
+Recommendations for various crops published by the Department of Agriculture as well as the universities.
+Farmers Information Manual, etc., by scanning the material and classifying it properly.
+to do.
+2. Digital libraries / resources of Agricultural Universities / Agricultural Research Institutes.
+Classification of Materials / Reference Materials / Apps and Portals.
+3. Keeping in mind the time constraints, the members of the working group divide the material received.
+It should begin its verification work immediately and by March 12, it should be accurate, certified.
+By ensuring that the certificate is validated and up-to-date
+Project Director with certificate, Nanaji Deshmukh Krishi Sanjeevani Project
+be submitted to them.
+AI / ML responses generated by 4.VISTAAR or other AI / ML
+Re-checking and feedback to reduce errors as well.
+Suggesting improvements.
+# Page 6
+Government Decision Number: Narrow-2025 / Q. No. 15/2 - A Date 28.02.2025
+Project Director, Nanaji Deshmukh Krishi Sanjeevani Project from time to time
+to act according to the instructions.
+2. All the members of the above working group shall perform the duties assigned to them on a regular basis.
+Duties have to be performed with care.
+3. Considering the seriousness of the work, the responsibilities assigned to these working groups.
+Compliance should be strictly and in a time-bound manner by all members. Project Director, Nanaji Deshmukh
+Krishi Sanjivani Project carried out the work of all the working groups weekly as well as as as per the requirement.
+Review from time to time. Also, report the progress of the work to the Principal Secretary (Agriculture).
+4. This Government Decision is available on the website of the Government of Maharashtra www.maharashtra.gov.in.
+# Page 7
