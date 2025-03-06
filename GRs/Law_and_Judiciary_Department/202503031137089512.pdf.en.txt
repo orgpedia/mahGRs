@@ -1,0 +1,79 @@
+# Page 1
+Scanning of the High Court of Judicature and
+SAN storage for digitization project
+and storage along with server purchases.
+Rs. 95,80,000 - For an offer of this amount
+Administrative for fiscal year 2025-26
+regarding the approval.
+Government of Maharashtra
+Department of Law and Justice,
+Government Decision No: Narrow-2024 / Q. No.57 / Q.7
+Madam Cama Marg, Martyrdom Rajguru Chowk,
+Mantralaya, Mumbai 400 032.
+Date: 03rd March, 2025.
+Reference: - 1) Central Project Coordinator, E-Courts Project, High Court, Appellate Branch, Mumbai
+His letter No. com / Sec / 196/2024, date 03/10/2024.
+2) Project Implementation Committee of the Department dated 28/02/2025
+History of the meeting.
+The Proposal: -
+Central Project Coordinator, E-Courts Project, High Court, Appellate Branch, Mumbai
+Reference No. In a letter dated October 3, 2024, dated 01. the high
+SAN storage and storage along with scanning and digitization for the court.
+A proposal to purchase with server has been submitted to the government. The proposal is for information technology
+The feedback of the Directorate has been taken and Reference No. Departmental Projects under 2.
+The proposal was taken up at the meeting of the Implementation Committee dated 28/02/2025.
+Action as per the feedback given by the Director, Directorate of Information Technology
+Expenditure under the proposal in the financial year 2025-26, subject to the condition of doing so.
+Subject to the condition that the proposal be made at a meeting for the financial year 2025-26
+It was approved. According to Ma. Scanning for the High Court and
+To purchase SAN storage and storage along with the server for digitization.
+Administrative approval of the proposal was under the consideration of the government.
+# Page 2
+Government Decision No: Narrow-2024 / Q. No.57 / Q.7
+The Government's Decisions:
+SAN for High Court Scanning and Digitization Project
+Storage and Storage along with Server Rs. 95,80,000 - (letter Rs
+ninety-five lakh eighty thousand only) for the financial year 2025-26.
+Administrative approval is being granted.
+The details of the purchase of SAN storage and storage along with server are as follows:
+It is: -
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Sr. No.                   |               | Description |             | Quantity       |   | Unit Cost      |                | Total Amount |
+| including GST             | including GST |
+| 1.                        |               |             | SAN Storage |                |   |                | Rs.25,00,000/- |              | Rs.25,00,000/- |
+| Storage along with Server |               |             |             | Rs.70,80,000/- |   | Rs.70,80,000/- |
+|                           |
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Storage along with server Rs.70, 80,000 / -. Rs.70, 80,000 / -
+The purchase was made by the Director, Directorate of Information Technology, Mumbai.
+This should be done subject to the fulfillment of the following comments.
+1. storage capacity --NLsas has been proposed with can give space but with reduced read write speed that can effect performance.may be checked.
+2. Raid has been specified as 1,5,6,10, storage can have any one of them, needs to be specific.
+3. The compression parameter need to be mentioned to ensure proper storage management with dry and wet data -continuous and non- continuous usage data segregation.
+4. Gartner is a restrictive clause, may be looked into.
+5. server and storage may not be from same oem.
+6. RAck Server is 8 core 64 gb RAM DDR4 upgradable to 1 TB, upgrade may be checked.
+7. storage on server is 240 GB Sata, please check this as can cause write issue and performance issues.
+8. why is monitor required in a server.
+9. OS 15 not specified however VMware is specified, please check.
+certification requirements need to be made clear.
+10. OEM should be from IDC top 3 1s a restrictive clause, may be checked.
+Page 2 of 4
+# Page 3
+Government Decision No: Narrow-2024 / Q. No.57 / Q.7
+3. The date of purchase of this computer material is the date of the Department of Industry, Energy and Labour.
+As per the Government Decision dated 24.08.2017 and 08.12.2017, the Government will be able to access the GeM Portal from the GeM Portal.
+It should be done in the prescribed manner.
+4. Subsequent expenditure "Demand No. J-2, 2052 Secretariat General Service,
+(00) Department of Law & Justice, (00) (02) Provision for implementation of e-Governance Project
+(2052 5116) under the heading "17 Computer Expenditure."
+to be met from the available grants for the financial year.
+5. The said Government Decision Government Decision No. 2013 / P.No.30 /
+Financial Rights Manual under the 2013 / Regulations, Part-II, dated 17th April, 2015
+1978 Part-I Sub-Division-II No. 27 (a) Rule No. Administrative under 76
+As per the powers conferred on the departments as well as the projects of the department
+Given at the meeting of the Implementation Committee dated 28.02.2025
+Is being issued as per approval.
+Orders regarding funds will be issued separately accordingly.
+7. The decision of the Government of Maharashtra shall be made by www.maharashtra.gov.in.
+# Page 4
