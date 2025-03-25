@@ -1,0 +1,42 @@
+# Page 1
+Maharashtra State Road Development Corporation
+Sales Tax Offices by the Corporation
+Construction of buildings under the programme
+About opening a new article title.
+Government of Maharashtra
+the Finance Department
+Government Decision Number: Narrow-1025 / P.No.32 / V.P.4
+Martyr Rajguru Chowk, Madam Cama Marg,
+Mantralaya, Mumbai 400032
+Date: March 21, 2025.
+Read: Letter from the Accountant General, Accounts & Licensure-1, Mumbai No. TM / CH- / Budget 1 Scrutiny / 2024-25/200, date 15.05.2024.
+The Proposal:
+According to the reference letter of the Accountant General, Accounts & Licensure-1, Mumbai, Demand No. The G-8,
+Main article: Sales tax offices of Maharashtra State Road Development Corporation under head - 4070
+Construction of Buildings (4070 0249) 800-Other Expenditure Subordinate to the Head of Accounts under the Programme
+The government was considering implementing a new head of accounts by amending the headings.
+Accordingly, the government has taken the following decision.
+The government's decision:
+Construction of Sales Tax Office Building by Maharashtra State Road Development Corporation.
+The government is approving the opening of the next new head of accounts for the scheme.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Title                   | Marathi                                                                                               | English                                                                                              |
+| Demand No.              | The G-8                                                                                               | The G-8                                                                                              |
+| Main article title      | 4059 - Capital expenditure on public works                                                            | 4059 - Capital Outlay on Public Works                                                                |
+| Sub Main Account Header | 1 - Office buildings.                                                                                 | 1 - Office Buildings                                                                                 |
+| Subordinate Top         | 051 - Construction                                                                                    | 051 - Construction                                                                                   |
+| The top of the group    | 00                                                                                                    | 00                                                                                                   |
+| Top of the sub-group    | (00) (01) Construction of Sales Tax Office Building by Maharashtra State Road Development Corporation | (00) (01) Construction of Sales Tax Buildings through Maharashtra State Road Development Corporation |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Page 2
+Government Decision Number: Narrow-1025 / P.No.32 / V.P.4
+---------------------------------------------------------------------
+| Objective           | 53 - Major constructions | 53 - Mojor Works |
+| Mandatory / Program | The programme            | Scheme           |
+| Computer Indicators | 40593252                 | 40593252         |
+---------------------------------------------------------------------
+Principal Accountant General (Accounts & Accounts) - 1 Office, Maharashtra, Mumbai
+Their Informal Reference No.B.V. / Cha-1 / Finance Department / UOR- 298/2024-25 2231,
+d. 05.02.2025, Informal Reference No. 377 / c. 1472, d. 22.11.2024 and
+Expenditure of the Finance Department is being released with the concurrence of the Finance Executive.
+3. This Government Decision is available on the Government of Maharashtra website www.maharashtra.gov.in.
