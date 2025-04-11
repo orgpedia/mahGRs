@@ -1,0 +1,66 @@
+# Page 1
+Service system data update
+Suggestions for...
+Government of Maharashtra
+the Finance Department
+Government Circular No.Synchronous-2022 / Q.No.29 / Treasury No.4
+3rd Floor, Hall No.339, Madame Cama Marg
+Martyr Rajguru Chowk, Mumbai 400 032
+Date: 9th April, 2025
+The Proposal -
+At present, the monthly salary of state government official employees from all government offices is
+A service system is being used for the processing and maintenance of the beads. the Government
+The need to integrate service delivery systems with other government systems for operations in the future
+can be created. Hence, the service system statement with respect to all government officers / employees
+The data must be comprehensive and up-to-date. Accordingly, the following seven points are known:
+The issue of updating was under the consideration of the government.
+1. mobile phone number.
+2) Marital status.
+3.आईच name
+Father's name 4.
+5. Spouse name
+6. Address
+PIN code 7.
+Government Circular: -
+Pursuant to the said proposal, all the Drawing and Disbursing Officers, Subsidiary and Accounts Officers, Mumbai,
+All District Treasury Officers and all Deputy Treasury Officers are advised to:
+There are.
+1. Provide facilities for recording information about the above mentioned aspects of the service system at present.
+has been provided. the relevant withdrawals without the information of these matters being recorded in the system, and
+Delivery officers may not complete new employee information.
+Officers presently working in the office of the Drawing and Disbursing Officer /
+The information of the said matters of the employees is incomplete, this information is given to the extraction and distribution officers.
+Registration will be mandatory.
+# Page 2
+Government Circular No: Sink-2022 / P.No.29 / Treasury Wan- ¥
+3. Ud Drawing and Disbursing Officers to provide the said information within the prescribed time i.e. April, 2024
+It is mandatory to log into the system before preparing a monthly salary payment. Drawing and Distribution
+The authorities are not fully aware of this information, but rather of the extraction and distribution authorities.
+Monthly salary payments for the month of April, 2025 payable month of May, 2025 of the office, as the case may be, and
+Accepted at Accounts Office, Mumbai or District Treasury Office or Sub Treasury Office
+Won't go.
+The following is the way to update the information on the above seven items in the service system:
+Do it.
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+| SR No.      | Fj eld Name    | Utility Name to update details | Path                                                                  | Login Level |
+| 7           | Mobile Number  | Update Mobile Number           | Worklist > Payroll >Update Employee Details >Update Mobile Number     | DDO AST     |
+| 2.          | Marital Status | Change Other Details           | Worklist > Payroll > Changes > hange Other Details > Personal Details | DDO_AST     |
+| 3.          | Mother Name    |
+| Father Name |
+| 5.          | Spouse Name    |
+| oo          |
+| PIN Code    |
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+Y, first update this information in the DDO _ AST login and approve it in the DDO login using the Worklist > Payroll > Changes > Drafts of Changes path.
+The report will be processed from the service system after the information is updated as mentioned above by the Drawing and Distributing Officer. The Drawing and Disbursing Officer shall submit a copy of the said report along with the monthly salary payment for the month of April, 2025 and the monthly salary payment for the month of May, 2025 to the Subordinate and Accounts Office, Mumbai or District Treasury Office or Sub Treasury Office, as the case may be.
+In case of non-completion of the said procedure, the monthly salary payment for the month of May, 2025 due VANS, 2025 will remain as it is.
+Subsidiary and Accounts Office, Mumbai or District Treasury Office or Sub Treasury Office
+All procurement and distribution officers should take serious note that it will not be accepted here.
+Page 2 of 4
+# Page 3
+Government Circular No.: Nos.2002 / Q.29 / Treasury No.4
+8. Due to failure to update the information of the above seven aspects in the service system, Mah
+Withdrawal in case of delay in payment of monthly salary for the month of April, 2025 to May, 2025
+The disbursing officer will be personally responsible.
+This Government Circular is available on the website of the Government of Maharashtra www.maharashtra.gov.in.
+# Page 4
