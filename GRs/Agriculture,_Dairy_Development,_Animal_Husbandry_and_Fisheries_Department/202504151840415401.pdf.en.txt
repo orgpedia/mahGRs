@@ -1,0 +1,105 @@
+# Page 1
+About developing Farmer Field School (FFS) App and Learning Management System (LMS) App:
+Government of Maharashtra
+Government Decision Number: PATGA - 98094/3/2024 - MAG-CA (€-1065794) Department of Agriculture, Animal Husbandry, Dairying Development and Fisheries,
+Martyr Rajguru Chowk, Madam Cama Marg,
+Mantralaya, Mumbai - 400 032.
+Date: 15th April, 2025
+Introduction: In order to increase the effectiveness of farmer extension services and disseminate agricultural knowledge to farmers seamlessly, it is necessary to develop comprehensive Farmer Field School (FFS) and Learning Management System (LMS) applications. The mobile app will be equipped with necessary facilities like Decision Support Systems (DSS) to help farmers take decisions on crop management and use of machinery, Integrated Feedback System to track farmers' progress, and Standard Operating Procedures (SOPs) for each crop, etc., and will continue to serve as an important platform to improve the learning experience of farmers. In addition, the app will disseminate educational resources related to soil health, water management, and animal husbandry through digital farms, water schools, and animal schools.
+The app will be integrated with existing structures such as the VISTAAR network, Artificial Intelligence / Mechanical Education to gain more knowledge at the individual level. \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ Technology will be used. The comprehensive features of the app will include Content Management, Admin Roles, Learner Enrollment, Testing, and Certification Systems with an aim to increase farmer participation and Hired. This ATER will not only help in crop production but also in post-harvest processing, thereby helping in value chain development. Accordingly, the Government is taking the following decisions regarding approval for development of a comprehensive Farming Schools and Education Management System (FFS & LMS) application which was under consideration of the Government.
+Government Decision: In order to enhance the effectiveness of Farmer Extension Services and to disseminate agricultural knowledge to the farmers seamlessly, it is being approved to develop an application called Comprehensive Farming School and Education Management System (FFS & LMS).
+# Page 2
+2. Outline of the app:
+The app will be designed as follows: - Each WELL school visit and each crop will have a Decision Support System (DSS) for the extension system staff.
+r) Feedback system for farmers, which will include education metrics and community content creation so that each and every Meal can record the delivered education and its usefulness.
+By instructions on the Standard Operating Procedures (SOPs) for each crop during the entire cropping season (10. 051 $) to help farmers.
+It will be a medium to broadcast up digital farms, digital water schools, and digital animal schools.
+4) The learning management system (LMS) will include facilities such as end-to-end content management, admin roles, enrolment modules, assessment and testing, certification standards and communication tools, feedback, and online certification for successful completion of training.
+The app will be integrated with the Farmer's App and the VISTAAR network to take advantage of the Al / ML in the VISTAAR network.
+The app will be a Decision Support System (DSS) for field systems.
+Also, there will be a system of providing education materials and certification in value chains, including agro-processing and marketing.
+Time limit for developing the App: The Farmer's App has been developed by Nanaji Deshmukh Krishi Sanjeevani Project and needs to be modified as mentioned in the said paragraph 2. Similarly, the Project Management Cell of the project is working with the Central Government along with their other partners to develop Farmer's App and VISTAAR network.
+1) The Shoti School (FFS) App developed by this project can be modified as per the above mentioned specifications and accordingly the first phase of FFS & LMS App will be required to be ready by May 2025, for the first Shoti School sessions.
+The Learning Management System (LMS) will be required to be operational by September 2025.
+4. Learning Content Requirement: To make the app comprehensive, the following items will be part of the STAT.
+# Page 3
+1)] Peak-wise ratio of activity for each visit of extension staff during the school year.
+2) Proportionation practices to help the farmer make decisions throughout the crop season.
+3) Video and audio content on topics such as crop health, pest and disease management, post-harvest management, natural resource management, agricultural technology, HY consultancy, etc.
+4) All materials required for a learning management system (LMS) 5. Sources of materials:
+Possible sources for the above material would be as follows:
+2. Standard Operating Procedure for Crop Seasons Agricultural Universities and Agriculture Commissionerates / Water
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|    |
+| 2. | Proportionation Methodology for Crop Seasons | Agricultural Universities and Agriculture Commissionerate / Pani Foundation |
+| 3. |                                              |  Value chain material after harvesting.                                     | Agriculture Commissionerates, Smart Projects and Magnet / Agricultural Universities  |
+| 4. |                                              |  Video and audio content (current)                                          | Agriculture Commissionerate / AS.PUY. / Smart / Magnet / Paani Foundation / Mahabeez |
+| 5. |                                              |  Video and audio content (future)                                           |                                                                                      |  Vanamati / Smart / Agriculture Commissionerate / N.D.C.N.P र./मह Biz |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+6. Content Management Committee: The Content Management Committee will be headed by the moderator, Vanamati as follows.
+The committee will guide the immediate receipt of this pre-existing material and the creation of future material.
+--------------------------------------------------------------------------------
+| Director, Vanamati Nagpur                                                    |
+| Director General, Maharashtra Council of Agricultural Education and Research |
+| Director General, Maharashtra State Seeds Corporation Limited. (Mahaviz)     |
+| Director, (Extension and Education), All State Agricultural Universities     |
+| Director (Extension Training), Agriculture Commissionerate                   |
+| Additional Project Director, SMART                                           |
+--------------------------------------------------------------------------------
+The said committee will be responsible for ensuring that all required content, including audio-visual content, is certified and the app is created within the stipulated time.
+Required resources: The required manpower can be utilised for improving the App for Tree and Learning Management System: 1) Developers for App Improvement.
+# Page 4
+2) Collection and monitoring of content by subject matter experts (Curation Context and
+Collation operators, Vanamati, will determine the number of manpower required to improve the app and make their services available through the prescribed process.
+8. Financial Provision: The cost of upgrading the Agriculture School and Education Management System App will be met from the financial provision for the sub-units DLI-2 and DLR-2.9 under the AW component of the Smart Project.
+Responsibilities: The various stakeholders in the process will have the following responsibilities: a. Director, Forestry: 1) To carry out the service through the prescribed process taking into account the requirement of the manpower service.
+2) Creation of an improved app within the stipulated time frame using the funds received through the smart project.
+3) As head of the content committee, make the content needed for the app available immediately.
+Project Director, Nanaji Deshmukh Krishi Sanjeevani Project: 1) To provide and help improve the existing Shoti School App.
+2) Provide IT infrastructure and manpower support of Nanaji Deshmukh Krishi Sanjeevani Project where possible.
+Commissioner, Agriculture: 1) Certification of materials stored for both extension staff and contractors.
+2) Where there is Shakya. and providing technical support.
+Director (Extension and Education), Agricultural Universities: To make available the certified material immediately for operationalization of the App before Kharif 2025.
+Director General, Maharashtra Council of Agricultural Education and Research (MCAER): Effective coordination with agricultural universities.
+Director General, Maharashtra State Seeds Corporation Limited. (Mahavij): To make available the certified material regarding B-seeds immediately.
+# Page 5
+10. Steering Committee: The following Steering Committee shall regularly review the progress in this regard.
+Principal Secretary (Agriculture)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| 1.                                                                                       | Principal Secretary (Agriculture)                                                                    |
+| 2.                                                                                       | Project Director, Nanaji Deshmukh Krishi Sanjeevani Project, Mumbai                                  | The member's                                                              |
+| $                                                                                        |
+| .                                                                                        | Project Director, Ma. Balasaheb Thackeray Agribusiness and Rural Transformation Smart) Project, Pune | The member's                                                              |
+| 5.                                                                                       |
+| 6.                                                                                       | Director General, Maharashtra Council of Agricultural Education and Research                         |
+| 7.                                                                                       |                                                                                                      |  Director General, Maharashtra State Seeds Corporation Limited. (Mahaviz) |
+| Deputy Secretary (e-Governance), Department of Agriculture and Padum, Mantralaya, Mumbai | The member's                                                                                         |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+11. The Government Decision "is available on the website of the Government of Maharashtra www.manharasnhtra.gov.in with the index 202504151840415401. The government decision is being digitally signed and authenticated.
+By order and by name of the Governor of Maharashtra,
+Digitally signed by 5 1b59e81-Bea 21052881-8ea7-4da3-9ce0 f3fd7635c54b
+7 - 4dia3 - 9Ce0 = cn - sibsvee 1-80 a7 - ada3 - 9E0 202504
+3076352546 date.
+(Vikas Chandra Rastogi) Principal Secretary (Agriculture)
+Pr. 1. Ma. Secretary to the Governor, Raj Bhavan, Mumbai.
+2. Ma. Additional Chief Secretary / Principal Secretary / Secretary to the Chief Minister, Mantralaya, Mumbai.
+3. Ma. Leader of the Opposition, Legislative Council, Maharashtra Legislative Assembly Secretariat, Vidhan Bhavan, Mumbai.
+4. Ma. Private Secretary to the Deputy Chief Minister (Finance & Planning), Mantralaya, Mumbai.
+5. Ma. Private Secretary to the Deputy Chief Minister (Urban Development and Housing), Mantralaya, Mumbai.
+6. Ma. Private Secretary to the Minister (Agriculture), Mantralaya, Mumbai.
+7. Ma. Private Secretary to the Minister (Horticulture), Mantralaya, Mumbai.
+8. all of them. Private Secretary to the Minister, Mantralaya, Mumbai.
+9. Ma. Private Secretary to the Minister of State (Agriculture), Mantralaya, Mumbai.
+Private Secretary to the Hon'ble Minister of State (Finance), Mantralaya, Mumbai.
+Private Secretary to the Hon'ble Minister of State, Mantralaya, Mumbai.
+Chief Secretary, State of Maharashtra, Mumbai 13.सर Additional Chief Secretary / Principal Secretary / Secretary, All Ministries, Mumbai.
+# Page 6
+14. Project Vash, Nanaji Deshmukh Krishi Sanjeevani Project, Mumbai.
+15.आय Kutt (Agriculture), Agriculture Commissionerate, Pune.
+Director, Vanamati, Nagpur 17. Project Director, Balasaheb Thackeray Maharashtra State Hy Business and Rural Transformation Project, (Smart Pune.
+18. Director General, Maharashtra Council of Agricultural Education and Research, Pune 19. Director General, Maharashtra State Seeds Corporation Limited (MAHABIJ), Akola.
+20. Vice-Chancellor, Mahatma Phule Agricultural University / Vasantrao Naik Marathwada Agricultural University / Dr.
+Punjabrao Deshmukh Agricultural University, Akola / Dr. Balasaheb Sawant Konkan Agricultural University, Dapoli
+21. Director (Extension Training), Agriculture Commissionerate, M.R., Pune 22.सर Deputy Secretary / Under Secretary, Department of Agriculture, Mantralaya, Mumbai.
+Personal Assistant to the Principal Secretary (Agriculture), Department of Agriculture, Mantralaya, Mumbai.
+24. Selections (c. 8-O)
