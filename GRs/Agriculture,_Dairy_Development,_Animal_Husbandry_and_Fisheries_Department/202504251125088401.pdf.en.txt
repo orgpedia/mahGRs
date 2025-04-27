@@ -1,0 +1,87 @@
+# Page 1
+Crops using satellite imagery in the year 2025-26
+Generalized variance to assess the situation
+Plant Directory (NDVI) - Normalized Difference
+About using the Vegetation Index)...
+Government of Maharashtra
+Department of Agriculture, Animal Husbandry, Dairying Development and Fisheries
+Government Decision Number: Krivapadum 21011/1/2025 - MAG-10A- (Comp.No: 930450)
+Martyr Rajguru Chowk, Madam Cama Road,
+Mantralaya Extension, Mumbai-400 032
+Date: 25th April, 2025
+Read-
+1.महस Department of Forest and Climate Change, Government Decision No. CLS-2023 / Q. 52 / M-3, D. 22.06.2023.
+2.महस Department of Forest and Climate Change, Government Decision No.CLS-2023 / Q.No.286- (I) / M-3, D. 02.08.2024.
+3.महस Letter from the Department of Forest and Climate Change No. CLS-2023 / Q. 52 / M-3, D. 01.01.2025.
+4. Letter from the Commissionerate of Agriculture C. J. Cr. A / Wipro-1 / N. A. / Q. 18 / NDVI-Proposal / R-52,
+d. 21.03.2025
+Department of Agriculture and Padum, Letter No. Meeting-0325 / Q. 75/14 - A, D. In line with the e-governance programme 2024-25 received under 28.03.2025, the Projects held on 25.03.2025
+History of the meeting of the Implementation Committee
+The Proposal: -
+Read No. 2 here. The rule of 2.82024 d. Other than malpractice from 01.01.2025, other
+The "Generalized Difference Plant Directory" to provide assistance for crop losses caused by natural disasters.
+(Normalized Difference Vegetative Index, NDVI) regarding the application of this criterion and by the Department of Agriculture
+Criteria for the Normalized Difference Vegetative Index (NDVI)
+Instructions have been given to take action to set up an updated system for testing.
+1.2 In this regard, from the point of view of natural disaster surveillance based on this type of technology in the state of Madhya Pradesh.
+The study group constituted to study the methodology to be adopted submitted its report in Kharif.
+NDVI and others (NDWI, VCI, EVI,
+SAVI) for each of the geographical regions of Marathwada, Vidarbha, Western Maharashtra and Khandesh for applying the criteria.
+A pilot project was recommended to be implemented in one district. of the Additional Chief Secretary (Revenue).
+Under the chairmanship of In accordance with the decision taken at the meeting held on 20.12.2024, in the year 2025-26
+Use of generalized differential plant index to assess crop losses using satellite imagery
+About Agrometeorologist, All India Coordinated Agrometeorology Research Project, Vasantrao
+Naik Marathwada Agricultural University, Parbhani Proposal, read above in letter No. 4, Agriculture
+received from the Commissionerate. As per the proposal, the total estimated cost of the project is Rs. 1,00,00, 000 / -
+# Page 2
+Government Decision Number: HATGA - 29099/9/2024 - MAG-40A (Comp.No: 930450)
+Project Implementation Committee organized in connection with e-Governance Programme, Sun 2024-25.
+It has been approved in the meeting on 28.03.2025. Accordingly, the state in the year 2025-26
+Assessment of Crop Damage in Cultivated Areas, Vasantrao Naik Marathwada Agricultural University, Parbhani
+On their part, the NDVI norms were under the consideration of the government.
+The Government's Decisions:
+The All India Coordinated Agricultural Meteorology Research Project, Vasantrao Naik Marathwada Agricultural University, Parbhani in the year 2025-26 is being approved to assess the crop situation in the state using the criteria of Normalized Difference Vegetation Index (NDVI) based on satellite images.
+For this, satellite images of the cultivated area of the state should be taken every 7 days.
+3. To implement the project, the All India Coordinated Agrometeorological Research Project, Vasantrao Naik Marathwada Agricultural University, Parbhani, submitted along with the letter at No. 4, read as follows, has provided for a budget of expenditure (total estimated expenditure of Rs. 1,00,00, 000 / -) being approved:
+------------------------------------------------------------------
+| Component                                 | Cost (INR)/year    |
+| Satellite Data (Premium - Planet Scope)   | 2,00,000/          |
+| Cloud Processing & Infrastructure         | 4,00,000/          |
+| oo "                                      | Infant 15,00,000 - |
+| Dashboard Development                     | 25,00,000/-        |
+| Ground Truth Data Collection & TA         | 3,00,000/ -        |
+| Manpower (Analysts, Developers)           | 25,00,000/-        |
+| Maintenance & Support                     | 3,00,000/          |
+| Contingency & Computers/ Laptop, Printers | 3,00,000/ -        |
+| Total Estimated Cost                      | 1,00,00,000/-      |
+------------------------------------------------------------------
+4. The following will be required to be implemented under the project: - a. To provide information at the district, taluka and show level on crop conditions using NDVI criteria.
+Developing a real-time monitoring dashboard with interactive NDVI analytics.
+9. Developing mobile apps to collect field level information and provide advice to farmers.
+9. Preparation of automatic reports regarding area under cultivation, health of crops and damage assessment.
+Page 2 of 4
+# Page 3
+Government Decision Number: Krivapadum - 21011/1/2025 - MAG-10A (Comp.No: 930450)
+Under the 5.सदर initiative, the All India Coordinated Agrometeorological Research Project, Vasantrao Naik
+Marathwada Agricultural University, Parbhani has compiled all the data (Raw Data and Products), Codes related to NDVI.
+It will be mandatory to make the details available to all departments of the government on demand.
+6. All India Coordinated Agrometeorological Research by Department of Revenue for Agro-Level Reporting.
+Project, providing cadastral level shape file to Vasantrao Naik Marathwada Agricultural University, Parbhani
+The Revenue Department should give instructions to all concerned regarding the payment.
+7. All India Coordinated Agrometeorological Research Project on Agricultural Losses, Vasantrao
+Based on the report received from Naik Marathwada Agricultural University, Parbhani, 2025-26
+The Department of Relief and Rehabilitation should take necessary action regarding the compensation of the farmers / fruit growers.
+8.उपर For the said activity Rs. 1 crore (Rs. 1 crore only) under the following accounts.
+The expenditure will be met from the budgetary provision.
+"Demand No. The D-7
+3451 Secretariat-Financial Services, Schemes under Five Year Plans
+(2) The plan
+(02) (04) Implementation of e-Governance Programme (Agriculture) (3451 2782), 17 Computer Expenditure "
+9. Commissioner (Agriculture), Maharashtra State, Pune to draw and disburse funds from the treasury in this regard.
+Drawing and Disbursement to Controller and Assistant Director (Accounts-1), Agriculture Commissionerate, Pune
+being declared an officer.
+All India Coordinated Agrometeorological Research Project on 10.सदर, Vasantrao Naik Marathwada Agriculture
+Commissioner (Agriculture), Pune is being authorised to enter into a Memorandum of Understanding (MoU) with the University, Parbhani.
+In the present case, the Ayuktas (Agriculture) should take immediate action to enter into a common agreement.
+The decision is available on the Government of Maharashtra's www.maharashtra.gov.in website.
+# Page 4
