@@ -1,0 +1,155 @@
+# Page 1
+every infrastructure development in the state.
+Unique Infrastructure ID for projects
+Infra ID Portal operational
+about doing it.
+Government of Maharashtra
+the Planning Department,
+Government Decision No: Yupasu-2025 / Q.07 / Q.1412
+Madame Cama Road, Hutatma Rajguru Chowk, Mantralaya, Mumbai-400032.
+Date: 9th June, 2025.
+Read: - 1) Government Decision No: Yupasu-2025 / Q. 07 / Ka. 1412, dated: 24th January, 2025.
+The Proposal: -
+Maharashtra is among the leading industrial states in India. The state's industrial
+Facilities in various sectors such as transport, energy, water management, rural and urban development
+There is an extensive network of sprawling infrastructure projects. Each department in the current system
+Being working independently, the same type of facilities for different projects are provided by those departments.
+are created. This results in wastage of government funds. One for all infrastructure projects
+For the purpose of providing reference points. Cabinet meeting held on 2nd January, 2025
+High-level Committee of Secretaries constituted to draft Unique Infrastructure ID
+It was decided to do it. Accordingly, vide Government Decision dated 24th January, 2025,
+A high-level committee was constituted under the chairmanship of the Additional Chief Secretary (Planning).
+The High Level Committee was chaired by the Additional Chief Secretary (Planning) on 4th February, 2025.
+The day A presentation on Unique Infrastructure ID was made to the Cabinet.
+Unique ID initiative for infrastructure projects Infrastructure projects in Maharashtra
+It is a transformational step towards modernizing management. The national and
+The initiative will be further integrated into infrastructure development by integrating it with state-level geo-platforms.
+It will help bring in efficiency, transparency and accountability.
+For each of the infrastructure projects in the state as per the recommendations made by the high-level committee.
+The government was considering creating a portal to implement Unique ID.
+The Government's Decisions:
+There should be proper planning of infrastructure development works in the state, there should be streamlining of all areas.
+Every infrastructure development to ensure balanced development and saving on unnecessary expenditure.
+The Unique ID for projects is being implemented from the date of Government decision.
+# Page 2
+Government Decision No: Yupasu-2025 / Q.07 / Q.1412
+For this, the unique infrastructure portal (Infra ID portal) has been made operational. The first
+In phases, Wardha district will have Rural Development Department, Urban Development Department, Public Works Department,
+Infrastructure of Water Conservation Department, Water Supply and Sanitation Department and Water Resources Department.
+has been included. Unique for infrastructure in all divisions and districts in a phased manner
+ID will be issued, in all remaining divisions and districts and in all local bodies.
+Starting from 1st October, 2025, it will be mandatory to issue unique IDs for infrastructure.
+will remain.
+The objectives of the Unique Infrastructure ID are as follows.
+i. Providing a digital identity to every public infrastructure.
+Inter-departmental and inter-agency coordination for infrastructure development.
+to increase.
+iii. Pradhan Mantri Gati Shakti, Gram for Comprehensive Planning and Implementation
+Maharashtra is far-sighted with national initiatives such as stage shows, roadways, etc.
+Creation of affiliation through deployment centre (MRSAC).
+iv. Maharashtra Remote to raise the level of project monitoring and management
+Existing geo-platforms such as the Sensory Deployment Centre (MRSAC)
+to make use of.
+v. Duplicate in the same field due to lack of coordination between different departments
+Infrastructure is likely to be built. Similar to this type of
+Preventing duplication of facilities.
+vi. Balancing the distribution of funds, avoiding wastage.
+vii. Information on all infrastructure in the state is published on the Public Dashboard.
+In the decision-making process of the government, in the process of formulating policies
+to bring in more transparency.
+The features of the Unique Infrastructure ID are as follows.
+i. Geo-tagging of every public infrastructure / works -
+Rail, National Highways, Maritime, on the Infrastructure Portal.
+State highways, expressways, elevated roads, district roads, rural roads, bridges, buildings, universities, colleges, schools, anganwadis, warehouses, cold storages, ports,
+Airports, jetties, police stations, prisons, factories, lakes / dams / embankments,
+Water sources, catchment areas, sewage treatment plants, solid waste management projects,
+Logistic hubs, power stations, renewable energy sources, power plants,
+Page 2 of 6
+# Page 3
+Government Decision No: Yupasu-2025 / Q.07 / Q.1412
+Solar-powered power sets / pumps, hospitals, primary health centres,
+Tourism facilities, forests / scrub forests, agricultural produce, irrigation projects, public
+Geo-tagging of all public infrastructure like toilets etc.
+The points, lines, will be made into polygons.
+ii. Flagging of same work IDs at the same place -
+The new facility will be listed on the infrastructure portal along with the geographical location of the facility.
+It has to be done with the location and the nature of the facility. When it comes to recording
+Depending on the type and criterion of the facility in the geographical area, the facility
+brought to the notice of the user through the portal, if already available
+will go. So that the need for the facility is relevant before the new facility is set up
+The department can check and avoid duplication of works.
+iii. Transparency
+Various information of all the administrative departments on the infrastructure portal.
+Levels will be available. Therefore, using the portal is information-based.
+Decisions will be made easily and accurately. This makes the government's resources more efficient.
+will be able to use.
+iv. Infrastructure Creation and Maintenance Planning -
+Existing infrastructure will lose its usefulness
+Setting up of new facilities or renovation / renovation of facilities at the site, if any.
+Planning for maintenance can easily be done on the basis of the portal.
+v. Various reports and dashboards -
+Based on the information available on the portal, the user section
+The format of various reports can be determined. There are also many uses of the dashboard.
+Decisions can be made in cases.
+4. Functionality of Unique Infrastructure ID -
+i. Any infrastructure for each department and local body.
+Online unique ID number before administrative approval for the facility
+You have to get it. The facilities of the division / local self-government organization Geo
+The department to be tagged is nominated by
+Officers login credential Maharashtra Remote Sensing Deployment Centre
+(MRSAC) will be made available.
+Page 3 of 6
+# Page 4
+Government Decision No: Yupasu-2025 / Q.07 / Q.1412
+i.The administrative departments / local bodies through their nodal officers should send the list of officers handling the portal to Maharashtra Remote Sensing Application Centre (MRSAC) for obtaining the unique infrastructure wee login credentials. Departments that have already done geo-tagging of their facilities should make the information available to MRSAC through API integration.
+ii, the registration of the new facility after |09 on the infrastructure portal is to be done along with the geographical location of the facility, type of property, estimated cost, estimated time taken to build the facility, and information on the implementation mechanism. The facility will be brought to the notice of the user through the portal if it is already available in that geographical area as per the type and criteria of the facility at the time of registration. Even in such a situation, if new facilities are to be created, the authorities concerned will have to provide appropriate support in this regard.
+iv. A minimum of 13-character ID with alphanumeric characters will be generated through the unique infrastructure portal created by the Maharashtra Remote Sensing Application Centre (MRSAC) for each infrastructure in the state as follows.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| State Code                              | Sanction Year      | Scheme         | District                                            |                                |  Asset Type                        |   |  Sequence No.      |
+| One letter code representing state code | Two Digit code of  |  Sanction Year | Four Letter Code for Scheme/ Programme abbreviation | Three letter District LGD code | Two letter asset type abbreviation |   |  Sequential Sr.No. |
+| S-YY-SSSS-DDD-AA-N M25MMGS490RD1        |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+V. The ID of the facility will be web-based auto-generated through a unique infrastructure portal. When creating a facility ID, it will be tagged Meat and longitude F Geo.
+4. It is mandatory to mention the ID of the infrastructure in the administrative clearance order of every public infrastructure. The Infrastructure ID will be used as the primary reference number after the project receives administrative approval. The Infrastructure ID can be used to search and maintain consistency on all future references, correspondence, reports, and dashboards.
+The details at various stages of infrastructure creation - administrative clearances, work orders, technical clearances, disbursement of funds and completion certificates will be updated on the portal by the concerned authorities from time to time.
+Page 4 of 6
+# Page 5
+Government Decision No: Yupasu-2025 / Q.07 / Q.1412
+viii. Infrastructure ID is mandatory while making facility payments.
+Payment if the Basic ID is not specified in the Administrative Clearance Order
+It will not be paid. For this, the Infrastructure Portal Budget
+It will be connected to the Prediction, Allocation and Monitoring System (BEAMS).
+ix. if the facility does not receive administrative approval after receiving the ID, or
+Reasons for not being able to create the facility for some other reason
+This ID should be deleted from the portal by entering it.
+5. Legacy data -
+The Unique Infrastructure Portal currently operational and the last five
+Records of all infrastructure created in the years (2020 - 2025) up to March, 2026
+to be completed. The Collector, in order to review the record, directed the
+A committee should be appointed under its chairmanship and reviewed every month.
+6. Control system -
+Unique for administrative approval, technical approval as well as payment delivery of the facility.
+Infrastructure ID will be mandatory. Infrastructure on ID Portal
+From approval to implementation and maintenance throughout the duration of the facility.
+Details will be recorded. the Committee headed by the Collector as well as
+The user section can rack up these details at any time. Administrative approval
+Cases of Cancellation of Infrastructure ID for non-receipt or other reasons
+Decision on cancellation of ID submitted to the committee of the concerned Collector
+Take it.
+7. Charges for Infrastructure IDs and manpower-
+The manpower required for the above portal is from Maharashtra Remote Sensing Deployment Centre.
+(MRSAC) should be made available. Maharashtra Remote Sensing Application Centre (MRSAC)
+Rs.100 / - per facility ID to make the portal accessible to them.
+A fee can be charged. For this, they have a separate account in any nationalised bank.
+Open. Through the Planning Department regarding the use of fees deposited in this account.
+Separate guidelines will be provided. This fee may be revised from time to time.
+The Maharashtra Remote Sensing Application Centre (MRSAC) will have the powers.
+8. Information dissemination and training.
+Maharashtra Remote Sensing Application Centre launches Unique Infrastructure Portal
+Create a user manual to use and
+Page 5 of 6
+# Page 6
+Government Decision No: Yupasu-2025 / Q.07 / Q.1412
+Training of officers nominated by administrative departments for handling the portal.
+Arrangements should be made.
+9. Presentation of Government Decisions on Government of Maharashtra website www.maharashtra.gov.in
