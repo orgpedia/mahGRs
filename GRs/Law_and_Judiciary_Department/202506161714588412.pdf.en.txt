@@ -1,0 +1,274 @@
+# Page 1
+Under the Act and the Act
+the rules, regulations,
+Notifications, Orders, Circulars
+India Code Portal (https://www.
+indiacode.nic.in) of the Central Government.
+to be uploaded to the website
+Method of operation.
+Government of Maharashtra
+Department of Law and Justice, Legislative Branch,
+Government Circular No. - 585 / b, 2025,
+Mantralaya, Madam Cama Marg, Martyr Rajguru Chowk,
+Mumbai - 400032.
+Dated 16 June 2025.
+Circular
+The Proposal: -
+Government of India v. Vansh Sharad Gupta (Civil Writ of Hon'ble High Court of Delhi)
+Petition No. 4761/2016 and Retail Civil Application No. 22914/2016),
+vide order dated 22nd September, 2017, and pursuant thereto, the Secretary, Cabinet
+As per the directions issued by the Secretariat, Rashtrapati Bhavan, New Delhi, the Central Government
+The Acts apply to the state of Maharashtra, as well as to all of the state of Maharashtra.
+the Act and the rules, regulations, notifications, orders, circulars issued thereunder,
+It is a part of the Government of India's India Code Portal (https: / / www.
+indiacode.nic.in) needs to be uploaded.
+In line with this, on 10.09.2018, Ma. Presided over by the Chief Secretary
+As per the directions given in the meeting, for the India Code Portal, Ms. Chief Secretary, Maharashtra
+He, Shri. Director, Department of Information Technology (DIT) for India Code Portal
+The Chief Nodal Officer has been appointed. Also, every administrative in the ministry
+For the department, an officer not below the rank of Deputy Secretary, India Code
+The department has been designated as the nodal officer for the portal.
+The Nodal Officer of the Administrative Department shall make rules, regulations, notifications, orders,
+All the departments of the ministry should upload the circular on the India Code Portal.
+# Page 2
+Government Circular No: 585 / B, 2025
+The Director, Department of Information Technology (DIT) and Department of Law & Justice, vide letter
+have been requested from time to time.
+Rules, Regulations, Notifications, Orders to the Nodal Officers of the Administrative Division,
+Circular on procedure for uploading on India Code Portal, Chief Nodal Officer
+He conducted workshops from time to time through the Directorate of Information Technology.
+Nodal officers appointed for administrative departments have been informed.
+AI Assisted Legal Translation Advisory Committee of the Supreme Court
+At its meeting dated 19 May 2025, the Central Government Act as well as the Maharashtra
+State Acts and Rules, Statutes, Notifications, Orders, Circulars,
+Suggestions on uploading India Code Portal in English as well as Marathi etc.
+have been provided.
+The meeting was held on the website of India Code Portal launched by the Central Government.
+Uploaded in Marathi as well as English by the Central Government, as well as Maharashtra
+State Acts and Rules thereunder, Statutes, Notifications, Orders, Circulars,
+The matter was reviewed in the Bombay High Court, etc.
+The state of Maharashtra has a larger number of pending uploading tasks than the states.
+It appeared to be.
+In this regard, on 11th June 2025, at 11.00 AM, Ma. the Chief Secretary's
+AI Assisted Legal Translation Advisory Committee of the Supreme
+Central and State Acts as ordered by the Court and the following rules,
+Statutes, Notifications, Orders, Circulars, etc., in English and Marathi in India
+A meeting of "all secretaries" was called regarding uploading the code on the portal.
+In the meeting, Shri. State Acts and Central and State Acts as directed by the Chief Secretary.
+Rules, Statutes, Notifications, Orders, Circulars made under the State Act,
+etc. India Code Portal (https://www.indiacode.nic.in) of the Central Government
+The procedure for uploading on the website is being detailed as follows: -
+Procedure for uploading English Acts of the Government of Maharashtra: -
+(1) By the Legislative Branch of the Department of Law and Justice, the existing English language Act of the State of Maharashtra shall be published in M.S. Word in font size 12.
+Type in the format. Also, if there are amendments to the Act
+Add them and update the act to create a Single Document File.
+Convert such a single document to PDF OCR format.
+Page 2 of 11
+# Page 3
+Government Circular No: 585 / B, 2025
+Administrative departments related to the Act on the India Code Portal
+Upload the folder to this.
+(2) In this way, after uploading the Act on the India Code Portal, it will be called Section
+Do wise mapping.
+(3) Thereafter, the Act shall be amended in accordance with the provisions of this Act.
+Updated, Revised Act India Code Portal by removing the old Act
+Re-upload to the same folder above.
+(4) The date on which the Act is updated.
+be mentioned on the first page of the Act.
+(5) Data of all Acts in MS Word File and PDF Files in the permanent section
+be preserved.
+(6) The Acts to be enforced by each Administrative Department.
+Make a list of them. Acts in force in India according to this list
+How to make sure the code has been uploaded to the portal under the section
+Statement of law of the Department of Law and Justice if the Act has not been uploaded.
+Contact the branch and inform them about the same on the respective Act Portal.
+Notify about uploading.
+(7) Since the uploading work is technical in nature, the Director, Information and Technology
+All that is required from time to time for uploading the Act on the portal.
+Technical support should be extended to all departments.
+2. Uploading of Central English Act: -
+(1) Every administrative division which is implementing the Central Acts,
+and under which those department rules, statutes, notifications, orders, circulars, etc.
+Central Acts issued in English on India Code Portal
+be uploaded by the relevant department.
+(2) First of all, go to the menu bar in the India Code Portal and click on Upload.
+Do so, then login ID obtained through the IT department and
+Login with the password.
+(3) Then click on the User Operations menu bar. Then Add / Edit
+A link to the Act will appear, after clicking on it, a page named Acts to be Uploaded will appear.
+Then the administrative department should click on Add Reference. Later, the central
+Select the central ministry associated with the act. and then the central
+Select the Department, followed by a list of Central Acts. That's
+Page 3 of 11
+# Page 4
+Government Circular No: 585 / B, 2025
+Select the central act from the list and then add the act.
+(See Annex "A" attached for reference.) )
+(4) Thereafter, the India Code Portal at NIC, Delhi is approved by the concerned authorities.
+After that, it will be added to the folder of the Central Act Administrative Department.
+(5) The User ID and Password of the India Code Portal of the Administrative Department, etc.
+Don't share it with anyone.
+Procedure for uploading Marathi Act (State and Central): -
+(1) The Marathi Language Act was passed by the Directorate of Languages, Marathi Language Division.
+The first government-approved font was typed in the Unicode format.
+Marathi Act by incorporating amendments, if any, thereto.
+be updated. Then make a PDF of such an updated act and format it in OCR format.
+Method to convert to India Code Portal in the corresponding section folder
+and in the area under the English Act as uploaded by the Department of Justice.
+to be uploaded.
+(2) The Directorate of Languages shall, in accordance with the Act in English, make all arrangements for the use of the Marathi language.
+Keep the Act up to date.
+(3) Thereafter, as the case may be, any amendments to the said Act shall be made in the India Code.
+Edit that Marathi Act on the portal and include the amendments.
+Update and then upload that amended act.
+(4) All typed data of Marathi Acts in MS Word File and PDF Files.
+Save to the permanent section.
+(5) Central Acts translated into Marathi by the Directorate of Languages.
+Upload the Marathi Act to the respective department's folder on the India Code portal.
+should be done.
+(6) The date on which the Marathi Act is updated.
+It should be mentioned on the first page of the act made.
+(7) The Marathi Language Department shall ensure that the Acts are uploaded in the Marathi language.
+should do.
+(8) Since the Director, Information and Technology is the Chief Nodal Officer, the Director shall
+All the technicalities required from time to time for uploading the Act on the portal
+Collaborate with the Marathi Language Department and the Directorate of Languages.
+Page 4 of 11
+# Page 5
+Government Circular No: 585 / B, 2025
+India Code Portal for rules, regulations, notifications, orders, circulars, etc.
+How to upload on the website: -
+(1) The Administrative Department concerned of the Act shall, under the relevant Act,
+Rules, Notifications, Orders, Statutes, Circulars, etc. issued in India
+Upload the code to the portal.
+(2) Add / Edit under the heading User Operation under the uploaded Act.
+Click on Rules / Notifications / Regulations / Circular, etc.
+Then select the relevant Act and fill in the required information and
+Upload it. (See Annex "B" attached for reference.) )
+(3) Rules, Notifications, etc., in Marathi language under the heading Hindi Language.
+have to be uploaded.
+(4) If the rules, notifications, etc. are not amended, their gazette Pdf and OCR
+Upload in the format.
+(5) Such rules, notifications, etc., as may be amended
+Create a single document in MS Word typewriter by updating it, etc., and upload it in PDF and OCR format.
+(6) Certain amendments in rules, notifications, orders, statutes, circulars, etc., by the Department.
+If the said amendments are made, the said rules, notifications, orders, statutes, circulars
+These include the respective administrative divisions of Marathi and English.
+Update and re-upload from time to time in the language.
+(7) Typed Rules, Notifications, Orders, Statutes, Circulars, etc.
+The date that has been updated before the date should be mentioned on it.
+(8) All data typed into MS Word File and PDF Files in the permanent section
+be preserved.
+5. Appointment of Nodal Officer: -
+(1) Director, Information Technology as the Chief Nodal Officer on India Code Portal
+(S.P.V.) Department has been appointed.
+(2) The Chief Nodal Officer has notified about the uploading on the entire India Code Portal.
+Monitor the work.
+(3) Every administrative division shall have a rank not below the rank of Deputy Secretary.
+The officer should be appointed as the nodal officer.
+(4) A list of nodal officers appointed by each administrative department.
+Update and update the list of such nodal officers, contact number
+Page 5 of 11
+# Page 6
+Government Circular No: 585 / B, 2025
+and Chief Nodal Officer and Law & Justice with e-mail ID
+The nodal officer of the department should be informed immediately from time to time.
+(5) Information on India Code Portal by the nodal officer of each administrative division.
+Chief Nodal Officer for Uploading (Director, IT)
+India Code User ID and Password from the Directorate)
+Take it.
+6. Rules issued by different administrative divisions under the same Act.
+Procedure for uploading notification, etc.: -
+If, from time to time, rules are made by different administrative divisions under the same Act,
+the enforcer of such Act, if notifications, etc., have been issued
+It is done by the nodal officer of the administrative department, which is the administrative division.
+In English and Marathi, upload the India code to the portal.
+For example: - The Maharashtra Right to Public Service Act, 2015 (Maha.
+31) It is an Act made by the General Administration Department. the Ministry under this Act
+Nodal officers issued by the administrative departments in their respective notification,
+Uploads must be made through the General Administration Department.
+Functions of the Chief Nodal Officer and Director, Directorate of Information Technology: -
+(1) Uploading information on the India Code Portal is a technical task. The Centre
+The NIC is responsible for training officers in government.
+In the state of Maharashtra, this work is done by the Department of Information Technology.
+(2) The Director, Information Technology, shall be the nodal officer for each administrative department.
+The officer must generate a User ID and Password, and
+Provide training on uploading.
+(3) Review all administrative departments from time to time regarding uploading.
+(4) Technical support for uploading of documents to Ministries / Departments.
+Do it.
+(5) For uploading rules, regulations, notifications, orders, circulars, etc.
+The Director, Department of Information and Technology, to address the issues faced by the
+An officer of the department should be appointed.
+Page 6 of 11
+# Page 7
+Government Circular No: 585 / B, 2025
+8. Procedure for updating of data by administrative departments: -
+(1) For uploading of information by the Ministries / Departments on the India Code Portal.
+A dedicated team of officers should be appointed.
+(2) Data of rules, notifications, orders, statutes, circulars, etc. in MS Word
+Type it.
+(3) Since the uploading work has to be done by the permanent department, the rules,
+All typed data of notifications, orders, statutes, circulars, etc.
+Save to the permanent section in Word File and PDF Files.
+(4) all kinds of rules, notifications, orders, statutes, circulars,
+etc. should be updated or repealed after reviewing them from time to time.
+If so, remove the India Code from the portal.
+9. Precautions to be taken by the Departments: -
+(1) All Acts falling under the jurisdiction of the Department and the rules made thereunder,
+Notifications, Orders, Statutes, Circulars, etc. on India Code Portal
+Make sure it is uploaded.
+(2) The rules, notifications, orders made under and existing in the jurisdiction of the Department,
+Statutes, circulars, etc. should be kept up to date.
+(3) If the Department issues new notifications, orders, statutes, circulars, etc.
+Upload them on the portal and remove the old ones from the portal.
+(4) Rules, regulations, notifications, orders, circulars, etc.
+Typewritten data such that the data in the updated format is typed
+Verify that it is correct and then upload it.
+Do it.
+10. Report on Uploading: -
+Administrative Department Rules, Notifications, Orders, Statutes, Circulars, etc.
+Every month after uploading the updated India Code on the portal.
+Report on Uploading, Ma. be forwarded to the Chief Secretary and a copy thereof
+For information, forward to the nodal officer of the Department of Law and Justice.
+7 out of 11 pages
+# Page 8
+Government Circular No: 585 / B, 2025
+11. Restrictions: -
+(1) The English and Marathi Act, Ordinance of the Government of Maharashtra on the India Code Portal
+Since uploading is the job of the Department of Law and Justice and the Directorate of Languages.
+Administrative Division English and Marathi Act, Ordinance of the Government of Maharashtra
+The India Code should not be uploaded on the portal.
+(2) Any Maharashtra Act amended by the Administrative Department of the India Code.
+Do not upload to the portal.
+(3) Any department of administration issued under the Constitution of India.
+Notification, Recruitment Rules on India Code Portal
+should not be uploaded.
+(4) Rules, Notifications, Orders, Statutes, Circulars, etc., under the Act.
+Other content should not be uploaded to the India Code Portal.
+(5) India unless the rules, notifications, orders, etc. published earlier have been finalized.
+The code should not be uploaded to the portal.
+12. Guidance for uploading and technical matters: -
+(1) If the administrative department has any difficulties with uploading documents
+Chief Nodal Officer, Director, IT, in case of incoming
+Nodal in the Department of Legal Affairs, Directorate and Department of Law & Justice
+Get in touch with the officer.
+(2) Click on Help in the menu bar on the India Code Portal.
+Check out the details.
+8 out of 11 pages
+# Page 9
+Government Circular No: 585 / B, 2025
+Appendix "A"
+(Reference 2 (3))
+Procedure for uploading Central Acts
+Page 9 of 11
+# Page 10
+Government Circular No: 585 / B, 2025
+Appendix "B"
+(Reference 4 (2))
+Rules, Notifications, Orders, Statutes, Circulars, etc.
+The process of uploading
+Page 11 of 10
+# Page 11
+Government Circular No: 585 / B, 2025
+The said Government Circular, "www.maharashtra.gov.in" of the Government of Maharashtra
