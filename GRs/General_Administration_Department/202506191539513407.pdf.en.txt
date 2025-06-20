@@ -1,0 +1,89 @@
+# Page 1
+Government officers / employees in the Mahapar system under the 950 Days of Service Programme of the Hon'ble Chief Minister.
+Regarding submission of work assessment form online.
+Government of Maharashtra
+the General Administration Department
+Government Circular: CFR-1224 / Q. No.164 / STAMA (13)
+Martyr Rajguru Chowk, Madam Cama Marg,
+Mantralaya, Mumbai - 400 032.
+Date: 19 June 2025.
+Reference: 1. Government Decisions, General Administration Department, No: CFR 1210 / Q. No. 47/13, D. 01/11/2011.
+Government Circular, General Administration Department, No: CFR 1217 / Q. No. 131/123, D. 15/12/2017.
+Government Decisions, General Administration Department, No: CFR 1211 / Q. 257/13, D. 07/02/2018.
+4. Government Circular, General Administration Department, No: CFR 1224 / Q. No. 164 / STAMA (13), D. 22/01/2025.
+Government Circular, General Administration Department, No: CFR 1224 / Q. No. 164 / STAMA (13), D. 19/03/2025.
+&. Government Decisions, General Administration Department, No: SRV 2025 / PR. No.27 / Ka.12 (Service), D. 09/06/2025.
+The Proposal: -
+Evaluating the service progress of officers / staff to achieve the goals of transparent, dynamic good governance. The Chief Minister's 150-day service programme is proposed to be implemented in respect of officers / staff of the subordinate field offices, local bodies, boards, corporations, authorities, agencies, autonomous bodies, PSUs, commissions of the Ministries / Administrative Departments.
+The progress made by the department under the 150-day service personnel programme will be multiplied and 20 out of the total Yoo marks will be provided for scanning and uploading on the online system the offline submitted performance appraisal reports of Group-A, Group-B (Gazetted) cadre officers working under the concerned department and on deputation. Accordingly, it was under the consideration of the government to issue guidelines to all the "Cadre Controlling Authorities."
+# Page 2
+Government Circular No: CFR-1224 / Q. No.916 4 / STAMA (13)
+Government Circular: -
+Scan the performance appraisal report reported offline from the year of this report 2017-18
+All the Establishment Officers / Editing Officers / Cadre for uploading on Kar Mahapar system
+The Controller shall follow the following guidelines: -
+A. Suggestions for collecting information:
+The officer responsible for the collection of information: -
+Reference: Various services of the departments for submission of performance appraisal report on the flood system online as per Annexure 'A' of the Government Circular in HR.
+classification has been made. To the Joint Secretary / Deputy Secretary controlling these services "Cadre
+The "Cadre Controlling Authority" has been declared.
+Methods of collection of information B. Examples: -
+All Cadre Controlling Authorities have approved the number of posts of Group-A and Group-B (Gazetted) officers working under their Subordinate Organization Unit (OU), the number of officers currently serving and others on deputation.
+About the number of officers working in the department (Officers on deputation)
+Information Department from where the concerned officers are on deputation
+The information collected should be submitted as follows: -
+For example: -
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| A. No              |         |  Department                               | The Services |    |  Organization Unit(OU) | Number of posts sanctioned | The number of officers employed | ara number of officers | The combined number of On Board Officers (Group-A and Group-B (Gazetted) on the flood system |
+| The group-         |         |  Group-B (Rajpath)                        | Group -      |  A | Group-B. (Rajpath)     | Group -                    |  A                              | Group B (Rajap Fra)    |
+| 1                  | 29.     | Hey.                                      |              | w  | [se                    |
+| g.                 | Finance | MH-Directorate Of Accounts And Treasuries | MH-DAT Thane |
+| MH-DAT Local funds |
+| 2.                 | Finance | MH- Commissioner Of Sales Tax             | MH-GST Thane |
+| 3.                 | Finance | MH-Directorate Of Insurance               |
+| 4.                 | Finance | MH-Directorate Of Lotteries               |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Page 2 of 4
+# Page 3
+Government Circular No: CFR-1224 / Q. No.916 4 / STAMA (13)
+Suggestions regarding submission of information: - Provide this information in Excel File Format (Font-DOVT-Surekh MR, 5128-12) to General Administration Department, Executive Officer (13) at Mail ID support-mahapar@nic.in. Must be shipped by July 04, 2025. Also, the information should be sent to the Cell Officer (STM / 13), General Administration Department, Mantralaya, Mumbai under the BARIL letter.
+(Subject of email - HAIMA report scanned and uploaded on Mahapar system)
+Regarding.) 4. Method of Scoring if the information is not submitted within the prescribed time: - If the department does not provide information about the officers serving and officers deputed during the prescribed time, the Group-A and Group-B (Gazetted) officers of the department will be scored taking into account the sanctioned number of posts.
+B. Familiarity with scanning the work assessment report: -
+Preparation for scanning: - Work assessment reports recorded in offline mode should be submitted under the supervision of the Editing Officer. Make sure that all work assessment report entries (signatures, stamps, notes, scores, etc.) are complete. Keep the offline work assessment report ready for scanning if it is cracked, folded, blurred, cluttered, etc.
+Method of scanning: - Scan the performance appraisal report Black & White Ha. The performance appraisal report for each reporting year should be scanned separately. If there is more than one performance appraisal report in a reporting year, they should be scanned chronologically and a single PDF file of all performance appraisal reports in a year should be created.
+The procedure after the scan:
+The size of the PDF file generated after scanning the performance appraisal report for each reporting year should be a maximum of 3 MB.
+Compress the file if the size of the PDF file is more than 3 MB.
+The quality of the PDF file should be checked before uploading after scanning the performance appraisal report as follows: -
+> Is the PDF file fully readable?
+> Are the signatures, stamps, or important information in the PDF file clear? > Do all the documents in the PDF file look like the original documents?
+> Does the number and order of pages in the PDF file match?
+Page 3 of 4
+# Page 4
+Government Circular No: CFR-1224 / Q. No.916 4 / STAMA (13)
+3. Process of saving to computer after scan: -
+In the computer, a separate folder should be created according to the name, designation of each officer and in this folder, the PDF file of each report year should be named as the name of the concerned officer, report years.
+Example: To name the folder B file of Mr. S.K. Patil, Tehsildar,
+Folder name: -sk _ patil _ tahsildar
+Name of the PDF file for the report year: -1) sk_patil_201920.pdf
+2) sk_patil_202021.pdf
+Suggestions for uploading the performance appraisal report on the Mahapar system:
+1. Scan and upload all offline filled work assessment reports to the Mahapar system.
+The responsibility will lie with the respective Establishment Officer / Editing Officer.
+2. Offline filled work assessment report report by scanning on the flood system by year.
+At the time of uploading, enter the score from the Offline Report report in the Score tab.
+3. Scanned PDF file reports of performance appraisal reports by General Administration Department.
+Instructions for uploading on the Mahapar system by year will be issued through a separate circular.
+This Government Circular is available on the Government of Maharashtra website www.maharashtra.gov.in.
+Its computer code is 202506191539513407. The order is digitally signed.
+It is being done.
+By order and in the name of the Governor of Maharashtra,
+SUCHITA MOHAN 5.4.20=6578e d2c9bfb7e7e33b474757c1425d0a03e653b4f0a25b70698158e, p ICod 10032, st harash il = E146A6DDC8FB6681D49A5099661D41639DA6C568419F07 1BB9CDFD8A2E08058C SUCHITA MOHAN MAHADIK Date: 2025.06.19 15:40:28 + 05'30
+(S.M. Mahadik)
+Joint Secretary, General Administration Department
+per se,
+Additional Chief Secretary / Principal Secretary / Secretary, all Ministries / Departments, Mantralaya, Mumbai.
+2. Heads of all Departments and Heads of Offices under the control of the Ministries.
+3. Selection.
+Page 4 of 4
