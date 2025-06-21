@@ -1,0 +1,142 @@
+# Page 1
+Maha-Aastha (e-HRMS)
+Preparations for the implementation of the system - instructions
+Government of Maharashtra
+the General Administration Department
+Government Circular No. Narrow-2025 / P.No.27 / MASTA
+Madam Cama Marg, Martyrdom Rajguru Chowk,
+Mantralaya, Mumbai - 400 032.
+Date: June 20, 2025
+The Proposal: -
+Service matters under the 150 Days of Service Workers Programme of the Hon'ble Chief Minister
+Updating of service books on the digital portal of BAPI and service matters of officers / staff.
+On-boarding of detailed information has been given the highest priority.
+Service benefits provided to government officers / employees under the service (e.g.
+certificate of permanency, regular date of service, salary benefits, etc.) as well as retirement benefits.
+(e.g., retirement pay, gratuity, leave encashment, etc.) be able to be paid on time and easily,
+For this, the services of government employees from "appointment to retirement" are linked to a single system.
+The intention is to do. For this purpose, the state government employees are centralized, and the employees
+With a view to automating the process of various proceedings relating to service matters,
+e-Human Resource Management System (e-HRMS) by General Administration Department [Maha-Aastha]
+(Maharashtra Advanced Administrative System for Transparent Human Resource
+Administration-Maha-AASTHA)] is being developed. Under this, the government
+It is planned to create an e-service book containing records of service matters of the employees.
+This requires preparation and the following factors are important: -
+Establishment of Maha-Aastha Cell Works to be done by Maha-Aastha Cell Updating Service Book records Reporting of work done to General Administration Department from time to time
+The system was first developed for the ministerial departments (themselves) and then
+It is planned to be implemented at the regional level. For the Mahā-śārtha system to become fully operational.
+Administrative departments are required to make preparations and are advised to:
+They are: -
+Circular
+Ministry (in-house) level for smooth and time-bound implementation of Maha-Ashtha system.
+The details of the functions to be performed by all the administrative divisions are as follows: -
+# Page 2
+Government Circular No: Narrow-2025 / Q. No.27 / MASTA
+1. Establishment of Maha-Aastha Hall: -
+Service benefits to government employees through Maha-Ashtha system in a timely and easy manner.
+For giving, the ministry (itself) departments set up the Maha-Aastha cell, through which the general
+Coordination with the Department of Administration, preparatory work within the Department on matters relating to the system and its related matters.
+The works are expected to be done by the cell in the near future.
+I. The "Maha-Aastha" is independent of the available manpower of each of the Ministries (themselves).
+The room should be set up permanently.
+II. Composition of the Maha-Ashtha-Kshetra: -
+The general structure of this room should be as follows: -
+-------------------------------------------------------------------
+| Joint / Deputy Secretary (Establishment)                        |
+| Under Secretary / Room Officer (Drawing and Disbursing Officer) |
+| the Assistant Room Officer                                      |
+| Clerk-Typewriter                                                |
+| the sepoy                                                       |
+-------------------------------------------------------------------
+III. With the one who manages the establishment of the ministerial (in-person) department in the Maha-Aastha chamber.
+Secretary / Deputy Secretary as Nodal Officer and other necessary staff.
+The appointment should be made as above. The nodal officer is the general administration.
+They will act as a single point of contact (SPOC) for the department.
+Name, designation, e-mail and telephone number of the Nodal Officer appointed
+Orders for the establishment of the cell with the number gad.maha to the General Administration Department -
+aastha@mah.gov.in to the e-mail: ".............. (name of the department) of Maha-Aastha Kshetra
+Order of formation, "he said. Must be sent by June 30, 2025.
+Page 2 of 12
+# Page 3
+Government Circular No: Narrow-2025 / Q. No.27 / MASTA
+2. Functions to be performed by the Maha-Aastha Kshetra: -
+I. Creating an e-mail ID for the class: -
+i. Separate e-mail ID should be taken for this class. Create an e-mail address
+With a view to maintaining uniformity among all the Ministries / Departments while
+Each department < Dept _ name > < dot > maha-aastha@mah.gov.in
+Create an e-mail address. In this, the name of the department should be kept short.
+Come.
+For example. home.maha - aastha@mah.gov.in,
+health.maha- aastha@mah.gov.in
+ii.E-Office for officers / staff of the Department of the Ministry (in person).
+Make sure the system is working.
+iii.Employees of the Ministry (in-person) Department who have a government e-mail ID
+Government e-mails of all government employees who are not yet available
+IDs should be made available. Its main purpose is the great faith.
+system will be used.
+iv. Detailed guidelines for obtaining bulk e-mail IDs
+Available at NIC's https://palghar.gov.in/govmail URL
+has been done.
+II. Formulate an Organogram of the administrative structure of the Ministry (itself).
+To do: -
+Each of the Ministries (themselves) as per their approved format
+Group and cadre-wise requirement from office heads to the lowest level
+Details should be created in English in Excel format as in Appendix "A."
+This information is sent to the General Administration Department with the signature of the nodal officer.
+On the email gad.maha-aastha@mah.gov.in...... "(name of the department)
+Table of administrative structure of their Maha-Ashtha cell, "the theme
+Mention it. Submissions must be made by June 30, 2025. In this regard
+As an example, some entries are shown in Annexure-A.
+III. Updation of service book records and maintenance of service book: -
+i.In coordination with the Drawing and Distributing Officer (DDO)
+All officers / staff of the administrative division of the Ministry.
+All records in the service book as of July 15, 2025
+An update should be made.
+ii. details of the compulsory and other matters to be recorded in the service book.
+In Annexure 'B' mentioned in Part-I and Part-II respectively.
+Page 3 of 12
+# Page 4
+Government Circular No: Narrow-2025 / Q. No.27 / MASTA
+It has come. Accordingly, employee-wise matters applicable thereto.
+If the information is not yet recorded in the service book, it will be required
+There, the department issues appropriate orders, withdrawals, and disbursements.
+The officer should note it down in the service book. as well as records
+Orders, records, certificates etc. issued accordingly.
+The service book should be attached.
+(iii) The records and records mentioned in Part-I and Part-II of Annexure-B.
+Verified by the employee and reflected on all records relating to them.
+about having been done and being authenticated.
+Verify with the employee concerned and all these records.
+the Drawing and Distributing Officers regarding the service book
+Be certified by signature.
+Completed out of the total service books in the department
+Numerical information of the service book Every Monday General Administration
+Email the department to gad.maha-aastha@mah.gov.in
+should be sent.
+iv. Departments should not be scanning service books at present. In regards to this
+Separate notifications will be issued.
+v. Service books with a view to facilitate scanning of all service books
+In good condition (e.g. Repair of broken or damaged leaves, etc.)
+The act of keeping should be done first.
+3. Submission of regular reports of work done: -
+I. In line with the preparations for the implementation of the Maha-Sastha system, the Departments
+The schedule of work to be done is set out in Annexure C.
+It is.
+II. Regular report of completion of work as per the said schedule by the Nodal Officer.
+Submitted to the General Administration Department by e-mail at gad.maha-aastha@mah.gov.in
+Do it.
+Any difficulties / issues arising in the course of the said proceedings shall be dealt with accordingly.
+Shri Prashant Badgere, Nodal Officer nominated by the Administrative Department, along with
+E-mail to Secretary, General Administration Department at gad.maha-aastha@mah.gov.in
+Get in touch.
+Page 4 of 12
+# Page 5
+Government Circular No: Narrow-2025 / Q. No.27 / MASTA
+The present circular is from the Government of Maharashtra www.maharashtra.gov.in.
+# Page 6
+# Page 7
+# Page 8
+# Page 9
+# Page 10
+# Page 11
+# Page 12
