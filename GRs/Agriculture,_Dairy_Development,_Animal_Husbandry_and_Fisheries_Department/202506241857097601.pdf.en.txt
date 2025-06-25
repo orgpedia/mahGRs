@@ -1,0 +1,416 @@
+# Page 1
+Artificial Intelligence and Emerging
+The use of technology in agriculture
+Maharashtra to bring about change
+Agriculture - Artificial Intelligence (MahaAgri-AI)
+Regarding the implementation of the policy 2025-2029
+Government of Maharashtra
+Department of Agriculture, Animal Husbandry, Dairying Development and Fisheries
+Government Decision No: AI-2025 / Q. 106/13 -A,
+Madam Cama Road, Martyrdom Rajguru Chowk,
+Mantralaya Extension, Mumbai-400 032
+Date: 24th June, 2025
+The Proposal: -
+The agriculture sector is the backbone of Maharashtra's economy, contributing to the state's Gross Value Added (GSVA).
+The agriculture sector contributes significantly and provides livelihood to more than half of the population.
+for agricultural research and its extension to farmers and for food security in the state.
+Effective institutional structures have been put in place, mainly agricultural universities, expansion of agriculture departments.
+Systems, state-of-the-art laboratories, Krishi Vigyan Kendras, network of automated weather stations, market committees
+Major infrastructures include private markets, etc. Nanaji Deshmukh Krishi Sanjeevani
+The Project, Ma. Balasaheb Thackeray Maharashtra Agriculture and Rural Transformation Project and Magnet
+Due to projects implemented with the help of Multilateral Funding Institutes
+Resilient Climate - Smart Farming Practices, Promotion and Value Addition to Farmer Producer Organizations
+Chain developments have come to the centre of Maharashtra's agricultural policy and programme. All of these
+Despite the positives, the state's agriculture sector has been hit by climate change, water scarcity, and decline.
+Productivity, rising input costs, labour shortages, and investment in new technologies
+Many problems are being faced, including scarcity.
+The agriculture sector in the state is rapidly moving towards digital transformation, with AgriStack,
+Maha-Agritech, Mahaveedh, CropSap, Agmarknet, Digital Farming Schools (FFS) and Maha-DBT
+In addition to accurate and reliable information collection through digital initiatives such as these, transparency and
+Farmers have been empowered. Artificial intelligence (AI) to drive all these efforts,
+Generative artificial intelligence (AI), Internet of Things (IoT), drones, computing
+Computer Vision, Robotics, and Predictive Analytics
+Sustainable and scalable solutions with the help of emerging technologies like these
+implementation is required. With this view, the Government has decided to provide "Maharashtra" for the period 2025 to 2029.
+An "Agriculture-Artificine Intelligence Policy" has been formulated. The policy is aimed at giving the state an artificial edge in the agriculture sector.
+# Page 2
+To make the country a leading centre for the application and innovation of intelligence and artificial intelligence technologies.
+Farmer-centric applications, research, data sharing, support for start-ups, and AI
+The policy emphasizes responsible, ethical, and safe use.
+The various digital initiatives of the government are backed by reliable information.
+Modernized by adding artificial intelligence and emerging technologies to the agricultural value-chain of crops.
+The government intends to shift to cost-effective and sustainable agriculture, as per the "Maharashtra Agriculture-
+The government has decided to release the "MahaAgri-AI Policy."
+The Government's Decisions:
+To promote "farmer-centric" use of artificial intelligence and emerging technologies.
+Also R & D to develop AI-based accessible technologies.
+To transform the agriculture sector by creating a nurturing environment, "Maharashtra
+Implementation of the "Agro-Artistic Intelligence (MahaAgri-AI) Policy 2025-29" is being approved.
+Copies of the policy in Marathi and English with the Government Decision Annexure "A" and "A" respectively.
+Attached in "B."
+3. Startups, private companies / technology companies, agricultural universities, research institutes,
+Krishi Vigyan Kendras, private institutions, Farmers / Farmer Producer Organizations (FPOs), etc.
+To promote "farmer-centric" use of intelligence and emerging technologies.
+The following policy initiatives are being undertaken by the Government:
+The institutional structure:
+3.1.1र Artificial Intelligence and Agritech Innovation Centre at State level:
+The Centre is independent, complete, for the actual implementation of the Maharashtra Agro-Atypical Intelligence Policy.
+Time will act as the execution mechanism. It is headed by the Principal Secretary (Agriculture).
+Mechanism Partnerships with national and international organizations, promotion of innovation, projects
+Selection, Implementation and Financing, Coordination, Capacity Building, etc.
+Will work on matters. The centre will be headed by the Managing Director and will have
+Appointments will be made by the government and they will have adequate administrative and financial powers.
+will be provided. The centre houses government officials, various subjects of agricultural universities.
+This will include experts, consultants and contractual staff.
+Centre for Agro-Atypical Intelligence Innovation and Incubation at Agricultural University level:
+Four Agriculture in the state under the guidance of institutes like IITs / IISc.
+Agro-artificate innovation and incubation centres will be set up in universities.
+The centre is under the aegis of the Centre for Artificial Intelligence and Agritech Innovation, an agricultural university.
+It will work. The Centre has 5 Subject Matter Experts other than Agriculture on contractual basis.
+# Page 3
+will be made available for the year and in the various faculties of the Agricultural University.
+Example of available manpower. Scientists / Professors, Staff, as well as Graduates / Postgraduates and Principals
+The centre should be operated by undergraduate students etc. The industrial area of the centre
+Also, partnerships with national and international research institutions will be mandatory. or
+On the issues being reported by the Centre to the industrial sector and the agriculture department.
+Develop artificial intelligence-based technologies as well as research activities of universities.
+Useful AI-based tools should be developed. In the same way, artificial
+These are the innovation projects selected by the Centre for Intelligence and Agritech Innovation.
+Incubation should be done through centres.
+Digital public infrastructure for artificial intelligence:
+Useful for data-driven agriculture and responsible artificial intelligence
+Digital public infrastructure will be set up by the state government. This facility is available throughout the state.
+Secure, consistent, and consent-based will facilitate data exchange. or digital.
+Public infrastructure will mainly consist of the following facilities:
+3.2.1स Public digital infrastructure (A-Dex / Sandbox / Cloud):
+Government for responsible and effective AI-based agricultural innovation
+Cloud-based agricultural data exchange (A-DeX) and sandboxing facilities provided
+With this digital platform, all the databases related to agriculture of the central and state governments will be available.
+(Agristack, Mahaveedha, Maha-Agritech, Cropsap, Agmarknet, Digital Farmhouse, Maha-
+DBT, etc.) will be added so that this data can be used by this exchange for artificial intelligence.
+The development of the projects will be accessible to all stakeholders. As well as
+The reality of the artificial intelligence-based models they have developed for startups
+A sandbox facility will be provided for safe testing under the circumstances.
+3.2.2स Remote sensing and geospatial intelligence engine:
+Shared digital public interest, governance integrated, on artificial intelligence
+AI-enabled remote sensing and geospatial intelligence engine
+Sensing and Geo-spatial Intelligence) will be developed and implemented. through this.
+Satellite imagery, collected through drone surveillance, UAVs, and IoT-based devices
+High-quality images based on analysis of local data from various sources
+It will enable the government to take accurate and real-time decisions. This system is great.
+Fasal, Bhuvan, etc. will be connected to national and state platforms through API. or
+Identifying various changes from the system through AI / ML based algorithms, detecting exceptions, and
+# Page 4
+Predictive analysis will be possible. The platform covers agriculture, water resources, revenue and disaster management.
+Management etc. Departments can be used for various purposes.
+Virtual Integrated System for Access to Agricultural Resources (VISTAAR):
+Government expansion to make agricultural extension services more effective and farmer-centric
+(VISTAAR) initiative will be implemented. artificial intelligence that can be generated through this and
+Personalized advice from Marathi was given to farmers using emerging technologies.
+This will include artificial intelligence-based chatbots, voice assistants, and consultants.
+The content will be prepared in Marathi, through which crop production, pest and disease management,
+Weather forecasts, market prices, and government plans will be reported. A variety of agricultural
+Simulation tools that allow farmers to experience situations virtually
+tools) will be developed as well as national ones such as AgriStack and Bhashini.
+will be connected to the platform. Artificial intelligence for field extension workers
+Usage training will be provided as well as in partnership with IITs / IIITs and agricultural universities.
+Relevant, relevant, and accurate information will be developed. Agriculture sector by VISTAAR
+Eliminate the lack of information, increase the reach and effectiveness of extension services, as well as
+A more resilient and knowledgeable farming community
+The government's aim is to make it happen.
+3.2.4क Artificial intelligence-based agri-food traceability and quality certification platform:
+Food security, supply chain transparency, food quality assurance, and global
+Government artificial intelligence, blockchain, and QR codes to increase market access
+A state-wide technology-based traceability and quality certification.
+A Quality Certification (QC) platform will be set up. From the farm through this platform
+Crop fertilizers and medicines, farming practices, post-harvesting on the customer journey
+Digital and geo-tagged records of processes and quality certificates, etc.
+It will create. Initially, the system was introduced for select and exportable high-value crops.
+This will be done and extended to other crops in a phased manner. Farmers
+Manufacturing units, exporters, pack houses, quality certification bodies,
+Logistics and e-commerce platforms will be connected to the system. This includes IoT and
+Mobile based traceability, AI authenticated claims verification, QR
+Code generation, and compliance with international standards (APEDA, Codex, EU Farm-to-
+fork) will be included. This platform will help farmers get better prices.
+Reliability in exports will increase and acceptability in local and global markets will increase.
+# Page 5
+Financial support to AI based projects in agriculture:
+Technology based on artificial intelligence and emerging technologies in the agricultural value chain
+Department of Agriculture provides various support to start-ups and established companies
+will do. According to the maturity of the technology developed by these institutions and
+According to the ability of technology to effectively overcome the problems of the agricultural sector, as well as
+Funding will be determined project-wise, taking into account specific needs. Start-ups
+Participation will be done in an innovative way and through grants, incubation and technical guidance.
+Support will be provided for cloud-based testing environments, agricultural data, etc.
+Information from the exchange, and facilities to conduct technical tests in the sandbox.
+The established companies will also have the technology they have developed and proven.
+Co-financing / Grants-in-Aid, Government of developed technology for wider expansion
+Faster inclusion in plans and broadening of outcome based technologies
+Expansion opportunities will be provided, as well as digital ones such as agricultural data exchanges.
+The use of resources will be permitted.
+4.3 Capacity building:
+All to ensure inclusive and effective use of AI in the agriculture sector.
+A comprehensive capacity building and community engagement programme will be undertaken for the stakeholders.
+AI / ML and agricultural technology in agricultural universities, technical institutes, and research partners.
+Training will be provided. Special Artificial Intelligence training for officers of Agriculture Department
+Toolkits will be created. Artificial for Farmers and Farmer Producer Organizations
+Physical training on intelligence use, digital tools and help desks were provided.
+Quality and utility of training in partnership with technology institutes and industry.
+will be increased. Training and use of AI with feedback from farmers from time to time
+Care will be taken to suit local needs and be useful.
+3.5 Global Agriculture Artificial Intelligence Conference and Investors Summit:
+Maharashtra has been designated as the Global Centre for Artificial Intelligence-based Innovation in Agriculture.
+Government to create "World Agriculture Artificial Intelligence Conference" every year and
+The investor summit "will be held. Global Experts, Technology at the Conference
+Companies, research institutions, investors, government representatives, and farmer producers
+Organizations will be involved. Policy seminars, presentations of innovations through this conference,
+Demonstrations, and direct interaction with investors will be held. Artificial in Maharashtra
+Showcasing advances in intelligence and innovation, providing a global platform for new products
+Investments in public-private partnership (PPP) projects and startups
+Attracting, as well as the state of AI in agriculture
+# Page 6
+The aim of the World Conference is to set policy direction by publishing this annual report.
+The World Conference will be held in different parts of the state on a rotational basis.
+So that Maharashtra's strength lies in local innovation and diverse agro-climatic sectors.
+can be brought to the world stage.
+4. State Level Steering Committee, State Level for effective implementation of the policy.
+A three-tier institutional structure with a technical committee and an artificial intelligence and agritech innovation centre.
+The structure is being created:
+State-level Steering Committee (SLSC):
+The Chief Secretary chaired the implementation of the Maharashtra Agro-Artificine Intelligence Policy.
+A State-level Steering Committee is being constituted and the composition of the Committee will be as follows:
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+| A. No |                                                                              |                      | Members of the Committee |   |   | Details |
+| 1     | the Chief Secretary                                                          | The President's      |
+| 2     | Principal Secretary (Agriculture)                                            | The member's         |
+| 3     | Additional Chief Secretary (Finance)                                         | The member's         |
+| 4     | Additional Chief Secretary (Planning)                                        | The member's         |
+| 5     | Principal Secretary (Marketing)                                              | The member's         |
+| 6     | Principal Secretary (IT)                                                     | The member's         |
+| 7     | Project Director, Nanaji Deshmukh Krishi Sanjeevani Project                  | The member's         |
+| 8     | Commissioner (Agriculture)                                                   | the Member-Secretary |
+| 9     | Representatives of ICAR / IITs / Agricultural Universities (SAUs)            | The Invited Members  |
+| 10    | Representatives of Multilateral Agencies, Private Sector and Civil Societies | The Invited Members  |
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Functions of the Committee:
+i. Guidelines and various frameworks for implementation of the policy.
+To approve as well as to approve amendments thereto from time to time as may be necessary.
+State level Artificial Intelligence and Agritech Innovation Centre and under Agriculture University.
+Staff at the Agro-Artical Intelligence Innovation and Incubation Centre to be set up
+approving the configuration.
+iii. Fulfillment of policy objectives taking into account the recommendations of the State Level Technical Committee.
+Approval of Artificial Intelligence based projects / initiatives.
+iv. Approval of funding for various stages of implementation of projects.
+Permitting the use of government infrastructure for projects, etc.
+# Page 7
+v. Biennial review of progress and performance of sanctioned projects by a third party agency.
+Evaluate and make necessary policy reforms.
+vi. To provide policy guidance on the screening and prioritization of projects.
+vii. Inter-sectoral cooperation and coordination as well as R & D, financing and
+Promote partnerships with national and international organizations for capacity building.
+State-Level Technical Committee (SLTC)
+The committee is an expert appraisal and technical advisor under the Agriculture-Artistic Intelligence Policy.
+So the work will be done. of various AI based technology projects / activities.
+The Committee shall be constituted to assess, from a technical, financial and commercial point of view, the
+Experts in various fields are included. The composition of the committee will be as follows:
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| A. No. |                                                                                                                                      |                      | Members of the Committee |   |   | Details |
+| 1      | Principal Secretary (Agriculture)                                                                                                    | The President's      |
+| 2      | Commissioner (Agriculture)                                                                                                           | The member's         |
+| 3      | Project Director, Nanaji Deshmukh Krishi Sanjeevani Project                                                                          | The member's         |
+| 4      | Chief Executive Officer, Maharashtra State Innovation Society                                                                        | The member's         |
+| 5      | Director (Information Technology)                                                                                                    | The member's         |
+| 6      | Managing Director / CEO, Centre for Artificial Intelligence and Agritech Innovation                                                  | the Member-Secretary |
+| 7      | Invited representatives from Indian Council of Agricultural Research / IITs / Agricultural Universities                              | The member's         |
+| 8      | A representative of the investor                                                                                                     | The member's         |
+| 9      | A representative of the industry associations                                                                                        | The member's         |
+| 10     | Invited representatives from academia and industry (financial / legal advisors / IP and data administration / AI / ML experts, etc.) | The Invited Members  |
+| 11     | Invited representatives from Farmer Producer Organizations (FPOs), Startups and private sector                                       | The Invited Members  |
+| 12     | Multilateral organizations, think tanks, donor organizations, representatives of the private sector and civil societies)             | The Invited Members  |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Functions of the Committee:
+i.Technological and technical aspects of the projects presented by the Centre for Artificial Intelligence and Agritech Innovation
+to make a professional assessment. Proposed applications based on artificial intelligence
+# Page 8
+Application feasibility, scalability, and technology-readiness level
+(TRL) to evaluate.
+(ii) Innovation validation and use case prioritization.
+to make a determination.
+iii. Proposed project cost and financing, expected return (financial, environmental and
+social), etc., to make financial assessments and to deliver projects at various stages.
+To recommend financial assistance as well as other assistance to the State Level Steering Committee.
+iv. Compliance with data privacy rules, ethical artificial intelligence principles, and intellectual property rules.
+Ensuring, highlighting the high risk aspects of the project.
+v. To provide technical assistance to the State Level Steering Committee, on the basis of experience gained and technical observations made.
+Suggesting policy changes based on the base as well as global experience.
+vi. Capacity building of Agriculture Departments, Agricultural Universities, and Farmers / Farmer Producer Organizations (FPOs).
+making recommendations for construction.
+4.3 State-level Artificial Intelligence and Agritech Innovation Centre
+At present, it is under the control of the Principal Secretary (Agriculture) for the implementation of this policy.
+A time-dedicated centre is being created and will be operational as per requirement.
+Special Purpose Vehicle (SPV) or Mission Unit with the approval of State Level Steering Committee
+So it will be converted. The centre is directly under the administrative control of the Principal Secretary (Agriculture).
+The centre will have a Managing Director, CEO, Chief Technology Officer.
+Officers and subject experts (agriculture, artificial intelligence, data, finance, etc.) will be appointed.
+The contours of the centre will be decided with the approval of the State Level Steering Committee.
+The Workplace:
+i. Overcoming challenges in the agriculture sector using Artificial Intelligence and emerging technologies
+problems of various crops in consultation with all the stakeholders to be done.
+Setting up, conducting regular hackathons, and project proposals to interested organizations.
+Developing a portal for submission.
+ii.To act as the Secretariat of the State Level Technical Committee, Technical Quality, Feasibility,
+Report by assessing the projects received on the basis of necessary grants and other assistance, etc., and
+Submission of observations to SLTC. Conducting meetings of the SLTC, preparing documents
+Keeping records of recommendations, implementing approved projects, and coordinating tools at the field level, etc.
+iii.Manage and coordinate projects approved by the State Level Steering Committee.
+iv. Applicants (Startups, Research) to prepare project proposals in line with this policy.
+organization) to help.
+# Page 9
+v. Agricultural Data Exchange (ADeX), Artificial Intelligence Sandbox and other digital infrastructure.
+To manage and support startups, research institutes and private institutions.
+vi. Departments of Agriculture, Agricultural Universities, and Farmers / Farmer Producer Organizations, etc. Stakeholders
+Design and implement training programmes for capacity building.
+vii. Controlling and evaluating approved projects, developing dashboards for the same, and
+Assessment by third parties.
+viii. National Programmes (e.g. IndiaAI, Bhashini), International Financial Institution, Industry
+through strategic partnerships with social responsibility partners, etc.
+To promote innovation in coordination with investors. Digital initiatives under the department
+and exchange of knowledge, products and services in synergy with innovations.
+ix. Organizing the World Artificial Intelligence Conference and Investors Summit.
+5. In the Maharashtra Agro-Artical Intelligence Policy annexed at Annexure A and B to this Government Decision.
+As mentioned, the policy will be implemented in 4 phases.
+6. Artificial intelligence can provide diverse solutions to challenges in the agriculture sector, but each
+The funds, infrastructure, equipment required for the solution (IoTs, sensors, etc.) (a) and the government
+There may be different needs for collaboration, so a unified strategy for all types of solutions is needed.
+This policy allows projects to be supported according to flexible and specific needs, as is not possible.
+is being provided. A detailed description of the project implementation methodology is provided in the policy.
+A brief summary of what has been done is as follows:
+Determination of 6.1समस 's and projects:
+by interested organizations through an online portal through the Centre for Artificial Intelligence and Agritech Innovation.
+Proposals based on artificial intelligence will be invited as well as through hackathons.
+Innovations will be explored. The proposals received through this process are called "Innovations."
+The two groups are "Proposals for Incubation" and "Projects for Successful Technology Expansion."
+will be classified. Centre for Artificial Intelligence and Agritech Innovation for these proposals / projects
+Technical and Professional Assessments and their Reporting and Observations State Level Technical
+submitted to the committee.
+2.2 Feasibility Assessment (Technical and Professional):
+The technicalities of the project through subject matter experts from various fields in the State Level Technical Committee.
+The projects will be evaluated through a feasibility study by the commercial wing.
+Proposals for incubation of 6.2.1नवकल plants:
+The feasibility of new ideas, investments, outcomes, etc. will be evaluated. the State
+For incubation of viable innovations as per the recommendation of the Level Technical Committee.
+# Page 10
+Necessary guidance and funding will be provided. Similarly, after successful incubation
+Pilot projects will be undertaken for IoTs, Sensors
+etc.) Financial support will be provided. Developed after successful pilot projects
+The technology will be expanded extensively in the state in a phased manner.
+Expansion of the 6.2.2यशस V technology:
+Expanding the reach of successful technologies developed by various institutions.
+If the project is received, the state will verify the reliability and effectiveness of the technology.
+The level technical committee will recommend the widespread spread of that technology. under such a project.
+Direct Benefit Transfer (DBT) to farmers for adoption of technology by farmers.
+Subsidies will be paid.
+7. Maharashtra Agro- Artificial Intelligence Policy to be implemented with a total outlay of Rs. Rs 500 crore
+The provision is being approved and the policy is being reviewed and enhanced as required.
+provision will be made available.
+8. Necessary provision should be made per year for implementation of this policy with separate headings of accounts.
+9.सदर Government Decisions are available on the Government of Maharashtra website www.maharashtra.gov.in
+# Page 11
+# Page 12
+# Page 13
+# Page 14
+# Page 15
+# Page 16
+# Page 17
+# Page 18
+# Page 19
+# Page 20
+# Page 21
+# Page 22
+# Page 23
+# Page 24
+# Page 25
+# Page 26
+# Page 27
+# Page 28
+# Page 29
+# Page 30
+# Page 31
+# Page 32
+# Page 33
+# Page 34
+# Page 35
+# Page 36
+# Page 37
+# Page 38
+# Page 39
+# Page 40
+# Page 41
+# Page 42
+# Page 43
+# Page 44
+# Page 45
+# Page 46
+# Page 47
+# Page 48
+# Page 49
+# Page 50
+# Page 51
+# Page 52
+# Page 53
+# Page 54
+# Page 55
+# Page 56
+# Page 57
+# Page 58
+# Page 59
+# Page 60
+# Page 61
+# Page 62
+# Page 63
+# Page 64
+# Page 65
+# Page 66
+# Page 67
+# Page 68
+# Page 69
+# Page 70
+# Page 71
+# Page 72
+# Page 73
+# Page 74
+# Page 75
+# Page 76
+# Page 77
+# Page 78
+# Page 79
+# Page 80
+# Page 81
+# Page 82
+# Page 83
+# Page 84
+# Page 85
+# Page 86
+# Page 87
+# Page 88
+# Page 89
+# Page 90
+# Page 91
+# Page 92
+# Page 93
+# Page 94
+# Page 95
+# Page 96
+# Page 97
+# Page 98
+# Page 99
+# Page 100
+# Page 101
+# Page 102
+# Page 103
+# Page 104
+# Page 105
+# Page 106
+# Page 107
+# Page 108
+# Page 109
