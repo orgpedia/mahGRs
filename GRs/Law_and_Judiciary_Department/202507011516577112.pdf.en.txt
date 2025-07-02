@@ -1,0 +1,94 @@
+# Page 1
+in the judicial process of the courts
+For transparency and accessibility. the high
+Live at the Court, Mumbai and the Bench
+Starting a Streaming Facility
+Rs. 44,89,032 - For an offer of this amount
+to grant administrative approval.
+Government of Maharashtra
+Department of Law and Justice,
+Government Decision No: Narrow: 2025 / Q. No.29 / Q.7
+Madam Cama Marg, Martyrdom Rajguru Chowk,
+Mantralaya, Mumbai 400 032.
+Date: July 1, 2025.
+Reference: - 1) Central Project Coordinator, E-Courts Project, Md. High Court, Appellate Branch, Mumbai
+Letter dated 19th June, 2025, numbered Com. / Sec. / 142/2025.
+2) Department of Information and Technology. Comment on 23.06.2025.
+3) Central Project Coordinator, E-Courts Project, Ma. the High Court, Appellate Branch,
+Letter from Mumbai No. Com. / Sec. / 150/2025, dated: 24th June, 2025.
+4) Project Implementation Committee of the Department dated 26/06/2025
+History of the meeting.
+The Proposal: -
+In order to bring transparency and ease in the judicial process, Shri. The High Court of Bombay and
+Their benches heard the petition No. 1232/2017,
+Mr. Swapnil Tripathi Vs. The Supreme Court in this case. the Supreme Court
+Live streaming facility system. the High Court and its Benches, thereafter in the following stages
+The system was started by framing appropriate rules for implementation in other district courts.
+In order to do ma. The High Court of Bombay directed that action be taken as soon as possible.
+There are.
+The Supreme Court of India as well as several other state courts. Live in the High Court
+Streaming facility has been started. Live Streaming Facility Originally in Court
+It will be possible to watch the live telecast of the ongoing proceedings. the parties in their case. the high
+Court Arguments and Court Proceedings etc. through Live Streaming Facility
+can be seen. This will promote the principle of "justice at your doorstep." as well as related to government
+This system is also for the government to keep the government's side updated in cases and other matters.
+It will be useful.
+# Page 2
+Government Decision No: Narrow: 2025 / Q. No.29 / Q.7
+Petition No. 1232/2017, Mr. Swapnil Tripathi Vs. the Supreme Court or the Judicial
+The Central Project Coordination Committee, M / s. Reference by High Court, Bombay
+Shruti Visual Information without shopping process on GEM Portal vide letter No. 01 & 03
+Pvt. Ltd., Railtel Corporation of India and Techgentsia Software Technologies Pvt. M / S Techgentsia Software Technologies Pvt. Ltd. (Vconsol), Kerala, an L-1 company, has been selected for the Live Streaming Facility after vetting / vetting the proposals received from Ltd., Kerala. The Supreme Court of India is responsible for the live streaming facility. the high
+Since the court was assigned to Mumbai, Ma. The High Court of Bombay has jurisdiction over
+M / S Techgentsia Software Technologies Pvt. Ltd. (Vconsol), Kerala has decided to select the company as the Live Streaming Facility. Subject to the recommendations of the Department of Information Technology, Rs. 44,89,032 - (Rs. Forty-four lakh forty-nine thousand thirty-two Had) The proposal for the amount is referred to the Project Implementation Committee of the Department vide Reference No. It has been approved in the meeting on 4th.
+Yes, Ma. The High Court, Bombay and its Bench have approved a grant of Rs.1,000 crore from M / s Techgentsia Software Technologies Pvt. Ltd. (Vconsol), Kerala for setting up a BM Live Streaming Facility. 44,89,032 - Administrative approval of a proposal for such an amount is a matter for the Government
+is under consideration.
+The Government's Decisions:
+M / s Techgentsia Software Technologies Pvt. Ltd. is all set to set up a live streaming facility at the High Court of Judicature at Bombay and its Benches. Ltd. (Vconsol), Kerala for Rs. 44,89,032 - (Rs. Forty-four lakh forty-nine thousand thirty-two only)
+The following proposal for the amount is being given administrative approval.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Sr. No                                     | Description                                                                                                                                                                                                            | Unit Price including GST 18% (in Rupees) | No. of Court Rooms | Total Price including GST 18% (in Rupees) |
+| 1                                          | VCONSOL Virtual Courtroom (SaaS) Annual Subscription Fee Active Speakers at any time - 10 Passive Viewers at any time - 500 Live Streaming from the hybrid court rooms to RTMP based streaming platforms like YouTube. | 36,000/-                                 | 75 Courts          | 27,00,000/-                               |
+| VCONSOL Streaming cost Annual Subscription | 30,000/-                                                                                                                                                                                                               | 75 Courts                                | 22,50,000/-        |
+| 3                                          | Storage space for recorded video of the courtroom proceedings 1 TB of storage (1,000 Hours of                                                                                                                          | 1,62,480/-                               |                    | 1,62,480/-                                |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Page 2 of 4
+# Page 3
+Government Decision No: Narrow: 2025 / Q. No.29 / Q.7
+-----------------------------------------------------------------
+| video)- Annual Subscription |
+| _____                       |                  | 51, 12,480/- |
+| Special Discount            | 6,23,448/-       |
+| aa                          | Total Net Amount | 44,89,032/-  |
+-----------------------------------------------------------------
+Department of Information Technology Reference No. 02 here. According to the comment on 24.06.2025:
+In case of procurement, the department should take a decision at the department level in accordance with the procurement policy of the government.
+Instructions have been given. Accordingly, the Project Implementation Committee of the Department was constituted. 26.06.2025
+The above proposal has been approved in the meeting held today.
+3. Project Implementation Committee of the Department. Information at the meeting on 26.06.2025 and
+Live Streaming Facility subject to the following recommendations made by the representatives of the Department of Technology:
+Action should be taken.
+Technical Recommendations for - Virtual Courtroom Live Streaming for Citizens
+1. Frame Rate Optimization
+For live streaming, the video feed should support up to 30 frames per second (FPS) to ensure a smooth and clear viewing experience for citizens, especially during active court proceedings where lip-sync and gesture recognition are important.
+For recorded storage, the feed may be down sampled to 15-20 FPS. This helps optimize storage consumption and reduce recurring costs, without significantly compromising the integrity or review quality of archived footage.
+2. Secure Access and Data Transmission
+All user access to the platform should be facilitated via HTTPS (Hypertext Transfer Protocol Secure) to ensure end-to-end encryption. This will protect sensitive judicial content from unauthorized access or tampering.
+3. Access Control
+Enforce role-based access controls (RBAC) to ensure that only authorized users (e.g., general public, media, legal professionals) can access appropriate content streams, with varying levels of access depending on the sensitivity of the case.
+4. Audit Trails and Logging
+Maintain audit logs of all streaming and access events for accountability and traceability.
+Ensure logs are tamper-proof and stored in compliance with applicable data retention and judicial IT policies.
+Page 3 of 4
+# Page 4
+Government Decision No: Narrow: 2025 / Q. No.29 / Q.7
+4. Subsequent expenditure "Demand No. J-2, 2052 Secretariat General Services, (00) Law and Justice
+Department, (00) (02) Provision for implementation of e-Governance Project (2052 5116) under the heading
+17 Computing expenses to be met from the provision available in the financial year 2025-26 under the scheme.
+Come.
+5. The said Government Decision Government Decision No. v. 2013 / Q. No. 30/2013 Regulations,
+Financial Rights Rules, 1978 under Part-II, dated 17th April, 2015 Part-I Sub-Division-II
+In A. No.27 (a) Rule No. Provided to the Administrative Divisions under section 76
+Is being issued as per authority.
+Orders regarding funds will be issued separately accordingly.
+The decision is available on the Government of Maharashtra's www.maharashtra.gov.inय website.
