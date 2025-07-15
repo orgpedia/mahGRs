@@ -1,0 +1,33 @@
+# Page 1
+User Acceptance Test (UAT) of WhatsApp-based features for online service delivery.
+Government of Maharashtra
+General Administration Department (Information Technology)
+Government Decision No. Narrow-1725 / P.No.165 / MATS
+Martyr Rajguru Chowk, Madam Cama Marg,
+Mantralaya, Mumbai - 400 032.
+Date: 14th July 2025
+The Proposal:
+In collaboration with the Directorate of Information Technology and WhatsApp India, the Government of Maharashtra
+The issue of making online services of various departments available to citizens on the WhatsApp platform
+It was under the consideration of the government.
+The Government's Decisions:
+The online services can be availed by citizens from wherever they are through WhatsApp.
+To make it available, the Directorate of Information Technology and WhatsApp India launched a new
+WhatsApp-based service has been developed. by making these services available for use by citizens.
+Make sure those services are efficient, citizen-oriented, and run accurately before offering them.
+To do this, you need to perform User Acceptance Testing (UAT).
+For this purpose, the following committee is being constituted.
+----------------------------------------------------------------------------------------------------------------------------------------
+| 1) | Principal Secretary (Cooperation), Department of Cooperative Marketing and Textiles, Mantralaya, Mumbai. | The President's      |
+| 2) | Director, Directorate of Information Technology, Mumbai                                                  | The member's         |
+| 3) | Managing Director, Maharashtra Information Technology Corporation, Mumbai.                               | The member's         |
+| 4) | Deputy Secretary, Department of Finance, Mantralaya, Mumbai.                                             | The member's         |
+| 5) | Deputy Secretary, Planning Department, Mantralaya, Mumbai.                                               | The member's         |
+| 6) | Representative (Technical Officer) WhatsApp India                                                        | The member's         |
+| 7) | Mr. Vijay Patil, Directorate of Information Technology (DIT)                                             | the Member-Secretary |
+----------------------------------------------------------------------------------------------------------------------------------------
+3. Free online services to be provided to citizens through WhatsApp.
+The committee should make sure that it works or not.
+# Page 2
+Government Decision Number: Narrow-1725 / Q. No.165 / Mothers
+4. This Government Decision is available on the Government of Maharashtra website www.maharashtra.gov.in.
