@@ -1,0 +1,131 @@
+# Page 1
+Synergy of sanctioned posts in the service system
+Withdrawal and Distribution in Consequence of Receipt
+Officers as well as Administrative Departments
+As for the action to be taken...
+Government of Maharashtra
+the Finance Department
+Government Circular No.Synchronous-2022 / Q.No.29 / Treasury No.4
+3rd Floor, Hall No.339, Madame Cama Marg
+Martyr Rajguru Chowk, Mumbai 400 032
+Date: August 6, 2025.
+Read: - 1. Government of Maharashtra, Finance Department, Government Decisions, No. Narrow 1007 / Q. No. 112 / Part IV / Treasury Department. 5,
+d. 26.11.2012.
+Government of Maharashtra, Department of Finance, Government Circular No.
+d. 6.4.2025.
+The Proposal:
+a) All withdrawals to take action regarding data porting while developing a new service system; and
+Update the information in the service system currently in operation for the delivery officers.
+Read on to know - 2 Circulars here instruct you to update system information
+has been done.
+b) To carry out the next phase of data porting operations in the new service system, currently operational
+The current number of positions and designations in the existing service system, as reviewed, as well as the nearest
+It is necessary to ensure that the revised government is in accordance with the decision.
+e) The above action as laid down in the 150-day action plan of the State Government.
+is being proposed. Also at present, the integration of the service system is done by the General Administration Department.
+This has been done with the proposed e-HRMS system. So
+The above actions are going to help in keeping the information of the service system very accurate.
+e) Also the budget of the government, held by the state government during the monsoon and winter sessions.
+Information from the members of the Legislative Assembly / Legislative Council about the sanctioned posts, vacancies and filled posts.
+It is being asked. The aforesaid proceedings will enable accurate information to be furnished to the House.
+Hence, all withdrawals and disbursements in line with the harmonisation of sanctioned posts in the service system.
+Dissemination of instructions regarding action to be taken by the officers as well as all the administrative departments.
+The government was concerned.
+# Page 2
+Government Circular No.: Nos.2002 / Q.29 / Treasury No.4
+Government circular:
+Pursuant to the said proposal, all the Drawing and Disbursing Officers as well as all the Administrative Departments shall
+Following are the instructions on the action to be taken.
+1) Proceedings to be taken by the Drawing and Distributing Officers:
+1.1. Drawing and Disbursing Officers on the service system as per the approved format in respect of their office.
+Total number of sanctioned (permanent / temporary) posts in the tab Entry of Posts at Asst login filled
+Check. Similarly, the number of employees in the service system is calculated by the 5-91-1 of the positions and payroll.
+There should be a balance between the number of employees employed and the positions. Found in this rhythm
+Employees as well as positions that are on the service system, but not on the payroll, are among the positions listed below.
+It should be discerned in what form they break down.
+a) Retired / Voluntary Retired / Dead / Retired / Resigned at the prescribed age
+the officer / staff given,
+b) Officers / staff on deputation,
+e) Officers / staff who have been transferred but not been traced from the service system,
+e) Officers / staff who have been replaced but not attached to the service system,
+a) Because the post is vacant,
+f) Also those whose salary was earlier being drawn under the target of 01 salary but now
+Their Industrial 10 Contractual Services are the posts that are done under this objective.
+should be done.
+1.2) The number of employees on the payroll and the number in the system, eliminating the gap caused by the above type
+The following steps should be taken when making a determination.
+i. Retirement / Voluntary Retirement / Deceased / Retired at the prescribed age (End of Service <unk> Asst. the login).
+ii. gone on deputation, transferred to another office but Detached from service system
+Detach employees who are not. (Relieving of employee, if relieved on
+Deputation then entered Deputation office details, Or if relieve but No office
+allotted then Detach with Entering Own office DDO Code).
+iii. Attach employees who have changed but are not attached to the service system.
+(Joining of Employee)
+iv. The number of vacancies that remain thereafter should be fixed.
+Page 2 of 6
+# Page 3
+Government Circular No.: Nos.2002 / Q.29 / Treasury No.4
+(2) The action to be taken by the Administrative Departments:
+2.1.1 The Drawing and Disbursing Officers have completed the proceedings mentioned in the above paragraph.
+Thereafter, permanent / temporary as per the specified login provided to them by the administrative departments.
+The number of posts should be decided as per the pattern / decision of the government of the posts. (Figure-wise lower positions
+Should be filled in full if filled, as well as having more posts than the figure.
+If noticed, delete additional posts from the specified login provided.
+to come).
+2.2. Read above- 1. Finance Department, Government of India, by decision, of sanctioned posts in the service system.
+Only the Secretaries of Administrative Departments will have the power to fill in the information. As well as the right to
+the Secretary to any officer of the rank of Deputy Secretary or above in his administrative division.
+Instructions have been given that they can be extradited. the administrative divisions subordinate to their
+Service for the office of Drawing and Disbursing Officer as per the existing zonal department.
+To elaborate the procedure for filling up the posts sanctioned as per the decision of the Government in the system.
+It has come. To fill up the information of these sanctioned posts, all the administrative divisions have to be filled up as per the zonal divisions.
+A specific login has been created.
+2.3) The administrative division shall be assigned a specific login in the zonal division-wise format.
+All Subordinate Zonal Department wise, Treasury wise as well as Drawing and Disbursing Officers
+Information on approved positions has been made available.
+2.4) This information may be obtained as follows. Click on the tab ReportsSanctioned <unk> Post Reports on the home page. Then click on Department <unk> Select DepartmentSelect <unk> <unk> Field DepartmentSelect Financial YearClick on Generate Report after generating the report in the name shown under Name of the Field Department.
+Click (on Hyperlink). Then the treasury offices subordinate to that department.
+Names will be available. Clicking on the name of each Treasury is subject to that Treasury's
+The names of the existing Drawing and Distributing Officers are as per the Drawing and Distributing Officer No.
+The approvals so recorded in the office of each Drawing and Distributing Officer shall be,
+Information will be available on positions filled as well as vacancies.
+2.5) The Administrative Department shall, in accordance with this information, propose proceedings and review the posts.
+Make sure that the relevant logins are available in the issuing and discharging authorities' logins.
+should do.
+2.6) It has also been observed that many administrative divisions are subordinate to
+The Drawing and Disbursing Officer is wrongfully subordinate to or similar to other administrative divisions.
+In other zonal offices of the administrative division, the services are registered in the system.
+Page 3 of 6
+# Page 4
+Government Circular No.: Nos.2002 / Q.29 / Treasury No.4
+2.7) Click on the tab ReportsSanctioned <unk> Post Reports from the login specified by the field department for all administrative divisions.
+Then click on Department <unk> <unk> <unk> Select DepartmentSelect Field DepartmentSelect Financial YearClick <unk> on Generate Report Report After generating the Name of the Field
+Click on the name (hyperlink) shown under Department. After that, the department
+The names of the subordinate treasury offices will be available. In the name of each treasury
+Click on the names of the Drawing and Disbursing Officers under that Treasury.
+The Drawing and Disbursing Officer will be received as per the number.
+2. 8) The Drawing and Disbursing Officer is wrongfully subordinate to the concerned department or the same.
+If the amendment is registered with any other Regional Office of the Administrative Department,
+The departments concerned shall do so with the exact name of the administrative division and zonal office as well.
+The Director of Information, Accounts and Treasuries, Mumbai with Drawing and Disbursing Officer Indicators.
+The service should be sent to the branch for correction.
+2.9) of the respective Drawing and Disbursing Officers of the posts as reviewed by the Administrative Department.
+After verifying availability in the login, the following certificate is required for the relevant withdrawal and
+The certificate should be signed by the Distributing Officer and the Drawing and Distributing Officer.
+Signature of the concerned officer and submit to the treasury the payment of salary in addition to the payment of salary.
+should be done.
+Certificate
+It is certified that the Drawing and Disbursing Officer Indicator No.
+Name of the office and all the posts available in the system for the service of the office.
+It has been ensured that the Governments are correct in their decisions / reviews.
+Name of the Administrative Department of the Ministry: -
+Name and designation of the officer giving the certificate: -
+Signature
+10) In case of non-completion of the aforesaid proceedings, the month of September of the concerned Drawing and Disbursing Officer.
+2025 Payments Monthly Payments for October 2025 to Subsidiary & Accounts Office, Treasury /
+will not be accepted in the subcategory.
+Page 4 of 6
+# Page 5
+Government Circular No.: Nos.2002 / Q.29 / Treasury No.4
+This Government Circular is available on the website of the Government of Maharashtra www.maharashtra.gov.in.
+# Page 6
