@@ -1,0 +1,87 @@
+# Page 1
+State for the year 2025-26 or financial year
+Under the e-governance programme, Rs. 15.8493 crores
+about distributing so much money.
+Government of Maharashtra
+Department of Agriculture, Animal Husbandry, Dairying Development and Fisheries
+Government Decision Number: E-Gov-2025 / Q. 123/13 -A
+Madam Cama Marg, Martyr Rajguru Chowk,
+Mantralaya, Mumbai - 400 032.
+Date: July 22, 2025.
+Reference-1) Government Decision of the General Administration Department No. GADIT 080/4/2014 - O / O
+Directorate of IT-DIT (MH). 05.10.2023
+2) Department of Finance, Government Circular No. Finance-2025 / No.44 / Finance-3,
+d. 07.04.2025
+3) The minutes of the Project Implementation Committee meeting. 26.05.2025
+4) Commissioner (Agriculture), Agriculture Commissionerate Pune No. / KRA / No. P / E-Gov (25-26) /
+3451-2782/10293 2025, d. 07.05.2025.
+5) Commissioner (Agriculture), Agriculture Commissionerate Pune No. / KRA / No. P / E-Gov (25-26) /
+3451 - 2782 / t - 80/2025, d. 09.06.2025.
+6) Government Decision No: E-Gov-2025 / Q. 123/13 - A, D. 25 . 06.2025
+The Proposal: -
+The Ministry of Agriculture and Padum Department (itself) as well as the Agriculture Commissionerate and Subordinate Offices.
+The state e-governance programme is implemented to strengthen computerisation.
+e-Governance through the Department of Agriculture, Animal Husbandry, Dairying and Fisheries (itself) and the Commissionerate of Agriculture
+Various activities are carried out under the program, as well as various activities are planned.
+Under this scheme, a certain amount is sanctioned annually by the state government and the amount is sanctioned.
+The amount was distributed to the Department of Agriculture (itself) as well as the Agriculture Commissionerate, Pune as per requirement.
+is done.
+The e-governance programme is a sub-scheme of the scheme. In the financial year 2025-26
+A total of ₹100.00 crore has been budgeted for the scheme (3451 2782). Reference No. 6
+Mentioned here. In the financial year 2025-2026 as decided by the Government on 25.06.2025
+The State e-Governance Programme will be implemented at a cost of Rs. 25.1298 - Administrative approval within the limit of Rs.
+has been provided. Accordingly, the government is taking the following decisions.
+The Government's Decisions:
+1. To implement the e-governance programme in this financial year.
+Rs. 15.8493 Crore (Rupees Fifteen Crore Eighty Four Lakh Ninety Three Thousand) Fund Agriculture Commissionerate, Pune
+They are being distributed through this. The case-wise cost of disbursement of these funds is as follows:
+It is mentioned that: -
+# Page 2
+Government Decision Number: E-Gov-2025 / Q. 123/13 -A
+(Rs. in Lakhs)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| A. No.                                                                                                                                                                    | Cost issue                                                                                                                                                                                                                                                                                                                                                                            | Funds to be distributed |
+| a) Matters payable to MahaIT Mumbai                                                                                                                                       |
+| 1                                                                                                                                                                         | a) IT Application Development / Management / Maintenance under Department of Agriculture - 8 for manpower                                                                                                                                                                                                                                                                             | 100.00                  |
+| b) IT Application Development / Management / Maintenance under Department of Agriculture - For additional 4 manpower (for 5 months)                                       | 24.43                                                                                                                                                                                                                                                                                                                                                                                 |
+| c) 6 for IT application development at Agriculture Commissionerate level, 1 for control of computer system development work and 1 for cloud management (total 8 manpower) | 100.00                                                                                                                                                                                                                                                                                                                                                                                |
+| 2                                                                                                                                                                         | Paying advance service charge to MahaIT Mumbai for FMS team for hardware maintenance and repair.                                                                                                                                                                                                                                                                                      | 52.10                   |
+| 3                                                                                                                                                                         | a) The remaining 50 of the portal development amount for fund allocation under the Namo Kisan scheme                                                                                                                                                                                                                                                                                  | 00.00                   |
+| b) Maintenance charges of Namo Farmers System                                                                                                                             | 46.88                                                                                                                                                                                                                                                                                                                                                                                 |
+| a) Namo Cloud Management                                                                                                                                                  | 60.00                                                                                                                                                                                                                                                                                                                                                                                 |
+| 4                                                                                                                                                                         | Contractual manpower for e-office system implementation                                                                                                                                                                                                                                                                                                                               | 10.12                   |
+| Total (a)                                                                                                                                                                 | 393.53                                                                                                                                                                                                                                                                                                                                                                                |
+| b) At the level of Agriculture Commissionerate                                                                                                                            |
+| 5                                                                                                                                                                         | Procurement of Hardware-Computers for Regional Level and Office at Agriculture Commissionerate, 9) 5 - 1 1. Scanners                                                                                                                                                                                                                                                                  | 500.00                  |
+| 6                                                                                                                                                                         | Payment of services (toner refilling, printer repair, biometric, etc.) provided in day-to-day operations for Agriculture Commissionerate level offices and purchase of repair / maintenance materials (UPS, batteries, inverters, network cable, network switch, network materials, printer cartage, printers parts, pen drive, hard disk, RAM, biometrics machines, antivirus, etc.) | 10.00                   |
+| 7                                                                                                                                                                         | Connectivity - Commissionerate level networking, connectivity upfront payments, payments regarding Wi-Fi router for providing broadband services, firewall purchase / renewal, parallel leased line facility, MS team, Gmail, Zoom meeting licenses purchase / renewal and related material purchase                                                                                  | 00.00                   |
+| 8                                                                                                                                                                         | Payment of service charges in respect of cloud management, security audit, SSL certificates, etc. for the mandate of the Department of Agriculture.                                                                                                                                                                                                                                   | 71.40                   |
+| 9                                                                                                                                                                         | IT Consultant Technical Manpower Services                                                                                                                                                                                                                                                                                                                                             | 100.00                  |
+| The total (b)                                                                                                                                                             | 681.40                                                                                                                                                                                                                                                                                                                                                                                |
+| Total (a) + (b)                                                                                                                                                           | 1074.93                                                                                                                                                                                                                                                                                                                                                                               |
+| (a)                                                                                                                                                                       | Service charge under Maha Agritech project                                                                                                                                                                                                                                                                                                                                            | 500.00                  |
+| Total (A + B + C)                                                                                                                                                         | 1574.93                                                                                                                                                                                                                                                                                                                                                                               |
+| (d)                                                                                                                                                                       | 1 percent of incidental expenses                                                                                                                                                                                                                                                                                                                                                      | 10.00                   |
+| Total Demand for Grants (A + B + C + D)                                                                                                                                   | 1584.93                                                                                                                                                                                                                                                                                                                                                                               |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Page 2 of 4
+# Page 3
+Government Decision Number: E-Gov-2025 / Q. 123/13 -A
+2. Distributed through Rs. 15.8493 crores (fifteen crore eighty four lakh ninety three thousand only)
+The funds should be spent from the budgetary provision for the year 2025-26 under the following headings: -
+"Demand No. The D-7
+3451 Secretariat - Financial Services,
+Schemes under the Five-Year Plan
+(2) The plan
+(02) (04) Implementation of e-Governance Programme
+(Agriculture) (3451 2782), 17 Computer Expenses
+Funds disbursed under the said Government Decision, Withdrawal and Distribution from the Treasury
+Controller and Assistant Director to the Commissioner (Agriculture), State of Maharashtra, Pune
+(Account-1), Agriculture Commissionerate, Pune to be declared as Drawing and Disbursing Officer.
+It's coming.
+The said Government Decision was taken by the Informal Reference No. 265/2025 Expenditure - 1,
+D. 15.07.2025 and Government Circular Economy-2025 / Q. No.44 / Meaning-
+3, D. In issuing as per the powers conferred on the Department under 07.04.2025
+It's coming.
+This Government decision is available on the website of the Government of Maharashtra www.maharashtra.gov.in.
+# Page 4
