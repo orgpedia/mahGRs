@@ -1,0 +1,185 @@
+# Page 1
+Administrative approval for procurement of new computers, printers and scanners for the Department of Public Health (itself) through GeM portal through prescribed bidding process.
+Government of Maharashtra
+Department of Public Health
+Government Decision Number: -Synchronous-2024 / Q.No.13 / Registration Branch
+10th Floor, GoT Hospital Complex
+Lokmanya Tilak Marg, Mumbai - 400001
+Date: 9th September, 2025
+Read: -
+1) Government Decision No.: Finance Department Government Decision No. v. 2013 / Q. No. 30/2013 Regulations, Part-II, D. 17/04/2015.
+2) Government Decision No.: Department of Industry, Power and Labour Government Decision No. Narrow-2016 / P.No.215 / Industries-4, D. 24.08.2017 3) Government Decision No.: Department of Industry, Energy and Labour Government Decision No. Bhakans -
+2021 / Q. No.8 / Industries-4, D. 07.05.2021
+4) Government Decision No. - Department of Public Health, No. Narrow - 2024 / P.No.13 / Registry Branch, D. 05.06.2025
+The Proposal: -
+The government has decided to implement the e-office system effectively in the administrative divisions of the ministry and the process of implementation has started accordingly.
+Accordingly, the Government was contemplating the procurement of new computers, printers and scanners for implementation of e-office system for the Department of Public Health (itself) through bidding process through GeM portal.
+The Government's Decisions:
+The 28 new computers, 10 printers and 25 scanners for the Department of Public Health (itself) have been awarded at an estimated cost of Rs. Administrative approval is being granted for procurement of such an amount as 45.84 lakh subject to the following conditions and as per the instructions issued by the Department of Information Technology.
+# Page 2
+Government Decision Number: Nos. 2024 / Q. 13 / Registration Branch
+Terms and Conditions: -
+1. a computer specification
+Generalized specification table for an All-in-One (AIO) desktop that typically
+qualifies max OEMs with examples for explanation/understanding
+------------------------------------------------------------------------------------------------------------------------------
+| ie S =) 2 Ha                                                    | Specification                                       |
+| Intel Core 15/17 12th or 13th Gen or AMD Ryzen 5 5000 series or |
+| - 02 N 8. "                                                     |
+| better                                                          |
+|                                                                 |
+|                                                                 |
+| 2 OD ar =) & 6                                                  |
+| =                                                               |  - < 4 Bl >                                         |  5 |
+|                                                                 |
+| Display                                                         | 23.5 "-23.8" FHD (1920x1080), Anti-glare, IPS panel |
+| a 7 int a                                                       |
+|                                                                 |
+| 2 = z = =) = a. I =) ve                                         | Gigabit Ethernet, W1-Fi 6, Bluetooth 5.0 or higher  |
+| Min. 4 USB (incl. 2 USB 3.0/3.1), HDMI/DP, RJ-45, audio combo   |
+| Ports                                                           |
+| jack                                                            |
+|                                                                 |
+| Webcam                                                          | Integrated HD or FHD Webcam                         |
+| EE WAD = S LAE A, Re                                            |
+|                                                                 |
+|                                                                 |
+|                                                                 |
+| S                                                               |  E - = (re DN J MN a on (qe):                       |
+| = me o o o o o DN = ln o o                                      |
+| N a) €> = a} bol = < <                                          |
+------------------------------------------------------------------------------------------------------------------------------
+Page 2 of 6
+# Page 3
+Government Decision Number: Nos. 2024 / Q. 13 / Registration Branch
+------------------------------------------------------------------
+| Certifications | BIS, Energy Star, ISO 9001 & 14001 for OEM    |
+| Antivirus      | 3-year license                                |
+| Warranty       | Minimum 3 years onsite comprehensive warranty |
+------------------------------------------------------------------
+b) Specifications regarding printers
+printer specification are as below:
+------------------------------------------------------------------------------------------------------------------------------
+|                                                            |
+| Category                                                   | Specification                                                 |
+|                                                            |
+|                                                            |
+| Functionality                                              | Print, Scan, Copy (Fax optional)                              |
+|                                                            |
+|                                                            |
+| Print Technology                                           | InkJet or Laser                                               |
+|                                                            |
+|                                                            |
+| Type of Printing                                           | Monochrome or Color                                           |
+|                                                            |
+| Minimum 600 x 600 dpi; up to 2400 x 1200 dpi (for high-end |
+| Print Resolution                                           |
+| inkjets)                                                   |
+|                                                            |
+|                                                            |
+|                                                            |
+|                                                            |
+|                                                            |
+|                                                            |
+|                                                            |
+|                                                            |
+|                                                            |
+|                                                            |
+|                                                            |
+|                                                            |
+|                                                            |
+| ADF (Automatic                                             |
+| Optional; 20-50 sheet capacity                             |
+| Document Feeder)                                           |
+|                                                            |
+|                                                            |
+|                                                            |
+|                                                            |
+|                                                            |
+|                                                            |
+|                                                            |
+|                                                            |
+|                                                            |
+|                                                            |
+|                                                            |
+|                                                            |
+|                                                            |
+|                                                            |
+| Monthly Duty Cycle                                         | InkJet: ~ 1,000 - 5,000 pages; Laser: ~ 10,000 - 50,000 pages |
+|                                                            |
+|                                                            |
+| Black: ~ 1,000 - 3,000 pages; Color: ~ 700 - 2,000 pages   |
+|                                                            |
+|                                                            |
+|                                                            |
+|                                                            |
+|                                                            |
+|                                                            |
+|                                                            |
+|                                                            |
+|                                                            |
+|                                                            |
+|                                                            |
+------------------------------------------------------------------------------------------------------------------------------
+Page 3 of 6
+# Page 4
+Government Decision Number: Nos. 2024 / Q. 13 / Registration Branch
+-------------------------------------------------------------
+| Minimum 3-Year On-site or Carry-in Warranty; Preferred 5- |
+| Warranty                                                  |
+| Year On-site Warranty                                     |
+|                                                           |
+-------------------------------------------------------------
+a) Charra Specification
+Scanner Technical Specifications (Vendor -- Neutral, GeM-compliant)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Parameter                    | Specification Requirement                                       |
+| Scanner Type                 | Sheet-fed. Automatic Document Feeder (ADF)                      |
+| Scanning Technology          | CIS or CCD                                                      |
+| Functionality                | Dedicated scanner (Not multifunction printer) for bulk scanning |
+| Scan Speed                   | Minimum 40 PPM (pages per minute)/80 IPM (Impages per Minute)   |
+| ADF Capacity                 | Minimum 80 sheets                                               |
+| Optical Resolution           | Minimum 600 dpi                                                 |
+| Daily Duty Cycle             | Minimum 4000 pages per day                                      |
+| Supported Media Sizes        | A4, A5, Letter, Legal                                           |
+| Supported Media Types        | Plain paper, recycled paper, card stock                         |
+| Duplex Scanning              | Automatic (Single-pass duplex)                                  |
+| Connectivity Options         | USB 3.0 or higher; optional Ethernet /W1-Fi                     |
+| File Format Support          | PDF,JPEG,TIFF,PNG.BMP                                           |
+| Bundled Software Features    |                                                                 |  OCR (Optical Character Recognition), batch scanning, auto- crop, de-skew, blank page removal |
+| Operating System Compability | Windows 10/11,Linux                                             |
+|                              |
+|                              |
+|                              |
+|                              |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Page 4 of 6
+# Page 5
+Government Decision Number: Nos. 2024 / Q. 13 / Registration Branch
+-------------------------------------------------------------------------------------------------
+| Brand Neutrality  |   | Specifications are generic and not tied to any specific brand or model |
+-------------------------------------------------------------------------------------------------
+The Procurement Industries, Power and Labour Department, Government Decision No. Narrow-2016 / No.215 / Industries-4, D. 24.08.2017 as well as Department of Industries, Power and Labour, Government Decision No. Bhankhas-2021 / P.No.8 / Udyog-4, D. This will be done by following the prescribed procedure from the GeM portal as mentioned in the 07.05.2021.
+3. The estimated cost of the purchase is Rs. The 45.84 is the amount of the consideration and the expenditure will be subtracted from the approved provision under 3 different heads of accounts of the following departments through the approved grant of the year 2025-26.
+a) Demand No. R-2,
+OO
+090, Secretariat
+(1) The Ministry
+(01) (01) Public Health (22510418)
+17, computer costs.
+There is a provision of Rs.6.18 lakh under this and this provision is fully pending.
+b) Demand No. R-2, (01) (03) Family Welfare Cell of the Ministry (100% Centrally Sponsored Scheme) (Programme) (22510187) 17, Computer Expenditure
+Out of the provision of Rs.10 lakh, Rs.1.58 lakh has been spent and the balance amount is Rs.8.42 lakh.
+a) Demand No. R-2,
+(01)(04)
+Online e-Seva (Programme) under e-Governance (22510697)
+17, computer costs.
+An amount of Rs.40 lakh is provided under this and this provision is fully available.
+4. The said Decision Finance Department Government Decision No. 2013 / Q. 30/2013 Regulations,
+Part II, d. 17.04.2015, Financial Rights Manual 1978, Part-I,
+Page 5 of 6
+# Page 6
+Government Decision Number: Nos. 2024 / Q. 13 / Registration Branch
+The serial number 27-A in sub-section-2, rule no. Provided to the Administrative Department in accordance with section 76
+is being issued according to the authority exercised.
+The decision is available on the Government of Maharashtra's www.maharashtra.gov.in website.
