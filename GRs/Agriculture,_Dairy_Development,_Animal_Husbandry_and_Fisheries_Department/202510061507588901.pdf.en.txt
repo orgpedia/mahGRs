@@ -1,0 +1,54 @@
+# Page 1
+First for beneficiary selection on MahaDBT system
+First-come-first-served
+about the implementation of the served-FCFS) system.
+Government of Maharashtra
+Department of Agriculture, Animal Husbandry, Dairying and Fisheries
+Government Decision No. DBT-0325 / Q. 59/14 -A
+Madam Cama Marg, Martyrdom Rajguru Chowk,
+Mantralaya, Mumbai-32.
+Date: October 6, 2025
+Reference: 1. Department of Agriculture and Padum, Government Decision No. Narrow - 0919 / Q. No. 221/14 -A, D. 04.11.2020
+Commissioner of Agriculture, Commissionerate of Agriculture, Pune, S.R.A / No.P. / MahaDBT Lottery / 5410/2025,
+d. 08.03.2025
+The Proposal:
+Transparent selection and mobilization of beneficiaries under various components of the agriculture sector.
+In accepting benefits through MahaDBT system with effect from July, 2019 for payment of benefits in a systematic manner.
+had arrived. Amount of subsidy available after farmers apply on MahaDBT portal
+The farmers will be selected through lottery and the necessary process will be done at various stages on the portal.
+Benefits are given to the beneficiaries. In the last 5 years, the process of providing benefits to the beneficiaries in this manner has been going on.
+It has been observed that there is a need to improve the functioning.
+Accordingly, in the MahaDBT system, transparency in beneficiary selection and disbursement of benefits.
+First-come-first-served (FCFS) is the operating system, rather than the lottery system, to keep up with the momentum.
+The implementation was under the consideration of the Government, and accordingly, the Government is taking the following decisions.
+The government's decision:
+Transparency in Beneficiary Selection in the MahaDBT System Acceleration in Benefit Delivery
+First-come-first-served (FCFS) is a replacement for the existing lottery operating system for survival.
+The operating system. Implementation is being approved by this Government Decision with effect from 01.04.2025. or
+The instructions for the procedure are as follows. : -
+The applications that are pending at the end of today on Maha DBT will be the first to come first.
+Priority (FCFS) systems will be considered.
+# Page 2
+Government Decision Number: DBT-0325 / Q. 59/14 -A
+Beneficiaries who submit false, falsified documents while being covered by this process.
+or try to take advantage of them by misguiding them, their benefit is recoverable.
+will be done. Their Aadhaar and Farmer ID for the next 5 years will be provided by the Agriculture Department.
+Will be blocked for plans.
+3. The beneficiary shall be entitled to the benefit of the component for which the beneficiary will be selected.
+It is expected to take at least 3 years thereafter. Taking advantage of the time limit
+If not, the subsidy is recoverable in case of misuse of the subsidized component.
+Aadhaar card and Farmer ID of such beneficiaries for all schemes of the Department of Agriculture.
+It will be blocked for the next 3 years.
+4. The taluka shall be the component of the target allocation in the general category. as well as scheduled
+The district will remain a component of the target allocation for the caste / tribe category as well as the disabled category.
+5. G documents e.g. 7/12 and 8A, caste certificate, of different departments of the government
+Documents that are available on the online portal will be available through the API.
+Necessary facilities can be provided. Available on the portal through T., Mumbai
+will be made.
+6. Serial list of farmers who have applied Maha DBT Portal, Department Website
+It will also be available through all other means.
+7. After prior approval of the eligible application for the benefit, the beneficiary concerned shall do so within the prescribed time limit.
+In case of non-receipt, his application is cancelled by sending a message to cancel his application.
+The application will not be considered in that financial year.
+The decision is available on the Government of Maharashtra's www.maharashtra.gov.in website.
+# Page 3
