@@ -1,0 +1,55 @@
+# Page 1
+Geo of all schools in the state
+about tagging.
+Government of Maharashtra
+Department of School Education and Sports
+Government Circular No: -EGV-2025 / Q.No.7 / Computer
+Madam Cama Road, Martyrdom Rajguru Chowk,
+Mantralaya, Mumbai - 400 032.
+Date: 23rd April, 2025
+Reference: -
+Department of School Education and Sports and Maharashtra Remote Sensing Application Centre
+D. Agreement dated 04.02.2025
+The Proposal: -
+Detailed information about all the schools in the state is available on the central government's UDISE plus portal.
+Available, it contains various information about schools such as number of students, number of teachers, schools.
+Available physical facilities, computer facilities, etc. are available on the portal.
+Design and implement various policies / programmes at the government level.
+It happens. However, other information for the formulation and implementation of policies such as
+Location of village, ward, settlement, density of population as well as available district,
+State Highways / Highways, National Highways, Distances between two schools, Government other near schools
+The department did not have the information about the facilities available by the departments at the moment.
+2. Maharashtra Remote Sensing Application Centre (MRSAC) to address this shortcoming.
+with the institution. The contract has been signed on 04.02.2025. So available to MRSAC
+Information about various departments and information about school education departments on the UDISE plus portal.
+This information will be aggregated and made available on a separate dashboard. or
+The information will be used for the formulation of various schemes related to the school education department and
+will be implemented. An agreement to this effect has been signed.
+3. Maharashtra Remote Sensing Application Centre for all in the School Education Department.
+Geospatial by tagging the physical location of the type of schools with a photograph.
+Technology) Mobile App to collect all information: "Maha School GIS" App
+has been developed. The app was launched by Ma. The Cabinet of Ministers. 22.4.2025 of the day
+At the meeting, The Chief Minister was felicitated. the respective schools.
+The principal should issue instructions on the further course of action to be taken in this regard.
+It was under the consideration of the government.
+Government Circular: -
+The Maharashtra Remote Sensing Application Centre has been set up by the Department of School Education, Government of Maharashtra.
+Geospatial by tagging the physical location of the type of schools with a photograph.
+Technology) Mobile App to collect all information: "Maha School GIS" App
+has been developed.
+# Page 2
+Government Circular No: EGOV-2025 / Q.No.7 / Computer
+In this app, schools will be asked to enter their UIDAI code or the respective schools in UIDAI Plus.
+One has to login by entering the mobile number entered by the principal. And then the school's
+The app will show the information you entered in Udyus Plus. Then the GIS location of the school (Latitude)
+& Longitude with time stamp) Capture the name of the school, the entire building of the school, the kitchen shed,
+Including a total of 5 photos: boys and girls toilet facilities, drinking water facilities, etc.
+The school has to fill out the information.
+3. While filling the application regarding this information, the concerned headmaster did the same on the school premises.
+Care should be taken to be present and update photos / information.
+4. Provide this information on the relevant app. Must be updated before April 30, 2025.
+5. Ensure that this information is being filled in by all schools.
+They should do it.
+6. Commissioner of Administrative Instruction as may be necessary in pursuance of the completion of the proceedings within the prescribed time frame,
+Education should be issued by the State of Maharashtra, Pune.
+7. This Government Circular is available on the website of the Government of Maharashtra www.maharashtra.gov.in.
