@@ -1,0 +1,169 @@
+# Page 1
+Maha eHRMS under Digitization
+Digital physical service books in the system
+guidelines for doing so.
+Government of Maharashtra
+the General Administration Department
+Government Circular No. Narrow-2025 / P.No.45 / MASTA
+Madam Cama Marg, Martyrdom Rajguru Chowk,
+Mantralaya, Mumbai - 400 032.
+Date: October 20, 2025
+Read: Government Circular, Department of General Administration, No.
+Dated 20th June, 2025 (Instructions on Preparation of Maha eHRMS System)
+The Proposal: -
+1. Service of State Government officers and employees "from appointment to retirement."
+Finance through the General Administration Department to automate procedures and procedures on matters.
+Maha eHRMS (Human Resource Management) in coordination with Departments and IT Departments
+system) is being revamped and re-developed. Thus, the benefits of the service and
+It will be possible to pay retirement benefits on time and easily.
+2. "Maha-Aastha" mentioned in the instructions given by the circular under reference.
+The system will now be known as "Maha eHRMS" system.
+Implementation of the Maha eHRMS system across the state is as follows "in two phases."
+is planned to do.
+Phase-I: -Ministerial Administrative Departments
+In this phase, the officers / employees of the Ministries / Administrative Departments shall be
+The system is being made available.
+Phase II: - Regional Offices
+the State Government in the Regional Offices subordinate to the Administrative Divisions
+The system will be implemented for employees.
+4. Implementation of Maha eHRMS system by circular under this section.
+The administrative departments of the ministries have been instructed to make preparations accordingly.
+Now about "digitization" of physical service books of government employees under the ministry.
+The instructions are as follows.
+Circular: -
+The Maha eHRMS system is being implemented throughout the state and in the first phase, the ministry
+The system is being implemented for officers / staff of administrative departments.
+# Page 2
+2. State Government in zonal offices subordinate to administrative divisions.
+A similar system will be implemented for employees in the second phase. Digitisation
+Prior to the process, the administrative divisions were subordinate to the zonal offices subordinate to them.
+The physical service books of the officers / staff present are provided in the reference form. As of 20 June 2025
+By attaching and updating copies / documents of the orders required / relevant through circulars.
+Be prepared. Digitization related guidelines for Regional Offices separately
+will be released.
+The first phase of the "Maha eHRMS" system in the administrative divisions of the ministry.
+4 Joint Secretaries / Deputy Secretaries of the General Administration Department, for enforcement proceedings.
+Room Officer / Assistant Room Officer (SPOCS) in the General Administration Department and
+The help desk is playing an important role.
+I. Four Joint Secretaries / Deputy Secretaries of the General Administration Department of the system.
+have been appointed for implementation.
+II. Division of all Administrative Divisions in the Ministry into the above four Joint Secretaries / Deputy
+has been made between the secretaries.
+III. With all administrative divisions under the above Joint Secretary / Deputy Secretary.
+Administrative Division-wise General Administration Division for coordination
+Room Officer / Assistant Room Officer has been appointed.
+IV. Department-wise Help Desk Support was also appointed.
+There are.
+The details of all the above are mentioned in "Annexure-I."
+The implementation of the Maha eHRMS system has the following 4 important components.
+I. Updation of Physical Service Book,
+II. Scanning of updated physical service book.
+Service book),
+III. Payment of information on digital system on the basis of physical service books.
+feeding in the system),
+IV. Under the guidance of the Nodal Officer through the Drawing and Disbursing Officer.
+Authentication and successful access to the system
+onboarding in the system)
+Compatibility, uniformity in the implementation process of the Maha eHRMS system,
+Ministryal Administration in accordance with the above 4 elements to maintain accuracy and security
+The following guidelines are being issued to the departments: -
+1) Updation of Physical Service Book: -
+# Page 3
+The administrative divisions of the Ministry shall be headed by their Joint / Deputy Secretary (eHRMS Cell).
+Update the physical service book of the officer / staff under guidance. (It's easy
+For reference. Government Circular dated 20th June, 2025 - Added to "Annexure-II"
+It is.)
+2) Scanning of updated physical service book.
+i. Updated physical of all officers / staff by the Ministries / Administrative Departments.
+The service books are scanned (300 dpi colour) in PDF format by the nodal officer.
+Maha eHRMS from the login of the Drawing and Distributing Officer (DDO) under control
+be uploaded to the system.
+Detailed instructions on scanning of physical service books - mentioned in Annexure-III.
+have been made.
+iii. Scanned (300 dpi colour) PDF of the updated service book containing commands, copies, signatures, etc.
+Be prepared in form. Detailed instructions in this regard are given in Annexure-IV.
+have been made. (Upload this copy wherever required at the time of filling in the information.)
+to do).
+3) On the basis of physical service books. Information on digital systems from November 3, 2025
+Data feeding in the Maha eHRMS system
+3.1: To facilitate data entry in the newly developed eHRMS system.
+The action:
+i. Information previously filled on the eHRMS system by the administrative departments of the Ministry has been updated.
+It is going to be available automatically on the developed system.
+ii.Integration with the service system has led to the revamp of salary information.
+The developed Maha eHRMS will be available automatically on the system.
+3.2 Preparatory instructions and process of data entry
+feeding):-
+i. Withdrawal of Department by Joint / Deputy Secretary (eHRMS Cell) of Administrative Departments and
+The following action should be taken by the Distributing Officer (DDO).
+ADMIN / to all administrative departments for filling up the information on the system.
+DDO login details (Username & Password) will be intimated separately
+Username & Password received by ADMIN / DDO accordingly.
+Creation of a "Data Entry Login" for assisted data entry personnel
+should do.
+Departments should have at least 30 officers depending on the manpower they employ.
+A "Data Entry Login" should be created at a rate of 1 manpower per employee.
+Accordingly, the departments can create a login as per their requirement.
+# Page 4
+(ii) Withdrawal by Joint / Deputy Secretary (eHRMS Cell) of the Departments with effect from 3rd November, 2025 and
+Data on all aspects of the physical service book by the Delivery Officer (DDO)
+Fill in the information on the digital system from the entry login. as well as as as required
+Copies of Orders / Documents in Paragraph No. Sub No. 4. 2) As mentioned in (iii)
+The scanning done should be uploaded as per the instructions.
+iii. After filling in the complete information in the Maha eHRMS system, the DDO will send the following copies to the employee:
+be made available.
+1) A PDF copy of the e-service book
+2) A scanned copy of the physical service book
+iv. The employee has scanned the physical service book entries in the PDF of the e-service book.
+Check with the copy, in case of discrepancies in the records, in the sample in Annexure-5 attached.
+Drawing and Disbursing Officers (DDOs) with corrected supporting documents
+to be submitted. A sample of Correction Slip has been added in Annexure-5.
+4) Authentication and successful access to the system
+onboarding)
+i. Request for modification of e-Service Book by the employee in Annexure-V
+If done in the prescribed format of Correction Slip, by the Drawing and Disbursing Officer (DDO)
+E-verification only on the basis of physical service book and official documents.
+Typographical errors should be corrected in the service book.
+Detailed instructions in this regard are annexed in Annexure-VI.
+ii. After editing the e-service book, take a printout of the PDF on each page.
+Get the employee's signature.
+iii. Scanned and delivered copy of the employee's signature with Correction Slip
+The officer (DDO) should upload it on the Maha eHRMS system.
+iv. PDF available by the employee if there is no discrepancy in the information provided.
+Each page should be signed and made available to the DDO.
+The information filled with the v.DDO is verified and available on the Maha eHRMS system.
+The declaration should be digitally signed and given final approval.
+The time frame and instructions required for the action of the above 4 important factors.
+The details will be as follows. : -
+I. Digitization timeline: -
+All the above processes will be completed by the end of December, 2025 by the Ministries / Administrative Departments.
+should do.
+II. Other Suggestions: - Login as the information on the Maha eHRMS system is highly sensitive.
+Confidentiality regarding ID / Password should be maintained by all administrative departments.
+# Page 5
+Nodal officers should ensure that NIC safety protocols are followed.
+The circular is available on the Government of Maharashtra's www.maharashtra.gov.in website.
+# Page 6
+# Page 7
+# Page 8
+# Page 9
+# Page 10
+# Page 11
+# Page 12
+# Page 13
+# Page 14
+# Page 15
+# Page 16
+# Page 17
+# Page 18
+# Page 19
+# Page 20
+# Page 21
+# Page 22
+# Page 23
+# Page 24
+# Page 25
+# Page 26
+# Page 27
+# Page 28
+# Page 29
