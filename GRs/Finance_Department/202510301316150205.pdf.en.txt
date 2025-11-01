@@ -1,0 +1,108 @@
+# Page 1
+The respective systems in the State Integrated Financial Management System for the purpose of SNA-SPARSH and the Authorized Buy System being used for implementation of specific Centrally Sponsored Schemes.
+To prescribe a standard operating procedure (SOP) to be followed for integration.
+About...
+Government of Maharashtra
+Department of Finance, Hall No.339,
+Government Circular No: Narrow-2023 / No.47 (Part-I) / Treasuries. Prash. - 4 Madam Cama Marg, Martyr Rajguru Chowk,
+Mantralaya, Mumbai - 400032.
+Dated October 30, 2025.
+Read: - 1. Office Memorandum No. of the Government of India, Ministry of Finance, Department of Expenditure, File No. 1 (27) / PFMS) / 2020, Dated - 13.07.2023.
+Government of Maharashtra, Department of Finance, Government Decision No. -Synchronous-2024 / Q. 54 / Treasuries No. 4, dated 23rd April, 2025.
+Government of Maharashtra, Department of Finance, Government Decision No. -Synchronous-2024 / Q. No.51 / Treasuries
+Issue-4, dated 30th July, 2025.
+4. Letter No. Sanleko / -2025 / Reforms / SNA-SPARSH Integration SOP / 52 (5) / 464 dated 08.10.2025 from Directorate of Accounts and Treasuries, State of Maharashtra.
+Proposal
+a) Provided under Rule 230 (7) of the General Financial Rules, 2017 of the Government of India
+The principle of "Just in time release of funds" is possible as per the provisions made.
+It is intended to be applied to all contributions to the extent possible. Compliance with this principle
+While doing so, in respect of disbursement and disbursement of funds in line with Centrally Sponsored Schemes.
+More in cash management at both Central Government and State Government levels.
+To achieve effectiveness, the central government's public financial management system
+(PFMS), State Integrated Financial Management and Information System (State IFMIS) and
+Through the integrated design of the Reserve Bank of India's e-Kuber system, the Centre
+SNA-SPARSH [Timely System Integrated for Disbursement of Funded Schemes]
+Real Time System of Integrated Quick Transfers
+# Page 2
+Government Circular No: Narrow-2023 / No.47 (Part-I) / Treasuries. Prash. - 4
+The flow mechanism is being implemented by the Government of India. With regard to this procedure
+Detailed Notice No. 1 in the above 'Read' of the Government of India, Date indicated herein
+13.07.2023 have been issued by the office notification dated.
+b) Implementation of Centrally Sponsored Schemes under SNA-SPARSH mechanism.
+Guidelines, Guidelines and Standard Operating Procedures issued by the Government of India accordingly
+This has been communicated by the Finance Department to all concerned from time to time. As well as
+By Government Decision dated 23.04.2025 mentioned herein, serial number 2 in the above 'read'
+Maharashtra State Cyber Treasury for the present purpose.
+office has been established. as well as implementing
+Agencies (IAs)] to be able to generate e-claims; as well as single
+Electronic requests to central agencies [Single Nodal Agencies (SNAs)]
+Consolidated, structured electronic payments (e-bills) State Cyber Treasuries
+Maharashtra Single Central Agency System to enable submission to the office.
+[Maharashtra Single Nodal Agency Portal (MahaSNAP)] is a separate computer system
+has been made available.
+e) Various Centrally Sponsored Schemes currently being implemented by various departments.
+Step-by-step procedure for onboarding under SNA-SPARSH procedure
+are being done by the departments. In this regard, the serial number 2 in the above 'read' is mentioned here.
+SNA-SPARSH by Government Decision dated 30.07.2025 of the Department of Finance
+Administrative divisions of the respective ministries, single central agencies, in accordance with the procedure,
+Single Central Agency Level Drawing and Disbursing Officer, Sector Implementation Mechanism,
+Roles of the Directorate of Accounts and Treasuries, and the State Cyber Treasury Office,
+Duties and responsibilities have been brought to the notice of all concerned.
+e) Specific Centre-sponsored programmes to be implemented under SNA-SPARSH methodology
+For implementation of the respective scheme as per the pattern of the respective scheme in line with the schemes.
+State with specific authorized buy systems currently in use by the relevant department
+of the ancillary systems in the Integrated Financial Management System (SIFMIS) (e.g.
+MassSnap system, Regenerate system) are in order of integration. For this
+Proposals are being received from various departments to the Directorate of Accounts and Treasuries. In this way
+Page 2 of 10
+# Page 3
+Government Circular No: Narrow-2023 / No.47 (Part-I) / Treasuries. Prash. - 4
+The process of integrating systems should be quick and easy.
+And the standard operating procedure for it to be consistent.
+The matter of prescribing the operating procedure was under the consideration of the government.
+Government circular:
+State Integrated Finance for the purpose of implementation of the 1.SNA-SPARSH procedure
+Related Systems in Management Systems (SIFMIS) and Specific Centrally Sponsored Schemes
+Authorizations that have been developed and are being used for implementation
+Accounting for integration of official external portals
+and submission of proposals to the Directorate of Treasuries and Integration.
+Administrative departments of the respective Ministries and / or units concerned while completing the process.
+Standard Operating Procedures to be followed by Central Agencies
+Operating Procedure) under Annexure-I to this circular.
+is being prescribed. The circular should be implemented with immediate effect.
+It is.
+2.उपर Proposal to the Directorate of Accounts and Treasuries for integration as mentioned
+by the respective Ministries / Administrative Departments and / or the concerned Single Central
+Agencies are required to strictly comply with this standard operating procedure.
+will remain.
+3.सदर A proposal that is submitted without complying with the standard operating procedure and
+The treasuries will be returned by the Directorate to the concerned for compliance. So
+The process of consolidation is likely to be delayed. As a result, the Centre concerned awarded
+The onboarding of the scheme under the SNA-SPARSH mechanism will also be delayed. That's because all
+This standard is for the integration of the above-mentioned by the Ministries / Administrative Departments.
+All stakeholders should be made aware of the operational modalities seriously.
+4. All concerned administrative departments implementing Centrally Sponsored Schemes.
+and all single central agencies (SNAs) subordinate to them.
+Serious note should be taken of the operational procedure and accordingly of the incidental compliance.
+Make sure that action is taken.
+Page 3 of 10
+# Page 4
+Government Circular No: Narrow-2023 / No.47 (Part-I) / Treasuries. Prash. - 4
+5. Systems for implementation of certain Centrally Sponsored Schemes as mentioned above.
+Integration is a must. Apart from this, the SNA of this scheme is -
+Onboarding is not possible under the SPARSH procedure. The integration
+This is because the process of doing so is sensitive, complicated, and time-consuming.
+The process involves the respective ministries at the administrative division level and the respective single central
+Bye-laws of officers of appropriate rank at the level of the agency and the relevant authorities.
+Technicians of the organization that develops and manages the systems (Official External Portals)
+It is imperative to have initiative and active participation. Inter-integration of systems
+It is the responsibility of the concerned ministry to do the integration expeditiously and expeditiously.
+It consists of the administrative division and / or the associated single central agency. Therefore, the
+All concerned should ensure that the work is completed on priority.
+This Government Circular is available on the website of the Government of Maharashtra www.maharashtra.gov.in.
+# Page 5
+# Page 6
+# Page 7
+# Page 8
+# Page 9
+# Page 10
