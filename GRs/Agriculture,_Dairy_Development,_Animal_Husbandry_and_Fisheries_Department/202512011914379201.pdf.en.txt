@@ -1,0 +1,87 @@
+# Page 1
+Chief Technology Officer (CTO), Artificial
+Centre for Intelligence and Agritech Innovation, Mumbai,
+All IT and digital in the agriculture sector.
+"Technical Head" of Activities "
+So about nominating.
+Government of Maharashtra
+Department of Agriculture, Animal Husbandry, Dairying Development and Fisheries,
+Government Decision No.AI-2025 / Q. 239/13 -A
+Martyr Rajguru Chowk, Madam Cama Road,
+Mantralaya Extension Building, Mumbai-400 032
+Date: December 1, 2025
+Reference: - Government Decision No. AI-2025 / Q. No. 106/13 A, D. 24.06.2025.
+The Proposal: -
+Department of Agriculture for farmers, officers, staff and implementation of schemes over the years.
+Various IT systems and digital platforms have been developed, and the projects have been developed at different times.
+They have been developed keeping in mind the immediate needs. This system is mainly carried out by the Agriculture Commissionerate,
+Nanaji Deshmukh Krishi Sanjeevani Project, SMART Project, etc. have been developed by the offices. Of these
+Duplication of some things, in apps, as some projects are developed independently.
+Lack of coordination and communication (lack of interoperability), lack of coherence in data structure, farmers and
+Officers have had unsatisfactory and disruptive experience in certain systems, inefficient use of resources, etc.
+There are major problems. The following are the three main systems developed by the Department of Agriculture:
+Groups can be classified into:
+Farmer-centric apps and portals - e.g. MahaDBT, Mahavidyalaya, etc.
+Apps for internal work in the department - e.g. Maha Agriculture, CROPSAP, etc.
+Platforms of the central government or other departments - e.g. AgriStack, PMFBY and CCE App, Digital Crop Survey, etc.
+Changes to these systems will be made in the future as well, depending on new needs and technological advances.
+Improvements will continue. But now for the entire department, integrated and
+Decision-making by the department on creating an interconnected digital ecosystem.
+It's necessary. State Government "Agriculture using Artificial Intelligence and Emerging Technologies
+Maharashtra Agri-Artistic Intelligence (MahaAgri-AI) Policy 2025 to transform the sector
+Government Decision dated 2029. Declared under 24.06.2025. The policy of this
+Government to set up Centre for Artificial Intelligence and AgriTech Innovation (AI & AgriTech) for implementation
+The Innovation Centre (AIAIC) has been set up. Chief Technology Officer at the institute
+# Page 2
+Government Decision Number: AI-2025 / Q. 239/13 -A
+The Chief Technology Officer (CTO) has also been appointed on a contractual basis and his / her technical
+Appropriate and effective application of skills to the entire agriculture sector, with a single technical lead.
+All digital operations will be technologically stronger if all IT activities in the entire agriculture sector are brought in.
+The core technologies at AIAIC will be strategically aligned and integrated.
+The Officer (CTO) is designated as the "Technical Head" of all IT and digital activities in the Agriculture Department.
+The matter of nomination as "Head)" was under consideration of the Government, the Government is now
+Decisions are made as follows.
+The Government's Decisions:
+1. Agreements signed at Department of Agriculture Subordinate Establishment Artificial Intelligence and Agritech Innovation Centre, Mumbai
+Formally appointed Chief Technology Officer - IT & Digital, Department of Agriculture
+is being nominated as the Technical Head of Systems. the department's
+All types of IT and digital development to be undertaken under all heads of departments.
+The work should be done under their technical guidance as well as supervision.
+2. Various State Level Offices of the Department of Agriculture (Agriculture Commissionerate, Nanaji Deshmukh Agriculture)
+Sanjeevani Project, SMART Project, MCAER etc.) All IT teams, System Integrators (SI),
+The Technology Partner and Consultant is directly the Chief Technology Officer, AIAIC's Technical
+Will work under leadership, guidance and supervision.
+3. Comprehensive State-level guidance for all IT and digital development in the agriculture sector; and
+Strategic guidance will be provided at the level of Additional Chief Secretary (Agriculture). to it
+Accordingly, the Chief Technology Officer, AIAIC interacted with the following officers of the Department of Agriculture:
+Coordinate and understand their guidance and vision for various activities related to them.
+Develop systems and submit regular reports on the progress of the work to them.
+They will:
+Agriculture Commissioner - For all IT systems of the department
+b. Project Director, NADEKARPURA - For digital systems related to the project
+Project Director, SMART - for project-related systems
+E. Director General, MCAER
+Managing Director, AIAIC-Maha Agri-Ai for activities under the policy.
+The Chief Technology Officer, AIAIC has from time to time issued orders to the above-mentioned officers to
+Progress, difficulties, need for coordination, and follow-up on office work
+They will provide regular updates and take their necessary guidance.
+4. Technical manpower and systems deployed for various IT activities of the Department of Agriculture.
+Efficient management of integrators and consulting firms, regular evaluation of their work
+To make and report to the respective office heads as well as to the Amus (Agriculture).
+The principal responsibility will be that of the Chief Technology Officer, AIAIC.
+Page 2 of 3
+# Page 3
+Government Decision Number: AI-2025 / Q. 239/13 -A
+Key responsibilities of the Chief Technology Officer, AIAIC:
+A. Developing an integrated digital architecture for the Department of Agriculture
+B. Interconnecting all present and future systems
+Implementing a platform-based architecture instead of standalone apps / systems, etc.
+E. Creating data standards, APIs, and governance frameworks
+Improving user experience for farmers and officials.
+Emphasis on cloud, scaling, and cyber security.
+Linking with national initiatives like AgriStack, IndiaAI Mission, etc.
+4. - 611. Increase the use of artificial intelligence in departmental systems.
+A. Key technologies before the regular review meeting of the IT activities of the Department of Agriculture
+Officials, AIAIC held an in-house technical meeting with all the concerned offices.
+Will submit a prepared review.
+This Government decision is available on the website of the Government of Maharashtra www.maharashtra.gov.in.
