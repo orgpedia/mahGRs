@@ -1,0 +1,57 @@
+# Page 1
+Regarding approval for opening of 3 new Accounting Headings for Pre-Mantric Scholarship Schemes.
+Government of Maharashtra
+Other Backward Classes Bahujan Welfare Department,
+Government Decision No. : Shivritti - 2024 / Q. 30 / Education - 2
+Mantralaya, Mumbai - 400032
+Date: December 3, 2025
+Read: - 1. Department of Social Justice and Special Assistance, Government Decision EBC-1094 / Q. No.109 / MAWAC-2, dated 17.08.1995.
+Department of Social Justice and Special Assistance, Government Decision EBC-2003 / Q. No. 417 / Mavak-2, dated 31.03.2005.
+Department of Social Justice and Special Assistance, Government Decision EBC-2011 / No.97 / Education-1, dated. 30.12.2011.
+4. Letter from Director, Directorate of Other Backward Classes Bahujan Welfare, Pune. No. IMBACS / Pre-Mantric Scholarship / Implementation / 2024-25 Pune / 4314, dated. 10.12.2024.
+The Proposal: -
+It was under consideration of the Government to approve the opening of 3 new heads of accounts for implementation of a total of 3 schemes namely "(i) Quality Scholarship for students of Class 5th to 10th studying in Secondary School / Insurance category (ii) Savitribai Phule Scholarship for girls studying in Class 5th to 7th studying in Visa and Insurance category and (iii) Payment of Tuition Fee and Examination Fee for Visa and Insurance students studying in Class 1st to 10th" by the Other Backward Classes Bahujan Kalyan Department.
+Government Decision: - In order to implement "(1) Quality Scholarships for students studying in Secondary School / Insurance Category E. 5th to E. 10th" (2) Savitribai Phule Scholarship for girls studying in Education and Insurance Category E. 5th to 7th and (3) Provision of Tuition Fee and Examination Fee for Students studying in Education and Insurance Category E. 1st to 10th "by the Other Backward Classes Bahujan Kalyan Department, the following 3 Schemes are being approved to be opened: -
+No. 1. Qualified Scholarships for Class 5th to 10th students studying in Secondary School in the Visa and Insurance category: -
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Title                       |
+| Demand No.                  | Demand No.ZG-03                                                                             | Demand No. ZG-03                                                                               |
+| Main Account Header         | 2225 - Welfare of Scheduled Castes, Scheduled Tribes, Other Backward Classes and Minorities | 2225 - Welfare of Scheduled Castes, Scheduled Tribes and Other Backward Classes and Minorities |
+| Sub-Prime Accounting Header | 03, Welfare of Backward Classes                                                             | 03, Welfare of Backward Classes                                                                |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Page 2
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Subordinate TY                | 277 - Education                                                                                                                         | 277 - Education                                                                                                                       |
+| (2) Scholarships in Education |
+| Sub-heading                   | (02) (2) Qualified Scholarships for Class 5th and Class 10th students belonging to the Visa and Insurance category in Secondary School. | (02)(29)Merit-based Scholarship for students of VINT and SBC categories studying belonging to class 5 to class 10 in secondary School |
+| Mandatory frit                | Under the Scheme (Programme)                                                                                                            | scheme. "                                                                                                                             |
+| The computer is a             | 2225 G 662 ee                                                                                                                           | 2225 G 662 0.                                                                                                                         |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Savitribai Phule Shishyavati for girls studying in classes IV to VII in the Visva-Bhaj and Vimaprabha category: -
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Title                         | Marathi name of the title                                                                   | The English name of the title of the account                                                  |
+| Demand No.ZG-03               |
+| Main Account Header           | 2225 - Welfare of Scheduled Castes, Scheduled Tribes, Other Backward Classes and Minorities | 2225 - Welfare of Scheduled   Castes, Scheduled Tribes, Other Backward Classes and Minorities |
+| Sub-Prime Accounting Header   | 03, Welfare of Backward Classes                                                             | 03, Welfare of Backward Classes                                                               |
+| 277 - Education               | 277 - Education                                                                             |
+| (2) Scholarships in Education |
+| Sub-heading                   | (02) (31) Savitribai Phule Scholarship for Girls studying in 5th to 7th Std.                | (02)(30) Savitribai phule Scholarship for girls belonging to VJNT and SBC categories          |  studying in class 5 to class 7 standard |
+| Compulsory / Copy             | Under the Scheme (Programme) 0                                                              | scheme                                                                                        |
+| The computer is a             | 2225 G 671                                                                                  | 2225 G 671                                                                                    |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+To provide tuition fees and examination fees for the Visa and Insurance students studying in classes 3. 5. 9th to 10th: -
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Demand No.                  | Demand No.ZG-03                                                                             | Demand No. 76-03                                                                            |
+| Main Account Header         | 2224 - Welfare of Scheduled Castes, Scheduled Tribes "STN Backward Classes q and Minorities | 2225 - Welfare 0 Scheduled Castes, Scheduled Tribes, Other Backward Classes' and Minorities |
+| Sub-Prime Accounting Header | 03, Welfare of Backward Classes                                                             | 03, Welfare of Backward Classes                                                             |
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Page 3
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Subordinate Header                | 277 - Education                                                                                                                                                          | 277 - Education                                                                                                                                  |
+| (2) Scholarships and Scholarships |
+| Sub-heading                       | (02) (32) Providing tuition fee and examination fees for the students studying in classes 1 to 10, including the students studying in the undergraduate and the insured. | (02)(32) Payment of Tution fees and examination  1020$ for students belonging to VJNT and SBC students studying in class 1 to class 10 standerd. |
+| Mandatory / Program               | Under the Scheme (Programme)                                                                                                                                             | scheme                                                                                                                                           |
+| 2225 682 G                        |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+02. This Weal in consultation with the Office of the Accountant General (Accounts and Entitlements) 1, Maharashtra, Mumbai has issued their Informal Reference No. Is being issued as agreed under 18.08.2025.
+This Government decision is available on the website of the Government of Maharashtra - www.maharashtra.gov.in.
