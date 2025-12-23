@@ -1,0 +1,129 @@
+# Page 1
+Regarding approval for opening of new head of accounts for implementation of Unified Pension Scheme (UPS) for officers of Maharashtra cadre; All India Services.
+Government of Maharashtra
+the General Administration Department
+Government Decision No.1525 / Q. 323/2025 No.3,
+Madam Cama Marg, Martyrdom Rajguru Chowk,
+Mantralaya, Mumbai 400032.
+Date: December 22, 2025
+Introduction: The Ministry of Finance, Government of India, provides the option to select Unified Pension Scheme (UPS) to Central Government employees and All India Services officers applying to the National Pension System (NPS).
+With regard to giving. The notification has been issued on 24.1.2025. Also, the Central Government's Penhan Fund Regulatory and Development Authority (PFRDA), New Delhi vide No. 6 here. The Pennan Fund Regulatory and Development Authority (Operation of UPS Scheme under NPS) Rules, 2025 have been issued through a gazette notification of 19.3.2025. Accordingly, the government was considering opening new headings for the implementation of UPS for officers in the All India Services of the Maharashtra cadre.
+Government Decision: - For officers of All India Service (IAS / IPS / IFoS) of Maharashtra cadre to implement Unified Pension Scheme (UPS) in the State, the following heads of accounts are being approved to be opened: - (@) Jamechi oars (9) For officers of Indian Administrative Service (IAS) / Indian Police Service (IPS) / Indian Forest Service (IFoS) under Unified Pension Scheme (UPS) to collect State Government contribution.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Account Header              | Marathi name of the title                                                                                                   | The English name of the title of the account                                                                        |
+|                             |
+| Main Account Header         | 8235 General and Other Reserves                                                                                             | 8235 General and Other Reserve Funds                                                                                |
+| Sub-Prime Accounting Header |
+| Subordinate Top             | 149 Integrated Pension Scheme                                                                                               | 149- Unified Pension Scheme                                                                                         |
+| Group ae                    | 04 - Integrated Pension Scheme                                                                                              | 01 - Unified Pension Scheme                                                                                         |
+| Sub-heading                 | (09) (01) Integrated Pension Scheme Scheme - State Government Contribution for Indian Administrative Service (IAS) Officers | (01) (01) Unified Pension Scheme - State Government Contribution for Indian Administrative Services (IAS) Officers. |
+| Computer code               | 82355054                                                                                                                    | 82399098                                                                                                            |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Computer code | 82355054 82399098
+# Page 2
+Government Decision No: BPRASE-1525 / Q. No. 323/2025 BPRASE-3,
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Account Header              | The Marathi name of Lekhatheersha                                                    | The English name of the title of the account                                                                |
+|                             |
+| with the main account.      | 8235 General and Other Reserves                                                      | 8235 General and Other Reserve Funds                                                                        |
+| Sub-Prime Accounting Header |
+| Subordinate Top             | 149 - Integrated Pension Scheme                                                      | 149- Unified Pension Scheme                                                                                 |
+| The top of the group        | 001 - Integrated Pension Scheme                                                      | (001 - Unified Pension Scheme                                                                               |
+| Sub BIN                     | (09) (02) Integrated Pension Scheme Scheme for Indian Police Service (IPS) Officers. | (01) (02) Unified Pension Scheme - State Government Contribution for Indian Police Services (IPS) Officers. |
+| Computer code               | 62344053                                                                             | 82355063                                                                                                    |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Account Header              | Marathi name of the title                                                                                                                 | The English name of the title of the account                                                                |
+|                             |
+| Main Account Header         | 8235 General and Other Reserves                                                                                                           | 8235 General and Other Reserve Funds                                                                        |
+| Sub-Prime Accounting Header | 7                                                                                                                                         | लार                                                                                                         |
+| Subordinate Top             | 149 - Integrated Pension Scheme                                                                                                           | 149- Unified Pension Scheme                                                                                 |
+| The top of the group        | 01 - Integrated Pension Scheme                                                                                                            | 01 - Unified Pension Scheme                                                                                 |
+| Sub BIN                     | (09) (03) Unified Pension Scheme - Indian Forest Service (Bhavse) - State Government Grant for Officers of Indian Forest Service (Bhavse) | (01) (03) Unified Pension Scheme - State Government Contribution for Indian Forest Service (IFoS) Officers. |
+| Computer code               | 82355072                                                                                                                                  | 82395072                                                                                                    |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Computer code | 82355072 82395072
+(2) The monthly of officers of the All India Services (including officers of the Subordinate Services).
+Account Headers for Collection of Contributions -
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Account Header              | Marathi name of the title                                                                          | The English name of the title of the account                                                     |
+|                             |
+| Main Account Header         | 8235 General and Other Reserves                                                                    | 8235 General and Other Reserve Funds                                                             |
+| Sub-Prime Accounting Header | One                                                                                                | or                                                                                               |
+| Subordinate Top             | 149 - Integrated Pension Scheme                                                                    | 149- Unified Pension Scheme                                                                      |
+| The top of the group        | 01 - Integrated Pension Scheme                                                                     | 01] - Unified Pension Scheme                                                                     |
+| sub ay                      | (09) (04) Integrated Pension Scheme - Contribution of Indian Administrative Service (IAS) Officers | (01) (04) Unified Pension Scheme- Contribution of Indian Administrative Services (IAS) Officers. |
+| the computer code.          | 82355081                                                                                           | 82355081                                                                                         |
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Page 2 of 5
+# Page 3
+Government Decision No: BPRASE-1525 / Q. No. 323/2025 BPRASE-3,
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Account Header                                                                                    | The Marathi name of Lekhatheersha                                                        | The English name of the title of the account |
+|                                                                                                   |
+| with the main account.                                                                            | 8235 General and Other Reserves                                                          | 8235 General and Other Reserve Funds         |
+| Sub-Prime Accounting Header                                                                       |
+| Subordinate Top                                                                                   | 149 - Integrated Pension Scheme                                                          | 149- Unified Pension Scheme                  |
+| The top of the group                                                                              | 001 - Integrated Pension Scheme                                                          | (001 - Unified Pension Scheme                |
+| (09) (04) Integrated Pension Scheme Scheme - Contribution of Indian Police Service (IPS) Officers | (01) (05) Unified Pension Scheme- Contribution of Indian Police Services (IPS) Officers. |
+| Computer code                                                                                     | 82355092                                                                                 | 82359092                                     |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Computer code | 82355092 82359092
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Account Header              | Marathi name of the title                                                                                        | The English name of the title of the account                                             |
+| TR                          | oH                                                                                                               |
+| Main Account Header         | 8235 General and Other Reserves                                                                                  | 8235 General and Other Reserve Funds                                                     |
+| Sub-Prime Accounting Header |
+| Subordinate Top             | 149 - Integrated Pension Scheme                                                                                  | 149- Unified Pension Scheme                                                              |
+| The top of the group        | 01 - Integrated Pension Scheme                                                                                   | 01 - Unified Pension Scheme                                                              |
+| the subheading              | (09) (06) Integrated Pension Scheme Scheme - Indian Contribution of Officers of Indian Forest Service (I.F.S.S.) | (01) (06) Unified Pension Scheme- Contribution of Indian Forest Service (IFoS) Officers. |
+| Computer code               | 82355107                                                                                                         | 82599107                                                                                 |
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Computer code | 82355107 82599107
+(3) In the post-independence service of officers of the All India Service (Bhaaprasa / Bhaaprasa / Bhaaprasa).
+Head of account for collecting contributions received from employers -
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Account Header              | Marathi name of the title                                                                                               | The English name of the title of the account                                                                              |
+| Te                          | os                                                                                                                      |
+| with the main account.      | 8235 General and Other Reserves                                                                                         | 8235 General and Other Reserve Funds                                                                                      |
+| Sub-Prime Accounting Header |
+| Subordinate Top             | 149 Integrated Pension Scheme                                                                                           | 149- Unified Pension Scheme                                                                                               |
+| Group Shursh                | 01 - Integrated Pension Scheme                                                                                          | 01 - Unified Pension Scheme                                                                                               |
+| sub ay                      | (09) (07) Unified Pension Scheme - Employer's Retirement of All India Service (IAS) Officers in the Subordinate Service | (01) (07) Unified Pension Scheme- Employer Contribution for All India Services (AIS) officers working in Foreign Service. |
+| Computer code               | 82355116                                                                                                                | 82359116                                                                                                                  |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Computer code | 82355116 82359116
+Page 3 of 5
+# Page 4
+Government Decision No: BPRASE-1525 / Q. No. 323/2025 BPRASE-3,
+(b) Head of Expenditure (1) Deposits of Contributions of All India Service (including Officers in Subordinate Services) and State Government and Employers in Subordinate Services.
+Accounting for expenses to pay the amount to the Trust Bank -
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Account Header              | Marathi name of the title                                                                                                                         | The English name of the title of the account                                                                                                                 |
+|                             |
+| with the main account.      | 8235 General and Other Reserves                                                                                                                   | 8235 General and Other Reserve Funds                                                                                                                         |
+| Sub-Prime Accounting Header |
+| Subordinate Top             | 149 - Integrated Pension Scheme                                                                                                                   | 149- Unified Pension Scheme                                                                                                                                  |
+| The top of the group        | 01 - Integrated Pension Scheme                                                                                                                    | 01 - Unified Pension Scheme                                                                                                                                  |
+| sub ay                      | (09) (09) The amount to be drawn for crediting the accounts of bank employees under the scheme v. Trust Bank under the Integrated Pension Scheme. | (01) (01) Unified Pension Scheme- Amount to be withdrawn for crediting employees contribution to accounts in trustee bank, under the Unified Pension Scheme. |
+| Computer code               | 82350061                                                                                                                                          | 82550001                                                                                                                                                     |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Computer code | 82350061 82550001
+(2) The head of the expenditure under the Department of Finance for deducting the SiS expenditure of the State exchequer under the UPS.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Account Header              | Marathi name of the title                                                                          | The English name of the title of the account                                                   |
+| Demand No                   |
+| Main Account Header         | 2071 Withdrawal and Other Retirement Benefits                                                      | 2071, Pensions and other Retirement Benelits                                                   |
+| Sub-Prime Accounting Header | 01, Civil                                                                                          | 01, Civil                                                                                      |
+| Subordinate ay              | 121. Endowment defined under Integrated Pension Scheme. Government contribution to pension scheme. | 121, Government Contribution for 2009 Contribution Pension Scheme under Unified Pension Scheme |
+| The top of the group        | (1) Contribution of the Government                                                                 | (O01) Government Contribution                                                                  |
+| the sub-heading             | (09) (09) Unified Pension Scheme - All India Services. Government Contribution for Officers        | (01) (01) Unified Pension Scheme - fo All Overment Common                                      |
+|                             |
+| The K's                     |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2. This decision was taken in consultation with the Office of the Accountant General (Accounts and Licensure) -I, Maharashtra Mumbai with their informal reference No.
+Department of Administration / UOR - 274/2025-26 1781, dated 10.12.2025 and Informal Reference No. 63/2025 Meaning-2 is being issued as agreed upon under date 19.12.2025.
+Page 4 of 5
+# Page 5
+Government Decision No: BPRASE-1525 / Q. No. 323/2025 BPRASE-3,
+3. The decision of the Government of Maharashtra.
