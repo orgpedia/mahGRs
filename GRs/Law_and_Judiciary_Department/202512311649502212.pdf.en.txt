@@ -1,0 +1,112 @@
+# Page 1
+The High Court of Bombay and its Bench at Nagpur,
+Circuit Bench at Aurangabad and Kolhapur.
+Hardware for 11 new courtrooms proposed
+Administrative costs for the purchase of materials
+regarding the approval.
+Government of Maharashtra
+Department of Law and Justice,
+Government Decision Number: Computer-2025 / Q.No.50 / Q.7 / E-1352804
+Madam Cama Marg, Martyrdom Rajguru Chowk,
+Mantralaya, Mumbai 400 032.
+Date: December 31, 2025.
+Reference: - 1. Central Project Coordinator, Md. Letter from the High Court, Appellate Division, Bombay
+No. Com / Sec / 239/2025, D. 08.09.2025.
+Government Decision No. 2 of the Department of Industry, Energy and Labour. Bhankhas-
+2014 / Q. No.82 / Part-III, D. 01.12.2016.
+3. Government Decision No. The narrow-
+2016 / Q. No.215 / Industries-4, D. 24.08.2017 and Government Decision No. The narrow-
+2016 / Q. No.215 / Industries-4, D. 08.12.2017.
+4. Project Implementation Committee. History of the meeting on 17.10.2025.
+5. Directorate of Information and Technology. History of the meeting on 27.10.2025.
+The Proposal: -
+Central Project Coordinator, Md. High Court, Appellate Division, Bombay Reference No. at 01.
+D. 08.09.2025 According to Reji's letter to Ma. The High Court, Bombay and its Bench at Nagpur, Aurangabad
+and All-in-One for the proposed 11 new courtrooms at the Circuit Bench, Kolhapur.
+Basic for computers, printers, MFD printers, digital signature USB tokens, and live streaming
+Purchase of Hardware Material, Infrastructure, etc. Technical amount 4,35,13, 943 / -
+The proposal has been submitted to the government along with the proposal (technical specification). The proposal
+Accordingly, the Directorate of Information Technology has issued Reference No. 5 here. 27.10.2025 of the day's meeting
+has been approved by the chronicle. The proposal has been referred to Reference No. 4 The date of the 17.10.2025
+The approval has been given in the meeting of the Project Implementation Committee of the department. According to the
+Administrative approval of the proposal was under the consideration of the government.
+# Page 2
+Government Decisions [edit]
+All-in-one computers, printers, MFDs for 11 new courtrooms proposed at the High Court, Bombay and its Bench Circuit Benches at Nagpur, Aurangabad and Kolhapur.
+Hardware such as printers, digital signature USB tokens, and basic infrastructure for live streaming.
+Purchase of goods for Rs. 4,35,13, 943 / - (Characters Rs.
+Forty-three only) (including GST) are being granted administrative approval subject to the following conditions and conditions.
+The hardware material is as follows: -
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| 1. Basic infrastructure requirements for Live Streaming                            |
+| Sr. No                                                                             |                                         |  Infrastructure Item | Quantity         |             |  For 11 Court Rooms | Unit Rate (Including GST) | Total Amount |
+| 1.                                                                                 | LED Display 65 inch                     | __5                  |
+| VC Unit:-                                                                          | pe ____________                         |
+| 3.                                                                                 |                                         | ____ 990965 "        |
+| 4.                                                                                 | Allinone Computer                       |                      | ]                |
+|                                                                                    |
+| 6.                                                                                 | SpeakerandMIC_                          | 1                    |
+| 7.                                                                                 |
+| Surround Sound System                                                              |                                         | 11                   | 3,99,996/-       | 43,99,956/- |
+| Microphones                                                                        |
+|                                                                                    |
+|                                                                                    |
+| :                                                                                  |
+| Wacom Tablet/iPAD                                                                  | 1                                       |                      | 1,99,774/-       | 21,97,514/- |
+| PTZ Camera (1080p PTZ camera with HDML, IP & 3G-SDI output (Black, 4K Upgradable)) |                                         |                      | 1,50,000/-       | 16,50,000/- |
+| 15.                                                                                | ATEM Television Studio + AJA U-Tab HDMI |                      |                  | 1,49,978/-  | 16,49,758/-         |
+| 4,60,000/-                                                                         | 50,60,000/-                             |
+| 17.                                                                                | ___ Manpower                            |                      |                  | 50,000/-    | 2,75,000/-          |
+| ____                                                                               |                                         |                      | 2,83,59,403.60/- |
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Page 3
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| 2. Financial Implication for the ICT Infrastructure required for 11 new proposed Court Rooms at High Court of Bombay and its Benches at Aurangabad and Nagpur and Circuit Bench at Kolhapur |
+| Hardware required for Court Halls                                                                                                                                                           |
+| Infrastructure Item                                                                                                                                                                         | Quantity per Court | Total Quantity For 11 Court Rooms | Unit Rate (Including GST) | Total Amount |
+| 1.                                                                                                                                                                                          |                    |  Allin One Computer               |                           |              | 52,392/-    | 57,63,120/- |
+| 24,998.30                                                                                                                                                                                   | 27.49.8137         |
+| 3.                                                                                                                                                                                          | MED Printer        | 03                                |                           | 31,860/-     | 10,51,380/- |
+| Digital Signature USB Token- Class 3 (Signing & Encryption) or esign                                                                                                                        |                    |                                   | 2400. 12/-                | 52,802.64/-  |
+| Total                                                                                                                                                                                       | 96,17,115.64/-     |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Hardware required for Chembers                                       |
+| Infrastructure Item                                                  | Quantity per Court | Total  |  Quantity For 11 Court Rooms | Unit Rate   |  (Including GST) | Total Amount |
+| 1.                                                                   |                    |        | 06                           | 66          |
+|                                                                      |
+| 3.                                                                   | MED Printer        |        |                              | 31,860/-    | 3,50,460/-       |
+| Digital Signature USB Token- Class 3 (Signing & Encryption) or eSign | 03                 | 33     | 2400. 12/-                   | 79,203.96/- |
+| Total                                                                | 55,37,423.76/-     |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------
+| Summary of the Financial Implication                  |
+| Hardware required for court Halls                     | RS. 96,17,115.64/- |
+| Hardware required for Chembers                        | RS. 55,37,423.76/- |
+| Basic infrastructure requirements for Live Streaming  |                    | RS. 2,83,59,403.60/-  |
+| __                                                    |                    | Total Amount required | Rs.4,35,13,943.00/- |
+----------------------------------------------------------------------------------------------------------------------------
+3.dl Conditions
+1 The above mentioned Hardware Purchase Reference No. At 4. 17.10.2025 Projects of the Daily Division
+The "Reference No." of the Department of Industry, Energy and Labour given at the Implementation Committee meeting. 3
+The decision was taken by the government. 24.08.2017 and d. As mentioned in the Government Decision dated 08.12.2017, it should be done from the GeM Portal. As well as the GeM Portal
+Matters where the above are not available or the supplier is not willing to supply at the place, may be referred to Reference No. 02 here. of the procedure prescribed in the Government Decision dated 01.12.2016.
+and shall be done in accordance with the instruction "Adopt the provision."
+# Page 4
+2) Procurement of the above mentioned hardware, provided by the Directorate of Information and Technology. 27.10.2025 of the day
+The meeting stated, "Specifications (technical inputs) of IT materials while purchasing them."
+Must not be older than 2 years. However, there is constant innovation in the IT sector.
+The latest higher version specifications should be made available. "
+It should be done as directed.
+4. Subsequent expenditure "Demand No. J-2, 2052 Secretariat General Services, (00) Law and
+Department of Justice, (00) (02) Provision for implementation of e-Governance Project (2052 5116).
+To meet the available funds in the prescribed manner under the heading "17 Computer Expenditure" under the head of Accounts.
+Come.
+5. The said Government Decision Government Decision No. 2013 / Q. No. 30/2013
+The Financial Rights Manual 1978 under Regulations, Part II, dated 17th April, 2015 Part-I
+Rule No. 27 (a) of sub-section-2. In providing for administrative divisions under section 76
+As per the powers vested in him, the Principal Secretary and the Legal Adviser and the Head of the Administrative Department.
+is being issued with approval.
+6. Accordingly, orders for disbursement of funds shall be issued separately.
+7. This Government Decision is available on the Government of Maharashtra website www.maharashtra.gov.in.
+# Page 5
