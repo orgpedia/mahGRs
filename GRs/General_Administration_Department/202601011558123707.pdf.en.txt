@@ -1,0 +1,217 @@
+# Page 1
+Monthly of All India Service Officers who have migrated from National Pension Scheme (NPS) to Unified Pension Scheme (UPS)
+Procedure to be followed in respect of contribution.
+Government of Maharashtra
+the General Administration Department
+Government Decision No.1525 / P.S.No. 145/2025 P.S.-3,
+Mantralaya, Mumbai - 400032.
+Date: January 1, 2026
+Read: 1) Government Decisions, General Administration Department No. 15.02.2013 2) Government Decision, Finance Department No. ANNIO-2015 / (NPS) / P.No.32 / Service-4, Govt. 06.04.2015 3) Government Circular, Finance Department No.RANIO-2023 / Q.64 / SEWA-4, D. 04.12.2023 4) Government Circular, Finance Department No. Narrow-2022 / Q.40 / Services-4, D. 30.12.2024 5) Notification of the Ministry of Finance, Government of India No. FX - 1/3/2024 - PR, d. 24.01.2025 6) Central Government Pension Fund Regulatory and Development Authority (PFRDA), New Delhi vide Notification No. PFRDA - 12/01/0001 2023-legal, d. 19.03.2025 7) Central Government Letter No. 25014/01/2025 - AIS-II (Pension), d. 30.04.2025 8) Finance Department Government Decision No. Narrow 2025 / P.No.21 / Service-4, D. 10.07.2025 9) Department of General Administration, Government Decision No. 22.12.2025
+Preamble: Appointed to / from Government service on and after 1st January, 2004
+National Pension Scheme applicable to All India Service Officers in Maharashtra Subdivision
+The implementation and implementation of the scheme is as under: No. Under the Governing Decisions of 1 and 2
+has been prescribed. Now, the Ministry of Finance, Government of India, has launched the National Pension Scheme.
+(NPS) applicable to Central Government employees and officers of All India Services.
+There is an option to select Unified Pension Scheme (UPS).
+In respect of making reference No. According to 5. Issued notification on 24.1.2025
+Also, the Pension Fund Regulatory and Development Authority (PFRDA) of the Central Government, New Delhi.
+In the case of Delhi, No. 6 here. Pension funds by gazette notification of 19.3.2025
+The Regulatory and Development Authority (Operation of UPS Scheme under NPS) Rules, 2025
+have been released. Accordingly, for officers of the All India Service of the Maharashtra Cadre.
+The matter of prescribing procedures required for implementation of UPS within the state.
+It was under the consideration of the government.
+The government's decision:
+All India Service Officers of Maharashtra Cadre who are on National Pension
+Option to migrate from Scheme (NPS) to Unified Pension Scheme (UPS)
+Unified Pension Scheme (UPS) operational for officers who have been accepted
+To do this, the following procedures should be adopted: -
+# Page 2
+Government Decision No: BPRASE-1525 / Q. No. 145/2025 BPRASE-3,
+the Central Records Maintenance Agency
+1) National Pension System (NPS) by Pension Fund Regulatory and Development Authority (PFRDA)
+Central Record of Protean e-Gov Technologies Limited for the system
+Appointed as a maintenance agency (CRA). Unified pension on the same lines
+Records of all officers of the All India Service under the (UPS) Scheme Central
+The Record Maintenance Agency (CRA) is Protean e-Gov Technologies Limited.
+will be kept from them.
+2) State Coordinating Officer (SNO) for Integrated Pension Scheme, District Treasury
+The officers (DTO) and the Drawing and Disbursing Officer (DDO) shall be as follows: State Coordinating Officer (SNO): Director, Directorate, Accounts and Treasuries District Treasury Officer (DTO): District Treasury Officer concerned Drawing and Disbursing Officer (DDO): concerned Drawing and Disbursing Officer
+3) The State Coordinating Officer is fully responsible for the implementation of the scheme.
+The agencies involved in the scheme will have to contact the state government.
+The State Coordinating Officer will act as the point of contact for the purpose.
+a single point contact/nodal office for various intermediaries of Unified Pension
+Scheme).
+Rate of recovery of contribution under UPS for officers in All India Services
+4) The monthly of an All India Service officer who has opted for UPS
+The rate of contribution to be recovered from the salary plus dearness allowance over its basic salary.
+It will be 10 percent. At the same time, the rate of the state government's contribution is its basic salary.
+The higher dearness allowance will be 10 per cent. This contribution is personal to the subscriber.
+will be deposited in the individual corpus.
+Also, the Central Government contribution is equal to 8. 5% of the basic pay plus dearness allowance.
+This contribution will be. Centre in the pool corpus of the central government.
+will be collected by the government.
+Recovery of Contributions
+5) Unified Pension Scheme (UPS) by the Drawing and Disbursing Officer (DDO)
+Monthly from payment of salary of All India Service officer who has opted out
+Recovery of officer's contribution only 10 per cent of basic pay plus dearness allowance
+Do it like this. This should not include the employer's contribution.
+6) All India Services who have opted for Unified Pension Scheme (UPS)
+Recovery of monthly contribution of officer after payment of salary amount of contribution
+The required schedule showing the details should be attached to the salary payment.
+7) All India Services who have opted for Unified Pension Scheme (UPS)
+Deduction of Officers' Contributions Rules, 1968 of the Maharashtra Treasury Rules, 1968
+259 (1) showing treasury as deduction on the face of salary payment.
+Page 2 of 7
+# Page 3
+Government Decision No: BPRASE-1525 / Q. No. 145/2025 BPRASE-3,
+The Treasury Officer shall be an officer of the All India Service.
+The amount of the contribution is categorized in the respective Scheme Indicators as shown below.
+should be shown as a deposit.
+---------------------------------------------------------------------------------------------------------------------------------------
+| A. No. | Category                                          | Sum of Accounts of Monthly Contributions of All India Service Officers |
+| 1.     | For officers in the Indian Administrative Service | 82355081                                                               |
+| 2.     | For officers of the Indian Police Service         | 82355092                                                               |
+| 3.     | For officers of the Indian Forest Service         | 82355107                                                               |
+---------------------------------------------------------------------------------------------------------------------------------------
+8) All India Services who have opted for Unified Pension Scheme (UPS)
+After the standard number is processed for the officer's salary payment, the subscriptions and accounts
+The office / district treasury office draws the amount of employer's contribution.
+M.C.N. Simple Receipt Sample for making - 45A Separate payment of Nil Bill
+The service should be built into the system in an auto-generate format.
+9) Subsidy and Accounts Office for drawing employer's contribution amount /
+The District Treasury Office has issued "2071 - Pension and Other Retirement Benefits, 01 -
+Civil, 121 - Government Contribution to the Unified Pension Scheme, (01) Government
+Contributions, (01) (01) Integrated Pension Scheme - All India Services
+Expenditure under head "Government Contribution to Officers (20710829)"
+82355054 for officers of the Indian Administrative Service, Indian Police Service
+82355063 for officers and Indian Forest Service officers.
+be shown as a deposit under the heading 82355072.
+10) Subsidy and Accounts Office / District Treasury Office "8235 General & Others
+Deposits of officer's and employer's contributions under the head "Reserves"
+Spend under the heading 82350061 to withdraw the amount made.
+Submit the payment in a simple receipt, M.C.N. Sample 45-A.
+Recovery of Contribution to Non-Service
+11) Owned and / or controlled by the State Government or the Government of Maharashtra
+Option for UPS on deputation to a non-autonomous service under control
+Government Decision Financing in respect of recovery of shareholding of officers in Accepted Accounts
+Department of the. UPS as per the revised procedure prescribed in respect of NPS in 10.07.2025
+Action should also be taken. However, the UPS accepted All India Service
+The officer's contribution rate is 10 per cent of his basic pay plus dearness allowance.
+and the rate of the employer's contribution over and above his basic pay plus dearness allowance.
+A non-exclusive employer should be careful to charge up to 10 percent.
+12) Option of UPS in Maharashtra cadre in post-independence service (on deputation)
+All India Service Officers accepted as well as employer's contribution.
+Page 3 of 7
+# Page 4
+Government Decision No: BPRASE-1525 / Q. No. 145/2025 BPRASE-3,
+The amount as a deposit under the relevant scheme codes as shown below.
+to be shown.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| A. No. | Category                                                                                                                                               | Account Header |
+| 1.     | The amount of the officer's contribution to the Indian Administrative Service                                                                          | 82355081       |
+| 2.     | Amount of Contribution of Officers in the Indian Police Service                                                                                        | 82355092       |
+| 3.     | Amount of Contribution of Officers in the Indian Forest Service                                                                                        | 82355107       |
+| 4.     | The amount of employer's contribution to the non-self-employed service (Indian Administrative Service / Indian Police Service / Indian Forest Service) | 82355116       |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+13) All India Substitute of UPS in Non-Service (on deputation)
+Subsidy after matching the total amount received from the officer in service.
+and Accounts Officers / Treasury Officers of All India Service Officers.
+To deduct both the contribution and the non-self-employer's contribution
+A payment in the Simple Receipt Sample-45A should be submitted to the treasury. with such a payment.
+There is no need to add a list of employees. The total amount of the government
+Expenditure should be deducted under the head 82350061.
+14) Government Circular Finance by Subsidy and Accounts Office / District Treasury Office
+Department of the. 04.12.2023 and d. Contributions in the time frame shown in 30.12.2024
+The amount should be sent to the trust bank. Amounts of contributions so recovered
+In sending pension funds designated for investment to managers.
+The Accounting and Accounts Office is responsible for complying with this deadline.
+The district treasury office will be his.
+Proceedings to be taken while the officer in service is on Central or Inter-State deputation-
+15) Officers in service of the Central Government or on inter-State deputation.
+Withdrawal and disbursement of office before their deputation when they leave.
+The officer has to enter the Permanent Pension Account Number (PRAN) of the concerned officer.
+Specify in the final pay certificate and the month after which the contribution was made.
+Record the details of the recovery made. Central or Inter-State
+The contribution of the officers concerned during the period of deputation is 10 per cent and
+The employer's contribution on deputation is 10 per cent of that of the officer concerned.
+Deposits from the office should be made to the mutual trust bank and the details thereof should be submitted to the central bank.
+Records should be sent to the maintenance agency.
+16) However, if UPS is not applicable to autonomous bodies in the Central or other States, such
+All India Service of Maharashtra Cadre working on establishments.
+Recovery of 10 per cent of officers' contribution and 10 per cent of employer's contribution on deputation
+Action should be taken according to the procedure mentioned in paragraph 17.
+Page 4 of 7
+# Page 5
+Government Decision No: BPRASE-1525 / Q. No. 145/2025 BPRASE-3,
+Officer on probation during the period of foreign deputation / foreign occupation.
+Recovery of Contributions:
+17) All India Service Officer of Maharashtra Cadre on Foreign Deputation
+Or when going on a foreign assignment, the officer concerned
+their state if they had not gone on foreign deputation or foreign occupation.
+Notional pay plus the salary that would have remained in the service of the government.
+Foreign deputation up to 10 per cent of the total amount received as Dearness Allowance or
+Monthly Contributions of Officers and Foreigners during the period of foreign occupation
+The employer's 10 percent contribution by way of a single contribution is detailed in the table below.
+Submission to the Assistant Director (Accounts), as specified by the category, every month.
+The responsibility will rest with the concerned All India Service officer.
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+| Officers of the Indian Administrative Service | Assistant Director (Accounts), Bhaprasay-4, General Administration Department, Mantralaya, Mumbai 32 |
+| Officers of the Indian Police Service         | Assistant Director (Accounts), Bhapose Room, Home Department, Mantralaya, Mumbai 32                  |
+| Officers of the Indian Forest Service         | Assistant Director (Accounts), Bhavse Room, Revenue & Forest Department, Mantralaya, Mumbai 32       |
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+The amount was withdrawn in the name of "Assistant Pay and Accounts Officer, Mumbai."
+Come.
+18) All such remittances are made by the Assistant Director (Accounts) of the concerned department, Assistant in Mumbai.
+Subscription and Accounts Officer with all necessary information as well as paragraph-12
+Four of the currency for depositing the amount under the corresponding headings shown in the
+Copies and receipts should be sent with two copies of the return schedule. the Assistant Subsidiary and
+The accounts officer shall perform the work immediately following the date of receipt of the said amount.
+Pay into your own bank account on the day. the Assistant Subordinate and Accounts Officers thereafter
+He / she is the Assistant Director (Accounts) of the concerned department by taking a cheque for the amount.
+Deposits to the Government Account under the relevant headings by way of invoices received from them.
+Do (within 3 working days from the date of deposit in the bank account)
+And keep copies of the currencies in their archives. The officials of such
+A moneys of the amount of the officers' as well as employer's contribution received.
+and other necessary information and documents along with supporting subscriptions and accounts.
+Officers to submit their accounts to Mumbai in a time bound manner.
+The responsibility of keeping the level will lie with the Assistant Director (Accounts) concerned.
+Similarly, the amounts of officers' contribution and foreign employer's contribution.
+Central Record of Deposits of Money into the Bank Account of the Treasury
+Transfer to the maintenance agency and transfer the amount to the trust bank.
+The Accounting and Accounts Office will be responsible for taking action.
+Page 5 of 7
+# Page 6
+Government Decision No: BPRASE-1525 / Q. No. 145/2025 BPRASE-3,
+sync
+19) Monthly and quarterly adjustment of amounts under the scheme from the treasury to the trust bank.
+Accounting Officer / District Treasury responsible for handling remittances
+The officer will remain. To reconcile the amounts transferred to the treasury.
+The responsibility will lie with the concerned Drawing and Disbursing Officer.
+Proceedings in case of newly appointed officers in the All India Service
+20) Officers who have been newly appointed to the All India Service and who have been integrated
+All officers who wish to opt for the Pension Scheme (UPS)
+The decision was linked to the government decision within 30 days of joining the Indian service.
+The office in which the officer concerned works by filling in the information reasonably in the Sample A-1.
+Submit to the Drawing and Disbursing Officer at the office where they are located. Related to
+The Drawing and Disbursing Officer is connected through the "OPGM" facility in the servicing system.
+Prepare the officer's UPS PRAN.
+Narrow Suggestions
+21) Permanent Pension Account Number from the Central Records Keeping Agency.
+(PRAN) Annual Return will be sent to the concerned officer every year mutually.
+Also, the Central Records Maintenance Agency will send their PRAN to the concerned officer.
+Provide a way to view the details of the account balance on the website.
+Will give.
+22) Contributions being credited to the account of the Integrated Pension Scheme are eligible.
+It will be the responsibility of the officer concerned to ensure it every month. In the
+In case of any error, the concerned officer shall make the relevant withdrawals and disbursements.
+A written statement must be made to the officer. The officer who will act as
+No, they will not be able to file any complaint (legal action) in the future.
+2. Informal Reference No. 165/2025 Service-4,
+D. Is being issued as per the approval given under 31.12.2025.
+3. This Government Decision is available on the Government of Maharashtra website www.maharashtra.gov.in.
+# Page 7
+# Page 8
+# Page 9
+# Page 10
+# Page 11
+# Page 12
