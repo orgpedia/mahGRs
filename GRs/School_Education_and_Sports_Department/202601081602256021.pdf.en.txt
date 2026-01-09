@@ -1,0 +1,113 @@
+# Page 1
+5 per cent reservation under sports policy.
+Blockchain for implementation
+"Sports e-valuation" by incorporating technology
+about approving the development of the system.
+Government of Maharashtra
+Department of School Education and Sports
+Government Decision Number: - SD- 12016/5/2025 (E-1467357) / CRUSE-2
+Madam Cama Marg, Martyrdom Rajguru Chowk,
+Mantralaya Extension Building, Mumbai-400 032.
+Date: January 8, 2026
+Read: - 1) Government Decision No: Sports-2002 / Q. No.68 / CRUSE-2, dated 01.07.2016
+2) GOVERNMENT RECORD NUMBER: NUMBER 1716 / QUESTION 18 / CRUSE-2, dated 30th June, 2022
+3) Government Decision No. 1216397 / SESD - 38015/5/2025 Creuse-2,
+Dated September 05, 2025
+4) Letter from the Commissioner, Sports and Youth Services No. Kheya / Blockchain / 2025-26 Ka-16,
+dated November 14, 2025.
+The Proposal: -
+The players of the state should get the benefit of 5 per cent reservation easily and in a transparent manner.
+The government has taken a decision in this regard. 30th June 2022 and Dt. Guidelines as of September 05, 2025
+Notifications have been issued. However, there is little human intervention in the process.
+To prevent bogus certificates and delay in verification process.
+To avoid this, it is advisable to use the latest technology. For sports certificate verification
+The integrated system of "Krida e-Praman" is called "Artificial Intelligence."
+Blockchain has been developed. Accordingly, the Government Decision dated 30th June
+In paragraph No. 5 of 2022 as well as the Government Decision dated September 05, 2025
+It is for the Government to repeal the amendments made and include the amended provisions instead.
+was under consideration.
+The Government's Decisions:
+5 for Government / Semi-Government and other field jobs for players who are proficient in the state.
+To reduce human interference in sports certificate verification, bogus player reservation
+Updated to prevent certificates and delays in the verification process.
+Use of Blockchain based "Sports e-PRAMAN" system using technology
+It is being approved.
+Similarly, the Government Decision dated 30th June 2022 and dated 05th September, 2025 included
+# Page 2
+To revoke paragraph No. 5, as amended as follows:
+The Government is approving: -
+Revised methodology of certificate verification through "Sports e-Verify" system
+I. Responsibilities of sports associations and tournament organizers (Data Archival on Blockchain):
+1) All the official sports associations at the state and national level, since the conclusion of the tournament 07
+Within days (calendar days), the final result of the race, the list of players participating, and
+For uploading the mark sheet on the Sports Department's prescribed "Krida e-Praman Portal."
+All documents and certificates of authenticity as per Annexure-A and B of the accompanying Annexure, including and relating to
+The final result of the competition. It will be mandatory to submit xlxs to this file.
+2) The official office bearer of the organization concerned while submitting this information.
+It must be authenticated by digital signature (DSC) / signature.
+3) Once this information is provided by the Directorate of Sports and Youth Services
+(https://sports.maharashtra.gov.in) in the system when uploaded to the portal
+A "cryptographic hash" of this information via a "smart contract"
+Create a cryptographic hash and save it permanently on the blockchain.
+will be done.
+4) Punitive provision: - If an organization records within the prescribed period of 7 days
+Not submitted to the Directorate of Sports and Youth Services for upload on the blockchain,
+So, by "smart contract," the organization is automatically "defaulter."
+will be added to the list, and if the records are not uploaded, they will be
+The association will be responsible for the loss of players.
+II Digital application process to be performed by the player:
+1) Sports and Youth Services, after the athlete has received a certificate of proficiency in sports events.
+On the "Krida e-Praman" portal of the Directorate (https://sports.maharashtra.gov.in)
+Login using your Aadhaar-linked ID.
+2) The player must fill out their match details and submit an online application for verification.
+3) The information submitted by the player and the "archive" saved by the organization on the blockchain.
+System Automated Verification of Record Hash
+Go in person to any divisional office or submit documents for this.
+No need to do it.
+4) The verification certificate submitted by the athlete candidate through the above verification before recruitment.
+In the event that it is invalid for any technical or administrative reason, if the
+The candidate shall also have the date of submission of the application form prior to the recruitment process (s).
+If there are other certificates / certificates of the previous) period, the candidate shall
+# Page 3
+Certificates / Certificates to the appointing authority by verification through Sports e-certification system.
+be submitted. The said certificate submitted by the candidate by the concerned appointing authority.
+Verify valid with a QR code (Quick Response Code).
+should do.
+III Role of Deputy Director (Headquarters / Administration) and validity of the certificate:
+1) Automatically verified certificate issued through "Sports e-Validation" system
+The powers are vested in the Deputy Director (Headquarters), Directorate of Sports and Youth Services, Pune.
+This will bring uniformity by centralising the verification process.
+2) Digital Signature: - This certificate is required under the Information Technology Act, 2000 (IT Act, 2000).
+The Deputy Director (Headquarters), Sports and Youth Services, as valid under Section 5 of the
+There will be a digital signature.
+3) QR Code Verification: - A unique QR code on each certificate (Quick Response)
+the code). Maharashtra Public Service Commission (MPSC) or any other appointment
+If the authority scans this code, it verifies them with the original entry on the blockchain.
+This digital certificate will be verified with a QR code (Quick Response Code).
+The responsibility to do so shall lie with the appointing authority concerned.
+IV Verification reports and deadlines (Instant Verification Protocol):
+1) Blockchain and smart contract technology, if the information is connected, will allow the player to
+Its "Digital Verification Report" immediately after application or up to a maximum of 24 hours.
+It will be available online within (or immediately).
+V. Blockchain-based appeal mechanism:
+1) If the certificate is rejected for technical reasons or due to a discrepancy in information
+If so, the player will have the option to appeal online. A maximum of 30
+There will be a time limit of days.
+Joint Director of First Appeal (Sports) and Second Appellate Commissioner, Sports and Youth Services
+It can be submitted online.
+3) The decision on the appeal and the details of the hearing will also be recorded on the blockchain.
+(On-chain recording), so that it cannot be manipulated in the future.
+2. This certificate verification will be called "Sports e-Verify."
+3. As per the sports qualification required by the player for the cadre in A / B / C / D group.
+Sports e-certificate at the time of application in case of advertisement for recruitment to the concerned post.
+Attach a shaded copy to the application. Unless accompanied by a copy of the sports e-certificate
+The player's application will not be considered by the player cadre.
+From now on, this procedure will be applicable for recruitment to the Public Service Commission as well as all other posts.
+# Page 4
+5. All players from the state of Maharashtra who are eligible for 5 per cent reservation as per the said procedure.
+It will be binding on the players, the respective sports associations and all concerned.
+This Government decision is available on the website of the Government of Maharashtra www.maharashtra.gov.in.
+# Page 5
+# Page 6
+# Page 7
+# Page 8
