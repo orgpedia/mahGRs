@@ -1,0 +1,149 @@
+# Page 1
+For the Department of Public Health (itself)
+Administrative approval for procurement of new computers, printers and scanners through GeM portal through prescribed bidding process.
+Government of Maharashtra
+Department of Public Health
+Government Decision Number: Numerical - 2025 / Q. 13 / Registration Branch
+10th Floor, Gokuldas Tejpal Hospital Complex Building,
+New Mantralaya, Mumbai - 400001.
+Date: January 29, 2026.
+Read: -
+1) Government Decision No.: Finance Department Government Decision No. v. 2013 / Q. No. 30/2013 Regulations, Part-II, D. 17/04/2015.
+2) Government Decision No.: Department of Industry, Power and Labour Government Decision No. Narrow-2016 / P.No.215 / Industries-4, D. 24.08.2017 3) Government Decision No.: Department of Industry, Energy and Labour Government Decision No. Bhakans-2021 / P.No.8 / Udyog-4, D. 07.05.2021 4) Government Decision No.: - Department of Public Health, No. Narrow - 2024 / P.No.13 / Registry Branch, D. 05.06.2025
+5) Government Decision No. - Department of Public Health, No. Narrow - 2024 / P.No.13 / Registry Branch, D. 09.09.2025
+6) Directorate of Information Technology Circular No. Matans - 2025 / tm / s - 3/75, D.
+19.12.2025.
+The Proposal: -
+Effective implementation of e-Office in the administrative wing of the Ministry.
+The government has taken a decision and the process of implementation has started.
+Accordingly, Reference No. (5) To purchase computer printers and scanners as decided by the Government herein.
+Administrative approval was granted. Accordingly, while the process is ongoing, information and technology
+The department has issued instructions regarding computer printers and scanners. Circular issued on 19.12.2025
+# Page 2
+Government Decision Number: Numerical - 2025 / Q. 13 / Registration Branch
+has been done. Hence, the rule of administrative approval regarding the purchase of computers, printers, and scanners.
+The decision. Cancellation of 9.9.2025 Government Circular, Department of Information and Technology. 19.12.2025
+Reference No. E-Office System for Public Health Department (SWAYAM) as per the specification in Section 6
+Implementing new computers, printers and scanners through a bidding process through the Gem portal.
+Administrative approval for the purchase was under the consideration of the government.
+The Government's Decisions:
+Government in respect of procurement of computers, printers and scanners for the Department of Public Health (itself)
+Decision, Department of Public Health Serial No. Cancel orders under 9.9.2025
+Government Circular for the Department of Public Health (itself), Department of Information and Technology
+d. New in accordance with the directive set out under 19.12.2025 and subject to the following conditions:
+28 computers, 10 printers and 25 scanners projected through GeM portal through prescribed bidding process
+Purchases in the amount of Rs. 45.84 lakh are being given fresh administrative approval.
+Automatic conditions: - a) Specifications about the computer
+Medium level configuration
+A. Intel 15 with 14th Generation All in One PC (Estimated cost Rs. 85,000/- considering pre-installed Genuine Windows 11 Professional, 16GB RAM & 111) Storage)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Parameter                                         | Generic Technical Specification                                                                                                                               |
+| Processor                                         | Intel 15, 10 Core or higher, with minimum 2.5 GHz or higher (Base Frequency), 20 MB Cache or higher with 14th or higher Generation and to be Certified by OEM |
+|                                                   |
+| Operating System                                  | 1. Pre-installed OEM Certified Genuine Microsoft Windows 11 Professional (64 bit) 2. or higher 3. Recovery partition (applicable for Windows).                |
+| Memory (RAM)                                      | 8 GB/ 16GB DDR 5 4400MHz or higher with 64 GB Expandability                                                                                                   |
+|                                                   |
+| Integrated audio controller with internal Speaker |
+| Ports                                             | Minimum 5 USB ports with at least 2 USB 3.0 or higher ports, HDMI, Display port, Type-C Port, Audio jack for headphone & microphone                           |
+| Integrated webcam 2 MP or higher                  |
+| Display                                           | Minimum 23.8 inches or higher, Resolution 1920 x1080 or higher Display                                                                                        |
+| Antivirus                                         | Minimum 3 years subscription of Antivirus with protection for Ransomware, Browsing, Phishing along with OEM undertaking to be provided.                       |
+| Model specific Certification                      | BIS                                                                                                                                                           |
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Page 2 of 5
+# Page 3
+Government Decision Number: Numerical - 2025 / Q. 13 / Registration Branch
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Compliance                                                                                       | RoHS, ISO 9001                                                                             |
+| Keyboard & Mouse                                                                                 | USB Keyboard & USB two button optical Mouse with Mouse Pad (Same make as AIO)              |
+| Network Interface                                                                                | Integrated 10/100/1000 GB Ethernet, Integrated 802.1 lac Wi-Fi and Bluetooth 5.0 or higher |
+| Accessories                                                                                      | All necessary cables                                                                       |
+| Security                                                                                         | 2.0 Trusted Platform Module (TPM) (Hardware/Firmware)                                      |
+| Warranty                                                                                         | 3 Years comprehensive on-site OEM warranty                                                 |
+| Note: Any deviation/ alteration/ modification in the specification will not be considered valid. |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+b) Fafrdear about printers
+Mid-High-Level Configuration
+A.Laser - 30 PPM _
+-------------------------------------------------------------------------------------------------------------------------------------------------
+| Parameter                                                                                        | Generic Technical Specification            |
+|                                                                                                  |
+|                                                                                                  |
+| Paper size                                                                                       | A4, Legal or higher                        |
+| Print Speed (Minimum)                                                                            | 30 PPM (Mono) or higher                    |
+| Print Resolution                                                                                 | 600 x 600 dpi or higher                    |
+| Duplex                                                                                           |
+|                                                                                                  |
+| Duty Cyele (Monthly)                                                                             |
+|                                                                                                  |
+| Input paper tay capacity                                                                         |
+| Compatible OS                                                                                    | Windows and Linux                          |
+| Cables/ Accessories                                                                              | All the required cables, accessories       |
+| Software Media                                                                                   | Driver & Utility software                  |
+| Model specific Certifications                                                                    | BIS                                        |
+| Compliance                                                                                       | RoHS, ISO 9001                             |
+| Warranty                                                                                         | 3 Years comprehensive on site OEM warranty |
+| Note: Any deviation/ alteration/ modification in the specification will not be considered valid. |
+-------------------------------------------------------------------------------------------------------------------------------------------------
+a) Specifications of the scanner
+Medium Level Configuration
+A. Laser 25 PPM
+---------------------------------------------------
+| Functions             | Print, Scan, Copy       |
+|                       |
+| Print Speed (Minimum) | 25 PPM (Mono) or higher |
+|                       |
+| Print Resolution      | 600 x 600 dpi or higher |
+|                       |
+| Memory                |
+|                       |
+|                       |
+|                       |
+|                       |
+|                       |
+| Scan File Format      | PDF, JPEG etc           |
+| Scan Resolution       | 600 x 600 dpi or higher |
+---------------------------------------------------
+Page 3 of 5
+# Page 4
+Government Decision Number: Numerical - 2025 / Q. 13 / Registration Branch
+-------------------------------------------------------------------------------------------------------------------------------------------------
+| Scan Type                                                                                        | FLATBED with ADF/ DADF or better           |
+| Input paper tray capacity                                                                        | 150 pages or higher                        |
+| Compatible OS                                                                                    | Windows and Linux                          |
+| Cables/ Accessories                                                                              | All the required cables, accessories       |
+| Software Media                                                                                   | Driver & Utility software                  |
+| Model specific Certificat                                                                        |
+|                                                                                                  |
+| Warranty                                                                                         | 3 years comprehensive on-site OEM warranty |
+| Note: Any deviation/ alteration/ modification in the specification will not be considered valid. |
+-------------------------------------------------------------------------------------------------------------------------------------------------
+1. Purchase Government Decision, Industries, Power and Labour Department, No. The narrow-
+2016 / Q. No.215 / Industries-4, D. 24.08.2017 as well as government decisions, industry, energy, and labor
+Department, No. Bhankhas-2021 / P.No.8 / Industries-4, Dt. Gem as specified in 07.05.2021
+The work will be done by following the prescribed procedure from the portal.
+The estimated cost of the purchase is Rs. The 45.84 is the amount of attention and the cost is as follows:
+Subtract expenses from the approved provision under 3 different headings of the department made.
+will be divided by the approved grant of 2025-26.
+a) Demand No. R-2,
+OO
+090, Secretariat
+(1) The Ministry
+(01) (01) Public Health (22510418)
+17, computer costs.
+b) Demand No. R-2,
+(01) (03) Family Welfare Cell of the Ministry (100% Centrally Sponsored Scheme)
+(Program) (22510187)
+5) 17, cost of computer
+a) Demand No. R-2,
+(01)(04)
+Online e-Seva (Programme) under e-Governance (22510697)
+17, computer costs.
+These orders are governed by the Finance Department No.V.P.-2013 / Q.No. 30/2013 Regulations,
+Part II, d. 17.04.2015, Financial Rights Manual 1978, Part-I, Sub-Section-II
+In serial number 27-A, rule no. Provided to the Administrative Division under section 76
+are being issued according to authority.
+Page 4 of 5
+# Page 5
+Government Decision Ranking: Numerical - 2025 / Q. 13 / Registration Branch
+The decision is available on the Government of Maharashtra's www.maharashtra.gov.in website.
