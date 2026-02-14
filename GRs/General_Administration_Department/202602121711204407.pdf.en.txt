@@ -1,0 +1,54 @@
+# Page 1
+Maharashtra State Data Centre (MH-SDC)
+For Bharat Sanchar Nigam Limited (BSNL), Fort Data Centre, Mumbai
+Cage co-location facility implemented
+to bring about and to administer
+regarding the approval.
+Government of Maharashtra
+General Administration Department (MATS)
+Government Decision Number: SDC-2026 / CR. 29 / IT
+Martyr Rajguru Chowk, Madam Cama Road,
+Mantralaya, Mumbai - 400 032.
+Date: February 12, 2026
+Read:
+General Administration Department, Government Decision No. COM-1098 / Q. No. 212/98/39, D. 05.10.2001
+2. High Powered Committee on Information Technology. The 186th meeting held on 09.01.2026 - Agenda No. 11
+The Proposal:
+Maharashtra State Data Centre (MH-SDC) is a mission critical application of various departments of the state government.
+It serves as a central facility for Hochstagging of Portals, Databases and Services.
+The data centre has been operational for over 12 years, covering IT, network, security,
+Power supply and cooling infrastructure largely end-of-life (EOL) and end-of-support (EOS)
+have reached the position. Also, MH-SDC has a separate Disaster Recovery (DR) Centre.
+Non-existent operational, safety, and business continuity risks to essential systems of government (Operational,
+security, and business continuity risks) cannot be ruled out.
+Government to shift MH-SDC to Cage Co-location Facility of Sector Undertakings (PSUs)
+was under consideration. Accordingly, the Information Technology High Powered Committee (IT-HPC) has constituted a committee. Happened on 09.01.2026
+Agenda No. 186 of the meeting. Under Section 11, Cage Co-location facility at BSNL, Fort Data Centre, Mumbai has been approved.
+was given.
+The government's decision:
+Agenda of the 186th Meeting of the High Powered Committee on Information Technology chaired by the Hon'ble Chief Secretary
+Sanchar Nigam of India for Maharashtra State Data Centre (MH-SDC) as per the approval granted under No.11
+Limited (BSNL), administrative approval for implementation of Cage Co-location facility at Fort Data Centre, Mumbai
+is being provided.
+# Page 2
+The cost of this cage co-location facility will be as follows:
+i.One Time set-up cost: Rs. 36 lakh
+Annual recurring rent: Rs. 5.8 crores per annum.
+Minimum contract period: 5 (five) years.
+3. Co-location of secure cage at Fort Data Centre, Mumbai by Bharat Sanchar Nigam Limited (BSNL).
+Power supply, cooling and related physical infrastructure will be provided. server, storage, network
+IT is responsible for the purchase, installation, operation, and management of equipment, software, and licenses.
+The headquarters will be in Mumbai.
+If Interim Hosting is required while relocating to Maharashtra State Data Centre (MH-SDC)
+For Rs. An outlay of ₹3 crore (three crores) is being approved. This is from Interim Hosting Maha-IT.
+Empaneled service providers are being approved to do so through the organization Webworks.
+5. Necessary agreements with terms and conditions to the Director, Directorate of Information Technology under the said Government Decision.
+It is being authorised to do so and issue necessary orders.
+6. Expenditure incurred in respect of demand No. A-04, Main Accounting Title (2052) - Secretariat General Service (2052)
+0582) (090) (00) (11), e-Governance by Rajya Setu Society under the heading "31-Auxiliary Grants"
+It is hereby approved to meet the budgetary provision sanctioned for the project for the financial year 2025-26.
+is being provided.
+For the above expenses, the Accountant, Directorate of Information Technology, Mumbai, is the Drawing and Disbursing Officer and
+The Deputy Secretary, Information Technology will be the controlling officer.
+8. To make the said Government Decision available on the Government of Maharashtra website www.maharashtra.gov.in.
+# Page 3
