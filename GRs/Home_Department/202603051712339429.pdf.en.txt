@@ -1,0 +1,116 @@
+# Page 1
+The CCTNS project in the state
+Maintenance, repairs, and other necessary
+regarding the distribution of funds for the affairs.
+Government of Maharashtra
+the Home Department
+Government Decision No: Narrow 3625 / Q. No.61 / E-1055172 / Poll-3.
+Mantralaya, 2nd Floor, Main Building,
+Madame Cama Marg, Martyrdom Rajguru Chowk, Mumbai-400 032.
+Date: 5.3.2026.
+Read: - 1) Government Decision Home Department, No. MIS 0508/748 Q. No.329 / Poll-4, D. 22.05.2009.
+2) SEC (State Empowered Committee) Committee headed by Director General of Police, Maharashtra State, Mumbai. Minutes of the meeting on 04.07.2016.
+3) The Deputy Commissioner headed by the Additional Chief Secretary (Home). 12.7.2016 and d. Minutes of the meetings on 28.12.2016.
+4) Ma. The State Summit Committee headed by the Chief Secretary, Shri. 17.01.2017, d. 08.02.2018, d. 07.09.2019, d. 20.07.2020, d. 18.05.2021, d. 16.11.2021, d. 10.05.2022, d. 04.11.2022 and d. 12.7.2023, d. 21.9.2023 d. 18.09.2024 and d. Minutes of meetings on 29.1.2025 and 12.3.2025.
+5) Government Decision, Home Department No. CCTNS-3615 / Q. No.202 / Part-5 / Poll-3,
+d. 09.05.2022 and d. 13.01.2023. and d. 29.8.2023
+6) Government Decision, Home Department No. CCTNS-3615 / Q. No.202 / Part-III / Poll-III,
+d. 01.07.2022, d. 21.7.2023 and d. 8.1.2024.
+7) Government Decision, Home Department No. Narrow-3616 / No.81 / Part-III / Poll-III,
+d. 4.8.2023, d. 14.9.2023, d. 13.12.2023, d. 30.3.2024. and d. 10.1.2025 and d. 2.6.2025
+8) Additional Director General of Police (Retd. ), Office of the Director General of Police, Mumbai.
+Letter No. Pomsons / 17/6162 CCTNS / 15/2010, d. 21.8.2025, and d. 30.6.2025.
+9) Government Decisions, Finance Department No. Finance-2025 / Q. 44 / Finance-3, D. 7.4.2025.
+The Proposal: -
+The CCTNS project in the state is being implemented under the central government's e-governance scheme.
+The maintenance and repair cost of the project is borne by the state government. May as the project's system integrator.
+Wipro Ltd. with this company. A five-year service contract was signed on 22.3.2012. The project
+It was inaugurated by the Governor. Done in 15.9.2015. The duration of the agreement
+D. Ends on 14.9.2020.
+# Page 2
+Government Decision No: Narrow13625 / Q. No.61 / E-1055172 / Poll-3.
+The details of subsequent extensions, administrative approvals, etc. are as follows:
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| No. | Details of the extension of the CCTNS project system integrator.                                                                                                                                                                                                      | The date of the government decision. | The amount sanctioned for the cost of administrative sanction is Rs. |
+| Chi |
+|     |
+| 3   | CCTNS 2. 03)? Until assigned to a new internal supplier                                                                                                                                                                                                               | 29.8.2023                            | Rs. 9,95,92, 000 / -                                                 |
+| 4.  | In May, the Wipro company informed the Chief Secretary that it would not offer the service after D 14.9.2023 as per the contract. This was immediately followed by the government's approval of SAC from the empanelled company for an alternative system integrator. | The 8.1.2024.                        | Rs. 7,39,86, 000 / -                                                 |
+| 5   | For purchase, to reimburse allowable payments in the year 2025-26 for the CCTNS project.                                                                                                                                                                              |                                      | Rs 325.32.क Ooty                                                     |
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+BSNL and May. The details of payments submitted by MTNL are as follows.
+The network provider of the CCTNS project is May. Statement of Amounts Payable to MTNL:
+(Amount Rs.)
+A) The details of MTNL Invoices for 2 Mbps MPLS VPN links No.BSNL/EB CRM/MTNL MPLS Bill/2024-25/46, Dated 17/03/2025:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Sr. No. | Service Type                                                           | Invoice No./Dtd | Invoice Period                         | SLA Period | Invoice Amount Without Taxes (A) | Invoice Amount (Al) | Maintenance Penalty Amount (B) | Net Payable without Taxes C=A- B |              |  Net Payable with Taxes C1=C*1.18 |
+| 1       | Recurring cost for 5 New links & 319 Old links (As per Old Work order) |                 |  CCTN/OLDWO/Q3- 2425/1 Dated- 5/3/2025 | - -        |                                  | 61,33,875           | 72,37,973                      | 1,85,432.59                      | 59,48,442.41 | 70,19,162.04                      |
+| 2       | Recurring cost for 1 New links & 324 Old links                         |                 |  CCTN/OLDWO/Q4- 2425/1 Dated- 5/3/2025 |            | Oct-24 to Dec- 24                | 61,65,610           | 72,75,420                      | 1,64,599.26                      | 60,01,010.74 | 70,81,192.67                      |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Page 2 of 5
+# Page 3
+Government Decision No: Narrow13625 / Q. No.61 / E-1055172 / Poll-3.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Sr. No.                  | Service Type                                                           | Invoice No./Dtd                       | Invoice Period | SLA Period   | Invoice Amount Without Taxes (A) | Invoice Amount (Al) | Maintenance Penalty Amount (B) | Net Payable without Taxes C=A- B | Net Payable with Taxes C1=C*1.18 |
+| (As per Old Work orders) |
+| 3                        | Recurring cost for 2 New links & 15 Old links (As per New Work orders) | CCTN/NEWWO/Q3- 2425/1 Dated- 5/3/2025 |                |              | 326,700                          | 385,506             |                                | 326,700.00                       | 385,506.00                       |
+| 4                        | Recurring cost for 1 New links & 17 Old links (As per New Work orders) | CCTN/NEWWO/Q4- 2425/1 Dated- 5/3/2025 |                |              | 339,020                          | 4,00,044            |                                | 339,020.00                       | 4,00,043.60                      |
+| 1,29,65,205              | 1,52,98,943                                                            | 3,50,031.85                           |                |  1,26,15,173 | 1,48,85,904                      |
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+B) The details of MTNL Invoices for 2 Mbps VPNoBB links No.BSNL/EB CRM/CCTNS Helpdesk/2024-25/45 Dated 1/3/2025:
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| No.R                                                                            | Service Type     | Invoice No.     | Invoice Period         | SLA Period               | 0. Of H Si te 5 | Invoice Amount (in INR including taxes) | Bandwidth Charges with 15% SLA Charges without taxes (A) | Penalty Amount (B) | Rebate Amount( C) | Payable  |  AmountD = (A-B)+C | Net Payable Amount including GST |
+| MTNL Consolidated bill of VPNoBB Connections for 9Locations Under CCTNS Project | MLCB413 0049855  |  dtd.1-Feb-2525 | 1 Oct-24 031 March- 25 | 1April20 24- 30Sept2 024 |                 | 1,90,066                                | 1,61,073                                                 | 1,12,046.08        | 3,494.75          |          |  52,521.67         |                                  | 61,975.57 |
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+C) The details of MPLS Hardware OTC Difference Invoice No. BSNL/EB CRM/BSNL MPLS Bill/2024- 25/44, Dated 11-02-2025:
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| a | Service Type                                                                                                        | Invoice No.      | Invoice Period     | SLA Penalty        | Invoice Amount |
+| 4 | MPLS Hardware OTC Difference Amount for 11 New links (9 Links as per Old Work order & 2 Links as per New Work order | DR2024270000805  |  1 dtd.10-Feb-2025 | Oct-23 to March-24 | 0              | Rs.3,73,824/- |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The office of the Director General of Police is as follows: CCTNS by letter dated 10.9.2025
+The project's network provider may. MTNL received Rs. 1,48,85, 904 / - and Rs. 61,976 / -Total
+Rs. 1,49,47, 880 / - and BSNL Rs. 3,73,824 - A total of Rs. 1,53,21, 704 / - paid
+The matter was under the consideration of the government. Based on this, the following decisions are being taken:
+Page 3 of 5
+# Page 4
+Government Decision No: Narrow 3625 / Q. No.61 / E-1055172 / Poll-3.
+The government's decision:
+The network provider may be as above. MTNL 2MbpsMPLS 7 Bill under Table A
+Old Work Order WATT of 325 locations and New Work Order WATT of 18 locations for a total of Rs.
+1,48,85, 904 (With Tax) (letter Rs. One crore forty eight lakh eighty five thousand nine hundred and four rupees only) payable
+(MTNL has collected a total of Rs. 1,52,98, 943 from which the payment has been submitted
+Penalty of Rs.3,40, 039.C4 (without tax) on original payment of 1,29,65, 205 / -
+has been done.
+MTNL's 2 Mbps 70140349 links invoice under Table 8 (Period 1 Oct-24 to 31 March-25)
+A total of Rs. 61,976 / - (with tax) (letter Rs. Sixty one thousand AH BWSR rupees only) is payable.
+(MTNL has collected a total of Rs. The payment of 1,90,066 has been submitted, out of which Rs. 1,61,073 - or
+Penalty of Rs.1,12, 046.08 - (Without Tax) and Exemption 3, 494.75 -
+Rs.
+BSNL MPLS Hardware OTC Difference Invoice under Table 7 (Period Oct-23 to March-24)
+A total of Rs. 3,73,824 - (With Tax) (letter Rs. Three lakh seventy three thousand eight hundred and twenty four rupees only) payable
+It is.
+As mentioned in Table A, B, C above, the Minimum is Rs. 1,48,85, 904 / - (With Tax) (characters
+One crore forty eight lakh eighty five thousand AHal four rupees only), Rs. 61,976 / - (Characters Rs. sixty-one
+thousand AH WEA Rupees only) MTNLAMT Total Rs. 1,49,47, 880 / - and May. BSNLAMT Total Rs.
+3,73,824 - (Characters Rs. Three GTS BSA SIR seats for only Rs 24) MTNLA BSNLUMT
+A total of Rs. 1,53,21, 704 / - (Characters Rs. One crore fifty-three lakh twenty-one thousand Ua only four rupees) paid
+It is being approved by this government decision to do so.
+Expenses incurred for maintenance, repair and other essentials of the CCTNS project.
+"Demand No. B-1, 2055-Police, (00) 109 District Police, (00) 14 Crime and Criminal Tracking
+Expenditure under the heading "Network Mechanism (State Plan), Dattamat, (2055A097), 50 Other Expenditures."
+The income should be divided by the grant sanctioned in the financial year 2025-2026.
+The Additional Director General of Police, Criminal Investigation Department, to withdraw the said funds from the treasury.
+The State of Maharashtra, Pune has been designated as the "Control Officer" and the Drawing and Distribution Officer under him.
+has been declared as "Drawing and Disbursing Officer." The above funds CCTNS
+The expenditure for the work done under the project should be as per the directions of the Central Government.
+Utilization certificates of the amount received should be submitted to the government from time to time.
+Page 4 of 5
+# Page 5
+Government Decision No: Narrow 3625 / Q. No.61 / E-1055172 / Poll-3.
+This Government Decision The Government Decision No.2013 / Q. 30/2013 Regulations of the Finance Department, Part-II,
+Financial powers in 17.4.2015, Rulebook, 1978 Part-I, Sub-section-II, No. 27
+(a) Rule No. According to the financial powers conferred on the administrative department under section 76, as well as the Government Circular
+Department of Finance. According to the 7/4/2025 and unofficial reference no. 156/2026 Expenditure - 7
+Issued pursuant to the approval granted for disbursement of funds during the financial year 2025-26 under 18.02.2026.
+is being done.
+The decision is available on the Government of Maharashtra's www.maharashtra.gov.in website.
