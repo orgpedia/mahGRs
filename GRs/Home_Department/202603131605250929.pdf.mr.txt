@@ -1,0 +1,95 @@
+# Page 1
+AI Powered Investigation platform
+सॉफ्टवेअर व इतर अनुषंगिक बाबींकरिता
+प्रशासकीय मान्यता देणेबाबत.
+महाराष्ट्र शासन
+गृह विभाग
+शासन निर्णय क्रमांक : संकीर्ण-३६२५/प्र.क्र.१९८/ई-१४३६७८०/पोल-३.
+दुसरा मजला मंत्रालय,
+मादाम कामा रोड, हुतात्मा राजगुरु चौक,
+मुंबई - ४०० ०३२.
+दिनांक : १३.३.२०२६.
+संदर्भ : (१) शासन निर्णय, गृह विभाग, क्र.संकीर्ण-०८२३/प्र.क्र.१३०/पोल-३, दि.१६.२.२०२४ व दि.१६.३.२०२५.
+(२) शासन आदेश क्रमांक : एचडी ३१०१३१३१/३/२०२५/पोल-३, दि.२५.४.२०२५.
+(३) मा. मुख्य सचिव यांचे अध्यक्षतेखालील शक्ती प्रदत्त समितीची दि.१०.१२.२०२५ रोजीच्या बैठकीचे
+इतिवृत्त.
+(४) विशेष पोलीस महानिरीक्षक (का. व सु.), महाराष्ट्र राज्य, मुंबई यांचे पत्र क्र.पोमसं/२१/७२७२/AI-
+SPV/७८/२०२४, दि.१२.२.२०२६.
+प्रस्तावना :
+राज्य पोलीस दलास कृत्रिम बुध्दीमत्तेचा (Artificial Intelligence) वापर करुन कायदा अंमलबजावणीचे
+कार्य अधिक प्रभावीपणे करता यावे, म्हणून “Maharashtra Research and Vigilance for Enhanced Law
+Enforcement Ltd.(MARVEL)” ही शासकीय कंपनी स्थापन करण्यात आली आहे. उक्त कंपनी ही थेट राज्य
+शासनाच्या (गृह विभाग) अधिपत्याखाली आहे. उक्त कंपनीची दिनांक २२.४.२०२४ रोजी कंपनी अधिनियम २०१३
+याखाली नोंदणी करण्यात आली.
+२. पोलीस अधिक्षक,नागपूर ग्रामीण, संचालक, भारतीय व्यवस्थापन संस्था, नागपूर आणि पिनाका
+टेक्नॉलॉजीज खाजगी मर्या. हे मार्वलचे संचालक आहेत. तसेच, पोलीस अधीक्षक,नागपूर (ग्रामीण), हे उक्त
+कंपनीचे पदसिध्द मुख्य कार्यकारी अधिकारी आहेत. मार्वलचे कार्यालय हे भारतीय व्यवस्थापन संस्था,नागपूर
+यांच्या आवारात स्थित आहे. मार्वलच्या स्थापनेपासून प्रथम पाच वषांकरिता रु. ४,२०,००,०००/- (रुपये चार कोटी
+वीस लाख फक्त) प्रतीवर्ष याप्रमाणे भागभांडवल म्हणून अनुदान देय आहे. मार्वल या शासकीय कंपनीच्या कामांची
+विविधता आणि तिची संभाव्य क्षमता लक्षात घेता तिला गृह विभागापुरते मर्यादित न ठेवता मा. मुख्य सचिव यांच्या
+अध्यक्षतेखालील शक्ती प्रदत्त समितीच्या (Empowered Committee) अधिपत्याखाली आणण्यात आले,
+याबाबतचा शासन निर्णय दि.२५.५.२०२५ अन्वये रोजी निर्गमित करण्यात आला.
+# Page 2
+3. पोलीस अधिक्षक,नागपूर (ग्रामीण)-नि-मुख्य कार्यकारी अधिकारी मार्वल कं. यांनी Al Powered
+Investigation platform सॉफ्टवेअर व इतर अनुषंगिक बाबींकरिता दि.१४.११.२०२५ रोजीच्या पत्राद्वारे निधी
+मिळण्याचा प्रस्ताव सादर केला. सदरचा प्रस्ताव तांत्रिक मान्यतेसाठी माहिती तंत्रज्ञान विभागास पाठविण्यात
+आला होता. त्यावर माहिती तंत्रज्ञान विभागाने गृह विभागाच्या प्रस्तावास तांत्रिक समितीच्या अभिप्रायानुसार
+खालील अटी व शर्ती सह तांत्रिक मान्यता प्रदान केली आहे -
+(1) The procurement authority/entity shall ensure vendor neutrality, transparency and adherence to
+statutory and administrative compliance for procurement and to execute procurement under the
+ambit of existing laws, rules, regulations and procurement policy.
+(2) It shall be the responsibility of the procurement authority/entity to ensure that required administrative and financial approvals are obtained from the competent authority.
+(3) This technical sanction is for the broad specifications for the proposed hardware and software.
+The tentative cost suggested in the proposal may however be treated as a reference for the procurement since the same has been suggested by MARVEL which itself is a technical entity.
+(4) The implementation authority may explore the technical feasibility of hosting the software platforms in MSDC (Maharashtra State Data Centre).
+8. मा.मुख्य सचिव यांच्या अध्यक्षतेखालील शक्‍ती प्रदत्त समितीच्या दि.१०.१२.२०२५ रोजीच्या नागपूर
+येथीळ बैठकीत खालीलप्रमाणे निर्णय घेण्यात आला आहे.
+Empowered Committee approved the implementation of the Project on pilot basis for a
+total cost of INR 2 Crores. A sum of INR 1.5 Crores will be allocated to MARVEL on
+nomination basis for implementation of the project in Nagpur Rural district. The balance
+amount will be used by Home Department for carrying out compilation of court cases and
+other related resource materials for using the same to further enable the Al platform being
+developed.
+The intellectual property rights (IPR) of the Al Investigation platform developed will be provided to Government of Maharashtra on non-commercial basis along with all
+knowledge resource, thereby enabling Government of Maharashtra to use this platform across the state for scale up as well as other suitable state projects.
+For the hosting and deployment of the platform, competitive, reasonable prices will be
+discovered through tender process.
+CCTNS databases should be seamlessly integrated with the platform through APIs.
+To ensure proper utility for field officers ॥ was directed that assistance from experts identified by Home Department will be taken for domain knowledge.
+The Home Department will issue a Government Resolution as per the Empowered Committee approval.
+Before state-wide scale up, the outcomes of the pilot project being implemented in Nagpur Rural will be presented before the Empowered Committee.
+During state-wide scale-up proper procurement procedures will be followed, ensuring vendor neutrality and transparency.
+# Page 3
+शक्ती प्रदत्त समितीने उपरोक्तप्रमाणे दिलेल्या मान्यतेनुसार पोलीस महासंचालक कार्यालयाकडून
+दि.१२.२.२०२६ रोजीच्या पत्रान्वये प्राप्त प्रस्तावानुसार प्रशासकीय मान्यता देण्याची बाब शासनाच्या विचाराधीन
+होती. त्यास अनुसरुन खालीलप्रमाणे निर्णय घेण्यात आला आहे.
+शासन निर्णय :
+मा. मुख्य सचिव यांच्या अध्यक्षतेखालील शक्ती प्रदत्त समितीच्या दि.१०.१२.२०२५ रोजीच्या बैठकीत
+घेण्यात आलेल्या निर्णयानुसार Al Powered Investigation platform सॉफ्टवेअरच्या मुलभूत पायाभूत सुविधा
+आणि सानुकुलनाकरीता सॉफ्टवेअर अनुषंगिक खरेदी यासाठी एकूण रुपये २,००,००,०००/- (अक्षरी दोन कोटी
+फक्त) इतक्या अंदाजित खर्चाच्या या प्रकल्पाच्या प्रायोगिक तत्तवावर अंमलबजावणी करण्यास मान्यता देण्यात
+येत आहे. पोलीस अधिक्षक,नागपूर (ग्रामीण) यांच्या कार्यक्षेत्रात MARVEL या शासकीय कंपनीमार्फत AI
+Powered Investigation Platform तयार करण्यासाठी रुपये १,५०,००,०००/- (अक्षरी रुपये एक कोटी पन्नास
+लाख फक्त) व न्यायालयीन खटले आणि इतर संबंधित संसाधन सामग्रीचे संकलन करण्यासाठी गृह
+विभागाकरिता Al प्लॅटफॉर्म अधिक सक्षम व विकसित करण्यासाठी उर्वरित रु.५०,००,०००/-(अक्षरी पन्नास लाख
+फक्त) इतकी रक्कम अनुज्ञेय राहील.
+२. प्रस्तावित रुपये २,००,००,०००/- (अक्षरी दोन कोटी फक्त) इतका निधी Al Powered Investigation
+platform सॉफ्टवेअरच्या मुलभुत पायाभुत सुविधा आणि सानुकुलनाकरीता सॉफ्टवेअर अनुषंगिक खरेदी यासाठी
+मागणी क्र.बी-१, २०५५ पोलीस, ००,११५ पोलीस दलाचे आधुनिकीकरण, (०१) विविध तंत्रज्ञान विकास प्रकल्प,
+(०१) (०१) विविध तंत्रज्ञान विकास प्रकल्प (कार्यक्रम), या लेखाशीषांतर्गत ५२-यंत्रसामग्री व साधनसामग्री या
+उद्दीष्ट्टाखाली त्या-त्या वर्षाच्या मंजूर अनुदानातून खर्च करण्यास सहमती देण्यात येत आहे.
+३. AI Powered Investigation Platform Software करिता रुपये १,५०,००,०००/- (अक्षरी रुपये एक कोटी
+पन्नास लाख फक्त) इतका निधी पोलीस महासंचालक, महाराष्ट्र राज्य, मुंबई यांनी पोलीस अधिक्षक, नागपूर (ग्रामीण)
+यांना वितरीत करावा. उर्वरीत रु.५०,००,०००/-(अक्षरी पन्नास लाख फक्त) इतक्या निधीतून न्यायालयीन खटले व
+इतर संबंधित संसाधनाकरिता AI Platform विकसीत करावे.
+४. उक्त निधी कोषागारातून आहरण करण्यासाठी पोलीस महासंचालक, महाराष्ट्र राज्य, मुंबई यांना “नियंत्रण
+अधिकारी” व त्यांच्या अधिपत्याखालील आहरण व संवितरण अधिकाऱ्याला “आहरण व संवितरण अधिकारी” म्हणून
+घोषित करण्यात येत आहे. उपरोक्त निधी विहीत केलेल्या कामासाठी खर्च करण्यात यावा व खर्च करण्यात आलेल्या
+रकमेची उपयोगिता प्रमाणपत्रे वेळोवेळी शासनास सादर करावी.
+५. सदर शासन निर्णय, वित्त विभाग शासन निर्णय क्र. विअप्र-२०१३/प्र.क्र.३०/२०१३/विनियम,भाग-२,
+दि.१७.०४.२०१५ मधील वित्तीय अधिकार नियम पुस्तिका-१९७८, भाग-पहिला, उपविभाग-दोन, महाराष्ट्र आकस्मिक
+खर्च नियम, १९६५ अन्वये प्रदान करण्यात आलेल्या वित्तीय अधिकारानुसार व अ.क्र. २७ (अ), नियम क्र.७६ अन्वये
+# Page 4
+प्रशासकीय विभागाला असलेल्या अधिकारानुसार व मा. मुख्य सचिव यांच्या अध्यक्षतेखाली उच्चस्तरीय शक्ती प्रदत्त
+समितीच्या (HPC) दिनांक १०.१२.२०२५ रोजीच्या बैठकीतील निर्णयानुसार निर्गमित करण्यात येत आहे.
+६. सदर शासन निर्णय महाराष्ट्र शासनाच्या www.maharashtra.gov.in या वेबसाईटवर उपलब्ध
