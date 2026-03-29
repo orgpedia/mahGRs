@@ -1,0 +1,147 @@
+# Page 1
+All schemes of the Government of Maharashtra and
+The only login to take advantage of the services
+System (as Single Sign On (SSO))
+Mandatory use of MahaID as well
+Mechanism for implementation of Mahasarathy Project
+about ensuring it.
+Government of Maharashtra
+General Administration Department (MATS)
+Government Decision Number: Narrow-1725 / P.No.251 / Mothers
+Martyr Rajguru Chowk, Madam Cama Road,
+Mantralaya, Mumbai - 400 032.
+Date: 27th March, 2026
+The Proposal:
+Government of Maharashtra Direct Benefit Transfer (DBT) for various welfare schemes for citizens.
+It distributes. This includes grants and cash assistance, etc. These benefits are available to individuals, families, corporations,
+Transfers are made to private service providers, public service organizations, educational institutions, students.
+In addition, the state government provides a number of services to citizens. Thus directly for the welfare schemes.
+Various services of various departments of the state government while transferring benefits or providing services.
+It has been observed that the government faces many challenges while providing for the citizens. So
+All schemes of the Government of Maharashtra with the objective of ensuring implementation of social benefit schemes.
+and use of MahaID as a single sign on (SSO) login mechanism to avail the services.
+Mandatory as well as ensuring mechanisms for implementation of mega projects at the government level.
+was under consideration.
+The government's decision:
+This includes providing MahaID to every beneficiary using the Mahasarathi portal.
+The use of MahaID as a stand-alone sign-on (SSO) system is being mandated.
+1. To provide MahaID to the citizens for availing various schemes and services of the Government of Maharashtra.
+This MahaID is being made mandatory with effect from 1st May, 2026. For this
+Use the website www.mahasarathi.maharashtra.gov.in.
+# Page 2
+Government Decision Number: Narrow-1725 / P.No.251 / Mothers
+All the administrative divisions of the Government of Maharashtra and their subordinate offices, corporations, public services.
+To link the Maha ID (SEED) to their respective portals or databases of institutions, educational institutions, etc.
+It will be mandatory.
+3. All that exists regarding the protection of citizens' information while implementing the Mahasarathi project.
+Provisions of laws / regulations e.g. Aadhaar Act 2016, Digital Personal Data Protection (DPDP) Act
+2023, the Information Technology Act 2000, etc. will remain in force.
+4. To ensure effective and time-bound implementation of the Mahasarathy project, complete planning,
+A strong administrative structure needs to be created for coordination and project monitoring. In accordance with the
+"MahaSarathi Project Apex Committee," for the Mahasarathi project.
+MahaSarathi Project Executive Committee and Mahasarathi Project
+Establishment of committees such as the MahaSarathi Project Implementation Committee and
+The functions of these committees are being worked out.
+a) MahaSarathi Project Apex Committee
+The composition of the Mahasarathy Project Summit Committee will be as follows: -
+----------------------------------------------------------------------------------------------------------------------------------
+| Composition of Mahasarathy Project Summit Committee                                                          |
+| Chief Minister of Maharashtra State                                                                          | The President's |
+| Deputy Chief Minister, Maharashtra State                                                                     | The member's    |
+| Hon'ble Minister, Finance & Planning, State of Maharashtra                                                   | The member's    |
+| Hon'ble Minister, Information Technology, State of Maharashtra                                               | The member's    |
+| Chief Secretary, Government of Maharashtra                                                                   | The member's    |
+| Additional Chief Secretary / Principal Secretary / Secretary, Revenue Department, Government of Maharashtra  | The member's    |
+| Additional Chief Secretary / Principal Secretary / Secretary, Finance Department, Government of Maharashtra  | The member's    |
+| Additional Chief Secretary / Principal Secretary / Secretary, Planning Department, Government of Maharashtra | The member's    |
+----------------------------------------------------------------------------------------------------------------------------------
+Page 2 of 7
+# Page 3
+Government Decision Number: Narrow-1725 / P.No.251 / Mothers
+------------------------------------------------------------------------------------------------------------------------------------------------------
+| Additional Chief Secretary / Principal Secretary / Secretary, Information Technology (IT) Department, Government of Maharashtra | Member-Secretary |
+| Director, Directorate of Information Technology, Maharashtra State                                                              | The member's     |
+| Managing Director, Maharashtra Information Technology Corporation (MahaIT)                                                      | The member's     |
+| Nominated Member-1 (Expert Representative of the Institute in the field of Information and Technology)                          | The member's     |
+| Nominated Member-2 (Expert Representative of the Institute in the field of Information Technology)                              | The member's     |
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Powers and functions of the Mahasarathy Project Summit Committee: -
+1) To formulate policy, develop systems and procedures for issuance of Maha ID numbers.
+to make a decision.
+2) Directing government agencies on data standards and procedures.
+3) To approve the annual financial budget for the implementation of the Mahasarathi project.
+4) Management of information of the Mahasarathi project, standards regarding the security of information, as well as other technical
+Setting rules and procedures for safety measures.
+5) To approve the establishment of a grievance redressal mechanism for citizens.
+6) Other Committees, as required, to assist in the implementation of the Mahasarathy Project.
+or appointing task forces.
+7) Acquisition of assets required for the functioning of the Summit Committee.
+8) Accepting aid or grants from various sources to carry out the functions of the Summit Committee.
+9) Formulate procedures as required for effective implementation of the Mahasarathi project and
+to improve it.
+10) Nomination of nominated members of the Summit Committee.
+Page 3 of 7
+# Page 4
+Government Decision Number: Narrow-1725 / P.No.251 / Mothers
+b) MahaSarathi Executive Committee
+The composition of the Mahasarathi Executive Committee shall be as follows: -
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Composition of the Mahasarathy Executive Committee                                                                                                                                                                                                                                                                                          |
+| Chief Secretary, Government of Maharashtra                                                                                                                                                                                                                                                                                                  | The President's      |
+| Additional Chief Secretary / Principal Secretary / Secretary, Revenue Department, Government of Maharashtra                                                                                                                                                                                                                                 | The member's         |
+| Additional Chief Secretary / Principal Secretary / Secretary, Finance Department, Government of Maharashtra                                                                                                                                                                                                                                 | The member's         |
+| Additional Chief Secretary / Principal Secretary / Secretary, Planning Department, Government of Maharashtra                                                                                                                                                                                                                                | The member's         |
+| Additional Chief Secretary / Principal Secretary / Secretary, Information Technology (IT) Department, Government of Maharashtra                                                                                                                                                                                                             | the Member-Secretary |
+| Additional Chief Secretary / Principal Secretary / Secretary, Urban Development Department (No. 1), Government of Maharashtra                                                                                                                                                                                                               | The member's         |
+| Additional Chief Secretary / Principal Secretary / Secretary, Urban Development Department (NV2), Government of Maharashtra                                                                                                                                                                                                                 | The member's         |
+| Additional Chief Secretary / Principal Secretary / Secretary, Rural Development Department, Government of Maharashtra                                                                                                                                                                                                                       | The member's         |
+| Director, Directorate of Information Technology, Maharashtra State                                                                                                                                                                                                                                                                          | The member's         |
+| Managing Director, Maharashtra Information Technology Corporation (MahaIT)                                                                                                                                                                                                                                                                  | The member's         |
+| Experts in the fields of Information and Communication Technology, Cyber Security, Network Security, Data Analytics, Data Security, Data Management, Data Warehousing, Privacy or Constitutional Law, Finance and Economics as may be deemed appropriate by the State Government from time to time, as recommended by the Summit Committee. | The Invited Members  |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The office of the Executive Committee of the Mahasarathi: -
+1) To provide comprehensive leadership, vision and direction for the implementation of the Mahasarathi project.
+2) To plan, coordinate and monitor the Mahasarthi project, as well as the progress of the project from time to time.
+to review.
+3) To take strategic decisions, control the regulatory aspects of the Mahasarthi project and ensure the success of the project.
+to guide the implementation.
+Page 4 of 7
+# Page 5
+Government Decision Number: Narrow-1725 / P.No.251 / Mothers
+4) To create a conducive and conducive environment for the success of the Mahasarathy project.
+5) Change Control by taking into account the factors that arise when implementing a master project.
+Note) to be approved.
+6) Review of budgetary requirements and expenditure of sanctioned funds.
+7) Adopt updated procedures as directed by the Summit Committee from time to time.
+e) MahaSarathi Project Implementation Committee
+The composition of the Mahasarathy Project Implementation Committee will be as follows:
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+| Constitution of Mahasarathy Project Implementation Committee                                                                    |
+| Additional Chief Secretary / Principal Secretary / Secretary, Information Technology (IT) Department, Government of Maharashtra | The President's      |
+| Director, Directorate of Information Technology, Maharashtra State                                                              | the Member-Secretary |
+| Managing Director, Maharashtra Information Technology Corporation (MahaIT)                                                      | The member's         |
+| Chief Operating Officer, Maharashtra Information Technology Corporation (MahaIT)                                                | The member's         |
+| Mahasarathy Project / Head of Department                                                                                        | The member's         |
+| Mahasarthi Project Monitoring Unit (PMU) / Mahasarthi Project Management Consultant (PMC)                                       | The Invited Members  |
+| Mahasarathy Project Director, System Integrator (SI)                                                                            | The Invited Members  |
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+The mandate of the Mahasarathy Project Implementation Committee is: -
+1) Authentication of schemes, services and benefits to government departments.
+to make it.
+2) Ensure that citizens' information is regularly updated.
+(iii) the effective implementation of government policies, schemes, services, benefits or subsidies by the citizens;
+Supervision of data analysis, etc.
+4) "MahaID" for schemes, services, benefits or grants implemented by the state government.
+be made available for use.
+Page 5 of 7
+# Page 6
+Government Decision Number: Narrow-1725 / P.No.251 / Mothers
+5) Collected and archived by MahaID to government departments or local bodies.
+To facilitate authentication / verification of information.
+6) Take action to deactivate the MahaID number.
+7) To coordinate with technical teams of various departments for effective information management and service delivery.
+8) To implement the directions given by the Summit Committee and the Executive Committee from time to time.
+5. The said Government Decision dated 24.03.2026. At the meeting of the Council of Ministers
+Is being issued as per approval.
+The Government decision is available on the Government of Maharashtra website www.maharashtra.gov.in.
+# Page 7
