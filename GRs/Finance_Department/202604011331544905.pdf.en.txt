@@ -1,0 +1,163 @@
+# Page 1
+Effective implementation of the new service system
+under all the administrative departments in accordance with the
+All withdrawals and disbursements in Pune Division
+Instructions to the officials...
+Government of Maharashtra
+the Finance Department
+Government Circular No. Narrow-2022 / No.29 / Treasuries No.4
+Hall No.339, 3rd Floor, Madame Cama Marg
+Martyr Rajguru Chowk, Mumbai 400 032
+Date: 1st of April, 2026
+The Proposal -
+In the first phase of the new service system, Joint Director, Accounts and Treasuries, Pune, in September,
+Month of payment 2025 Month of payment October, 2025 Month of payment October, 2025 Month of payment November, 2025 Month of payment 2025 Month of payment October, 2025 Month of payment November, 2025 Month of payment
+Payroll payments, as well as the proposed second phase of the Directorate, Accounts and Treasuries, virtual
+Treasury Office, State Records Maintenance Agency, Accounts and Accounts Office, Mumbai and
+The data of the five Drawing and Disbursing Officers of the Treasury Office, Pune, was migrated and retrieved.
+and the month of December, 2025 payment month of the disbursing officers from January, 2026 to the new service system.
+Payments have been generated and submitted to the treasury with an e-signature (e-bill).
+Also, all Joint Director's Offices for the month of January, 2026 and the month of February, 2026 as well as all
+Payments to Treasury Offices e-According to the conditional approval given by the Office of the Accountant General
+Submitted with signature (e-bills).
+Accordingly, the implementation of the next phase of the new service system is now all administrative.
+It was under consideration to be made into the Pune division under the division. Accordingly, under all the administrative divisions
+A comprehensive notice was issued to the Drawing and Disbursing Officer of Pune Division through this circular.
+are coming.
+Government Circular: -
+At the Directorate level, the next phase of implementation of the new service system will be carried out.
+The central team is structured as follows:
+(a) The Director
+2.सहस Director (Update / Computer)
+3.सहस Director (Treasuries)
+4.उपस Director (computer)
+Project Manager (Service)
+Accounts Officer (Service) 7. Assistant Accounts Officer
+# Page 2
+The Central Team will handle the following activities:
+Full control over the next stage of implementation of the new service system.
+will be kept.
+All Divisional Joint Directors / All Treasury Officers as required.
+Online / offline guidance will be provided.
+Training and hands-on visits to the respective treasury offices from time to time.
+Work will be reviewed.
+Implementation of new service system in Pune Division from April, 2026
+It is proposed to have a Central Team, Zonal
+Joint director level teams and treasury level teams will be formed.
+Withdrawal from all Treasuries and Sub-Treasuries in Pune Division through 5.सदर Team
+Data migration, training, and new service delivery systems for delivery officers.
+The actual implementation will be guided.
+To implement the new service system for Pune Division, the following are:
+Action is being proposed.
+a) Data migration and follow-up
+Each treasury office in the Pune division has its own district treasury as well.
+List of all the Drawing and Disbursing Officers subordinate to the Sub-Treasuries Administrative / Zonal
+Department-wise (e.g. Administrative Division - Finance and Zonal Department DAT) to be kept up to date,
+This means that there will be difficulties in migrating the data of all the extraction and distribution officers according to this list.
+No. Even in the present system of service, each treasury has its own subordinate withdrawals and
+A treasury and sub-treasuries-wise list of disbursing officers will be provided.
+NIC Pune will have a login at each treasury level for data migration.
+A new one has been proposed. Treasury after creating this login
+The data will be migrated from the system through the DBA in the office. as well as related
+With regard to the accuracy of the data and the migration of all data by the extraction and distribution authorities,
+The data will be approved once it is recorded in the Confirm system. as well as
+This data will also be migrated and approved from the admin login as required.
+All extraction and distribution officers must complete the following before data can be migrated:
+It has to be done. Data Updation Utility for all the Drawing and Disbursing Officers of Pune Division
+Update all employee data in Incorrect Data Updation Utility by date 06.04.2026
+It has to be done.
+# Page 3
+Data of all employees in the Incorrect Data Updation Utility (AISI)
+Updates include the name of the officer / employee recorded in the service book.
+The service should be recorded in the plan as the name suggests. as well as in the case of officers / employees
+Make sure that the PAN number entered in the system is correct.
+2. Check all data as per employee statistics.
+3. To ensure that the sanctioned posts are harmonized.
+4. Ensure that all employees in the current login are attached to the bill group.
+5. Ensure that all officers / employees' loans and advances are up to date.
+6. as well as all of the information provided in the form to be filled in the new system.
+Collecting information about officers / employees. It consists mainly of photographs and signatures,
+This information includes the family's VAT, the nominee's information, and their bank account details.
+It has been suggested to be collected.
+Related to the availability of data on the following matters after data migration as mentioned above:
+The extraction and distribution authorities have to ensure.
+GR Master, DDO Schemes, Bill Groups, Permanent Posts, Temporary Posts,
+Employee (along with DOB, PAN, AADHAR), DDO wise NG Recoveries, Employee Wise
+NG Recoveries, Employee Address Details, Employee Nominee Details, Employee Quarter
+Details, Employee Loan Details.
+Verify this by checking the data only after confirming receipt of the data as mentioned above.
+From the login provided to the DBA at the Treasury Office to do so, as well as the requirements
+If desired, the admin will be approved from the login and only then the corresponding download and delivery will be done.
+The officer will be available to verify the data.
+Related withdrawals and distributions to login first for further operations
+The officer will be given a login. Specific roles for officers / employees from this login
+It has to be given. Their data has to be first checked and verified from the DDO login.
+Also, the Drawing and Disbursing Officers who are registered with the Treasury for e-signature.
+The role of DDO will be updated for them only. the rest of the staff who are the assistant's
+The information of those who want to be given a role should be checked and verified and they should be mapped to the role of an assistant.
+After data migration and roll mapping as mentioned above, all the remaining employees will be
+The data should be checked and verified followed by payment of wages.
+They have to be cultured. Also available in the system after complete data verification.
+After e-signing the certificate, the next monthly of the concerned Drawing and Disbursing Officer.
+The payment will be processed.
+# Page 4
+(a) The training
+Pune, Satara, Sangli, Kolhapur, and Solapur are the treasuries in the Pune division, respectively.
+Training will be imparted to all the Drawing and Disbursing Officers of the Sub-Treasuries. For the sake of
+A time-bound schedule has been prepared.
+Withdrawal and Disbursement of all Treasuries, Medium and Small Establishments in Pune Division
+Training of officers first followed by acquisition of large administrative department-wise establishments.
+And training will be provided to the distribution officers. In order to plan this training
+Divisional Joint Director, Pune has been authorised.
+The following teams are under the control of Divisional Joint Director, Pune for training:
+will continue to work.
+1. Training of Assistant Director,
+Training of Accounting Officers
+3. Accounting Officer Computer
+Clerk / Junior Accountant (Computer & Training)
+5.सहस Payroll Clerk / Master Trainers in the Director's Office
+Withdrawal from all Treasuries and Sub-Treasuries of Pune Division through the above team and
+The Divisional Joint Director is responsible for completing the training of the distribution officers within the stipulated time.
+Pune has been given and they have submitted a periodic report of the training to the Directorate.
+You have to be careful.
+Similarly, at the district level - at the treasury level and at the sub-treasuries level - to provide training.
+The team will work as follows:
+1. Treasury Officer
+Accounts Officer (Computer)
+Assistant Accounts Officer (Establishment)
+4. District level DBA
+5. Minimum Accountant / Script Typist (Pay Scribe) (Master Trainers)
+6. Minimum Accountant / Script Typist (NPS Staff) (Master Trainers)
+7. Help Desk Assistants (Master Trainers)
+Withdrawal and Disbursement from Pune Treasury as well as Sub-Treasuries through the above team.
+The officers should ensure that the training is completed on time.
+It is to be ensured that reports are submitted to the Divisional Joint Director, Pune from time to time.
+Others in Pune division, if required, to complete the time bound training programme.
+Master trainers working in the treasury visited the nearest treasury as well as the sub-treasuries.
+To be present to train the subordinate Drawing and Disbursing Officers.
+It is.
+Training of Drawing and Delivery Officers with large establishments at the district level.
+Request by Divisional Joint Directors and Treasury Offices, if required.
+# Page 5
+If so, the relevant officers from the central team at the Directorate will attend the training.
+The extraction and distribution there will clear the doubts of the authorities.
+(a) (i) Withdrawal and Disbursement from all Treasuries in Pune Division consisting of Medium and Small Enterprises.
+Officers will be fully trained by the date 10.04.2026. In pursuance of that
+Data migration will be done after the training.
+(II) Pilots to these Drawing and Disbursing Officers for the month of April, 2026 and the month of May, 2026.
+The run will be conducted in a new servicing system. directly from the new service system.
+May, 2026 payment month suggested to process regular salary payments from June, 2026
+will be done.
+(III) Month May, 2026 Payable to the Drawing and Disbursing Officers of the aforesaid Department with effect from June, 2026
+Can't work in old service system.
+(b) (i) Subsequent acquisitions and disbursements with larger establishments by administrative division.
+The officers will be given full training by the date 24.04.2026. In pursuance of that
+Data migration will be done after the training.
+(II) Pilot run for these Drawing and Disbursing Officers for the month of May, 2026 and the month of June, 2026.
+The new service will be carried over to the system, and the actual new service will be carried over from the system in June.
+2026 Payment Month Notification for processing regular salary payments from July, 2026
+will be done.
+(iii) Withdrawal and disbursement of the aforesaid section with effect from the month of June, 2026 payable July, 2026
+Officers cannot work in the old service system.
+This Government Circular is from the Government of Maharashtra www.maharashtra.gov.in.
+# Page 6
