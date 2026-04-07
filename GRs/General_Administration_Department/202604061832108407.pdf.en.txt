@@ -1,0 +1,35 @@
+# Page 1
+Maharashtra State Data Centre (MH-SDC) system
+Administrative to make available MS-SQL licenses in order to strengthen
+To be approved...
+Government of Maharashtra
+General Administration Department (MATS)
+Government Decision Number: SDC-2026 / CR. 32 / IT
+Martyr Rajguru Chowk, Madam Cama Road,
+Mantralaya, Mumbai - 400 032.
+Date: April 6, 2026
+Read:
+General Administration Department, Government Decision No. COM-1098 / Q. 212/98/39, D. 05/10/2001.
+2. High Powered Committee on Information Technology. The 186th meeting held on 09.01.2026 - Agenda No. 11.3
+Introduction: Maharashtra State Data Centre (MH-SDC) is a mission critical application of various departments of the state government.
+It serves as a central facility for Hochstagging of Portals, Databases and Services.
+The data centre has been operational for more than 12 years and has a large IT, network, security, power supply and cooling infrastructure in end-of-life (EOL) and end-of-support (EOS) mode.
+have arrived. MS-SQL licenses in line with the strengthening of this State Data Centre (MH-SDC) system
+need to be made available. Accordingly, the Information Technology High Powered Committee (IT-HPC) was constituted. At the 186th meeting held on 09.01.2026, Agenda No. To obtain MS-SQL licenses under 11.3.
+Approval has been given.
+The government's decision:
+The Agenda for the 186th Meeting of the High Powered Committee on Information Technology, chaired by the Hon'ble Chief Secretary, No.
+Strengthening of Maharashtra State Data Centre (MH-SDC) system as per the approval granted under 11.3.
+In order to obtain the 16 MS-SQL licenses required to do so, you will have to pay Rs.
+One time cost of 3 crores is being given administrative sanction.
+2. Order to the Director, Directorate of Information Technology in this case, fulfilling the necessary conditions and conditions.
+Is being authorized to issue.
+3. Expenditure incurred in respect of demand No. A-04, Main Accounting Title (2052) - Secretariat General Service (2052)
+0582) (090) (00) (11), e-Governance by Rajya Setu Society under the heading "31-Auxiliary Grants"
+The year 2026-27 for the project is hereby approved to be met from the budgetary provision approved for this financial year.
+It's coming.
+For the above expenses, the Accounts Officer, Directorate of Information Technology, Mumbai, is the Drawing and Disbursing Officer and
+The Deputy Secretary, Information Technology will be the controlling officer.
+# Page 2
+Government Decision Number: SDC-2026 / CR. 32 / IT
+5. To make the said Government Decision available on the Government of Maharashtra website www.maharashtra.gov.in.
