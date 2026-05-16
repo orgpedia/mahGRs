@@ -1,0 +1,249 @@
+# Page 1
+Under the National Quantum Mission (NQM)
+Quantum Technology and Skill Development in Maharashtra
+regarding the implementation of the activities as well as
+Administration for procurement under this initiative
+regarding the approval.
+Government of Maharashtra
+Department of Higher and Technical Education
+Government Decision No. 1381878 / HTED-11011 (11) / 13/2025 - MHT- (TE-2)
+Martyr Rajguru Chowk, Madam Cama Road,
+Mantralaya, Mumbai 400 032.
+May 14, 2026
+Reference: 1. Letter from the Directorate of Technical Education No. DTEM-D170TEQP / 60/2026 - DESK17,
+Date: 24th March, 2026
+2. Ma. A meeting of the High Powered Committee (HPC) chaired by the Chief Secretary, Shri. 23.04.2026
+The Proposal: -
+Quantum technology is the next stage of scientific and industrial progress. Computer technology
+The change is going to create a need for a large number of globally trained manpower.
+Taking advantage of the principles of quantum mechanics, quantum computing, communication, synthesis, and materials
+Technologies such as pharmaceuticals, financial modelling, national security, and weather forecasting
+It has the potential to revolutionize various sectors. National Quantum Mission (NQM) by the Central Government
+has been initiated. I-Hub Quantum to create quantum technology trained manpower in the state
+Technology Foundation, Indian Institute of Science Education and Research, Pune (IISER)
+CoEP University of Technology, Pune as a Hub and Spoke Institute, Dr. Babasaheb
+Ambedkar Technological University, Lonere (DBATU), Veermata Jijabai Technological Institute, Mumbai (VJTI),
+and Quantum Technology in the state through Visvesvaraya National Institute of Technology, Nagpur (VNIT).
+And the implementation of skill development initiatives was under the consideration of the government.
+The Government's Decision-
+Under the National Quantum Mission (NQM) of the Central Government, quantum technology and
+On the implementation of skill development initiatives, Shri. Presided over by the Chief Secretary
+1
+# Page 2
+The high-powered committee 23.04.2026 As agreed at the meeting today and attached
+Based on the Detailed Project Report, the following decisions are being taken:
+I. Quantum technology and skill development initiatives will be implemented in the state in two years and I-Hub,
+95 crore to Quantum Technology Foundation (I-Hub, QTF), IISER, Pune, CoEP Technology
+University Pune, Dr. Babasaheb Ambedkar Technological University, Lonere and Veermata Jijabai Technological University
+The three institutes, Mumbai, received Rs. 2.5 crore and Visvesvaraya National Institute of Technology,
+Nagpur for Rs. A total of Rs. 20 crores (Rs. twenty crores).
+is being approved.
+II. The said fund is for a wide range of projects submitted by the Directorate of Technical Education under the letter under reference.
+Administrative approval is being given to spend on the items mentioned in the report. the institution's
+The procurement process is carried out at the Directorate of Technical Education level as per the prescribed Government norms and the financial
+The proposal should be submitted by the Directorate of Technical Education to the government for approval.
+III. Tender matters relating to procurement process e.g. Bill of Quantity (BoQ), Request for
+Proposal (RFP) as well as Government Information Technology for effective execution of tendering process.
+By Department (DIT) Command Number: GAD-Matt 017/129/2025 Comp No. 1446921, D.
+In service of Primus Partners Pvt. Ltd., Mumbai, appointed under 19.12.2025
+Come.
+2. In the field of Quantum Education, Research and Industry Cooperation with Technical Educational Institutions in the State.
+The main focus of this initiative is to realize the vision of "Quantum Ready Maharashtra" by empowering
+The objectives are as follows:
+2.1 Action to be taken under the Act -
+I. Professor trained in the field of Quantum Technology and proficient in modern research methods
+I-Hub is structured at Quantum Technology Foundation, IISER Pune, with the objective of creating
+And advanced training programs will be implemented. Under this program, the faculty will be taught Quantum Computing,
+In-depth knowledge in key areas such as algorithms, quantum synthesis, and quantum materials, and
+Practical skills will be acquired. Professors who have completed training in their respective institutions
+Working with MasterTrainer will expand the knowledge of the students to the next level.
+II. Training of about 120 faculty (45 in 1st year and 75 in 2nd year) under this initiative.
+The training is planned to be carried out in a phased manner. In addition, the National Education
+at the participating institutes (CoEP University of Technology, Pune) in line with the Policy 2020 (NEP 2020);
+2
+# Page 3
+Dr. Babasaheb Ambedkar University of Technology, Lonere; Veermata Jijabai Institute of Technology, Mumbai
+and Visvesvaraya National Institute of Technology, Nagpur) in quantum engineering degree courses.
+Technology-related topics will be made available in a minor format. At the same time
+Post Graduate Degree (PG) and Post Graduate Diploma (PG Diploma) as well as Post Graduate (PG) level
+Electives will be introduced.
+III. Necessary as mentioned in the Detailed Project Report in the participating institutions under this initiative.
+Primary infrastructure will be set up. These include laboratory equipment, high-capacity
+computer tools, simulation software, cloud-based quantum platforms, as well as
+The training modules will cover teaching, training, and research activities.
+There will be encouragement.
+I-Hub Quantum Technology faculty selected from participating institutes.
+The Foundation will participate in an in-depth training programme held at IISER Pune. Training
+Upon completion, they will be responsible for teaching and training in the respective institutions as well.
+The newly introduced quantum courses will be effective.
+V. In the respective institutions from the academic year 2026-27 for effective implementation of these activities.
+The authority to start courses in quantum technology by the relevant institutions.
+Get the necessary approvals.
+3.2 Milestone-based Fund Release Conditions -
+The funding for the initiative will be in a phased manner (Milestone-based).
+will be distributed. The funding distribution at each stage is the result of the corresponding goal achievement and progress report.
+Will depend on satisfactory verification.
+(a) Phase I (FY 2026-27): Utilization of funds in the first year
+Faculty capacity building, creation of basic infrastructure in the first year of this initiative
+And the main emphasis will be on the start of educational activities. Rs 10.63 crore for this purpose in the first phase.
+(I-Hub Quantum Technology Foundation, IISER, Pune: Rs. 5.08 crore, CoEP Technology
+University, Pune; Rs. 1 crore, Dr. Babasaheb Ambedkar Technological University, Lonere; Rs. 0. 67 crores,
+Veermata Jijabai Technological Institute, Mumbai: Rs. 1.75 crore and VNIT, Nagpur; Rs. 2.13 crore).
+This amount has been approved and the funds should be utilised as follows.
+Setting up of a Centralized Quantum Simulation Hub at Pune, a cloud-based quantum
+Providing computing facilities, as well as Spoke Institutes
+Implementing training programmes for teachers (FDPs).
+3
+# Page 4
+II. Setting up of basic laboratory infrastructure in the participating institutions (Quantum Optics and Quantum).
+Devices for cryptography demonstration, photonics laboratory, and raped-ion demonstration
+Equipment required for system installation, GPU-based computing tools, and quantum learning
+providing equipment as well as simulation facilities). as well as required by the participating organizations.
+subscribing to the cloud.
+(b) Phase II (FY 2027-28): Funding in the second year is the progress of the outcome of the activity.
+It will be based on
+I. Completion of faculty training even in the second year of this activity, in the participating institutions.
+To introduce courses in quantum technology, to increase student participation in the subject.
+Also, the main focus will be on operationalization of the laboratory.
+II. For this purpose, in the second year of the initiative, Rs. 9.37 crores (I-Hub Quantum Technology)
+Foundation, IISER, Pune: Rs. 4.42 crores, CoEP University of Technology, Pune: Rs. 1.5 million,
+Dr. Babasaheb Ambedkar Technological University, Lonere: Rs. 1.83 crores, Veermata Jijabai
+Institute of Technology, Mumbai: Rs. 0. 75 crores and VNIT, Nagpur:: Rs. 0.87 crores).
+Funding is required and the fund has achieved the following progress in the first year of operation:
+It will be distributed later.
+Required for the Quantum Initiative mentioned in the first phase of the initiative
+Establishment of laboratories and computer infrastructure.
+For 45 faculty from participating institutions as mentioned in the DPR.
+The completion of the training
+Cloud / Simulation facility operational
+Preparation of Minor Quantum Courses at Graduate Level
+Submission of Progress Report and Financial Utilization Certificate (UC)
+3. Constitution of Steering Committee -
+Strategic Decisions for Inclusive Development of Quantum Technology in the State, with the Government
+Following is the Steering Committee to review the progress of the Coordination and Quantum Initiative:
+It is being done.
+4
+# Page 5
+----------------------------------------------------------------------------------------------------------------------------------------------------
+| A. No. | Designation                                                                                                    | Names of the Committee |
+| 1      | Additional Chief Secretary / Principal Secretary, Higher and Technical Education Department                    | The President's        |
+| 2      | Principal Secretary / Secretary, Department of Electronics, Information Technology and Artificial Intelligence | The member's           |
+| 3      | Principal Secretary, Finance Department                                                                        | The member's           |
+| 4      | Chief Executive Officer (CEO), Maharashtra Institution for Reformation-Mitra (MITRA)                           | The member's           |
+| 5      | The heads of the institutions of all the four participating institutions spoke.                                | The member's           |
+| 6      | Director, Representative of IITB, Mumbai (Subject matter expert)                                               | The member's           |
+| 7      | Professionals in the industry                                                                                  | The member's           |
+| 8      | CEO, I-Hub, Quantum Technology Foundation (QTF), IIISER, Pune                                                  | The member's           |
+| 9      | Director, Technical Education, Maharashtra State, Mumbai                                                       | the Member-Secretary   |
+----------------------------------------------------------------------------------------------------------------------------------------------------
+The scope of work of the Steering Committee shall be as follows:
+The Steering Committee is the lead in policy guidance for this quantum technology initiative.
+It will act as an institution. The committee will be headed by:
+I. Setting the long-term strategic direction for the enterprise and the state
+Keeping pace with priorities.
+II. Conduct of bi-monthly or as required review meetings by the Coordination Committee.
+Review the progress of the initiative and ensure that the objectives and expected results are being met.
+to make sure.
+III. Strategic by studying national and international developments in the field of quantum technology.
+to guide.
+IV. To promote coordination and cooperation among educational institutions, research institutions and industry in the State.
+V. To approve the policy decisions required for the implementation of the initiative and
+to guide.
+VI. To guide the tendering process, effective execution of the procurement process.
+VII. To promote research, innovation and startups under Quantum initiatives.
+suggest the necessary measures.
+VIII. With Central Government Schemes (e.g. National Quantum Mission) to ensure coherence and coordination
+to do.
+5
+# Page 6
+IX. Suggest new ventures, partnerships (PPP / CSR) and investment opportunities as required.
+Formation of the Coordination Committee -
+Coordination and implementation under the Quantum Technology Initiative as a Steering Committee.
+Accordingly, CEO, I-Hub, Quantum Technology Foundation (QTF), IIISER, Pune
+A Coordination Committee consisting of representatives from all the participating organizations.
+They should be grouped at the level.
+5. Head of Account
+The funding for the implementation of this initiative is from the Directorate of Technical Education.
+The following will be made available under the heading.
+Demand No. The W-3,
+Head of Accounts - 2203 Technical Education,
+Support to 104 Non-Government Technical Colleges and Institutes
+(2) Preservation Grant
+(02) (03) Engineering Colleges (Programme) (2203 0194)
+31, Subsidiary Grants (Non-Payment)
+6. Decision of the said Government. High Powered Committee headed by the Chief Secretary
+d. 23.04.2026 is being issued as per the approval of the meeting held on the day.
+This Government decision is available on the website of the Government of Maharashtra www.maharashtra.gov.in.
+# Page 7
+# Page 8
+# Page 9
+# Page 10
+# Page 11
+# Page 12
+# Page 13
+# Page 14
+# Page 15
+# Page 16
+# Page 17
+# Page 18
+# Page 19
+# Page 20
+# Page 21
+# Page 22
+# Page 23
+# Page 24
+# Page 25
+# Page 26
+# Page 27
+# Page 28
+# Page 29
+# Page 30
+# Page 31
+# Page 32
+# Page 33
+# Page 34
+# Page 35
+# Page 36
+# Page 37
+# Page 38
+# Page 39
+# Page 40
+# Page 41
+# Page 42
+# Page 43
+# Page 44
+# Page 45
+# Page 46
+# Page 47
+# Page 48
+# Page 49
+# Page 50
+# Page 51
+# Page 52
+# Page 53
+# Page 54
+# Page 55
+# Page 56
+# Page 57
+# Page 58
+# Page 59
+# Page 60
+# Page 61
+# Page 62
+# Page 63
+# Page 64
+# Page 65
+# Page 66
+# Page 67
+# Page 68
+# Page 69
+# Page 70
+# Page 71
+# Page 72
+# Page 73
+# Page 74
+# Page 75
+# Page 76
+# Page 77
+# Page 78
+# Page 79
