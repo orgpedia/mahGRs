@@ -1,0 +1,106 @@
+# Page 1
+Finalization of Maharashtra Public Service Commission
+For candidates who are not recommended in the selection
+Implementation of Nipun Setu initiative
+about doing it.
+Government of Maharashtra
+Industries, Energy, Labour and Mining Department
+Government Decision No: Narrow - 2026 / P.No.130 / Industries-3
+Madam Cama Marg, Martyrdom Rajguru Chowk,
+Mantralaya, Mumbai 400032
+Date: June 5, 2026.
+Read-
+It was held on 13.04.2026. decisions of the Council of Ministers.
+The Proposal -
+Various competitive examinations are conducted annually by the Maharashtra Public Service Commission (MPSC). Although a large number of candidates qualify in these examinations, only a few are recommended for final selection as the number of posts available is limited. As a result, many meritorious and competent candidates do not have the requisite educational qualifications, analytical ability developed through competitive examinations, leadership qualities, and public service mindset, but do not have the expected employment opportunities. The Union Public Service Commission (UPSC) has developed a "Pratibha Setu" portal for candidates who have qualified the interview round but did not make it to the final merit list. Similarly, the knowledge and skills of the meritorious candidates of the state who have reached the final stage (interview / skill test) of various examinations of the Maharashtra Public Service Commission (MPSC) but have not made it to the final selection list are required to be leveraged for the economic and industrial development of the state. With this view, the Government was contemplating to launch an ambitious initiative "Nipun Setu" under the one-window Maitri 2.0 portal developed by the Department of Industries to make the details of candidates available to the public as well as to prospective employers and entrepreneurs, especially in the private sector in Maharashtra, on a single platform. In this regard, the Cabinet of Ministers, Shri. As per the decision taken in the meeting on 13.04.2026, the following Government Decision is being issued.
+The Government's Decision-
+To leverage the knowledge and skills of meritorious candidates from the state who have reached the final stage (interview / skill test) of various examinations of the Maharashtra Public Service Commission (MPSC) but have not made it to the final selection list, Shri. The Cabinet of Ministers. As per the decision taken in the meeting on 13.04.2026, the Government is hereby approving the development of the "NIPUN Setu" portal by launching the ambitious initiative "NIPUN Setu" under the one-window Maitri 2.0 (MAITRI 2.0) portal developed by the Department of Industries.
+# Page 2
+Government Decision No: Narrow - 2026 / P.No.130 / Industries-3
+2. Define the detailed framework, terms and conditions, and procedures of the activity as follows:
+It's coming:
+a) Scope of the activity and eligibility criteria of the candidates:
+Eligibility: This activity is conducted by any of the Maharashtra Public Service Commission (MPSC).
+Before the final stage of the examination (Interview round / Skill Test / Physical Test, as applicable)
+It will be applicable to all candidates who have reached but have not made it to the final merit list.
+Duration and Implementation: This activity is from the date of issue of the said Government Decision.
+It will be mandatory for all examinations to be conducted further by the Maharashtra Public Service Commission.
+3. Retrospective provision: Finalization of examinations held in the previous one year.
+In case of receipt of consent letter from the candidates in the phase through Maharashtra Public Service Commission and
+The Maharashtra Public Service Commission may also provide information on such candidates, if technically feasible.
+will be included on this portal.
+b) The data fields of the candidates to be made available on the portal:
+Suitable manpower for private entrepreneurs, corporates and public sector undertakings in Maharashtra
+The following details of the candidates will be available on the portal for selection.
+Full name and year of birth of the candidate.
+Educational Qualification (Bachelor's, Master's Degree, Specialization).
+Prior work experience (if any)
+4. Name of the relevant examination and marks obtained in the final stage (Interview / Skill Test).
+Candidate's contact details (email and mobile number - only to authorized employers)
+visible).
+a) Methods of data collection and display:
+Automated Data Transfer (API Integration): Maharashtra Public Service Commission (MPSC) for each examination.
+After the final results are declared, the final stage is reached, however, in the final selection list.
+The above data of the non-involved candidates automatically API every year on the 'NIPUN' portal.
+Will migrate securely through the (Application Programming Interface).
+2. Data Visibility Period: The candidate's data will be available in the Commission's other examinations.
+The selection will be visible to potential employers on the NIPUN portal. Then this data is mastered.
+will be automatically deleted by the portal.
+d) Data Privacy & Consent of the candidates:
+1. Compulsory consent:
+Page 2 of 5
+# Page 3
+Government Decision No: Narrow - 2026 / P.No.130 / Industries-3
+a) Their data test while filling up the examination forms to be conducted by the Maharashtra Public Service Commission
+Consent for disclosure on Nipun Setu portal after final result (Digital Opt-in)
+consent) will be taken.
+b) The details of the candidates received from the Maharashtra Public Service Commission shall be furnished to the employers by them.
+Nipun Setu will be made available as per the requisite qualification indicated.
+e) The acceptance of the appointment by the candidates at the time of appointment of the candidates by the employer.
+A digital consent letter will be taken.
+Privacy Protection: The privacy of the candidates' information will be fully protected.
+The vigilance will be taken from the IT wing of the 'Maitri' portal. This data is only registered on the 'Maitri' portal.
+And only to the verified authorized private entrepreneurs and organizations as well.
+Government / semi-government organizations / boards / corporations can be looked into for employment purposes. the data's
+Technical precautions to prevent any leakage or commercial misuse
+(Encryption & Access Control) will be taken over by Maitri Portal.
+e) State Level Monitoring Committee:
+For effective implementation of this initiative, technical coordination and as may arise from time to time.
+The following State Level Control Committee is being constituted to address the issues:
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| 1 | Additional Chief Secretary / Principal Secretary / Secretary (Services), General Administration Department                                                   | The President's      |
+| 2 | Additional Chief Secretary / Principal Secretary / Secretary (Industries) / Representative                                                                   | The member's         |
+| 3 | Additional Chief Secretary / Principal Secretary / Secretary, Department of Skill Development, Employment and Entrepreneurship / Representative              | The member's         |
+| 4 | Additional Chief Secretary / Principal Secretary / Secretary, Department of Electronics, Information Technology and Artificial Intelligence / Representative | The member's         |
+| 5 | Secretary, Maharashtra Public Service Commission                                                                                                             | The member's         |
+| 6 | Chief Executive Officer, Maharashtra Industrial Development Corporation                                                                                      | The member's         |
+| 7 | Development Commissioner (Industries) and Chairman, Maitri Cell                                                                                              | the Member-Secretary |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Functioning of the Committee: The Committee will conduct a quarterly review of the Nipun Setu initiative. Private
+Coordinate with entrepreneurs in the sector as well as Government / Semi-Governmental Organizations, Boards, Corporations and
+This will encourage Saavans to make effective use of the NIPUN portal.
+f) Other Terms and Conditions:
+Under this initiative, the 'Maitri' portal will only play the role of a facilitator. The candidates
+Legal guarantee of employment in private / government / semi-government sector or
+The Commission will not.
+Page 3 of 5
+# Page 4
+Government Decision No: Narrow - 2026 / P.No.130 / Industries-3
+Entirely private entrepreneurs / employers and candidates, given the nature of the job, pay scale, and conditions of service.
+They will be based on mutual agreement between them. However, the prevailing laws regarding salaries and allowances
+And the rules will be binding on employers.
+Since the 3.सदर portal is for the convenience of private entrepreneurs, the portal will have
+Selection of candidates or not is for Entrepreneurship, Friendship Room or Maharashtra Public Service Commission.
+Commission shall not be binding.
+Steps to create and make available Nipun Setu Portal on Maitri 2.0 Portal are as follows:
+It will be completed in a month's time.
+4. Maitri Cell to carry out the entire process of creation and operation of this NIPUN Portal and
+The expenditure on it is being approved by it. The cost is 2852 A022 of the Friendship Room.
+The current year 2026-27 under the head of accounts will be divided by the approved provision for this financial year. Sadar
+The detailed functioning of the portal will be published separately.
+5. Private entrepreneurs registered on Maitri Portal will be given priority and maximum access to NIPUN Portal.
+For use by all General Managers, District Industries Centres and all Regional Officers, Maharashtra
+The Industrial Development Corporation should take steps to encourage and report on it monthly.
+Submit to the Friendship Room each month.
+The Government decision is available on the Government of Maharashtra website www.maharashtra.gov.in.
+# Page 5
