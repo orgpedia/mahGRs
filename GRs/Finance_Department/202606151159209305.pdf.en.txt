@@ -1,0 +1,178 @@
+# Page 1
+Effective implementation of the new service system
+all administrative functions to be carried out
+Chhatrapati Sambhaji Nagar Division under the division
+to be given to all the Drawing and Distributing Officers.
+Suggestions...
+Government of Maharashtra
+the Finance Department
+Government Circular No. Narrow-2022 / No.29 / Treasuries No.4
+Hall No.339, 3rd Floor, Madame Cama Marg
+Martyr Rajguru Chowk, Mumbai 400 032
+Date: June 15, 2026
+Reference: Government Circular No. Narrow-2022 / No.29 / Treasuries No.4 01.04.2026
+The Proposal -
+Effective implementation of the new service system through the government circular in question.
+Accordingly, instructions have been issued to all the Drawing and Disbursing Officers of Pune Division under all the administrative divisions.
+were provided. Accordingly, a new service system for the Pune division will be introduced in two phases.
+Implemented, the first phase will cover all treasuries in the Pune division.
+New with training and data migration for procurement and distribution officers with small establishments.
+Monthly May 2026 payments in the service system have been processed into regular salary payments for June 2026.
+There are also Drawing and Disbursing Officers with large establishments under the administrative divisions.
+The data is being migrated and the payment to these extraction and distribution authorities is due in June 2026 and July 2026.
+Payroll payments for 2026 were suggested to be processed into a new service system.
+Accordingly, the implementation of the next phase of the new service system is now all administrative.
+Under the division, Chhatrapati Sambhaji Nagar was under consideration to be made a division. All in accordance with the
+The Drawing and Disbursing Officer of Chhatrapati Sambhaji Nagar Division under the Administrative Division.
+Comprehensive instructions are being given through circulars.
+Government Circular: -
+Directorate for the next phase of implementation of the new service system
+At the level, the central team is structured as follows:
+(a) The Director
+2.सहस Director (Update / Computer)
+3.सहस Director (Treasuries)
+# Page 2
+Government Circular No: Narrow-2022 / Q. No.29 / Treasury No.4
+4.उपस Director (computer)
+Project Manager (Service)
+Accounts Officer (Service)
+Accounting Officer 7.
+The Central Team will handle the following activities:
+Full control over the next stage of implementation of the new service system.
+will be kept.
+All Divisional Joint Directors / All Treasury Officers as required.
+Online / offline guidance will be provided.
+Training and hands-on visits to the respective treasury offices from time to time.
+Work will be reviewed.
+4. New service system in Chhatrapati Sambhaji Nagar Division with effect from June, 2026.
+Implementation has been proposed and the central team for the same,
+Deployment of Divisional Joint Director level teams and Treasury level teams.
+Will come.
+Through the 5.सदर team, all the treasuries of Chhatrapati Sambhaji Nagar division and
+Data migration, training as well as training of the extraction and distribution officers of the sub-treasuries.
+The actual implementation of the new service system will be guided.
+To implement the new service system for Chhatrapati Sambhaji Nagar Division.
+The following actions are being proposed.
+a) Data migration and follow-up
+All extraction and distribution officers must complete the following before data can be migrated:
+It has to be done. Data of all the Drawing and Disbursing Officers of Chhatrapati Sambhaji Nagar Division
+Update data of all employees in Incorrect Data Updation Utility
+It has to be done.
+Data of all employees in the Incorrect Data Updation Utility
+Updates include the name of the officer / employee recorded in the service book.
+The service should be recorded in the system as the name suggests. as well as in the case of officers / employees
+Make sure that the PAN number entered in the system is correct.
+2. Check all data as per employee statistics.
+3. To ensure that the sanctioned posts are harmonized.
+Page 2 of 7
+# Page 3
+Government Circular No: Narrow-2022 / Q. No.29 / Treasury No.4
+4. Ensure that all employees in the current login are attached to the bill group.
+5. Ensure that duties and advances of all officers / staff are up to date.
+6. Updation of details of official residence of the employee.
+7. as well as all of the information provided in the form to be filled in the new system.
+Collecting information about officers / employees. It consists mainly of photographs and signatures,
+Family details, nominee information, and their bank account details.
+It has been suggested to be collected.
+In Government Circular No. Narrow-2022 / No.29 (2) / Treasuries No.4, dated 22/05/2026
+Name, date of birth, original appointment of officers / employees in the service system as directed
+To update the records such as date, date of appointment to the office as well as date of retirement
+The Chhatrapati Sambhaji Nagar division under the Mantralaya administrative division is also to take action.
+However, in this regard, all the administrative divisions under all the ministries, all the territorial divisions
+To update the matters mentioned in the Government Circular by the Drawing and Disbursing Officer.
+It is necessary to follow the instructions given.
+Each treasury office in the Chhatrapati Sambhaji Nagar division has its own district treasury.
+Also a list of all the Drawing and Disbursing Officers subordinate to the Sub-Treasuries.
+Administrative / zonal division-wise (e.g. Administrative Division - Finance & Zonal Department DAT) Updated
+To be done, that is to say, migrate the data of all the extraction and distribution officers according to this list.
+There won't be any problems. Even with the current system of service, each treasury has its own
+To provide treasury and sub-treasuries-wise list of subordinate Drawing and Disbursing Officers.
+It's coming.
+NIC, Pune will have a login at each treasury level for data migration.
+A new one has been proposed. Treasury after creating this login
+The data will be migrated from the system through the DBA in the office. as well as related
+With regard to the accuracy of the data and the migration of all data by the extraction and distribution authorities,
+The data will be approved once it is recorded in the Confirm system. as well as
+This data will also be migrated and approved from the admin login as required.
+Related to the availability of data on the following matters after data migration as mentioned above:
+The extraction and distribution authorities have to ensure.
+Page 3 of 7
+# Page 4
+Government Circular No: Narrow-2022 / P.No.29 / Treasury Wan- ¥
+GR Master, DDO Schemes, Bill Groups, Permanent Posts, Temporary Posts,
+Employee (along with DOB, PAN, AADHAR), DDO wise NG Recoveries, Employee Wise
+NG Recoveries, Employee Address Details, Employee Nominee Details, Employee Quarter
+Details, Employee Loan Details.
+Verify this by checking the data only after verifying that SET has been received as mentioned above.
+From the login provided to the DBA at the Treasury Office to do so, as well as the requirements
+If desired, the admin will be approved from the login and only then the corresponding download and delivery will be done.
+The officer will be available to verify the data.
+Related withdrawals and distributions to login first for further operations
+The officer will be given a login. Specific roles for officers / employees from this login
+It has to be given. Their data has to be first checked and verified from the DDO login.
+Also, the Drawing and Disbursing Officers who are registered with the Treasury for e-signature.
+The role of DDO will be updated for them only. the rest of the staff who are the assistant's
+The information of those who want to be given a role should be checked and verified and they should be mapped to the role of an assistant.
+After ARR of the data and roll mapping as mentioned above, all the remaining employees will be covered.
+The data should be checked and verified followed by payment of wages.
+They have to be cultured. Also available in the system after complete data verification.
+After e-signing the certificate, the next monthly of the concerned Drawing and Disbursing Officer.
+The payment will be processed.
+(a) The training
+Chhatrapati Sambhaji Nagar division comprises Chhatrapati Sambhaji Nagar, Beed, Dharashiv, Hingoli,
+All withdrawals and disbursements from the treasuries and sub-treasuries of Jalna, Latur, Nanded, Parbhani
+Officers will be trained. A time-bound schedule has been prepared for this.
+Drawing and Disbursing Officers of all Treasuries in Chhatrapati Sambhaji Nagar Division
+Training will be provided. Divisional Joint Director, Chhatrapati to plan the training.
+Sambhaji Nagar has been authorised.
+Under the control of Divisional Joint Director, Chhatrapati Sambhaji Nagar for imparting training.
+The team will work as follows:
+1. Training of Assistant Director,
+Training of Accounting Officers
+Page 4 of 7
+# Page 5
+Government Circular No: Narrow-2022 / Q. No.29 / Treasury No.4
+3. Accounting Officer Computer
+Clerk / Junior Accountant (Computer & Training)
+5.सहस Payroll Clerk / Master Trainers in the Director's Office
+All Treasuries and Sub-Treasuries in Chhatrapati Sambhaji Nagar Division through the above team.
+Completion of training and data migration of extraction and distribution officers in a time-bound manner.
+To complete the payments of all the Drawing and Disbursing Officers of the Tax Department within the stipulated time.
+The responsibility of the training has been given to the Divisional Joint Director, Chhatrapati Sambhaji Nagar.
+Periodic reports of data migration and processing of salary payments to the Directorate.
+Care must be taken to submit.
+Similarly, at the district level - at the treasury level and at the sub-treasuries level - to provide training.
+The team will work as follows:
+1. Treasury Officer
+Accounts Officer (Computer)
+Assistant Accounts Officer (Establishment)
+4. District level DBA
+5. Minimum Accountant / Script Typist (Pay Scribe) (Master Trainers)
+6. Minimum Accountant / Script Typist (NPS Staff) (Master Trainers)
+7. Help Desk Assistants (Master Trainers)
+Withdrawal from Chhatrapati Sambhaji Nagar Treasury as well as Sub-Treasuries through the above team and
+Distributing officers should ensure that the training is completed on time.
+Periodic reports of training to be submitted to Divisional Joint Director, Chhatrapati Sambhaji Nagar.
+You have to be careful.
+Chhatrapati Sambhaji Nagar for completion of time bound training programmes, if required.
+Master Trainers working in other treasuries in the division have also provided support to nearby treasuries as well.
+To train the Drawing and Disbursing Officers under the Sub-Treasuries.
+have to be present.
+Training of District Level Drawing and Distributing Officers, if required.
+Also, if requested by the Divisional Joint Directors and Treasury Offices, the Directorate
+The concerned officers from the central team attended the training and took part in the extraction and distribution.
+The doubts of the officers will be cleared.
+Page 5 of 7
+# Page 6
+Government Circular No: Narrow-2022 / Q. No.29 / Treasury No.4
+(i) The withdrawals from all the treasury establishments in the Chhatrapati Sambhaji Nagar Division and
+Full training has been imparted to the distribution officers. The data after the training is followed by
+There will be migration.
+(II) Pilot run for these Drawing and Disbursing Officers for the month of May, 2026 and the month of June, 2026.
+The new service will be carried over to the system, and the actual new service will be carried over from the system in June.
+2026 Payment Month Notification for processing regular salary payments from July, 2026
+will be done.
+(iii) Withdrawal and disbursement of the aforesaid section with effect from the month of June, 2026 payable July, 2026
+Officers cannot work in the old service system.
+This Government Circular is from the Government of Maharashtra www.maharashtra.gov.in.
+# Page 7
