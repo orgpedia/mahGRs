@@ -1,0 +1,102 @@
+# Page 1
+सार्वजनिक आरोग्य विभाग ge) मधील सह/उपसचिव यांच्या करीता २ संगणक व ३ प्रिंटर Gem पोर्टल द्वारे विहित प्रक्रिया राबवून खरेदी करण्यासाठी प्रशासकीय मान्यता देण्याबाबत
+महाराष्ट्र शासन
+सार्वजनिक आरोग्य विभाग
+शासन निर्णय क्रमांकः संकिर्ण -२०२६/प्र.क्र.३४/नोंदणी शाखा
+१० वा मजला, गोकुळदास तेजपाल रूग्णालय संकूल इमारत,
+नवीन मंत्रालय, मुंबई - ४००००१.
+दिनांक : १७ जून, २०२६.
+वाचा   :-
+१) शासन निर्णय क्रमांकः वित्त विभाग शासन निर्णय क्र. विअप्र- २०१३/प्र.क्र.३०/२०१३/विनियम,भाग-२, दि. १७/०४/२०१५.
+२) शासन निर्णय क्रमांकः उद्योग, ऊर्जा व कामगार विभाग शासन निर्णय क्र.संकीर्ण- २०१६/प्र.क्र.२१५/उद्योग-४, दि. २४.०८.२०१७ ३) शासन निर्णय क्रमांकः उद्योग, ऊर्जा व कामगार विभाग शासन निर्णय क्र.भाखंस- २०२१/प्र.क्र.८/उद्योग-४, दि.०७.०५.२०२१
+४) माहीती तंत्रज्ञान संचालनालयाचे परिपत्रक क्र. मातंस -२०२५/तां.मा./से-३/७५, दि.
+१९.१२.२०२५.
+प्रस्तावना :-
+मंत्रालयीन प्रशासकीय विभागामध्ये ई- ऑफिस कार्यप्रणाली प्रभावीपणे राबविण्याबाबत शासनाने
+निर्णय घेतलेला असून त्याप्रमाणे अंमलबजावणी करण्याची कार्यवाही सुरु झाली आहे. माहिती व
+तंत्रज्ञान विभागाने संगणक प्रिंटर व स्कॅनरच्या विनिर्देशा संदर्भात दि. १९.१२.२०२५ रोजी परिपत्रक
+निर्गमित केलेले आहे. त्यामुळे विभागातील सह/उपसचिव यांच्यासाठी २ संगणक व ३ प्रिंटर खरेदी
+करण्यासाठी माहिती व तंत्रज्ञान विभागाच्या १९.१२.२०२५ च्या परिपत्रकातील व विभागाने यापुर्वी खरेदी
+केलेल्या संगणक व प्रिंटरच्या विनिर्देशानुसार संगणक व प्रिंटर Gem पोर्टलवर खरेदी करण्यास
+प्रशासकीय मान्यता देण्याची बाब शासनाच्या विचाराधीन होती.
+शासन निर्णय :-
+# Page 2
+सार्वजनिक आरोग्य विभाग (खुद्द) साठी 2 संगणक व 3 प्रिंटर शासन परिपत्रक, माहिती व
+तंत्रज्ञान विभाग दि.१९.१२.२०२५ अन्वये अ   निश्चित केलेल्या विनिदेशानुसार व खाळील अटीच्या अधीन
+राहून Gem पोर्टलट्वारे खरेदी करण्यास प्रशासकीय मान्यता देण्यात येत आहे.
+अटी   व शाती :-
+अ) संगणकाबाबतचे far Tear
+Medium   level configuration
+A. Intel i5 with 14th Generation All in One PC (Estimated cost Rs. 85,000/- considering pre-installed Genuine Windows 11 Professional, 16GB RAM & 1TB Storage)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Parameter | Generic Technical Specification |
+| Processor | Intel 15, 10 Core or higher, with minimum 2.5 GHz or higher (Base Frequency), 20 MB Cache or higher with 14th or higher Generation and to be Certified by OEM |
+|  |  |
+| Operating System | 1. Pre-installed OEM Certified Genuine Microsoft Windows 11 Professional (64 bit) 2. or higher Recovery partition (applicable for Windows) |
+| Memory (RAM) | 8 GB/ 16GB DDR 5 4400MHz or higher with 64 GB Expandability |
+| Storage | 512 GB/ 1TB SSD |
+|  | Integrated audio controller with internal Speaker |
+| Ports | Minimum 5 USB ports with at least 2 USB 3.0 or higher ports, HDMI, Display port, Type-C Port, Audio jack for headphone & microphone |
+| Camera | Integrated webcam 2 MP or higher |
+| Display | Minimum 23.8 inches or higher, Resolution 1920 x1080 or higher Display |
+| Antivirus | Minimum 3 years subscription of Antivirus with protection for Ransomware Browsing, Phishing along with OEM undertaking to be provided |
+| Model specific Certification |  |
+| Compliance | RoHS, ISO 9001 |
+| Keyboard & Mouse | USB Keyboard & USB two button optical Mouse with Mouse Pad (Same make as AIO) |
+| Network Interface | Integrated 10/100/1000 GB Ethernet, Integrated 802.11lac Wi-Fi and Bluetooth 5.0 or higher |
+| Accessories | All necessary cables |
+|  | 2.0 Trusted Platform Module (TPM) (Hardware/Firmware) |
+|  | 3 Years comprehensive on-site OEM warranty |
+| Note: Any deviation/ alteration/ modification in the specification will not be considered valid. |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Page 3
+बो प्रिंटर्सबाबतचे विनिर्देठा
+Mid-High-Level Configuration
+A.Laser - 30 PPM
+--------------------------------------------------------------------------------------------------
+| Parameter | Generic Technical Specification |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+| Connectivity | Hi-Speed USB 2.0 port or higher, Wi-Fi, Ethernet |
+| Duty Cycle (Monthly) | 10000 pages or higher |
+|  |  |
+| Input paper tray capacity | 200 pages or higher |
+| Compatible OS | Windows and Linux |
+| Cables/ Accessories | All the required cables, accessories |
+| Software Media | Driver & Utility software |
+| Model specific Certifications | BIS |
+| Compliance | RoHS, ISO 9001 |
+|  | 3 Years comprehensive on site OEM warranty |
+| Note: Any deviation/ alteration/ modification in the specification will not be considered valid. |
+--------------------------------------------------------------------------------------------------
+१. सदर खरेदी शासन निर्णय, उद्योग, उर्जा व कामगार विभाग, क्र.संकीर्ण-
+२०१६/प्र.क्र.२१५/उद्योग-४, दि.२४.०८.२०१७ तसेच शासन निर्णय,उद्योग, उर्जा व कामगार
+विभाग, क्र.भांखस-२०२१/प्र.क्र.८/उद्योग-४, दि.०७.०५.२०२१ मध्ये नमूद केल्यानुसार Gem
+पोर्टलवरून विहित कार्यपध्दतीचा अवलंब करुन करण्यात येईल
+२. सदर खरेदी खालील नमूद केलेल्या विभागाच्या ३ वेगवेगळ्या लेखाशीर्षाखालील मंजूर
+तरतूदीतून खर्ची टाकून सन २०२६-२७ च्या मंजूर अनुदानातून भागविण्यात येईल.
+अ) मागणी क्र. आर-२,
+OO
+०९०, सचिवालय
+(०१) मंत्रालय
+(09)(09) सार्वजनिक आरोग्य (२२५१०४१८)
+# Page 4
+१७, संगणक खर्च
+मागणी क्र. आर-२,
+(०१)(०३) मंत्रालयातील कुटुंब कल्याण कक्ष (१०० टक्के केंद्र पुरस्कृत योजना)
+(कार्यक्रम) (22490926)
+१७, संगणक खर्च
+क) मागणी क्र. आर-२,
+(०१)(०४)
+ई-गवर्नन्स अंतर्गत ऑनलाईन ई-सेवा (कार्यक्रम) (२२५१०६९७)
+१७, संगणक खर्च
+हे आदेश शासन निर्णय वित्त विभाग क्र.विअप्र-२०१३/प्र.क्र.३०/२०१३/विनियम, भाग-२,
+दि.१७.०४.२०१५, वित्तीय अधिकार नियम पुस्तिका १९७८, भाग- पहिला, उपविभाग -२ मधील
+अनुक्रमांक २७-अ, नियम क्र.७६ नुसार प्रशासनिक विभागास प्रदान करण्यात आलेल्या अधिकारानुसार
+निर्गमित करण्यात येत आहेत.
+२. सदर शासन निर्णय महाराष्ट्र शासनाच्या www.maharashtra.gov.in   Ul संकेतस्थळावर
+# Page 5

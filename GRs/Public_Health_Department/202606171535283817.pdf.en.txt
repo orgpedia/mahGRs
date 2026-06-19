@@ -1,0 +1,102 @@
+# Page 1
+2 computers and 3 printers for Joint / Deputy Secretary, Department of Public Health, Govt. of India (DoPH) for grant of administrative approval for procurement through GeM portal by following the prescribed procedure.
+Government of Maharashtra
+Department of Public Health
+Government Decision Number: Nos.226 / Q.34 / Registration Branch
+10th Floor, Gokuldas Tejpal Hospital Complex Building,
+New Mantralaya, Mumbai - 400001.
+Date: June 17, 2026.
+Read: -
+1) Government Decision No.: Finance Department Government Decision No. v. 2013 / Q. No. 30/2013 Regulations, Part-II, D. 17/04/2015.
+2) Government Decision No.: Department of Industry, Power and Labour Government Decision No. Narrow-2016 / P.No.215 / Industries-4, D. 24.08.2017 3) Government Decision No.: Department of Industry, Energy and Labour Government Decision No. Bhakans-2021 / P.No.8 / Udyog-4, D. 07.05.2021
+4) Directorate of Information Technology Circular No. Matans - 2025 / tm / s - 3/75, D.
+19.12.2025.
+The Proposal: -
+Government to effectively implement e-Office in Ministries / Administrative Divisions
+The decision has been taken and the process of implementation has started. The information and
+The Department of Technology provides specifications for computer printers and scanners. Circular on 19.12.2025
+has been released. Hence, 2 computers and 3 printers for Joint / Deputy Secretary of the Department were procured.
+In the circular of the 19.12.2025 of the Department of Information and Technology to make purchases before the department
+To purchase computers and printers on the Gem portal as per the specifications of the computer and printer made.
+The issue of granting administrative approval was under the consideration of the government.
+The Government's Decisions:
+# Page 2
+2 computers and 3 printers for the Public Health Department (itself) Government Circular, Information and
+Department of Technology. Subject to the terms and conditions set out in the directive under 19.12.2025
+Administrative approval is being given to purchase through the GeM portal.
+Terms and Conditions: -
+a) Far-Tier Computers
+Medium   level configuration
+A. Intel i5 with 14th Generation All in One PC (Estimated cost Rs. 85,000/- considering pre-installed Genuine Windows 11 Professional, 16GB RAM & 1TB Storage)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Parameter                                                                                        | Generic Technical Specification                                                                                                                               |
+| Processor                                                                                        | Intel 15, 10 Core or higher, with minimum 2.5 GHz or higher (Base Frequency), 20 MB Cache or higher with 14th or higher Generation and to be Certified by OEM |
+|                                                                                                  |
+| Operating System                                                                                 | 1. Pre-installed OEM Certified Genuine Microsoft Windows 11 Professional (64 bit) 2. or higher Recovery partition (applicable for Windows)                    |
+| Memory (RAM)                                                                                     | 8 GB/ 16GB DDR 5 4400MHz or higher with 64 GB Expandability                                                                                                   |
+| Storage                                                                                          | 512 GB/ 1TB SSD                                                                                                                                               |
+| Integrated audio controller with internal Speaker                                                |
+| Ports                                                                                            | Minimum 5 USB ports with at least 2 USB 3.0 or higher ports, HDMI, Display port, Type-C Port, Audio jack for headphone & microphone                           |
+| Camera                                                                                           | Integrated webcam 2 MP or higher                                                                                                                              |
+| Display                                                                                          | Minimum 23.8 inches or higher, Resolution 1920 x1080 or higher Display                                                                                        |
+| Antivirus                                                                                        | Minimum 3 years subscription of Antivirus with protection for Ransomware Browsing, Phishing along with OEM undertaking to be provided                         |
+| Model specific Certification                                                                     |
+| Compliance                                                                                       | RoHS, ISO 9001                                                                                                                                                |
+| Keyboard & Mouse                                                                                 | USB Keyboard & USB two button optical Mouse with Mouse Pad (Same make as AIO)                                                                                 |
+| Network Interface                                                                                | Integrated 10/100/1000 GB Ethernet, Integrated 802.11lac Wi-Fi and Bluetooth 5.0 or higher                                                                    |
+| Accessories                                                                                      | All necessary cables                                                                                                                                          |
+| 2.0 Trusted Platform Module (TPM) (Hardware/Firmware)                                            |
+| 3 Years comprehensive on-site OEM warranty                                                       |
+| Note: Any deviation/ alteration/ modification in the specification will not be considered valid. |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Page 3
+Specifications for Bow Printers
+Mid-High-Level Configuration
+A.Laser - 30 PPM
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+| Parameter                                                                                        | Generic Technical Specification                  |
+|                                                                                                  |
+|                                                                                                  |
+|                                                                                                  |
+|                                                                                                  |
+|                                                                                                  |
+|                                                                                                  |
+| Connectivity                                                                                     | Hi-Speed USB 2.0 port or higher, Wi-Fi, Ethernet |
+| Duty Cycle (Monthly)                                                                             | 10000 pages or higher                            |
+|                                                                                                  |
+| Input paper tray capacity                                                                        | 200 pages or higher                              |
+| Compatible OS                                                                                    | Windows and Linux                                |
+| Cables/ Accessories                                                                              | All the required cables, accessories             |
+| Software Media                                                                                   | Driver & Utility software                        |
+| Model specific Certifications                                                                    | BIS                                              |
+| Compliance                                                                                       | RoHS, ISO 9001                                   |
+| 3 Years comprehensive on site OEM warranty                                                       |
+| Note: Any deviation/ alteration/ modification in the specification will not be considered valid. |
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+1. Purchase Government Decision, Industries, Power and Labour Department, No. The narrow-
+2016 / Q. No.215 / Industries-4, D. 24.08.2017 as well as government decisions, industry, energy, and labor
+Department, No. Bhankhas-2021 / P.No.8 / Industries-4, Dt. Gem as specified in 07.05.2021
+The work will be done by following the prescribed procedure from the portal.
+The purchase was approved under 3 different headings of the following sections:
+Expenditure from the provision will be subtracted from the approved grant of the year 2026-27.
+a) Demand No. R-2,
+OO
+090, Secretariat
+(1) The Ministry
+(09) (09) Public Health (22510418)
+# Page 4
+17, computer costs.
+Demand No. R-2,
+(01) (03) Family Welfare Cell of the Ministry (100% Centrally Sponsored Scheme)
+(Programme) (22490926)
+17, computer costs.
+a) Demand No. R-2,
+(01)(04)
+Online e-Seva (Programme) under e-Governance (22510697)
+17, computer costs.
+These orders have been issued by the Government Decision Finance Department No.2013 / Q. 30/2013 Regulations, Part-II,
+d. 17.04.2015, Financial Rights Manual 1978, Part-I, in sub-section-II
+Serial No. 27-A, Rule No. According to the powers conferred on the administrative division under section 76
+are being released.
+This Government decision is available on the Government of Maharashtra's www.maharashtra.gov.in Ul website.
+# Page 5
