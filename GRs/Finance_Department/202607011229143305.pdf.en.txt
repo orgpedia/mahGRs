@@ -1,0 +1,182 @@
+# Page 1
+Effective implementation of the new service system
+all administrative functions to be carried out
+Under the division, Konkan, Nashik, Amravati and
+All withdrawals and disbursements in Nagpur Division
+Instructions to the officials...
+Government of Maharashtra
+the Finance Department
+Government Circular No. Narrow-2022 / No.29 / Treasuries No.4
+Hall No.339, 3rd Floor, Madame Cama Marg
+Martyr Rajguru Chowk, Mumbai 400 032
+Date: July 1, 2026
+Reference: 1. Government Circular No. Narrow-2022 / Q. No.29 / Treasuries No.4 01.04.2026
+Government Circular No. Narrow-2022 / No.29 / Treasuries-4D. 15.06.2026
+The Proposal -
+Reference No. 1 Effective implementation of the new service system, as per the government circular here.
+All withdrawals and disbursements in Pune division under all administrative divisions in pursuance of doing so.
+Instructions were given to the officers. Accordingly, the new Pune division will come up in two phases.
+The Sevaart system has been implemented in all of the Pune division in the first phase.
+Training and data to the Drawing and Disbursing Officers of medium and small establishments in the Treasury.
+Regular salary payments for the month of May, 2026 to June, 2026 in the new service system including migration
+have been cultured as well as having large establishments under the administrative divisions.
+Data of the extraction and distribution authorities are being migrated and these extraction and distribution
+Salary payments for July 2026 due to officers for the month of June 2026 processed in the new service system
+It was suggested to do so.
+Also referred to as No. 2 According to the government circular here, the new service system
+Phase-I implementation in all administrative divisions under Chhatrapati Sambhaji Nagar Division.
+Withdrawal and Distribution of Chhatrapati Sambhaji Nagar Division under all administrative divisions.
+Comprehensive instructions have been given to the officials.
+Accordingly, the implementation of the next phase of the new service system is now all administrative.
+Under the division, Konkan, Nashik, Amravati and Nagpur divisions were under consideration. to it
+Accordingly, all the administrative divisions under Konkan, Nashik, Amravati and Nagpur divisions were carved out of the state.
+Comprehensive instructions are being given to the Distributing Officer through this circular.
+# Page 2
+Government Circular No: Narrow-2022 / Q. No.29 / Treasury No.4
+Government Circular: -
+The next phase of the new service system at the directorate level is in Konkan, Nashik,
+The Central team for implementation for Amravati and Nagpur divisions is as follows:
+structure has been created.
+(a) The Director
+2.सहस Director (Update / Computer)
+3.सहस Director (Treasuries)
+4.उपस Director (computer)
+Project Manager (Service)
+Accounts Officer (Service) 7. Accounts Officer
+The team will have full control over the further implementation of the service system.
+It's coming. Also all Divisional Joint Directors as well as all Treasury Officers as required.
+Online / Offline guidance will be provided. as well as to the respective Treasury Offices, as the case may be.
+They will visit and review the training as well as the physical activities.
+For this, the next phase of the new service system will be in Konkan, Nashik, Amravati and Nagpur.
+The department needs to be implemented. The month for this department is June 2026.
+Payable July 2026 Pilot Run and pay July 2026 Regular payroll payments from August 2026 New service
+Implementation of the system has been proposed. For that, the central team,
+Divisional Joint Director level teams and Treasury level teams have been constituted.
+There are.
+Through this team, all the treasuries for Konkan, Nashik, Amravati and Nagpur divisions will be covered.
+Data migration, training as well as new services for the extraction and distribution officers of the sub-treasuries.
+The actual implementation of the system will be guided.
+Implementation of new service system for Konkan, Nashik, Amravati and Nagpur divisions
+The following action is proposed to be taken.
+Data migration and follow-up
+All extraction and distribution officers must complete the following before data can be migrated:
+It has to be done. All the Drawing and Disbursing Officers of the Data Updation Utility (Incorrect Data)
+The data of all the employees in the Updation Utility is to be updated.
+Page 2 of 7
+# Page 3
+Government Circular No: Narrow-2022 / Q. No.29 / Treasury No.4
+Data of all employees in the Incorrect Data Updation Utility
+to update. In this, the name of the officer / employee is recorded in the service book.
+The service should be registered in the system as the name comes from. as well as officers / employees.
+In this case, the service should ensure that the PAN number entered in the system is correct.
+2. Check all data as per employee statistics.
+3. Ensure that the sanctioned posts are harmonized.
+4. Ensure that all employees in the current login are attached to the bill group.
+5. Ensure that duties and advances of all officers / staff are up to date.
+6. Updating the details of the employee's official residence.
+7. as well as the information to be entered into the new system, in the form provided
+Collecting information of all officers / employees. This includes mainly photographs and
+Signature, family details, information about the nominee and their bank account.
+Details are indicated for the purpose of collecting this information.
+In Government Circular No. Narrow-2022 / No.29 (2) / Treasuries No.4, dated 22/05/2026
+Name, date of birth, original appointment of officers / employees in the service system as directed
+To update the records such as date, date of appointment to the office as well as date of retirement
+The Konkan, Nashik, Amravati and Nagpur divisions are also functioning under the administrative division of the ministry.
+It has to be done.
+The Notice covers all the administrative divisions of these Ministries, all the territorial divisions.
+Government to mention in the Government Circular as applicable to the Drawing and Disbursing Officers.
+A request is being made.
+For Konkan, Nashik, Amravati and Nagpur divisions, each treasury office has its own
+All withdrawals and disbursements under the District Treasury as well as Sub-Treasuries.
+List of officers by administrative / territorial division (e.g. Administrative Department - Finance and Zonal Department
+DAT) is to be kept updated. That is, all withdrawals and distributions according to this list
+There will be no problem in migrating the data of the officers.
+The data migration will be done from the central level. Upon completion of this migration,
+A new login has been created at each treasury level for further action. Sadar
+DBA / Treasuries Authorized Officers of the Treasury Office from the login /
+The correctness of the data as well as all the data is maintained by the relevant extraction and distribution authorities through the employees.
+Confirm the migration, confirm the system, and then approve the data.
+will be done.
+Page 3 of 7
+# Page 4
+Government Circular No: Narrow-2022 / Q. No.29 / Treasury Question-4
+Related extraction and distribution of data availability after data migration on the following matters:
+The authorities have to make sure.
+GR Master, DDO Schemes, Bill Groups, Permanent Posts, Temporary Posts, Employee (along with DOB, PAN, ADHAR), DDO wise NG Recoveries, Employee Wise NG Recoveries, Employee Address Details, Employee Nominee Details, Employee Quarter Details, Employee Loan Details.
+Verify this by checking the data only after confirming receipt of the data as mentioned above.
+From the login provided to the DBA at the Treasury Office to do so, as well as the requirements
+If desired, the admin will be approved from the login and only then the corresponding download and delivery will be done.
+The officer will be available to verify the data.
+Related withdrawals and distributions to login first for further operations
+The officer will be given a login. Specific roles for officers / employees from this login
+The first thing to do is to verify their data from the DDO login.
+Also, only those officers who are registered with the treasury for e-signature.
+The role of DDO will be updated. The rest of the staff who have the role of assistant
+Their information should be verified and they should be mapped to the assistant's role.
+After ARB of the data and roll mapping as mentioned above, all the remaining employees will be covered.
+The data should be checked and verified. And then the salary payments by doing the work of payment of salary.
+They have to be cultured. Also available in the system after complete data verification.
+Next Monthly of the concerned Drawing and Disbursing Officer after signing the certificate, etc.
+The payment will be processed.
+2. training.
+Withdrawal and Disbursement from all Treasuries for Konkan, Nashik, Amravati and Nagpur Divisions
+Officers have been trained. Departmental planning for this training
+Joint Director, Konkan, Nashik, Amravati and Nagpur were authorised.
+Divisional Joint Director, Konkan, Nashik, Amravati and Nagpur for training.
+The team structure under control was as follows.
+1. Training of Assistant Director,
+Training of Accounting Officers
+3. Accounting Officer Computer
+Clerk / Junior Accountant (Computer & Training)
+Payroll Clerk / Junior Accountant (Master Trainers) in the Office of the Joint Director
+Pages (4 out of 9)
+# Page 5
+Government Circular No: Narrow-2022 / Q. No.29 / Treasury No.4
+Treasuries Office / District / Sub-Treasuries Office / Taluka in the following table
+A time-bound schedule has been prepared for all the Drawing and Distributing Officers at the level of
+It was.
+--------------------------------------------------------------------------------------
+| A. No. | the Department | Treasury Office / District                               |
+| 1      | Konkan         | Thane, Palghar, Raigad, Ratnagiri, Sindhudurg            |
+| 2      | Nashik         | Nashik, Ahmednagar, Dhule, Jalgaon, Nandurbar            |
+| 3      | Amravati       | Amravati, Buldhana, Akola, Washim, Yavatmal              |
+| 4      | Nagpur         | Nagpur, Wardha, Chandrapur, Bhandara, Gondia, Gadchiroli |
+--------------------------------------------------------------------------------------
+Through the above team, all the treasuries in Konkan, Nashik, Amravati and Nagpur divisions as well as
+The Drawing and Disbursing Officers of the Sub-Treasuries have completed the training within the stipulated time.
+Accordingly, all withdrawals and disbursements to the department are done by completing the post-migration process.
+The Joint Director of the concerned department is responsible for completing the payments of the officers within the prescribed time.
+Accounts and Treasuries have been given. The training as well as the data migration is the same.
+To submit a report to the Directorate from time to time on the process of processing of salary payments.
+They have to be careful.
+Similarly, at the district level - at the treasury level and at the sub-treasuries level, after migration, the following
+The team will work as follows:
+1. Treasury Officer
+Accounts Officer (Computer)
+Assistant Accounts Officer (Establishment)
+4. District level DBA
+5. Minimum Accountant / Script Typist (Pay Scribe) (Master Trainers)
+6. Minimum Accountant / Script Typist (NPS Staff) (Master Trainers)
+7. Help Desk Assistants (Master Trainers)
+Withdrawal and Disbursement from all Treasuries in Konkan, Nashik, Amravati and Nagpur Divisions
+The officers have already been trained. Accordingly, the data migration process was completed.
+will be done. Accordingly, the new service system will be applicable for the departments mentioned in the following table:
+will be done.
+Page 5 of 7
+# Page 6
+Government Circular No: Narrow-2022 / Q. No.29 / Treasury No.4
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| No. |          | Treasury Office / District                               | Month of pay to pilot in the new service system | Month of pay to be processed in the new service system |
+| 1   | Konkan   | Thane, Palghar, Raigad, Ratnagiri, Sindhudurg            | Month of June, 2026 Payable Month of July, 2026 | Month July, 2026 Payable Month August, 2026            |
+| 2   | Nashik   | Nashik, Ahmednagar, Dhule, Jalgaon, Nandurbar            |
+| 3   | Amravati | Amravati, Buldhana, Akola, Washim, Yavatmal              |
+| 4   | Nagpur   | Nagpur, Wardha, Chandrapur, Bhandara, Gondia, Gadchiroli |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The Department's Drawing and Disbursing Officers are fully covered within the above-mentioned period.
+The process of the new service system needs to be completed followed by the extraction and distribution authorities.
+Can't work in old service system.
+Also the Payments of Drawing and Disbursing Officer at Subsidy and Accounts Office, Mumbai.
+In issuing separate notifications for the implementation of the new service for those who submit
+Will come.
+This Government Circular is from the Government of Maharashtra www.maharashtra.gov.in.
+# Page 7
