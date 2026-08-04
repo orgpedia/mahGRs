@@ -1,0 +1,72 @@
+# Page 1
+For people-oriented services and schemes
+Restructuring of Government Processes (Govt.
+Process Re-engineering (GPR) for approval and expedited implementation
+Defining the institutional mechanism
+about doing it.
+Government of Maharashtra
+the Planning Department
+Government Decision No: Narrow - 2026 / Q. No.47 / Q.1411
+Madam Cama Marg, Martyrdom Rajguru Chowk
+Mantralaya, Mumbai 400 032
+Date: August 03, 2026
+The Proposal -
+Use of technology and restructuring of existing procedures with a view to making people-oriented services and welfare schemes in the state more accessible, transparent and dynamic.
+It's necessary. Reduced inconvenience to citizens while availing services and welfare schemes
+Reducing unnecessary amounts in the application, limiting the number of documents, and
+The emphasis needs to be on reducing the level of approval. For this, the Government Process Restructuring (GPR) is being implemented. Uniform, time-bound, and system-wide, eliminating errors in existing processes.
+Extensive policy decisions were under the consideration of the government to create a service delivery system based on it.
+The Government's Decision-
+The Government is approving the following for simplification and restructuring of Government Processes (GPR) of people-oriented services and welfare schemes in the State.
+1. Guiding Principles of Planning and Service Facilitation:
+Facilitation of schemes and drafting of GPRs by each administrative department.
+The following 5 key elements must be adopted:
+Reducing office trips: through online system checks and verifications.
+Completely eliminate the need for citizens to go to government offices in person.
+2. Reducing application fees: Keeping the application form very simple. The base, the grand-coordination
+or all possible information from other government databases automatically (auto-fill / auto-
+fetch) to be made available.
+Reducing the number of documents: Keeping the number of mandatory documents to a minimum. the Government
+For documents made available through a database (API Interoperability / DigiLocker)
+Preference for self-declaration and not asking for physical copies from citizens
+to give.
+# Page 2
+Government Decision No: Narrow - 2026 / Q. No.47 / Q.1411
+4. Reducing Levels of Approval: Reducing the chain of approval to a maximum of 3 points.
+and explaining the responsibilities at each level.
+5. Reducing service approval time: Application approval and service approval using technology.
+Reducing delivery time and amending the Right to Service Act (RTS)
+Setting a time limit.
+Establishment of State Level GPR Accreditation Committee:
+Verifying, reviewing, and finalizing GPR proposals received
+In order to approve. The State Level Government headed by the Chief Secretary is as follows:
+Process Restructuring (GPR) Approval Committee is being constituted for:
+--------------------------------------------------------------------------------------------------------------------------------------
+| A. No | Designation                                                                                        | the Committee Members |
+| 1     | M. Chief Secretary                                                                                 | The President's       |
+| 2     | Additional Chief Secretary / Principal Secretary (Finance Department)                              | The member's          |
+| 3     | Additional Chief Secretary / Principal Secretary (Planning Department)                             | The member's          |
+| 4     | Secretary (Department of Electronics, Information Technology and Artificial Intelligence)          | The member's          |
+| 5     | Additional Chief Secretary / Principal Secretary / Secretary (Administrative Department concerned) | Member-Secretary      |
+| 6     | Representative of the Chief Minister's Office                                                      | The member's          |
+| 7     | Other members as directed by the Chief Secretary                                                   | The member's          |
+--------------------------------------------------------------------------------------------------------------------------------------
+The Maharashtra State Public Service Guarantee Commission will be invited at the time of GPR proposals for service matters.
+Rules and powers of the Committee: Revised GPR proposals by services and schemes submitted by administrative departments.
+Review and give them final approval.
+New digital workflows, improved applications, application documents and standardized approval levels
+to do.
+3. Procedural as may be necessary in accordance with the proposals approved by the GPR Approval Committee.
+Changes, to reduce the level of approvals as well as Government Decisions / Circulars / Guidelines
+to issue, in matters of high-level strategic or statutory
+(Statutory / Legislative) reforms are not required in such cases as the relevant administrative
+Full powers are being vested in the Secretary of the Department. However, in the case of policy
+(Policy Matters) The Secretary of the Department shall, after the approval of the GPR Committee, appoint the Secretary of the Department concerned. the Minister
+The government should take action to issue the decision with the approval of the ladies.
+Page 2 of 3
+# Page 3
+Government Decision No: Narrow - 2026 / Q. No.47 / Q.1411
+MahaIT immediately online for proposals approved by the GPR Accreditation Committee.
+Systems, improved digital workflows, API integration, and portals
+The service should be made available immediately for final use after completing the technical changes.
+5. This Government Decision is available on the Government of Maharashtra website www.maharashtra.gov.in.
