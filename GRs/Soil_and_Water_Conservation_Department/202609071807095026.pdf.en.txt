@@ -1,0 +1,105 @@
+# Page 1
+MGNREGA and Developed India Employment and Livelihoods
+Guarantee of wages of Pride (Rural) Scheme and
+Payment of Supplies to Beneficiaries Free of Cost
+Distributing Guidelines
+Government of Maharashtra
+Soil and Water Conservation Department
+Government Circular-No. ROHYO-2026 / P.No.8 / ROHYO-14
+Mantralaya, Mumbai - 400 032
+Date: September 7, 2026
+Reference: Department of Finance Government Decision No. : V.P. 2026 / P.No.22 / Regulations D. 11.08.2026
+Circular
+The India Employment and Livelihoods Guarantee Mission (Rural) Act, developed by Parliament in December 2025.
+has been passed. The Act provides for the enactment of the erstwhile Mahatma Gandhi National Rural Employment Guarantee Act,
+The 2005 date expired on June 30, 2026. Developed India Employment and Livelihood Guarantee
+Scheme notified by the Mission (Rural) Act - Developed India Employment and Livelihoods
+The Guarantee Mission (Gramin) scheme is being implemented in the state of Maharashtra with effect from 1 July 2026. Former Mahatma Gandhi
+Ongoing works in National Employment Guarantee Scheme Development of India Employment and Livelihoods Guarantee Mission (Rural)
+are included in the plan.
+Also, the earlier works in Mahatma Gandhi National Employment Guarantee Scheme completed up to 30th June 2026.
+Guarantee to the State by the Central Government to make the liability fully available to the State Government by the Central Government.
+has been obtained. Hence, the Development of India Employment and Livelihoods Guarantee Mission (Rural) Scheme will be launched on 1 July 2026.
+Payments for later completed works and payments under the Mahatma Gandhi National Employment Guarantee Scheme. On 30.06.2026
+Effective financial planning should be done for the state to take action to pay the dues for the works completed so far.
+It will be needed.
+Submission of payments related to the erstwhile Mahatma Gandhi National Employment Guarantee Scheme to the Cyber Treasury and
+As the Drawing and Disbursing Officer to pay the respective beneficiaries, Shri. Commissioner, Mahatma Gandhi National
+Employment Guarantee Scheme, Maharashtra State, Nagpur. By Government Decision dated 10th October, 2025
+The newly launched Developed India Employment Guarantee Scheme and Livelihoods has been authorised.
+Submission of Mission Mission (Gramin) related payments to the Cyber Treasury and payment to the concerned beneficiaries.
+The Assistant Director, Employment Guarantee Scheme Department, Mantralaya, Mumbai. As of June 24, 2026
+The government has been authorised by a decision. Accordingly, the payments for both the schemes shall be made.
+The general guidelines are as follows:
+# Page 2
+General guidelines
+(General Guidelines)
+1. Payment of wages under MGNREGA is disbursed by the Central Government to the beneficiaries through DBT.
+Ensuring that all pending liabilities of wages are distributed to the beneficiaries by the Central Government and
+Distributing Officer & Commissioner, Mahatma Gandhi National Employment Guarantee Scheme, Maharashtra State, Nagpur.
+The report should be submitted to the government. Developed India Employment Guarantee Scheme and Livelihoods Mission (Grameen)
+The wage payments of the scheme are paid through DBT Sparsh. It will be paid through DBT.
+Payments received in the draft login provided by SNA-SPARSH of the Wage Assistant
+The Director as well as the Drawing and Disbursing Officer should take action to make the payment directly to the beneficiaries. in relation to it
+No prior approval will be required.
+2. NIP AIM ANA OMINIFOTS under Mahatma Gandhi National Employment Guarantee Scheme | Payments
+Before Drawing and Disbursing Officer & Commissioner, Mahatma Gandhi National Employment Guarantee Scheme, Maharashtra
+State, Nagpur Finance Department Government Decision No.2026 / No.22 / Regulations dated 11th August, 2026
+Provided under the Financial Powers Rules, 1978, Part I, Sub-Section 1 to 5.
+Payments should be made only with the approval of the government in accordance with the fiscal authority. Drawing and distribution for
+The Officer and Commissioner, Mahatma Gandhi National Employment Guarantee Scheme, Maharashtra State, Nagpur has issued their SNA-
+Materials received in the draft login provided by SPARSH - Supplies payments
+Public and private works should be classified and sent to the government for approval. the Government
+After approval, the draft login payments should be finalised and submitted to the cyber treasury.
+Action should be taken. In the course of the proceedings, the individual's material-supply payments
+Delivery should be done on priority.
+3. Materials received under the Developed India Employment Guarantee and Livelihoods Mission Scheme - Related Supplies
+The payment procedure is as mentioned above in Issue No. Do it like 2.
+Mahatma Gandhi National Employment Guarantee Scheme and Developed India Employment Guarantee and Livelihood Mission (Rural)
+All payments of administrative expenses incurred while implementing the scheme Department of Finance Government Decision No.2026 / No.22 /
+The Financial Rights Manual, 1978, Part I, Sub-Section I, as per the Regulations dated 11th August, 2026
+Withdrawal and disbursement of SNA-SPARSH after approval in accordance with the financial authority provided under Section 5.
+Withdrawal and disbursement for both the schemes by ensuring that the draft of the officer is received in the login.
+The officer should take action to send the payments to the cyber treasury.
+5. Maternal approval for social audit of both the schemes from the Central Government, both withdrawals and
+From the Delivery Officer's login. Direct funding to the Office of the Director, Social Audit, Mumbai
+# Page 3
+(Limit) should be provided by the Director, Office of Social Audit, Mumbai, Department of Finance, Govt.
+Both its payments by way of expenditure as per Decision No.2026 / No.22 / Regulations dated 11th August, 2026.
+The declarations for the schemes should be submitted to the Drawing and Disbursing Officer.
+Guidelines for taking action regarding a failed transaction re-planning
+(Failed Transaction Reissue Procedure Guidelines)
+Also, after all necessary action by the Drawing and Disbursing Officer of both the schemes, all (wages,
+Material supplies and administrative expenses) payments are sent to the cyber treasury office. Submitted
+Necessary approvals are obtained by checking the payments. These payments have since been passed on by the RBI.
+are distributed to the respective beneficiaries through the medium.
+The status of the transactions is known through the debit and return notifications received from the RBI. transaction
+In case of failure, the information is sent to the State IFMIS portal with the reason and by email.
+Users are notified. The payment claims are then re-submitted to the Enforcement Agencies (IAs) and forwarded to the DDO.
+It has to be sent.
+Action to be taken by DDO (Part 1): - Details of failed transactions are available in the Maintenance tab in the DDO draft login.
+In the e-token / e-advice slips, select the Failed Transactions option.
+Look for the relevant details and agency code by clicking on the failed transaction number (hyperlink).
+Download the JSON file (by clicking on the Download option).
+Go to the Upload Failed Payment option in the 'Maintenance' of the downloaded JSON file.
+It should be uploaded and made available to the enforcement agencies for further action.
+2. To be done by implementing agencies (Programme Officer, Deputy Collector (ROHYO) and Commissioner, MGNREGA).
+Action: - Login to IA's Data Entry Login and select Generate rejected transaction option.
+(Generate wage list of rejected transaction, Generate material list of rejected transaction,
+Generate admin expenses list of rejected transactions) Authorization No. Edit the details of the beneficiaries / vendors by clicking on 'Update'.
+Click.
+Login to IA's Checker ID and select Approve rejected transaction.
+This will then be e-signed by the IA. The file should be sent to the DDO for further processing.
+Action to be taken by DDO (Part II): -
+# Page 4
+Login to the WV SNAP portal using DDO Maker.
+V 3. Under the option - Select the Reissue tab and select the financial year.
+Select the SLS code, check the new / changed form, and submit the Reissue Bill.
+Login to the VV DDO Checker, select the Accept Reissues tab, and check the bill.
+After checking, go to the e-Hastakshar Reissues option and click on the PDF for e-signature.
+Go to VV C-DAC, enter the OTP received on the registered mobile and e-sign the bill.
+1 "Login to DDO Maker and download the Reissue ISON and all through DDO Checker.
+Fill in the required information and upload it.
+> DDO Checker on successful upload of JSON - Reissue Forward to Treasury'
+Alternately, the bill should be sent to the Treasury.
+This Government Circular is available on the website of the Government of Maharashtra - www.maharashtra.gov.in
