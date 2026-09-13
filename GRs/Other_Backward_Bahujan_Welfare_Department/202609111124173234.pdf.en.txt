@@ -1,0 +1,46 @@
+# Page 1
+Centres being implemented under SNA on PFMS system
+On opening of new separate books of accounts for interest and other deposits on non-refundable Central / State accounts in sponsored schemes.
+Government of Maharashtra
+Other Backward Classes Bahujan Welfare Department,
+Government Decision No: BGT-2026, / Q. No.59 / Budget
+Third Floor, New Administrative Building,
+Martyr Rajguru Chowk, Mantralaya Mumbai - 400032
+Date: September 11, 2026
+Read: 1) GOVERNMENT OF THE FINANCE DEPARTMENT NO. SANKARNA-2022 / P.S.No. 09 / RESOURCES, D. 07.06.2022
+The Proposal: -
+Inform all the Ministries / Departments through a letter of concern about taking separate headings for interest and other deposits on half of the Central / State share in the accounts of schemes implemented under the Single Nodal Agency (SNA) on the PFMS system.
+had arrived. Accordingly, the Government was considering approving the opening of a new head of accounts for the two Centrally Sponsored Schemes namely, Pre-Matric B Post-Matric Scholarship (PM-SAPSHAL) for OBC, EBC and DNT category students being implemented by the Department for interest and other deposits on half of the amount a) interest on half of the balance in the Single Nodal Agency account and b) other deposits in the Single Nodal Agency account.
+Government Decision: - The Government is approving the opening of two new heads of accounts under the Centrally Sponsored Scheme of Pre-Matric and Post-Matric Scholarships (PM-SAPSHAL) for OBC, EBC and DNT students being implemented by the Department for payment of interest and other deposits towards the State Consolidated Fund, viz., a) interest on half of the balance in the Single Nodal Agency account and b) other deposits in the Single Nodal Agency account, as follows.
+# Page 2
+Dawe's name - interest on half of the balance in the single nodal agency account
+(Other Backward Classes Bahujan Welfare Department)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                        |
+| Main Account Header    | 0235.      | Social welfare is a well-being                                                                               | Major                                                 |  Head  | 0235                              |                                                                                                                      | Social Security and Welfare                                 |
+| Deputy Accounts Header | 80         | Other Social Security Womens Welfare                                                                         | Sub Major Head                                        |        | Other Social Security and Welfare |
+| TY                     |  Shi       | 801                                                                                                          | Interest or other deposits over and above the balance | Minor  |  Head                             | 801                                                                                                                  | Interest or Other earnings from Grantee on unspent balances |
+| Group Shores           | 02         | the interest                                                                                                 | Group Head                                            | Ol     | Interest                          |
+| subgroup exploitation  | (01) (006) | Semi-annual interest in Single Nodal Agency Account (Other Backward Bahujan Welfare Department) (0235036101) | Sub group Head                                        | (01)   |  (06)                             | Interest On Unspent Balances In Single Nodal Agency Account (Other Backward Bahujan welfare Department) (0235036101) |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+b) Name of the Scheme - Other Deposits in the Single Nodal Agency Account
+(Other Backward Classes Bahujan Welfare Department)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Proposed New Accounting Titles (Marathi) | Proposed New Accounting Title (English) |
+| Account Header                           |                                         | well-being                                                        | Head                                                             |            | Welfare                                                      |
+| Account Header                           | Go                                      | Wab Welfare                                                       | Sub Major Head                                                   | Shi        | Other Social Security and Welfare                            |
+| C. Abuse                                 | 801                                     | Interest or other deposits on the balance drawn from the grantee. |                                                                  | 801        | Interest or Other earnings from Grantee on unspent balances. |
+| Group Shores                             |                                         | Other deposits                                                    |                                                                  |            | Other Earnings                                               |
+| Top of the sub-group                     | (02) (05)                               | Other Deposits in Single Nodal Agency Account                     |  Amount (Other Backward Bahujan Welfare Department) (0225027201) | Group Head |                                                              | Other Earnings in Single Nodal Agency Account (Other Backward Bahujan welfare Department) (0235037201) |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Page 3
+2. Informal Reference No. 193/2026,
+D. 19.07.2026, Department of Finance e-Nasti No. Comment No.1504403 Given on 61
+Consent as well as informal reference to Principal Accountant General (Accounts B SHEN) Maharashtra
+S.No.B.V. / CH-5 / Other Backward Bahujan Welfare Department / UOR- 108/2026 -
+27/7237, d. In issuing according to the consent obtained under 05.08.2026
+It's coming.
+3. Grants-in-aid under other Centrally Sponsored Schemes being implemented by the Department.
+The interest and other deposits on the amount shall be paid into the Consolidated Fund of the State.
+Headers can be used.
+The decision was taken by the Government of Maharashtra.
