@@ -1,0 +1,201 @@
+# Page 1
+"Regarding the revision of consent fee rates charged by the Maharashtra Pollution Control Board for establishing industries, commencing production, and for consent letters issued to mining projects."
+Government of Maharashtra
+Environment and Climate Change Department
+Government Resolution No. : ENV-2026/CR-158/TC-1
+Mantralaya, Madam Cama Road, Hutatma Rajguru Chowk, Mumbai — 400 032.
+Date : 25/08/2026
+Read:
+1) The Water (Prevention and Control of Pollution) Act, 1974, as amended (including by the Jan Vishwas (Amendment of Provisions) Act, 2023 inserting Section 27A, and the Water (Prevention and Control of Pollution) Amendment Act, 2024).
+2) The Air (Prevention and Control of Pollution) Act, 1981, as amended (including by the Jan Vishwas (Amendment of Provisions) Act, 2023 inserting Section 21A).
+3) The Environment (Protection) Act, 1986 and the Rules thereunder, including the Bio- Medical Waste Management Rules, 2016 (as amended); the Hazardous and Other Wastes (Management and Transboundary Movement) Rules, 2016; and the Construction and Demolition Waste Management Rules, 2016.
+4) MoEF&CC G.S.R. 84(E) dated 29.01.2025 — Control of Air Pollution (Grant, Refusal or Cancellation of Consent) Guidelines, 2025, and G.S.R. 85(E) dated 30.01.2025 — Control of Water Pollution (Grant, Refusal or Cancellation of Consent) Guidelines, 2025.
+5) MoEF&CC Control of Air Pollution and Control of Water Pollution (Grant, Refusal or Cancellation of Consent) Amendment Guidelines, 2026 (notified 23.01.2026, in force from 27.01.2026).
+6) Government Resolutions, Environment Department, dated 25.08.2011 (existing consent fee structure) and dated 21.08.2024 (Combined Consent and BMW Authorization fee for Health Care Establishments).
+7) Minutes of 184th Meeting of the Maharashtra Pollution Control Board dated 10.03.2025; Office Order issued by Maharashtra Pollution Control Board vide No. BO/MPCB/MS Section/B-O1, dated 28.04.2025; and the Report of the Committee of Heads of Departments with Annexure-I & II.
+8) Maharashtra Pollution Control Board Letter No. MPC-29, Dated 25.07.2025.
+Preamble :
+Consequent upon the insertion of Section 21A in the Air Act, 1981 and Section 27A in the Water Act, 1974 by the Jan Vishwas (Amendment of Provisions) Act, 2023, the Ministry of
+Environment, Forest and Climate Change issued the Control of Air Pollution and Control of
+Water Pollution (Grant, Refusal or Cancellation of Consent) Guidelines, 2025, which were
+thereafter amended by the Control of Air Pollution (Grant, Refusal or Cancellation of Consent)
+Amendment Guidelines, 2026 and Water Pollution (Grant, Refusal or Cancellation of Consent)
+Amendment Guidelines, 2026 (in force from 27.01.2026). Every State Board is required to act
+in accordance with the Guidelines as so amended.
+The Air Pollution (Grant, Refusal or Cancellation of Consent) Amendment Guidelines,
+2026 and Water Pollution (Grant, Refusal or Cancellation of Consent) Amendment Guidelines,
+2026 effect the following material changes relevant to fee fixation : (a) the Consent to Operate,
+once granted, remains valid until it is cancelled, and the earlier category-wise validity periods,
+the provision for renewal, the 5% early-renewal rebate and the late-fee schedule have been
+removed; (b) the State Government / Union Territory Administration may prescribe a one-time Consent to Operate fee for any period from 5 to 25 years as applied for by the project proponent,
+# Page 2
+and a fresh one-time fee is payable for any extension of the period after its expiry; (c) a uniform definition of “capital investment” 15 introduced in Schedule II; (त) a single-step Consolidated
+Consent and Authorization is provided, covering the Air Act, the Water Act and authorizations
+under the waste management rules under the Environment (Protection) Act, 1986; and (e) Micro
+and Small enterprises located in duly notified industrial estates / areas are granted deemed
+Consent to Establish upon submission of a self-certified Form-I.
+The Guidelines continue to provide that the consent fee shall not exceed the upper limit specified in the Second Schedule; that the State may prescribe any lower fee with no mandated minimum; that the fee shall not be increased by more than ten per cent of the existing fee and not more than once in two years; and that the fee may be reduced any number of times.
+The Guidelines, as amended in 2026, continue to provide that the fee specified in the
+Second Schedule is the upper limit (ceiling); that the State Government may prescribe any lower amount of fee with no mandated minimum; and that the fee may be reduced any number of times.
+The State is therefore entitled, as a matter of policy, to fix a fee equal to or lower than the Second
+Schedule rate.
+As per the proposal of Maharashtra Pollution Control Board the matter being under the consideration of Government, the following decision 1s taken.
+GOVERNMENT RESOLUTION :
+The rates of consent fee charged by the Maharashtra Pollution Control Board for grant
+of Consolidated Consent and Authorization under the Air Act, the Water Act and the applicable
+waste management rules are hereby revised as set out below, with effect from the date of issue
+of this Resolution. A single combined fee 15 levied in lieu of separate fees under the Air Act and
+the Water Act.
+1. Definition of Capital Investment
+For the purpose of computing the consent fee, “capital investment” means the total value of fixed assets, namely land, buildings (including staff quarters and guest houses), industrial
+premises, plant and machinery, and pollution-control equipment, but excluding operation and
+maintenance expenses and other revenue expenditure. In the case of leased premises, ten times the annual lease value or the guidance value of the property / land, whichever is higher, shall be
+treated as the cost of land for fee computation. (As per Schedule I of the Guidelines, as amended in 2026.)
+2. Consent Fee for Industrial Plants
+(a) Per-year combined fee.
+The per-year combined consent fee for an industrial plant shall be computed by applying the following formula once for the consents under The Water (Prevention and Control of Pollution)
+Act and The Air (Prevention and Control of Pollution) Act together):
+CF, = CI x SF x PIF CF,: Per-year combined fee (in Rs.) CI: Capital Investment (in Rs.), as defined at Part 1 SF: Scale Factor (table below) PIF: Pollution Index Factor (Green 1.00, Orange 1.50, Red 2.00) Scale Factor (SF) :
+--------------------------------------------------------------------
+| Sr. No. | Capital Investment | SF |
+| (1) | Rs. 1 Crore and below | 0.100% |
+| (11) | Exceeding Rs. 1 Crore but not exceeding Rs. 10 Crores | 0.080% |
+| (1) | Exceeding Rs. 10 Crores but not exceeding Rs. 50 Crores | 0.060% |
+--------------------------------------------------------------------
+(1) | Exceeding Rs. 10 Crores but not exceeding Rs. 50 Crores 0.060%
+# Page 3
+-------------------------------
+| Sr. No. | Capital Investment | SF |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+-------------------------------
+Pollution Index Factor (PIF) :
+----------------------
+| Sr. No. | Category | PIF |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+----------------------
+Slab mechanism: the maximum per-year fee of the preceding slab serves as the base for the next slab, and the Scale Factor of the next slab applies on the difference amount, i.e. CF, =
+max. fee of preceding slab + {(difference of CI) x SF x PIF}.
+(b) Category-wise rebate.
+On the per-year combined fee so computed, a rebate 1s allowed of 50% for Green, 30% for Orange and 20% for Red category. The effective minimum per-year combined fee is Rs. 2,500 (Green), Rs. 5,250 (Orange) and Rs. 8,000 (Red). The slab-wise per-year combined fee is at Annexure-I .
+(c) One-time Consent to Operate fee.
+Consent to Operate is granted for a one-time fee for any period of 5 to 25 years as applied for by the project proponent, and once granted remains valid until cancelled. The one-time Consent to
+Operate fee shall be —
+One-time CTO fee = CF, (per-year combined fee, after rebate) x N
+where N is the number of years (5 to 25) of the consent period applied for. A fresh one-time fee, computed on the fee prevailing at the time, shall be payable for any extension of the period after its expiry.
+(d) Consent to Establish fee.
+The Consent to Establish fee (one-time) shall be equal to one year’s combined fee CF, computed
+as above (without category rebate for Building and Construction projects under Categories 10.0
+and 10.1). For Micro and Small enterprises located in duly notified industrial estates / areas,
+Consent to Establish shall be deemed to be granted upon submission of a self-certified Form-I, without fee.
+3. Sector-specific Fees
+For the sectors below, the per-year combined fee is as specified, and the one-time Consent to Operate fee = per-year fee x N (number of years, 5 to 25). A single combined fee is charged under the Air Act and the Water Act in lieu of separate fees.
+(a) Local Bodies and Infrastructure projects (per-year fee based on sewage):
+-----------------------------------------------------------------------------------------
+| Sr. |  |  Quantum of sewage generated | Local Body / Housing (Rs.) |  |  Other than Housing (Rs.) |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+-----------------------------------------------------------------------------------------
+# Page 4
+-------------------------------------------------------------------------------------
+| Sr. | Quantum of sewage generated | Local Body / Housing (Rs.) | Other than Housing (Rs.) |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+-------------------------------------------------------------------------------------
+Consent to Establish for these projects shall be based on the capital-investment formula
+at Part 2(a). No rebate on Consent to Establish for Building and Construction projects
+(Categories 10.0 and 10.1).
+(b) Mining projects:
+Per-year combined fee = CC x MF x AF x TMF (minimum Rs. 5,000 per year), where CC = consented capacity (tonne/annum), with rebate 30% (Orange) and 20% (Red).
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+|  | Mineral Factor (MF) | = |
+|  | Manganese, Chromite, Steatite, Barites, Mica, Gold, Uranium, Silver, Copper, Lead, Zinc | ९ |
+| 2 |  |  Iron, Bauxite, Coal |  |
+|  | Dolomite, Limestone, Gypsum, Feldspar, Garnet, Quartz, Silica State Stone, Bentonite, Pyropylite, Graphite, Phosphorite, Clays — China White, Fire and Ball |  |
+|  | Other minerals such as stone quarry, Granite, Marble, River Sand / River-bed material etc. | =) mS |
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Area Factor (AF) and Type of Mining Factor (TMF) :
+Sr. | Lease-hold area in ha AF Type of Mining (TMF)
+---------------------------------------------------
+| Sr. | Lease-hold area in ha | AF | Type of Mining (TMF) |
+|  |  |  |  |
+|  | Above 5 to 25 | 1.2 | Underground mining — 1.00 |
+|  | Above 25 to 100 | नट > |  |
+|  | Above 100 to 500 |  |  |
+| 5 | Above 500 | ped ~ |  |
+---------------------------------------------------
+5 | Above 500 ped ~
+(c) Coffee pulping:
+Per-year combined fee = BF x PF, where BF = Rs. 2,500 and PF = 1.25 (wet pulping) or 1.00
+(dry pulping).
+(d) Aqua-culture (per-year fee by lease-hold area) :
+Sr. | Lease-hold area Fee (Rs.)
+-------------------------------
+| Sr. | Lease-hold area | Fee (Rs.) |
+|  |  | र |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+-------------------------------
+# Page 5
+(e) Establishments with a diesel generator as the only source (per-year fee) :
+Sr. | Rating of diesel generator set Fee (Rs.)
+----------------------------------------------
+| Sr. | Rating of diesel generator set | Fee (Rs.) |
+| 1 |  | र स्य pe |
+| 2 |  |  |
+| 3 |  |  |
+|  |  |  |
+----------------------------------------------
+4. Health Care Establishments — Combined Consent and BMW Authorization
+For bedded hospitals, other Health Care Establishments and BMW management facilities, the
+bed-based structure of consent fees shall be as follow. The fee shall be per term where a term shall be of 3 years The term for which Consolidated Consent 1s granted shall be aligned to the period of 5 to 25 years applied for; the per-term fee shall apply for each such period :
+-----------------------------------------------------------------------
+| Sr. | Health Care Establishment | Fee (Rs.) per term (one term = 3 years) |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+| 10 | BMW treatment facility (CBWTF) | 1,00,000 |
+-----------------------------------------------------------------------
+¢ State and Central Government health service establishments: NIL (free), based on bed
+classification.
+० R&D activities and industries generating BMW: Consolidated Consent and
+Authorization on the capital-investment basis.
+[*] Zero-bed establishments (clinics, dispensaries, polyclinics, physiotherapy / acupuncture /
+dental / ophthalmic / skin-care / veterinary clinics, blood-donation and health check-up camps, sample-collection centres) : one term = three years.
+5. Consolidated Consent, Validity and General Provisions
+(a) A single-step Consolidated Consent and Authorization shall be granted under the Air Act,
+the Water Act and the waste management rules under the Environment (Protection) Act,
+1986 Gncluding the Hazardous and Other Wastes Rules, 2016, the Bio-Medical Waste
+Management Rules, 2016, the Construction and Demolition Waste Management Rules,
+2016 and other applicable rules), through the unified online portal once operational.
+(b) Consent to Operate, once granted, shall remain valid until cancelled in accordance with
+the Guidelines. A fresh one-time fee shall be payable only for extension of the period after
+expiry of the period for which the one-time fee was paid.
+(c) The fee prescribed herein shall not exceed the upper limit of the Second Schedule of the Guidelines. Any future increase shall not exceed ten per cent of the existing fee and shall not be made more than once in two years; the fee may be reduced any number of times.
+# Page 6
+(d) Five per cent of the consent fee shall be credited to the Central Pollution Control Board as service fee in accordance with Section 33 of the Water Act, 1974 / the said Guidelines.
+(e) Verification and inspection may be carried out by officers of the Board or by a Registered Environment Auditor engaged by the project proponent, in accordance with the Guidelines.
+(f) The circular dated 12.07.2021 regarding penal fees for occupiers violating the combined-
+consent regime stands cancelled, as resolved by the Board.
+(¢) The Member Secretary, Maharashtra Pollution Control Board, is authorized to issue
+consequential circulars, configure the concerned online portal accordingly, and take all
+steps necessary to give effect to this Resolution. The revised rates take effect from the date of issue of this Resolution.
+This Resolution is available on Wwww.maharashtra.gov.in with computer code
+# Page 7
