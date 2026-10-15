@@ -1,0 +1,94 @@
+# Page 1
+Districts out of all the Zilla Parishads in the state
+Council Fund Monitoring System (ZPFMS)
+about using the system.
+Government of Maharashtra
+the Rural Development Department
+Government Decision No: IT-2016 / Q. No.59 / Matank
+Construction Building, Marzban Street, Fort,
+Mantralaya, Mumbai - 400 001
+Date: 14th October 2020.
+Read on
+1) Government Decision No.MAS / 2013 / Q.No.14 / Finance-6, dated 5th October, 2013.
+2) Department of Finance Government Decision No. On the 13th of March,
+2020.
+3) Letter from CEO, Zilla Parishad Ahmednagar No. Meaning / WALL /
+310/2019, d. 30/7/2019.
+4) Letter from CEO, Zilla Parishad Nashik No. JIPNA / MONEY / BUDGET /
+27/2020, d. 9/1/2020.
+The Proposal -
+Finance pursuant to the direction of the Chief Accountant General, Government of India
+There are suggestions to implement a Public Finance Management System by the department. In view of this
+At present, all grants in Rural Development Department are available for allocation / disbursement of funds.
+Reform of the system is under consideration. Maharashtra Zilla Parishad and Panchayat Samiti Accounts
+After the complete functioning of the Zila Parishad as provided in the Code, 1968, the schemes of
+Annual accounts of the accrued expenditure from the grants-in-aid of the concerned after implementation.
+It is obligatory on the Zila Parishads to submit to the government within the stipulated time frame. From the government level
+These reports are obtained by following up with each of the district councils. the District Council
+Separate reports have to be collated. In a large number of
+It requires manpower and time. Funds received from the Central Government for Central Schemes.
+Public Finance Monitoring System (PFMS) is the central government's system for distribution and control.
+# Page 2
+Government Decision No: IT-2016 / Q. No.59 / Matank
+system has been developed. On the same lines, the District Council funds are distributed and regulated by the system.
+The matter was under the consideration of the government. All Zila Parishads in the proposed computer system
+The Deposit and Expenditure Sample No. Annual from 13th to 14th
+All the work before the writing is done is expected to be done through a computer system.
+After one-time data entry of deposits and expenditures in the course of this operation, at any of the following locations:
+There is no need to fill out new information. Subsidies received from the system on an annual basis,
+Undecided amounts as title-wise statement of expenditure incurred, balance sheets being prepared
+Information to return to the government may also be available immediately. How much does this amount to per day?
+They are ill-designed and the system helps a lot with spending planning. Sadar
+If the system is applied to all the district councils in the state, then the model accounting system is used annually.
+It is convenient to submit the documents in the form of samples 1 to 8 in a timely and time-bound manner.
+It will help in maintaining uniformity and consistency in work.
+The Government's Decision-
+1. Distribution and control of funds at the Zilla Parishad level in accordance with the policy of the Central and State Governments.
+The Bank of Maharashtra was nationalised to ensure uniformity among all Zila Parishads.
+Use of Zila Parishad Fund Monitoring System (ZPFMS) developed by the bank
+It is being approved by the government.
+The scheme envisages an integrated financial system intended for the government through the 2.सदर system.
+The Management and Payment System (ZPFMS) is implemented in all the Zila Parishads.
+There will be unity. Developing the system, maintaining it annually, cloud service
+etc. will be provided free of cost by Bank of Maharashtra, a nationalized bank. through this system.
+The following facilities will be available:
+The budgetary allocations, accounts and allocations of all schemes under the Zila Parishad are fully
+the integration.
+The system will be used to synchronize bank passbook records. So
+Personal mistakes and delays will be avoided.
+The system will automatically generate various reports required by the government.
+As such, it will avoid individual errors and delays.
+Rho O 2 out of 4
+# Page 3
+Government Decision No: IT-2016 / Q. No.59 / Matank
+Additional Chief Secretary, Rural Development, CEO Zila Parishad, CAFO and
+All other relevant authorities will have access to the updated information on the dashboard in real time.
+Geo-tagging of Zilla Parishad level works and Geo-tagged photographs.
+It will be mandatory to store the video on a cloud server for at least 3 years.
+From this system, the process of preparing sample 1 to 8 monthly / annual reports has been developed.
+has been done. Sample 1 to 3 deals with the finance department and Sample 4 to 8 deals with liabilities, liabilities, and liabilities.
+After filling up the information like stationery, movable property, property register, etc., the government
+Scripts are formed in a defined pattern 4 through 8. Due to this system, the district
+It will help in keeping the dynamics, accuracy and unique format in the working of the conferences.
+Since the system is entirely in Unicode Marathi, all employees of the Zilla Parishad are
+It's easy to handle.
+District to run this computer system sustainably and successfully for at least 10 years.
+The council will be fully responsible.
+The concerned district to disburse the funds from the account of the District Council through this system.
+The Council from time to time required funds from the treasury or other account of the Zilla Parishad to the Bank of
+Maharashtra will transfer to the current account as in the zero-based cashbook of this bank and the bank will
+Of Maharashtra The fund shall be transferred to the concerned contractor / beneficiary within a maximum period of T + 3 days.
+will be transferred to the account. The main one is the right to distribute funds online.
+The Accounts and Finance Officer and the Deputy Accounts and Finance Officer will be there.
+Committee to conduct User Acceptance Test (UAT) testing of the said computer system.
+It will be fixed. After the approval of the UAT Committee, the District Council funds from this system.
+Distribution will be mandatory.
+4. To enter into a Memorandum of Understanding (MoU) between the Department of Rural Development and the Bank of Maharashtra for this purpose.
+It will come.
+Necessary technical support will be provided by the bank to use the 5.सदर system.
+Any financial burden on the government or the district council for using the 6.सदर system
+It won't come.
+Rho O 3 out of 4
+# Page 4
+Government Decision No: IT-2016 / Q. No.59 / Matank
+This Government decision is available on the website of the Government of Maharashtra www.maharashtra.gov.in.
